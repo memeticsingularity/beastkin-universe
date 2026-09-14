@@ -10,8 +10,11 @@
 
 | 状态 | 技能 | 当前版本 | 解决的问题 |
 |------|------|----------|-----------|
+| ✅ 活跃 | [story-preset](story-preset/) | [v1.0](story-preset/preset.md) | **出厂闸门**：选定即代表"要 ①③ 这一类兽盾故事"，原创/改编一律卡 A(视觉世界观)+B(大狗口味) 两道闸门，支持有性/无性双版本 |
 | ✅ 活跃 | [style-calibrator](style-calibrator/) | [v0.3](style-calibrator/v0.3-tone-and-rhythm-guide.md) | AI 写作语感生硬、设定交代机械 |
+| ✅ 活跃 | [lanse-write](lanse-write/) | [v1.4](lanse-write/lanse-write-skill.md) | lanse 风味写作指南（①+③ 全量参考） |
 | ✅ 活跃 | [lanse-review](lanse-review/) | [v1.0](lanse-review/lanse-review-guide.md) | 模拟 lanse 本人审阅视角，判断风格适配与 XP 对味度 |
+| ✅ 活跃 | [adaptation-workflow](adaptation-workflow/) | [v1.0](adaptation-workflow/adaptation-workflow.md) | 改编扩写的分阶段流程与质量门 |
 | 🚧 预留 | [anti-checklist-review](anti-checklist-review/) | — | 写完后逐项排查"是不是在应付检查点" |
 | — | 更多待定 | — | — |
 
