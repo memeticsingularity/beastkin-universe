@@ -12,8 +12,8 @@ status: active
 author: AI (DeepSeek) + 作者提供走向
 created: 2026-09-14
 last_updated: 2026-09-15
-version: 1.5.2
-changelog: ".process/CHANGELOG.md#152--2026-09-15"
+version: 1.6.0
+changelog: ".process/CHANGELOG.md#160--2026-09-15"
 
 collection_info:
   type: 同源短篇合集 / Same-Origin Anthology
@@ -159,6 +159,31 @@ stories:
     tags: [猎物视角, R级白枪械兵, 赏金猎人, 儿童哨探, 撸币赏格, 处决, 有性版]
 
   - index: 6
+    code: bs-a-s-7-06-favor
+    title:
+      zh: 人情
+      en: A Favor
+    path: 06-favor/
+    status: completed
+    direction_source: 作者提供
+    branch_of: bs-a-s-7-05-bounty
+    word_count_zh: ~2000
+    rating: Lv.3（处决中止·未致死）
+    protagonist:
+      species: 水牛兽人
+      rank: R级（白制服·枪械兵）
+      register: R-31
+      collar: false
+      fate: 被店主与顾客保下 → 烧掉制服 → 成为早饭摊帮工
+    silent_because: |
+      他也开了门——但这一次，有人替他挡住了后果。
+      合集唯一一篇"沉默被别人打破"的：整条街替他开口。
+    key_action: 把脸埋进凉水里
+    deceased: []
+    ending: 白制服塞进灶膛；锅还开着
+    tags: [店主收留, 一条街作证, 人情压过赏格, 烧制服, 合集唯一团圆, 申报例外]
+
+  - index: 7
     status: pending
     source: 作者提供
     note: 作者后续提供走向，登记于 .process/plans/2026-09-14-story-plan.md
