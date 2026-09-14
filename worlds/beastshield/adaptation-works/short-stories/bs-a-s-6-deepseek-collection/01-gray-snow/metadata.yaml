@@ -1,0 +1,93 @@
+# bs-a-s-6-deepseek-collection / 01-gray-snow
+# 灰雪 / Gray Snow
+
+title:
+  zh: 灰雪
+  en: Gray Snow
+
+code: bs-a-s-6-deepseek-collection/01-gray-snow
+series: bs-a-s-6-deepseek-collection
+series_index: 1
+status: planning
+author: AI (DeepSeek)
+created: 2026-09-14
+last_updated: 2026-09-14
+version: 0.1.0
+
+story_info:
+  type: 短篇改编 / Adaptation Short Story
+  word_count_zh: TBD
+  language:
+    - 中文 / Chinese
+  based_on:
+    world: beastshield
+    mechanics: 血精石改造 / 精槽失控 / 性欲值系统
+  structure: 8 场景，单篇不分章（章内不带分段标签）
+
+world_setting:
+  name: 兽盾 / Beastshield
+  location: 武斗兵营最底层单间 · 饲料间 · 档案室 · 预备兵训练场
+  time_period: 当代 / Contemporary
+
+factions:
+  - name: 兽盾公司 / BeastShield Corporation
+    role: 加害方兼雇主
+    description: 黑暗企业帝国。把改造失败体登记为「料」，不占编制，用完即弃
+
+characters:
+  protagonist:
+    - name: 灰雪
+      narrate_as: 灰狼兽人
+      species: 灰狼兽人
+      register: 料-07
+      role: 被改造的半成品
+      description: 野生兽人，围捕时咬死过一名G级。血精石植入未成嗜精兽，力气畸形但精关失控。左耳缺一角，舌有旧切口（不会说话），右手小指缺一节。消瘦为长期营养不良的剧情设定。全篇零台词，靠动作。
+      key_action: 记得
+
+    - name: 石
+      narrate_as: 棕熊兽人
+      species: 棕熊兽人
+      register: G-1428
+      role: 杂兵 / 喂料员
+      description: 十九岁，入职三个月。动机是"包吃住就去"，无苦情背景。军绿紧身短袖短裤、白袜、编号未磨掉。体型偏壮但没长开。他不识字，但会照形状描字。
+      key_action: 蹲下来
+
+  alive_at_start:
+    - name: 档案室老头
+      species: 待定
+      role: 档案室值守
+      description: 让石自己翻表的人。全篇功能性出场，不给名字
+
+  referenced_but_absent:
+    - name: 被咬死的G级杂兵
+      species: 待定
+      role: 兽盾死者
+      description: 围捕灰雪那天死掉的人。有意留空不命名——全篇多数人没有名字，这才是底层讽刺。档案记录永不被"原谅"
+
+deceased: []
+
+themes:
+  - 去人格化：全世界说「它」，叙述只说「他」
+  - 名字不是被给予的，是被认出来的
+  - 一个连自己都保不住的人去保另一个更不值的
+  - 不改结局，不给答案，不赦免
+
+tags:
+  species: [狼, 熊]
+  erotic: [血精石改造躯体, 半变异生理失控, 精槽机制, 紧身制服, 白袜, 制服视觉体系]
+  death: [兽盾内部处刑, 试刀式虐杀, 铁链拘禁, 断指, 割舌旧伤, 档案记录]
+  power: [兽盾等级制, G级杂兵, 无编号改造体, 内部流程冷漠]
+  themes: [去人格化, 名字与编号, 底层互助, 制度性冷漠, 留白结局]
+  narrative: [第三人称限知, 短段落, 动作替代抒情, 叙述代词铁律, 零解释]
+  setting: [武斗兵营底层单间, 饲料间, 档案室, 走廊, 预备兵训练场]
+  mechanics: [血精石, 精槽失控, 性欲值系统, 精密解剖打击（间接）]
+  ending: [日常继续, 不解决问题, 桶上多了一行字]
+
+writing_rules:
+  - 叙述代词全篇用「他」，一次不许滑向「它」
+  - 兽盾公文/口令用「它」「料」；石的口语从「它」不自觉滑向「他」
+  - 命名层：不出现"我给你起个名字"，只出现"认出来"
+  - 不写羁绊解释，只写动作
+  - 不越狱、不康复、不团圆；被咬死的G级不被原谅
+  - 场景 03/04/05 为「第一次」场，慢写，不许压缩
+  - 兽盾兵形体描写禁止「精瘦/瘦小/纤细」
