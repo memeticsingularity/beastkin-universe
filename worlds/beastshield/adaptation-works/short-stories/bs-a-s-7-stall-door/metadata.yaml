@@ -12,8 +12,8 @@ status: active
 author: AI (DeepSeek) + 作者提供走向
 created: 2026-09-14
 last_updated: 2026-09-15
-version: 1.6.0
-changelog: ".process/CHANGELOG.md#160--2026-09-15"
+version: 1.6.1
+changelog: ".process/CHANGELOG.md#161--2026-09-15"
 
 collection_info:
   type: 同源短篇合集 / Same-Origin Anthology
@@ -168,7 +168,7 @@ stories:
     direction_source: 作者提供
     branch_of: bs-a-s-7-05-bounty
     word_count_zh: ~2000
-    rating: Lv.3（处决中止·未致死）
+    rating: Lv.4（处决·中止于半途·未致死）
     protagonist:
       species: 水牛兽人
       rank: R级（白制服·枪械兵）
@@ -180,7 +180,7 @@ stories:
       合集唯一一篇"沉默被别人打破"的：整条街替他开口。
     key_action: 把脸埋进凉水里
     deceased: []
-    ending: 白制服塞进灶膛；锅还开着
+    ending: 白制服与 R-31 一起烧了；第二天来了个穿黑制服的客人，没认出他
     tags: [店主收留, 一条街作证, 人情压过赏格, 烧制服, 合集唯一团圆, 申报例外]
 
   - index: 7
