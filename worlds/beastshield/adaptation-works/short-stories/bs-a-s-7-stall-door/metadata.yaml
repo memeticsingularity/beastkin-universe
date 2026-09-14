@@ -12,8 +12,8 @@ status: active
 author: AI (DeepSeek) + 作者提供走向
 created: 2026-09-14
 last_updated: 2026-09-15
-version: 1.5.1
-changelog: ".process/CHANGELOG.md#151--2026-09-15"
+version: 1.5.2
+changelog: ".process/CHANGELOG.md#152--2026-09-15"
 
 collection_info:
   type: 同源短篇合集 / Same-Origin Anthology

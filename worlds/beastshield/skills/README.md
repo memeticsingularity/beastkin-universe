@@ -10,7 +10,7 @@
 
 | 状态 | 技能 | 当前版本 | 解决的问题 |
 |------|------|----------|-----------|
-| ✅ 活跃 | [story-preset](story-preset/) | [v1.1](story-preset/preset.md) | **出厂闸门**：选定即代表"要 ①③④ 这一类兽盾故事"，原创/改编一律卡 A(视觉世界观)+B(大狗口味)+C(设定溯源) 三道闸门，支持有性/无性双版本 |
+| ✅ 活跃 | [story-preset](story-preset/) | [v1.2](story-preset/preset.md) | **出厂闸门**：选定即代表"要 ①③④ 这一类兽盾故事"，原创/改编一律卡 A(视觉世界观)+B(大狗口味·五感齐备)+C(设定溯源) 三道闸门，支持有性/无性双版本 |
 | ✅ 活跃 | [style-calibrator](style-calibrator/) | [v0.3](style-calibrator/v0.3-tone-and-rhythm-guide.md) | AI 写作语感生硬、设定交代机械 |
 | ✅ 活跃 | [lanse-write](lanse-write/) | [v1.4](lanse-write/lanse-write-skill.md) | lanse 风味写作指南（①+③ 全量参考） |
 | ✅ 活跃 | [lanse-review](lanse-review/) | [v1.0](lanse-review/lanse-review-guide.md) | 模拟 lanse 本人审阅视角，判断风格适配与 XP 对味度 |
