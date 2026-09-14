@@ -1,0 +1,126 @@
+# bs-a-s-7-stall-door
+# 隔间 / The Stall
+# 同源短篇合集 / Anthology of Same-Origin Short Stories
+
+title:
+  zh: 隔间
+  en: The Stall
+
+code: bs-a-s-7-stall-door
+series: standalone-collection
+status: active
+author: AI (DeepSeek) + 作者提供走向
+created: 2026-09-14
+last_updated: 2026-09-14
+version: 1.2.0
+changelog: ".process/CHANGELOG.md#120--2026-09-14"
+
+collection_info:
+  type: 同源短篇合集 / Same-Origin Anthology
+  premise: 同一个场景——早饭摊的厕所隔间，门外一个踹门的小孩，门里一个不出声的人——的不同走向。**门里那个人的制服颜色就是每一篇的全部变量。**
+  structure: 单场切片，每篇独立成篇，篇内不分章；篇与篇之间不共享剧情，只共享场景与铁律
+  variable_axis: 门里是谁（兽盾等级 / 是否戴项圈 / 手上有什么）
+  language:
+    - 中文 / Chinese
+
+origin:
+  kind: 作者提供的真实生活片段
+  summary: 早饭摊吃早点，中途上卫生间；隔间外一个小孩边骂边踹门，隔间里的人一声不出；出来后回到座位，那小孩就好巧不巧坐在隔壁桌。
+  supplement:
+    date: 2026-09-14
+    summary: 作者后来跟那小孩的家里人聊了几句。家里人说那些脏话是看平板学的；本来家里人要带着他去上厕所，他自己说他会去——然后就闹了这么一出。
+    impact: |
+      这条细节改写了合集开篇就挂着的那个问题（「那小孩为什么踹门」）。
+      真相是：那小孩不是在骂人，他是在放录音——而且是别人塞进他嘴里的录音。
+      而且那还是他第一次自己一个人去上厕所。
+      03《学舌》据此独立成篇；01 与 02 的处理是作者提供此细节之前的版本，**按作者指示暂不改动**。
+  note: 真实片段里小孩**不知道**门里是谁。各篇对这一点做不同处理——第 1 篇改成小孩看见门缝下的靴尖（知道是兽盾，不知是哪个）；第 2 篇保持小孩什么都不知道；第 3 篇反过来，门里的人听出来那是自己的话。
+
+world_setting:
+  name: 兽盾 / Beastshield
+  location: 巷口早饭摊 · 后头的厕所
+  time_period: 当代 / Contemporary · 清晨（夜班下班后）
+
+stories:
+  - index: 1
+    code: bs-a-s-7-01-stall-door
+    title:
+      zh: 隔间
+      en: The Stall
+    path: 01-stall-door/
+    status: completed
+    word_count_zh: ~1400
+    protagonist:
+      species: 灰牛兽人
+      rank: G级（军绿）
+      register: G-04
+      collar: true
+    silent_because: 他没有资格出声。出声就等于承认一个 G 级在公共场合跟平民起冲突，后果全由他一个人扛
+    key_action: 把脚缩回门里头
+    ending: 袜底那串号，一步一步印在地上
+    tags: [底层视角, G级杂兵, 统御项圈, 制服即身份, 克制留白]
+
+  - index: 2
+    code: bs-a-s-7-02-passing-by
+    title:
+      zh: 擦肩
+      en: Passing By
+    path: 02-passing-by/
+    status: completed
+    word_count_zh: ~1700
+    protagonist:
+      species: 棕虎兽人
+      rank: E级（黑制服）
+      register: 无
+      collar: false
+    silent_because: 他没有话可说。想出来的两句——「干什么的」「出去」——全是命令。这几年他嘴里出去的话就剩命令了
+    key_action: 下巴朝隔壁那张桌抬了一下
+    ending: 那碗面在冒气，气慢慢淡下去了
+    tags: [上层视角, E级黑制服, 零台词主角, 善意读成判决, 克制留白]
+
+  - index: 3
+    code: bs-a-s-7-03-mimicry
+    title:
+      zh: 学舌
+      en: Mimicry
+    path: 03-mimicry/
+    status: completed
+    direction_source: 作者提供
+    word_count_zh: ~1600
+    protagonist:
+      species: 杜宾兽人
+      rank: O级（蓝制服）
+      register: O-41
+      collar: false
+    silent_because: 他说的那些话，已经不需要他了。门外那几句是他自己的话——今天早上刚在营区门口喊过，一样的腔调、断句、字眼。他连上火的对象都找不到
+    key_action: 听出来那是他自己的话
+    ending: 那绿制服叫什么，他不知道
+    tags: [中间层视角, O级监工, 学舌, 零主角台词, 第一次自己上厕所, 克制留白]
+
+  - index: 4
+    status: pending
+    source: 作者提供
+    note: 作者后续提供走向，登记于 .process/plans/2026-09-14-story-plan.md
+
+world_mechanics:
+  - 统御项圈（原作 Ch.5）：戴上后只能通过死亡或兽盾后台权限解除；遭外部冲击触发电流惩戒；冲击足以损毁时向脖颈注入致死量十倍浓缩药物
+  - 兽盾制服等级制：G级军绿 / O级蓝 / R级白 / E级黑（金属护裆）/ W级深蓝
+  - E级黑制服配**黑袜**（原作 Ch.5 原文）——非白袜，本合集按原作处理
+  - 袜底编号：格式「等级字母-数字」，印在白袜袜底（见 settings/story-setting.md §4.1）
+
+writing_rules:
+  - 同一个起点，不许重复同一个答案；每一篇的沉默必须是不同的东西
+  - 不解释。不写「这说明」「他这才意识到」「心里一酸」
+  - 不给任何人名字
+  - 不出现「她」「母亲」「说」
+  - 兽盾兵形体描写禁止「精瘦/瘦小/纤细」
+  - 结尾不解决问题，不给团圆；最后一句不许有形容词
+
+tags:
+  species: [牛, 虎, 犬科, 鹿, 羊, 猪]
+  power: [兽盾等级制, G级军绿, E级黑制服, O级蓝监工, 制服即身份, 被让开的人, 长官, 命令语言]
+  themes: [沉默, 不敢出声, 忘了怎么被人说话, 善意读成判决, 学舌, 擦肩而过, 第一次自己上厕所, 克制留白]
+  narrative: [第三人称限知, 单场切片, 短段落, 动作替代抒情, 零解释, 留白结尾]
+  setting: [早饭摊, 厕所隔间, 巷口, 灶台, 营区门口]
+  mechanics: [统御项圈, 制服等级制, 袜底编号, 金属护裆, 兽盾公告屏]
+  ending: [什么都没发生, 谁都没说破, 不给团圆]

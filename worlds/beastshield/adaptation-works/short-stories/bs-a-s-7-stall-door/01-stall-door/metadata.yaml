@@ -1,0 +1,86 @@
+# bs-a-s-7-stall-door / 01-stall-door
+# 隔间 / The Stall
+
+title:
+  zh: 隔间
+  en: The Stall
+
+code: bs-a-s-7-01-stall-door
+collection: bs-a-s-7-stall-door
+collection_index: 1
+status: completed
+author: AI (DeepSeek)
+created: 2026-09-14
+last_updated: 2026-09-14
+version: 1.0.0
+
+story_info:
+  type: 短篇改编 / Adaptation Short Story
+  word_count_zh: ~1400
+  language:
+    - 中文 / Chinese
+  based_on:
+    world: beastshield
+    mechanics: 统御项圈惩戒机制 / 兽盾制服等级制 / 袜底编号
+  structure: 单场短篇，分三段，不设小标题
+
+setting_ref: ../settings/story-setting.md
+
+characters:
+  protagonist:
+    - name: 灰牛兽人
+      narrate_as: 灰牛兽人
+      species: 灰牛兽人
+      register: G-04
+      role: G 级杂兵（拖运尸体）
+      uniform: 军绿紧身短袖短裤，白袜（袜底印 G-04），军绿短靴，颈上统御项圈
+      description: 壮硕体型，灰皮，肩很宽。项圈底下的毛被磨得比别处短。全篇只有两处内心，其余全是动作。没有名字。
+      key_action: 把脚缩回门里头
+
+  alive_at_start:
+    - name: 小孩
+      species: 黄毛犬科幼兽
+      role: 街上住的孩子
+      description: 十来岁，还没变声，两只耳朵耷拉着。碗里只剩汤——他没钱。**他确实看见门缝下的绿靴尖，知道里面是兽盾的人，但不知道是哪一个。**
+      key_action: 抬头看那双靴子
+
+    - name: 猪兽人摊主
+      species: 猪兽人
+      role: 早饭摊摊主
+      description: 全篇一句台词。肯让一个 G 级用他的厕所，因为对方每回都给现钱。
+
+  referenced_but_absent:
+    - name: 仓库里那只绿制服
+      role: 兽盾死者
+      description: 项圈被货箱的角磕了一下，顺着墙滑下去，裆前一片，前后没到三秒。只活在主角的一句回忆里，不命名
+
+    - name: 昨晚那三具尸体
+      role: 背景
+      description: 主角昨晚穿着这身制服，把他们从屋里拖出去塞进桶里
+
+deceased: []
+
+themes:
+  - 沉默不是怯懦，是他知道自己的声音值多少
+  - 制服底下的人与制服本身，分不开
+  - 恨是冲着衣服来的，但挨骂的只有衣服里的那一个人
+
+tags:
+  species: [牛, 犬科, 猪]
+  erotic: [紧身制服, 裆部鼓包, 白袜, 袜底编号, 统御项圈]
+  death: [统御项圈惩戒机制, 间接提及的致死事件, 拖运尸体（背景）]
+  power: [兽盾等级制, G级杂兵, 袜底编号, 制服即身份, 沉默的权力差]
+  themes: [不敢出声, 留白, 底层视角, 平民对兽盾的恨]
+  narrative: [第三人称限知, 短段落, 动作替代抒情, 零解释, 留白结尾]
+  setting: [早饭摊, 厕所隔间, 塑料桌, 巷口]
+  mechanics: [统御项圈, 制服等级制, 袜底编号]
+  ending: [什么都没发生, 各回各的, 抹了一下嘴角]
+
+writing_rules:
+  - 全篇严格第三人称限知。只在两处给主角内心，其余全是动作
+  - 不解释。不写「这说明」「他感到」「心里一酸」
+  - 不给任何人名字
+  - 不出现「她」「母亲」「说」（对话一律用动作带出或直接引语）
+  - 兽盾兵形体描写禁止「精瘦/瘦小/纤细」
+  - 编号 G-04 保留（见共享设定 §4.1）
+  - 结尾不许有形容词

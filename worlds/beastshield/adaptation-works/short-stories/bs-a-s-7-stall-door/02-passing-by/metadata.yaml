@@ -1,0 +1,91 @@
+# bs-a-s-7-stall-door / 02-passing-by
+# 擦肩 / Passing By
+
+title:
+  zh: 擦肩
+  en: Passing By
+
+code: bs-a-s-7-02-passing-by
+collection: bs-a-s-7-stall-door
+collection_index: 2
+status: completed
+author: AI (DeepSeek)
+created: 2026-09-14
+last_updated: 2026-09-14
+version: 1.0.0
+
+story_info:
+  type: 短篇改编 / Adaptation Short Story
+  word_count_zh: ~1700
+  language:
+    - 中文 / Chinese
+  based_on:
+    world: beastshield
+    mechanics: 兽盾制服等级制（E级黑制服 / 金属护裆）
+  structure: 单场短篇，分四段，不设小标题
+
+setting_ref: ../settings/story-setting.md
+
+characters:
+  protagonist:
+    - name: 棕虎兽人
+      narrate_as: 棕虎兽人
+      species: 棕虎兽人
+      rank: E级
+      role: 兽盾武斗兵 / 任务负责人
+      uniform: 黑色紧身长袖制服，裆前金属护裆（E级标配），黑袜及膝，军靴
+      description: 很高，肩背把门框挡掉一半。棕毛虎纹，军靴鞋帮上一点灰都没有。**全篇零台词**——他想说的两句全是命令，都咽回去了。没有名字。
+      key_action: 下巴朝隔壁那张桌抬了一下
+
+  alive_at_start:
+    - name: 小孩
+      species: 灰毛羊兽人
+      role: 街上住的孩子
+      description: 个子那么小，卷毛从领口冒出来，两只耳朵向两边垂着。旧短袖，布鞋鞋头开胶。碗里只剩汤。**他不知道门里是谁，也不知道那身黑衣意味着什么，他就是个欠管教的小孩在踹一扇门。** 全篇没有名字。
+      key_action: 抬头看了那身黑衣服一眼
+
+    - name: 柴狗兽人食客
+      species: 柴狗兽人
+      role: 早饭摊食客
+      description: 全篇只出现一次：低头看了一眼自己碗里剩的半碗面，端着碗站起来走了。没敢把碗放回桌上。
+
+    - name: 猪兽人摊主
+      species: 猪兽人
+      role: 早饭摊摊主
+      description: 知道这只虎兽人吃什么、搁不搁葱，从来没问过。全篇没说一句台词。最后收了钱，端一碗面过去，放下就走开。
+
+deceased: []
+
+themes:
+  - 他不是不敢，他是没有话可说——命令是他唯一会说的句子
+  - 被骂也算被人当面说话，这几年只有这一次
+  - 小孩骂的是一扇门，不是他
+  - 兽盾不白给东西：一碗面被读成判决书
+  - 谁都没做错什么，也谁都没做对什么
+
+tags:
+  species: [虎, 羊, 犬科, 猪]
+  erotic: [黑色紧身制服, 裆部鼓包, 金属护裆, 黑袜, 军靴, 虎纹]
+  death: []
+  power: [兽盾等级制, E级黑制服, 最高级在场, 被让开的人, 制服即身份]
+  themes: [忘了怎么被人说话, 善意读成判决, 擦肩而过, 留白, 上层视角]
+  narrative: [第三人称限知, 短段落, 动作替代抒情, 零台词主角, 留白结尾]
+  setting: [早饭摊, 塑料门厕所, 灶台, 巷口]
+  mechanics: [制服等级制, 金属护裆]
+  ending: [那碗面没人伸手, 气慢慢淡下去]
+
+writing_rules:
+  - 全篇第三人称限知，不越出主角的感官
+  - **主角全篇零台词**——他想说的两句在嘴里过了一遍，都没出口
+  - 不解释。不写「这说明」「他这才意识到」「心里一酸」
+  - 不给任何人名字
+  - 不出现「她」「母亲」「说」（对话一律用直接引语，不加标签）
+  - 兽盾兵形体描写禁止「精瘦/瘦小/纤细」
+  - 黑制服配**黑袜**，不是白袜（原作 Ch.5 ：「就连紧贴小腿的长筒袜也是黑袜」）
+  - 结尾不许有形容词
+
+notes:
+  - 本篇与第 1 篇《隔间》共用同一个起点场景，但**核心机关相反**：
+    第 1 篇的小孩看见门缝下的靴尖，知道里面是兽盾的人（恨冲着衣服来）；
+    第 2 篇的小孩什么都不知道，他骂的是一扇门。
+  - 结尾刻意不写"主角意识到什么"。他走了，小孩没伸手，就这样。
