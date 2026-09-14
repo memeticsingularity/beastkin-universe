@@ -11,9 +11,9 @@ series: standalone-collection
 status: active
 author: AI (DeepSeek) + 作者提供走向
 created: 2026-09-14
-last_updated: 2026-09-14
-version: 1.2.0
-changelog: ".process/CHANGELOG.md#120--2026-09-14"
+last_updated: 2026-09-15
+version: 1.3.0
+changelog: ".process/CHANGELOG.md#130--2026-09-15"
 
 collection_info:
   type: 同源短篇合集 / Same-Origin Anthology
@@ -40,6 +40,21 @@ world_setting:
   name: 兽盾 / Beastshield
   location: 巷口早饭摊 · 后头的厕所
   time_period: 当代 / Contemporary · 清晨（夜班下班后）
+
+preset:
+  name: story-preset
+  gates: "①③（③ 兽盾视觉／世界观 + ① 大狗口味）"
+  mode: 无性版（Lv.0）
+  declared: 2026-09-15
+  declaration: |
+    本合集按 ①③ preset §四「双版本协议」显式申报为「无性版」。
+    - **闸门 A（③ 兽盾视觉／世界观）：全量执行**——物种白名单、制服色↔袜色配对、
+      登场公式四项、体型铁律、双性征（乳部）、术语代称、全男、无流血、保鲜，逐条落实。
+    - **闸门 B（① 大狗口味）**：B8 断章节奏、B9 感官在场（触觉主导／肉体在场／袜特写）全量执行；
+      B1–B7（死亡必射／精液一定五要／处决仪式链／死后仪式／情感调色盘／死法差异化／处决式爽点收尾）
+      在本合集的场景里**没有正面落点**——三篇的题目是「厕所隔间里的沉默」，场上没有死亡，
+      强行植入处决会摧毁故事内核。故 B1–B7 转为**背景设定**（兽盾的死亡机制、主角的拖尸工作），不正面描写。
+    - 依据：preset §四明文规定「场景不允许有性版时按无性版执行；③ 与 B8／B9 一条不省」。
 
 stories:
   - index: 1
