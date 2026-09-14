@@ -12,8 +12,8 @@ status: active
 author: AI (DeepSeek) + 作者提供走向
 created: 2026-09-14
 last_updated: 2026-09-15
-version: 1.5.0
-changelog: ".process/CHANGELOG.md#150--2026-09-15"
+version: 1.5.1
+changelog: ".process/CHANGELOG.md#151--2026-09-15"
 
 collection_info:
   type: 同源短篇合集 / Same-Origin Anthology
@@ -154,7 +154,7 @@ stories:
       他没忍住开了门——而沉默本是他唯一的活路。
       门外那个小孩不是来踹门的，是来看货的：骂街是活儿，不是脾气。
     key_action: 拉开了插销，推开门
-    deceased: [水牛兽人（R级，赏金 240）]
+    deceased: [水牛兽人（R级，赏金 500）]
     ending: 小孩抱起那只军靴；那间厕所的门，还开着
     tags: [猎物视角, R级白枪械兵, 赏金猎人, 儿童哨探, 撸币赏格, 处决, 有性版]
 
