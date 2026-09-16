@@ -31,7 +31,7 @@
 ### 主角
 | 角色 | 档案 | 关键锚点 |
 |:--|:--|:--|
-| **颜部长（狐狸兽人）** | [minister-yan.md](../../../original-archives/chinese/chaptered-stories/side/characters/minister-yan.md) | 手指功法、气场压人、视部下为耗材、情报即武力、装备闪光弹；口头禅「这就叫效率」 |
+| **颜部长（狐狸兽人）** | [minister-yan.md](../../../../original-archives/chinese/chaptered-stories/side/characters/minister-yan.md) | 手指功法、气场压人、视部下为耗材、情报即武力、装备闪光弹；口头禅「这就叫效率」 |
 
 ### 己方（兽盾侧）
 | 角色 | 登场章 | 状态 | 备注 |
