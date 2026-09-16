@@ -424,6 +424,7 @@ times) and **Liao**'s "cleanup" (tidying the corpses' appearance) are both ways 
 themselves in this twisted environment.*
 
 *The most spine-chilling is that **mysterious competitor**. His methods (**Silver Needle Sealing**)
+
 are more advanced, more "civilized," but also more cruel—making the prey consciously watch
 themselves die. This hints that in this dark food chain, **Yan** and **Liao** might not be the top
 hunters.*

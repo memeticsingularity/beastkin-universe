@@ -31,8 +31,11 @@
 **故事概要 / Synopsis**：
 
 深夜，灰狼赏金猎人翻进兽盾车辆调配场。目标：二楼调度办公室的 D-1147 号文件夹。
+
 调配场有六名夜班人员——门岗棕熊在刷交友软件、水牛机修工在车底哼歌、野猪清洁工在走廊拖地、黑熊巡逻兵在例行巡视、白虎休息兵刚泡好一碗面、黄狗调度员刚整理完档案。
+
 六个人，六种死法，一个接一个安静地"睡着"。
+
 任务完成。灯还亮着。
 
 A gray wolf bounty hunter infiltrates a BeastShield vehicle depot at night. His target: folder D-1147 in the second-floor dispatch office.

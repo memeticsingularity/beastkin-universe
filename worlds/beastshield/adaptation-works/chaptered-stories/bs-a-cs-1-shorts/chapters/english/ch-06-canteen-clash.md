@@ -141,11 +141,13 @@ That was enough.
 ### Their Final Stories
 
 【Living→Dead-(No deaths in this chapter)】
+
 (This chapter focuses on conflict and turning points; no characters die. Commentary will concentrate on the struggles and choices of the survivors.)
 
 ### Those Still Living
 
 【Living→Alive-G-872-Bear Beastman-Xiong Hecheng】
+
 His name is **Xiong Hecheng**, number **G-872**. A shadow wandering between the canteen, warehouse, and training ground of **Beast Shield Company** for over a decade. His build is the typical middle-aged bear beastman's **fat-over-muscle**—the thick skeleton built from youth still remains, broad shoulders and thick limbs supporting that washed-out green **G-rank grunt** uniform. But years and repetitive labor have left deeper marks on him: a layer of soft fat covering solid muscle, especially forming a circle of warm softness at the abdomen, slowly rising and falling with breath. His pectoral muscles are still full, but due to hermaphroditism and age appear somewhat loose, outlining rounded contours beneath the tight clothes. His skin is a bronze color from long-term wind and sun, rough like old tree bark, veins protruding on the back of his hands, palms covered in thick calluses. The temples and beard are already graying, contrasting with his dark brown fur, silently telling of seniority and exhaustion.
 
 He always carries a complex smell: the body odor of cheap canteen grease and sweat mixed together, the faint scent of soap remaining after multiple washes of the old uniform, and a trace of deep soil scent belonging to bears from distant mountains, almost forgotten by the city. This smell is not pungent, even somewhat reassuring—the scent of the silent majority accustomed to toil and obedience.
@@ -165,6 +167,7 @@ Tonight, he would return to that crowded grunt dormitory, lie on the hard plank 
 At least, before tomorrow afternoon at three o'clock, he would live well, observe well. For that braised pork, and also for that call carrying his own name, no longer "old waste."
 
 【Living→Alive-Player-Li You】
+
 Li You's mood at this moment is complex. As a "player," he could have acted more efficiently, more coldly to achieve his goals, such as directly controlling or eliminating **O-11**, or developing an informant in a more covert way. But he chose to intervene publicly, using a lie full of holes, to save a middle-aged brown bear who seemed completely worthless. Was it sympathy for the weak? Or was it because in those honest, desperate eyes, he saw a trace of something belonging to a "person" that hadn't been completely extinguished in this cruel world?
 
 His beastman body was not strong, belonging to the agile and dexterous type, muscle lines clear but not blocky like those combat soldiers. The body beneath the uniform was slightly warm, the tense confrontation and impromptu performance just now making his heart race. He could smell the rough, warm touch and faint body odor remaining on his hand from shaking hands with Xiong Hecheng. He felt a strange sense of responsibility—he gently pushed this old bear off the predetermined track of destruction, but also pushed him onto a more dangerous, yet perhaps more meaningful tightrope.

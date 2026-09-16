@@ -144,6 +144,7 @@
 
    - **原文锚定**：G级 100 撸币为原作确认（ch-4 商店）；W级"高级兵种可换 1000 撸币"为原文（ch-8）；
      O/E/R 三档为设定集按"薪资翻倍/高级兵种"逻辑推演的补充值。
+
      出处：`settings/0-original-setting/world-setting.md` §7.2、`settings/1-recommended-canon/world-setting-player.md` §3.2、
      `.../world-setting-bounty-hunter.md` §赏金金额、`settings/0-original-setting/unit.md`。
    - **兑换流程**：击杀后取其一只有编号的袜子 → 到武器店（兼赏金工会）提交 → 对方黑入兽盾人事网核对编号 → 发放赏金。

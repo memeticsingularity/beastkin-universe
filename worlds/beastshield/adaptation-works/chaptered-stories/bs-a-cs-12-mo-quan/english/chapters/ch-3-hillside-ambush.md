@@ -208,14 +208,17 @@ The **walkie-talkie** was still transmitting chaotic dispatch sounds, but he no 
 ### Their Final Stories
 
 【Unknown→Dead-G-12-Boar-Fei Hao】
+
 Beastshield Corporation G-rank grunt, boar beastkin, nickname Fei Hao. Ordered to reinforce the mountaintop, encountered Hei Gou head-on at the mountainside. Hei Gou rode on top of him grabbing his **pig whip** and rubbing it, his jade gate collapsing and he died after ejaculating twelve spurts. Before dying, he was嫌弃 by Hei Gou as "stinking," but his belly was evaluated as "pretty soft."
 
 ### The People Still Alive
 
 【Unknown→Alive-G-8-Wolf-Lao Hui】
+
 Beastshield Corporation G-rank grunt, wolf beastkin, nickname Lao Hui. Paired with Fei Hao to go up the mountain, his jade gate was struck by the **Blazing Palm** while pincer-attacking Hei Gou. At the brink of death, he licked Hei Gou's palm like a dog, rubbed his wrist, and wagged his tail to please him, and when the walkie-talkie rang, he actively helped Hei Gou cover up the situation. Hei Gou spared him for being "pretty obedient," but because the injected inner force was insufficient, his jade gate was damaged and the inner force could rebound at any moment.
 
 【Unknown→Alive-Protagonist-1-Canine-Hei Gou】
+
 Encountered the reinforcement squad while descending the mountain, fought one against two for the first time. Repeatedly got distracted by lust during battle (when the wolf beastkin pressed against his waist, his own **stick** also stood up). Killed Fei Hao and spared Lao Hui, not out of pity, but because this wolf was obedient and clever enough. His use of the **Blazing Palm** became more proficient, but he still couldn't actively control the **Golden Bell Shield**, driven purely by instinct.
 
 ### Story Reflections

@@ -1404,6 +1404,7 @@ inner world.*
 ### Their Final Story
 
 【Living→Deceased-G-277-Bull Beastman-Azhuang】
+
 His name was Azhuang, number G-277. Seven years, over twenty-five hundred days and nights, he wore
 that olive-green
 tight uniform, patrolling, standing guard, moving things in the **Beast Shield Company** building.
@@ -1502,6 +1503,7 @@ Perhaps that was the answer. In this world, beastmen in green uniforms aren't wo
 ### Those Still Living
 
 【Living→Alive-Bounty Hunter-Wolf Howler】
+
 (Commentary content: An experienced bounty hunter specializing in hunting low-rank Beast Shield
 employees. His lean
 build wrapped in tactical vest, muscle lines taut like steel wires, body smelling of sweat, tobacco,
@@ -1521,6 +1523,7 @@ linger in his
 dreams.)
 
 【Living→Alive-Squirrel Beastman-Shop Owner】
+
 (Commentary content: Cake shop owner, petite body trembled long behind the counter. She knew Azhuang
 seven years,
 prepared the same cake for him each year. She saw his honest smile, accepted his crumpled bills,

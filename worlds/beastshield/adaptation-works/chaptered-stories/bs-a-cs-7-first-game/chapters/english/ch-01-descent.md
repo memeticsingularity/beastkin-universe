@@ -1033,6 +1033,7 @@ He is now a descender. A consciousness carrying two hundred pounds of brown bear
 He is not ready yet. He still doesn't know how to fight, how to kill, how to survive in this world. But he made a choice—to stay, not for those three months' salary, but for some... responsibility he himself doesn't yet understand.
 
 He met Lao Ba, that lonely guide. He met Bai Ya, that mysterious rabbit mentor. His life (or rather, his "second life")
+
 has just begun.
 
 He doesn't know what lies ahead. He doesn't know what Bai Ya will teach him. He doesn't know how dark the truth of this world is.

@@ -280,6 +280,7 @@ At Beast Shield, this was normal.
 ### Their Final Stories
 
 【Living→Dead-G-477-Wolf Beastman-Lang Yi】
+
 His name is Lang Yi, number G-477. A typical lean wolf beastman build, muscle lines smooth, covered by a thin, even layer of fat, moving like a gray shadow. He carries the characteristic cool, clean scent of a wolf, mixed with the fragrance of soap—even in a place like Beast Shield, he strives to maintain his dignity.
 
 Lang Yi comes from an ordinary wolf beastman family; both parents are honest laborers. His reason for joining **Beast Shield Company** is contradictory: on one hand, he detests the company's violence and corruption; on the other, he knows it's one of the few places where bottom-rung beastmen can obtain stable income and promotion opportunities. He tells himself that perhaps from within, he can change something, even if just a little.
@@ -303,6 +304,7 @@ In his file, it will be written "missing during training." His parents will rece
 Lang Yi, number G-477, a wolf beastman who believed in justice, died in a place that didn't believe in justice.
 
 【Living→Dead-G-589-Dog Beastman-Gou Zhong】
+
 His name is Gou Zhong, number G-589. An average build for a dog beastman, not particularly strong, but with good endurance, muscles covered by a thin layer of fat, giving a gentle, reliable impression. He carries the characteristic slightly moist scent of a dog, mixed with the dusty smell of boot camp.
 
 Gou Zhong's personality is just like his name—loyal, honest, obedient. He joined Beast Shield because work was hard to find back home, and he heard this place provided room and board with stable income. He wanted to save some money, open a small shop in the future, or go back home and do some small business.
@@ -322,6 +324,7 @@ Gou Zhong, number G-589, a dog beastman who only wanted a peaceful life, died in
 ### Those Still Living
 
 【Living→Alive-G-501-Boar Beastman-Zhu Mang】
+
 His name is Zhu Mang, number G-501. A typical boar beastman build—broad-shouldered and thick-waisted, heavy muscles, astonishing power beneath the layer of fat. He carries a strong boar odor—a mixture of sour sweat, earth, and a primal, violent aura; standing beside him, you can feel the oppression.
 
 Zhu Mang comes from a chaotic neighborhood, grew up in violence from childhood. To him, the law of the jungle is not philosophy, but daily life. He joined Beast Shield not for any ideal, but because here he can legally use violence, climb to higher positions, and have more power.
@@ -337,6 +340,7 @@ Perhaps one day, he will be promoted to overseer, become an executive, have grea
 But can he really forget? In some deep night, when he is alone, will he occasionally recall Lang Yi's firm eyes, recall Gou Zhong's final gaze? Will there be a moment of doubt—if one day he meets a beastman stronger than himself, what will his fate be?
 
 【Living→Alive-G-523-Rhino Beastman-Xi Jian】
+
 His name is Xi Jian, number G-523. A rhino beastman's massive body, skin rough as armor, muscles hard as rock. He carries a heavy, earthy, metallic scent, moving like a mobile mountain.
 
 Xi Jian is Zhu Mang's "partner." He is not the leader, but the enforcer. He enjoys the process of using violence, enjoys the feeling of power crushing others, but he is too lazy to think about why—Zhu Mang points the way, and he just follows.

@@ -304,6 +304,7 @@ Survival of the fittest, the unfit... become numbers in trash bins, and white so
 ### Their Final Stories
 
 【Living→Dead-G-633-Lion Beastman-Shi Kuang】
+
 His name is Shi Kuang, number G-633. Beneath the golden mane is the typical magnificent body of a lion beastman: broad shoulders connected to thick back muscles, full and round pectoral muscles, the contours clearly visible beneath the green tight-fitting uniform. His arms are as thick as tree trunks, deltoids and biceps like rolling hills, every exertion accompanied by the steaming of male hormones. He carries the strong body odor characteristic of felines, mixed with sweat and a faint bloody scent—that's the aura he developed from street fighting since childhood.
 
 Shi Kuang comes from a broken family; his father was a Beast Shield veteran, dead from a "mission accident." His mother remarried, and he grew up fighting on the streets, learning one thing: only by appearing fierce enough would he not be bullied. He joined Beast Shield not because of ideals, but because here his "fierceness" is recognized. In boot camp, he quickly found his way to survive—become the bully, build a clique, establish status through violence.
@@ -315,6 +316,7 @@ He didn't know that his fierceness would attract an even fiercer existence. When
 When his corpse was stuffed into the trash bin, those thick arms that could easily twist an opponent's neck hung powerlessly outside the bin, the golden mane stained with blood and dust. A few days later, he would become a pile of organic waste to be processed, his file gaining another "missing" record. The blue uniform he dreamed of would never come.
 
 【Living→Dead-G-634-Hyena Beastman-Lie Bao】
+
 His name is Lie Bao, number G-634. The lean and sturdy build of a hyena beastman, his hunched posture making him look forever ready to attack. His muscle lines are well-defined, covered by a thin layer of fat, movements agile and cunning. He carries the characteristic odor of hyenas, slightly reminiscent of carrion—that's the genetic imprint of their scavenging nature.
 
 Lie Bao is a follower. He knows he's not strong enough to be a leader, so he chose the strongest one—Shi Kuang. He provides cunning, provides tricks, provides the patience and cruelty unique to hyena beastmen. When bullying Ling Qie, what he enjoyed was not violence itself, but the sense of power from "dominating the weak."
@@ -326,6 +328,7 @@ When the throwing knife pierced his eye, the intense pain made him instantly los
 His mother would receive a "accidentally deceased during training" notification, then lose her only monthly source of income. Her illness would never have hope of being cured.
 
 【Living→Dead-G-635-Antelope Beastman-Ling Qie】
+
 His name is Ling Qie, number G-635. The slender and elegant build of an antelope beastman, soft and smooth light brown fur, delicate and fragile antelope horns. His muscles are not well-developed, but the lines are smooth, suited for running rather than fighting. He carries the fresh, clean scent of herbivores, like grass, standing out inappropriately in this place full of carnivore odors.
 
 Ling Qie joining Beast Shield was a mistake. He was a child from a ranch, gentle in nature, liking to care for small animals. But the ranch closed down, his parents fell seriously ill, and he needed money. Hearing that Beast Shield provided room and board with salary, he came. He thought that as long as he trained hard, he could adapt.
@@ -339,6 +342,7 @@ When he died, tears still streaked his face, his eyes still retaining the longin
 His corpse was stuffed into the trash bin, light as a fallen leaf. A few days later, he would be processed along with other "training waste," leaving no trace. His brief life was like a drop of dew on the dust of boot camp, evaporating as soon as the sun came out.
 
 【Living→Dead-G-636-Deer Beastman-Lu Zheng】
+
 His name is Lu Zheng, number G-636. The slender and sturdy build of a deer beastman, light brown fur gleaming with healthy luster in the light, antlers branching elegantly, symbolizing his integrity and pride. His pectoral muscles are full, abdominal muscles well-defined, arm muscle lines smooth—a body that has trained seriously. He carries the fresh scent of the forest, mixed with a faint smell of sweat, like the morning wind passing through pine woods.
 
 Lu Zheng comes from a military family; his grandfather was a Beast Shield veteran, his father a police officer. He was taught from childhood to be upright, brave, and to protect the weak. He joined Beast Shield wanting to change this increasingly corrupt organization from within. He believed that as long as enough people persisted in justice, change could be brought about.
@@ -354,6 +358,7 @@ His family would receive a decent pension and a letter of commendation for "dyin
 ### Those Still Living
 
 【Living→Alive-Bounty Hunter-Unknown】
+
 He has no name, only the codename "Bounty Hunter." The black combat suit wraps a lean, muscular body, muscle lines faintly visible beneath the tight fabric, every muscle honed through countless trials, existing solely for killing. He has almost no body odor—he uses special chemicals to mask his own scent, leaving only a faint smell of metal and leather.
 
 He is a product of this system, and also its maintainer. He knows the rules of Beast Shield: the law of the jungle, survival of the fittest. He doesn't judge, doesn't hesitate, only harvests. In his eyes, Shi Kuang, Lie Bao, Lu Zheng, and Ling Qie have no essential difference—all are G-rank grunts, all are one hundred RUB.

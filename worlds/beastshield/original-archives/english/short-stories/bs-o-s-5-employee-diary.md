@@ -284,7 +284,9 @@ allowing me to kneel on the ground. I staggered for a moment, then fell forward 
 Squad Leader**'s body, my face buried in his full chest muscles, slowly closing my eyes.
 
 Dying like this…
+
 Feels…
+
 Not so bad after all…
 
 ---

@@ -38,6 +38,7 @@ Beastkin’s** head!
 Clang!
 The **wooden stick** broke in two. The **Bear Beastkin** rubbed his head and turned around angrily.
 It seemed… this bit of damage wasn’t enough to take him down…
+
 Then I was punched to the ground by him, followed by being stomped wildly by his thick legs clad in
 **white socks**. Strangely, I didn’t feel any pain. Instead, the more I was beaten, the more excited
 I felt, even getting an erection! After the fourth heavy stomp from the **Bear Beastkin** landed on
@@ -65,6 +66,7 @@ Beastkin** basically wouldn’t notice me. Standing behind him, I hesitated whet
 seemed pretty big, a round lump swinging around. So I made up my mind, launched a surprise attack
 from behind the **Bear Beastkin**, and grabbed his **balls**!
 “Oof!”
+
 The **Bear Beastkin** let out a muffled groan, his whole body shuddering, which startled me so much
 I nearly let go.
 But this time, the **Bear Beastkin** didn’t turn around. Instead, his body went limp, and he slowly
@@ -84,6 +86,7 @@ Beastkin** struggled, trying to get up. I immediately tightened my grip on his *
 “Mm… mmm…” The **Bear Beastkin** made a pained sound, an uncomfortable expression on his face, his *
 *groin** slowly swelling.
 Right, the **game** said characters **ejaculate** and then **die**. Could I just make him…
+
 Embracing this experimental idea, I pulled down his **tight waistband**, pulled out that short,
 thick **bear cock**, pressed the head down, and with a sound of separating mucosa, the **Bear
 Beastkin’s** **foreskin** was pulled back, revealing a red, plump, steaming **glans** that looked
@@ -108,6 +111,7 @@ Oh right, that happened in previous playthroughs. After I restarted, it was like
 **; it never happened.
 “Who are those **corpses** lying over there?” I tried to fish for some **plot**.
 “Those… weren’t they your **colleagues**?..”
+
 **Colleagues**? Hmm… So I’m a survivor of some **gang** that got wiped out.
 “Please stop, I… really… I’m really going to **cum**…” The **Bear Beastkin**, face flushed red,
 continued **pleading**.
@@ -122,6 +126,7 @@ the **brink**, tears welling in his eyes—the equivalent of **HP critical** in 
 Anyway, after the **game resets**, he’ll just **respawn**. Why should I feel **guilty**? Thinking
 this, I steeled myself, but still comforted him: “Don’t be scared, hold on a bit. It’ll be over
 soon.”
+
 With that, I grasped his **cock** and sped up my **stroking**. Sure enough, within seconds, the *
 *Bear Beastkin** cried out: “No!.. Don’t!.. Ah!.. Ah!” Then his burly body arched, muscles tensing
 all over. After freezing stiff for three seconds, with an unwilling roar of “Ugh-ah!”, a stream of *
@@ -224,6 +229,7 @@ He pinches the bear beastkin’s balls, interrogates, teases, and finally keeps 
 verbally comforting “it’ll be over soon” — a kind of cruel innocence.
 
 He’s quite exploratory, trying to converse with NPCs to fish for plot, confirming the “colleague”
+
 setting. After clearing the level, he feels the bear’s pecs and thick legs, marvels at the good
 feel, even thinks of doing something more extreme as a “reward” for himself, but stops due to his
 real body’s exhaustion. Finally, he closes the bear’s eyes and pulls up his pants, showing a trace
