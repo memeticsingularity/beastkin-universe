@@ -24,7 +24,7 @@ Chaptered stories are published in multiple sequential chapters. Each chapter st
 
 | 编码 | 标题 | 状态 | 标签 | 链接 |
 |------|------|------|------|------|
-| `bso-o-cm-1-first-volume` | 兽游世界OL 第一卷 | 连载中 | `vr-game`, `combat`, `dog` | [目录](main/bso-o-cm-1-first-volume/README.md) |
+| `bso-o-cm-1-first-volume` | 兽游世界OL 第一卷 | 连载中 | `vr-game`, `combat`, `dog` | [目录](README.md) |
 
 ### 支线 / Side
 
@@ -38,7 +38,7 @@ Chaptered stories are published in multiple sequential chapters. Each chapter st
 
 | Code | Title | Status | Tags | Link |
 |------|-------|--------|------|------|
-| `bso-o-cm-1-first-volume` | Beastshield Online Vol.1 | Ongoing | `vr-game`, `combat`, `dog` | [Directory](main/bso-o-cm-1-first-volume/README.md) |
+| `bso-o-cm-1-first-volume` | Beastshield Online Vol.1 | Ongoing | `vr-game`, `combat`, `dog` | [Directory](README.md) |
 
 ### Side
 

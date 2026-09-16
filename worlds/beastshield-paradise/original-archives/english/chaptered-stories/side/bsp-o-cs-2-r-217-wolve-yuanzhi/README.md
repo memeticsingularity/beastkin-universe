@@ -123,4 +123,4 @@ This archive focuses on the **"Warm Archive"** timeline, centered on **Wolf Yuan
 
 ---
 
-[Return to Side Stories / 返回支线目录](../README.md) | [Return to Beastshield Paradise Home / 返回兽盾乐园首页](../../../../../README.md)
+[Return to Side Stories / 返回支线目录](README.md) | [Return to Beastshield Paradise Home / 返回兽盾乐园首页](../../../../../README.md)

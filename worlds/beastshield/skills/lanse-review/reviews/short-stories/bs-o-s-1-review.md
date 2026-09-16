@@ -2,7 +2,7 @@
 
 > **审阅时间**：2026-07-16
 > **审阅框架**：lanse 审阅眼 v1.0
-> **原始故事**：[bs-o-s-1-farm-inn](../original-archives/chinese/short-stories/bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md)
+> **原始故事**：[bs-o-s-1-farm-inn](../../../../original-archives/chinese/short-stories/bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ---
 
-[返回目录](../README.md) | [上一章](ch-003-teeth-and-tongue.md) | [下一章](ch-005-bark-and-silence.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../../README.md) | [上一章](ch-003-teeth-and-tongue.md) | [下一章](ch-005-bark-and-silence.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -534,7 +534,7 @@ B-44502。
 
 ---
 
-[返回目录](../README.md) | [上一章](ch-003-teeth-and-tongue.md) | [下一章](ch-005-bark-and-silence.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../../README.md) | [上一章](ch-003-teeth-and-tongue.md) | [下一章](ch-005-bark-and-silence.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -706,7 +706,7 @@ B-44502的复制品，是B-44503执念的镜像，也是B-45231罪恶的镜像�
 
 ---
 
-[返回目录](../README.md) | [上一章](ch-003-teeth-and-tongue.md) | [下一章](ch-005-bark-and-silence.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../../README.md) | [上一章](ch-003-teeth-and-tongue.md) | [下一章](ch-005-bark-and-silence.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

@@ -114,7 +114,7 @@ yan-sui/
 | 角色 / Character | 原作档案位置 / Original Profile Location |
 |---|---|
 | **岩岁 / Yan Sui** | [`bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yan-sui.md`](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yan-sui.md) |
-| **岩参 / Yan Can** | [`bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yan-can.md`](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yan-can.md) |
+| **岩参 / Yan Can** | [`bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yan-can.md`](../../character-archive/yan-can.md) |
 | **壹安 / Yi An** | [`bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yi-an.md`](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yi-an.md) |
 
 ---

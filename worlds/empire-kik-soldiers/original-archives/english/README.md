@@ -31,7 +31,7 @@ English original archives for *Long Live the Empire*. English versions are trans
 
 | 编码 | 标题 | 状态 | 链接 |
 |------|------|------|------|
-| `eks-o-cs-1` | 潜伏 | 已完成 | [目录](chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
+| `eks-o-cs-1` | 潜伏 | 已完成 | [目录](../chinese/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
 
 ### 短篇 / Short Stories
 
@@ -55,7 +55,7 @@ No short stories yet.
 
 | Code | Title | Status | Link |
 |------|-------|--------|------|
-| `eks-o-cs-1` | Lurking | Completed | [Directory](chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
+| `eks-o-cs-1` | Lurking | Completed | [Directory](../chinese/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
 
 ### Short Stories
 

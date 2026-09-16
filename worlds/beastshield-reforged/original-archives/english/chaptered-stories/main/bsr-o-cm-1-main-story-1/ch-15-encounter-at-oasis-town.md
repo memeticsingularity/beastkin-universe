@@ -149,7 +149,7 @@ Blocking it was the black, gold-inlaid scabbard of a **Tang Sword**. The sword's
 the wolf beastman's
 other hand, thrusting out from under his arm, deeply embedded in the **Savage Beast's** abdomen!
 
-![Wolf Beastman Backhand Stab](../../../../images/main-story/chapters/ch-15-sword.png)
+![Wolf Beastman Backhand Stab](../../../../images/main-story/ch-15-sword.png)
 
 **"How... how could..."** The **Savage Beast's** confusion was interrupted by blood gushing into his
 throat.

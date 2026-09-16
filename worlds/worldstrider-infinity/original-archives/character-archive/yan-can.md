@@ -379,7 +379,7 @@
 
 ### 8.3 相关角色
 
-- **壹安**：岩参后辈，蓝制服，死亡线中救援、送终、背尸、托孤的执行者。详见 beastshield 原作角色档案：[`yi-an.md`](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yi-an.md)
+- **壹安**：岩参后辈，蓝制服，死亡线中救援、送终、背尸、托孤的执行者。详见 beastshield 原作角色档案：[`yi-an.md`](../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/yi-an.md)
 
 ### 8.4 改编故事清单
 
@@ -387,9 +387,9 @@
 - **《雪停之前》claude-synth-v2**：Claude 重写，单章连续叙事，设定一致性最佳
 - **《雪夜》snow-night-v2**：DeepSeek 改写，氛围描写优秀
 - **《天亮之前》before-dawn-v2**：DeepSeek 改写，第一人称视角
-- **v3 版本**（基于 [`CORRECTED_GUIDE.md`](../../chaptered-stories/yan-sui/branches/yan-can-canon-death/CORRECTED_GUIDE.md)）：严格遵循 2026-05-07/08 暮游口述原设的正统版本
+- **v3 版本**（基于 [`CORRECTED_GUIDE.md`](../chaptered-stories/yan-sui/branches/yan-can-canon-death/CORRECTED_GUIDE.md)）：严格遵循 2026-05-07/08 暮游口述原设的正统版本
 
-详细对比分析见：[`yan-sui/discussions/version-comparison-yi-an.md`](../../chaptered-stories/yan-sui/discussions/version-comparison-yi-an.md)
+详细对比分析见：[`yan-sui/discussions/version-comparison-yi-an.md`](../chaptered-stories/yan-sui/discussions/version-comparison-yi-an.md)
 
 ---
 

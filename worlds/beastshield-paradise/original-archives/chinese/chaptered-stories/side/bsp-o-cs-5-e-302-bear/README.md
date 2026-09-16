@@ -92,4 +92,4 @@ In the northern district of White Capital, Beastshield's seventh cold storage fa
 
 ---
 
-[返回支线目录 / Return to Side Stories](../README.md) | [返回兽盾乐园首页 / Return to Beastshield Paradise Home](../../../../../README.md)
+[返回支线目录 / Return to Side Stories](README.md) | [返回兽盾乐园首页 / Return to Beastshield Paradise Home](../../../../../README.md)

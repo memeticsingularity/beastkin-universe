@@ -234,7 +234,7 @@ his limit, his body curling up as he let out a muffled roar: **"Mmm!"** A huge s
 *Tiger semen** exploded
 in the young master's mouth!
 
-![Da Wei Blowjob Ejaculation](../../../../images/main-story/chapters/ch-10-blowjob.png)
+![Da Wei Blowjob Ejaculation](../../../../images/main-story/ch-10-blowjob.png)
 
 The young master couldn't possibly hold so much **Tiger semen** in his mouth. When **Da Wei** shot
 his second burst, he

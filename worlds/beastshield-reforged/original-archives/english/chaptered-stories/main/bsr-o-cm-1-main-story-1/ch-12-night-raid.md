@@ -216,7 +216,7 @@ forcibly drained of semen
 from his balls and sprayed out. It was unknown whether he, with his broken spine, could still feel
 any pleasure.
 
-![Piston Pump on Brown Bear](../../../../images/main-story/chapters/ch-12-pile_driver.png)
+![Piston Pump on Brown Bear](../../../../images/main-story/ch-12-pile_driver.png)
 
 The **brown bear** shot a full twelve times before his semen was drained. **Xue Han** pressed on his
 seminal vesicles,

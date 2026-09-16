@@ -169,7 +169,7 @@
 **蒙图**非常喜欢，头在
 **蛮牛**胳肢窝里蹭了蹭，双腿不由自主地勾住**蛮牛**一条大腿，将他抱得更紧。
 
-![蒙图搂尸睡觉](../../../../images/main-story/chapters/ch-11-sleeping.png)
+![蒙图搂尸睡觉](../../../../images/main-story/ch-11-sleeping.png)
 
 **“那么，晚安咯。”**
 

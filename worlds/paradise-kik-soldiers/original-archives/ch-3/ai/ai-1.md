@@ -1,7 +1,7 @@
 #
 
-[story-guide-chinese.md](../../../setting/story-guide-chinese.md)
-[a-players-warm-heart-chinese.md](../../../setting/a-players-warm-heart-chinese.md)
+[story-guide-chinese.md](../../../settings/story-guide-chinese.md)
+[a-players-warm-heart-chinese.md](../../../settings/a-players-warm-heart-chinese.md)
 [eks-story-template-chinese.md](../../../../../templates/eks-story-template-chinese.md)
 [s-1-final-thirty-days.md](../../../../empire-kik-soldiers/adaptation-works/short-stories/s-1-final-thirty-days.md)
 

@@ -297,7 +297,7 @@ Author老师创造了一个极具张力的角色。岩岁的悲剧性不在于�
 ### 原作来源（兽盾编年史）
 
 1. **正文
-   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/chinese/ch-1-the-rabbits-shadow.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/chinese/ch-1-the-rabbits-shadow.md)
+   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/chinese/ch-1-the-rabbits-shadow.md](../../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-shorts/chapters/chinese/ch-01-birthday-cake.md)
 2. **基础设定
    **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/04-yan-sui.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/04-yan-sui.md)
 3. **岩岁1设定
@@ -318,17 +318,17 @@ Author老师创造了一个极具张力的角色。岩岁的悲剧性不在于�
 2. **修正/补充
    **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0-1.md)
 3. **第一章（首版）
-   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-1.md)
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-1.md](../../../../../paradise-kik-soldiers/original-archives/ch-1-feng-and-shuoshi.md)
 4. **第一章（修订版）
-   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-2.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-2.md)
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-2.md](../../../../../paradise-kik-soldiers/original-archives/ch-1-feng-and-shuoshi.md)
 5. **第二章
-   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-2-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-2-1.md)
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-2-1.md](../../../../../paradise-kik-soldiers/original-archives/ch-2-snowy-watchtower.md)
 6. **第三章
-   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-3-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-3-1.md)
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-3-1.md](../../../../../paradise-kik-soldiers/original-archives/ch-3-final-thirty-days-morning-scentmd.md)
 7. **角色画像总结
-   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/yan-sui.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/yan-sui.md)
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/yan-sui.md](../../../character-archive/yan-sui.md)
 8. **作者讨论
-   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/chat/20260101.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/chat/20260101.md)
+   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/chat/20260101.md](../chat/20260101.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **审阅时间**：2026-07-17
 > **审阅框架**：lanse 审阅眼 v1.2（风格适配度审查框架）
-> **原始故事**：[ch-01-birthday-cake.md](../../../adaptation-works/chaptered-stories/bs-a-cs-1-shorts/chapters/ch-01-birthday-cake.md)
+> **原始故事**：[ch-01-birthday-cake.md](../../../../../adaptation-works/chaptered-stories/bs-a-cs-1-shorts/chapters/ch-01-birthday-cake.md)
 > **叙事模式**：第三人称（模式B）
 
 ---

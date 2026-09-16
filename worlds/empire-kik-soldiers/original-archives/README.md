@@ -41,7 +41,7 @@ No short stories yet.
 | Code | Title | Tags | Link |
 |------|-------|------|------|
 | `eks-o-cm-1` | Long Live the Empire | main,sci-fi,military | [Directory](english/chaptered-stories/main/README.md) |
-| `eks-o-cs-1` | Lurking | side,sci-fi,military,stealth | [Directory](english/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
+| `eks-o-cs-1` | Lurking | side,sci-fi,military,stealth | [Directory](chinese/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
 
 ### Short Stories
 
@@ -84,10 +84,10 @@ No short stories yet.
 | Tag | Works |
 |-----|-------|
 | `main` | [Long Live the Empire](english/chaptered-stories/main/README.md) |
-| `side` | [Lurking](english/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
-| `sci-fi` | [Long Live the Empire](english/chaptered-stories/main/README.md), [Lurking](english/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
-| `military` | [Long Live the Empire](english/chaptered-stories/main/README.md), [Lurking](english/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
-| `stealth` | [Lurking](english/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
+| `side` | [Lurking](chinese/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
+| `sci-fi` | [Long Live the Empire](english/chaptered-stories/main/README.md), [Lurking](chinese/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
+| `military` | [Long Live the Empire](english/chaptered-stories/main/README.md), [Lurking](chinese/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
+| `stealth` | [Lurking](chinese/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
 
 ---
 

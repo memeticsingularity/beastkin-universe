@@ -12,7 +12,7 @@
 ## 配套资源
 
 - [lanse 审阅眼框架](../lanse-review/lanse-review-guide.md) — 写完后用来自审
-- [lanse-style-checklist.md](../../../author/001-lanse/style-analysis/lanse-style-checklist.md) — 落地检查清单
+- [lanse-style-checklist.md](../../../../author/001-lanse/style-analysis/lanse-style-checklist.md) — 落地检查清单
 - [world-setting.md](../../settings/0-original-setting/world-setting.md) — 世界观设定集
 
 ## 一句话定位

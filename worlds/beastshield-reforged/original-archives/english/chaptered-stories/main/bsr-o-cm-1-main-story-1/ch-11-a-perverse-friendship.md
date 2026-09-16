@@ -260,7 +260,7 @@ nostrils. **Meng Tu** liked it very much. He rubbed his head in the **bison's** 
 involuntarily hooked his
 legs around one of the **bison's** thick thighs, holding him tighter.
 
-![Meng Tu Sleeping with Corpse](../../../../images/main-story/chapters/ch-11-sleeping.png)
+![Meng Tu Sleeping with Corpse](../../../../images/main-story/ch-11-sleeping.png)
 
 **"Well then, good night."**
 

@@ -96,4 +96,4 @@ Yan and Liang are a bounty hunter duo specializing in hunting Beastshield Compan
 
 ---
 
-[返回支线目录 / Return to Side Stories](../README.md) | [返回兽盾乐园首页 / Return to Beastshield Paradise Home](../../../../../README.md)
+[返回支线目录 / Return to Side Stories](README.md) | [返回兽盾乐园首页 / Return to Beastshield Paradise Home](../../../../../README.md)

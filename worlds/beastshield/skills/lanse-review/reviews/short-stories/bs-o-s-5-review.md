@@ -2,7 +2,7 @@
 
 > **审阅时间**：2026-07-16
 > **审阅框架**：lanse 审阅眼 v1.0
-> **原始故事**：[bs-o-s-5-employee-diary](../original-archives/chinese/short-stories/bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md)
+> **原始故事**：[bs-o-s-5-employee-diary](../../../../original-archives/chinese/short-stories/bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md)
 
 ---
 

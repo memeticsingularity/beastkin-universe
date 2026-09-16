@@ -1,7 +1,7 @@
 # 短篇故事 / Short Stories
 
 > 返回上级：[改编作品根](../README.md)
-> 返回世界观：[世界观根](../../../README.md)
+> 返回世界观：[世界观根](README.md)
 
 ---
 
@@ -35,17 +35,17 @@ Short stories are self-contained single pieces, concise in length, focusing on a
 
 ## 三、创作规范速查 / Quick Reference
 
-- 编码规范：[docs/spec/02-work-coding.md](../../../../../../docs/spec/02-work-coding.md)
-- 故事格式：[docs/spec/11-story-format.md](../../../../../../docs/spec/11-story-format.md)
-- 内容指南：[docs/spec/12-content-guidelines.md](../../../../../../docs/spec/12-content-guidelines.md)
+- 编码规范：[docs/spec/02-work-coding.md](../../../../docs/spec/02-work-coding.md)
+- 故事格式：[docs/spec/11-story-format.md](../../../../docs/spec/11-story-format.md)
+- 内容指南：[docs/spec/12-content-guidelines.md](../../../../docs/spec/12-content-guidelines.md)
 
 ---
 
 ## III. Quick Reference
 
-- Coding spec: [docs/spec/02-work-coding.md](../../../../../../docs/spec/02-work-coding.md)
-- Story format: [docs/spec/11-story-format.md](../../../../../../docs/spec/11-story-format.md)
-- Content guidelines: [docs/spec/12-content-guidelines.md](../../../../../../docs/spec/12-content-guidelines.md)
+- Coding spec: [docs/spec/02-work-coding.md](../../../../docs/spec/02-work-coding.md)
+- Story format: [docs/spec/11-story-format.md](../../../../docs/spec/11-story-format.md)
+- Content guidelines: [docs/spec/12-content-guidelines.md](../../../../docs/spec/12-content-guidelines.md)
 
 ---
 

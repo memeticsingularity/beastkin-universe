@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-033-watchtower-two-mission.md) | [Return to Index](../README.md) | [Next Chapter](ch-035-forest-encounter.md) | [Return to Worldview Home](../../../../README.md) | [Return to Project Home](../../../../../../../../README.md)
+[Previous Chapter](ch-033-watchtower-two-mission.md) | [Return to Index](../README.md) | [Next Chapter](ch-035-forest-encounter.md) | [Return to Worldview Home](../../../../README.md) | [Return to Project Home](../README.md)
 
 ---
 
@@ -52,7 +52,7 @@ Only the trembling black-sock soldiers remained in the room. The snow leopard qu
 
 ---
 
-[Previous Chapter](ch-033-watchtower-two-mission.md) | [Return to Index](../README.md) | [Next Chapter](ch-035-forest-encounter.md) | [Return to Worldview Home](../../../../README.md) | [Return to Project Home](../../../../../../../../README.md)
+[Previous Chapter](ch-033-watchtower-two-mission.md) | [Return to Index](../README.md) | [Next Chapter](ch-035-forest-encounter.md) | [Return to Worldview Home](../../../../README.md) | [Return to Project Home](../README.md)
 
 ---
 
@@ -216,6 +216,6 @@ Even if only to be forgotten.
 
 ---
 
-[Previous Chapter](ch-033-watchtower-two-mission.md) | [Return to Index](../README.md) | [Next Chapter](ch-035-forest-encounter.md) | [Return to Worldview Home](../../../../README.md) | [Return to Project Home](../../../../../../../../README.md)
+[Previous Chapter](ch-033-watchtower-two-mission.md) | [Return to Index](../README.md) | [Next Chapter](ch-035-forest-encounter.md) | [Return to Worldview Home](../../../../README.md) | [Return to Project Home](../README.md)
 
 ---

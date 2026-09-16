@@ -2,7 +2,7 @@
 
 > **来源声明**：本文件与 `style-analysis/` 下其他文档性质不同。其他文档（`lanse-ejaculation-patterns.md`、主分析报告等）全部基于**文本分析**，每条结论可回到原文验证。本文件记录的是**合作者提供的创作背景信息**（lanse 的自嗨创作方式），并附带基于文本的推断。推断部分已明确标注为推断，**不视为确认事实**。
 >
-> 记录日期：2026-08-11 | 关联文本：[bs-o-cs-3-babysitter-lei 第二章](../../../../../worlds/beastshield/original-archives/chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)
+> 记录日期：2026-08-11 | 关联文本：[bs-o-cs-3-babysitter-lei 第二章](../../../worlds/beastshield/original-archives/chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)
 
 ---
 

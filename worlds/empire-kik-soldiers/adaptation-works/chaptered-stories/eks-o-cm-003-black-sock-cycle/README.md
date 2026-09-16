@@ -96,10 +96,10 @@ B-33021, a wolf beastkin Kiki soldier, awakens from the vat, goes through the st
 | 章节 | 标题 | 链接 |
 |------|------|------|
 | Ch.1 | 觉醒 / Awakening | [阅读](chapters/ch-001-awakening.md) |
-| Ch.2 | 第一处决 / First Execution | [阅读](chapters/ch-002-first-execution.md) |
-| Ch.3 | 雪山哨塔 / Snowy Watchtower | [阅读](chapters/ch-003-snowy-watchtower.md) |
-| Ch.4 | 调令 / Reassignment | [阅读](chapters/ch-004-reassignment.md) |
-| Ch.5 | 罐头 / Canned | [阅读](chapters/ch-005-canned.md) |
+| Ch.2 | 第一处决 / First Execution | [阅读](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cm-1-sanguipendium/chapters/ch-02-the-volunteers.md) |
+| Ch.3 | 雪山哨塔 / Snowy Watchtower | [阅读](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cm-1-sanguipendium/chapters/ch-03-the-drawing.md) |
+| Ch.4 | 调令 / Reassignment | [阅读](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cm-1-sanguipendium/chapters/ch-04-the-enclave.md) |
+| Ch.5 | 罐头 / Canned | [阅读](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cm-1-sanguipendium/chapters/ch-05-the-last-night.md) |
 
 ---
 
@@ -108,10 +108,10 @@ B-33021, a wolf beastkin Kiki soldier, awakens from the vat, goes through the st
 | Chapter | Title | Link |
 |---------|-------|------|
 | Ch.1 | Awakening | [Read](chapters/ch-001-awakening.md) |
-| Ch.2 | First Execution | [Read](chapters/ch-002-first-execution.md) |
-| Ch.3 | Snowy Watchtower | [Read](chapters/ch-003-snowy-watchtower.md) |
-| Ch.4 | Reassignment | [Read](chapters/ch-004-reassignment.md) |
-| Ch.5 | Canned | [Read](chapters/ch-005-canned.md) |
+| Ch.2 | First Execution | [Read](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cm-1-sanguipendium/chapters/ch-02-the-volunteers.md) |
+| Ch.3 | Snowy Watchtower | [Read](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cm-1-sanguipendium/chapters/ch-03-the-drawing.md) |
+| Ch.4 | Reassignment | [Read](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cm-1-sanguipendium/chapters/ch-04-the-enclave.md) |
+| Ch.5 | Canned | [Read](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cm-1-sanguipendium/chapters/ch-05-the-last-night.md) |
 
 ---
 

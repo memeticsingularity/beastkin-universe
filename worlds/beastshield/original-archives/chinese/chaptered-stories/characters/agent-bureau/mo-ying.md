@@ -495,7 +495,7 @@
 ## 十一、档案索引
 
 - 魔影的死亡线改编：暂未在改编侧独立展开
-- 关联角色：[老雷](lao-lei.md)、[小豪](xiao-hao.md)、[总司令](commander.md)、[曲先生](qu-xian-sheng.md)
+- 关联角色：[老雷](lao-lei.md)、[小豪](../../../../../adaptation-works/chaptered-stories/bs-a-cs-14-save-us/.process/settings/characters/agent-bureau/xiao-hao.md)、[总司令](../../../../../adaptation-works/chaptered-stories/bs-a-cs-14-save-us/.process/settings/characters/agent-bureau/commander.md)、[曲先生](../../../../../adaptation-works/chaptered-stories/bs-a-cs-14-save-us/.process/settings/characters/agent-bureau/qu-xian-sheng.md)
 
 ---
 

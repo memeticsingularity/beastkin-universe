@@ -199,7 +199,7 @@ Finally, after shooting the last stream of semen, the **water buffalo beastman**
 exhaustedly. His face covered
 in his own semen, he used his last breath to pant: **"Director Ya, p... please enjoy your meal."**
 
-![Ya Que Feasting on the Water Buffalo](../../../../images/main-story/chapters/ch-14-feast.png)
+![Ya Que Feasting on the Water Buffalo](../../../../images/main-story/ch-14-feast.png)
 
 **Ya Que** took the wooden chopsticks from his cleavage. These chopsticks had almost been snapped by
 the tensed chest

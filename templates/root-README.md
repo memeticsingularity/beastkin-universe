@@ -104,7 +104,7 @@ beastkin-universe/
 
 本项目采用 **CC BY-NC-SA 4.0** 许可证。
 
-完整文本：[LICENSE.md](LICENSE.md)
+完整文本：[LICENSE.md](../LICENSE.md)
 
 ---
 

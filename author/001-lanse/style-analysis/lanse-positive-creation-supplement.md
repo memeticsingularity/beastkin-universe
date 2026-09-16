@@ -4,7 +4,7 @@
 > **现有分析覆盖的内容**：叙事视角、描写系统（出场公式/制服色/白袜/精液美学）、对话系统、情色写作、节奏与结构、角色塑造、风格演变、核心风格标记。
 > **本补充覆盖的内容**：为什么同样遵守"公式"的场景，有的令人难忘、有的沦为流水线——以及如何让每个场景都达到前者的水平。
 > **分析基础**：基于 bs-a-cs-4（炎魉）ch-01 虎场景和 ch-20 牛场景（原作者最喜欢的两个段落）与中间章节的质量差距对比。
-> **引用源**：详见 [`skills/_discussions/002-yanliang-quality-gap-analysis.md`](../../worlds/beastshield/skills/_discussions/002-yanliang-quality-gap-analysis.md)。
+> **引用源**：详见 [`skills/_discussions/002-yanliang-quality-gap-analysis.md`](../../../worlds/beastshield/skills/_discussions/002-yanliang-quality-gap-analysis.md)。
 >
 > **版本**：v1 | **日期**：2026-07-15
 
@@ -51,7 +51,7 @@ lanse 原作的感官描写是"厚积薄发型"——平时不铺陈，关键时
 
 ### 解决方案：设计感官出场顺序
 
-最有效的序列模板（来自 [ch-01 虎场景](../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-01.md)）：
+最有效的序列模板（来自 [ch-01 虎场景](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-01.md)）：
 
 ```
 环境视觉（建立空间——月光/防爆灯/夜雾）
@@ -217,22 +217,22 @@ lanse 作品中几乎所有处决共享一个底层结构——**处决仪式**�
 
 ### 高质量基准（原作者非常喜欢）
 
-- [bs-a-cs-4-yanliang ch-01 Scene-1（虎兽人雷爪）](../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-01.md) — 感官序列 + 接近/侵入拉长 + 情感四次转折 + 空间锚定 + 魉的张力
-- [bs-a-cs-4-yanliang ch-20（牛兽人牛磐自裁）](../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-20.md) — 临界拉长 + 情感"最后一搏" + 空间象征性 + 牙董的旁观者张力
+- [bs-a-cs-4-yanliang ch-01 Scene-1（虎兽人雷爪）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-01.md) — 感官序列 + 接近/侵入拉长 + 情感四次转折 + 空间锚定 + 魉的张力
+- [bs-a-cs-4-yanliang ch-20（牛兽人牛磐自裁）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-20.md) — 临界拉长 + 情感"最后一搏" + 空间象征性 + 牙董的旁观者张力
 
 ### 其他高质量参考
 
-- [bs-a-cs-4-yanliang ch-14（递烟场景）](../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-14.md) — 反转型伸缩（接近拉长，爆发压缩）
-- [bs-a-cs-4-yanliang ch-15（犀牛老兵）](../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-15.md) — 情感弧线"觉醒→释然"的独特路径
-- [bs-a-cs-4-yanliang ch-18（熊猫展示）](../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-18.md) — 善后拉长的展示型伸缩
+- [bs-a-cs-4-yanliang ch-14（递烟场景）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-14.md) — 反转型伸缩（接近拉长，爆发压缩）
+- [bs-a-cs-4-yanliang ch-15（犀牛老兵）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-15.md) — 情感弧线"觉醒→释然"的独特路径
+- [bs-a-cs-4-yanliang ch-18（熊猫展示）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-18.md) — 善后拉长的展示型伸缩
 
 ### 中等质量参考（说明问题所在）
 
-- [bs-a-cs-4-yanliang ch-02~03](../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-02.md) — 七个步骤均匀分配 = 流程感
-- [bs-a-cs-4-yanliang ch-05~09](../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-05.md) — 感官扁平 + 情感单键 + 魉消失
+- [bs-a-cs-4-yanliang ch-02~03](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-02.md) — 七个步骤均匀分配 = 流程感
+- [bs-a-cs-4-yanliang ch-05~09](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-05.md) — 感官扁平 + 情感单键 + 魉消失
 
 ---
 
 *本文件是 `lanse-writing-style-analysis.md` 的补充，不替代现有分析。*
-*完整分析详见 [`skills/_discussions/002-yanliang-quality-gap-analysis.md`](../../worlds/beastshield/skills/_discussions/002-yanliang-quality-gap-analysis.md)。*
+*完整分析详见 [`skills/_discussions/002-yanliang-quality-gap-analysis.md`](../../../worlds/beastshield/skills/_discussions/002-yanliang-quality-gap-analysis.md)。*
 *配套技能：`skills/style-calibrator/`（将五个机制转化为可操作的写作指南）。*

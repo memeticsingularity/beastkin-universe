@@ -2,7 +2,7 @@
 
 ---
 
-[返回目录](README.md) | [上一章](ch-16-execution-show.md) | [下一章](ch-18-ambush-battle.md) | [返回世界观首页](../../../../../../README.md) | [返回项目主页](../../../../../../../../../README.md)
+[返回目录](README.md) | [上一章](ch-16-execution-show.md) | [下一章](ch-18-ambush-battle.md) | [返回世界观首页](README.md) | [返回项目主页](README.md)
 
 ---
 

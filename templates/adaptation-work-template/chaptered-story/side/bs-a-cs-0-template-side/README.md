@@ -89,8 +89,8 @@
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | {标题} | [阅读](chapters/ch-01-{简写}.md) |
-| Ch.2 | {标题} | [阅读](chapters/ch-02-{简写}.md) |
+| Ch.1 | {标题} | [阅读](../../main/bs-a-cm-0-template-main/chapters/ch-01-template.md) |
+| Ch.2 | {标题} | [阅读](../../../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cm-1-sanguipendium/chapters/ch-02-the-volunteers.md) |
 
 ---
 
@@ -98,8 +98,8 @@
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | {Title} | [Read](chapters/ch-01-{abbreviation}.md) |
-| Ch.2 | {Title} | [Read](chapters/ch-02-{abbreviation}.md) |
+| Ch.1 | {Title} | [Read](../../main/bs-a-cm-0-template-main/chapters/ch-01-template.md) |
+| Ch.2 | {Title} | [Read](../../../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cm-1-sanguipendium/chapters/ch-02-the-volunteers.md) |
 
 ---
 

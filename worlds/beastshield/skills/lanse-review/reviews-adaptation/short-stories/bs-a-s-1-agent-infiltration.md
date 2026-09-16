@@ -2,7 +2,7 @@
 
 > **审阅时间**：2026-07-17
 > **审阅框架**：lanse 审阅眼 v1.2
-> **原始故事**：[bs-a-s-1-agent-infiltration](../../../adaptation-works/short-stories/bs-a-s-1-agent-infiltration/bs-a-s-1-agent-infiltration.md)
+> **原始故事**：[bs-a-s-1-agent-infiltration](../../../../adaptation-works/short-stories/bs-a-s-1-agent-infiltration/bs-a-s-1-agent-infiltration.md)
 > **作品性质**：改编作品（特工局阵营，非原作世界观POV）
 
 ---

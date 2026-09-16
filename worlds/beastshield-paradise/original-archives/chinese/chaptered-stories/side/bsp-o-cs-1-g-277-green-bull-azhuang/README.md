@@ -105,4 +105,4 @@ Adapted from *Night Raid* (bs-o-s-006-night-raid), but with a thematic inversion
 
 ---
 
-[返回支线目录 / Return to Side Stories](../README.md) | [返回兽盾乐园首页 / Return to Beastshield Paradise Home](../../../../../README.md)
+[返回支线目录 / Return to Side Stories](README.md) | [返回兽盾乐园首页 / Return to Beastshield Paradise Home](../../../../../README.md)

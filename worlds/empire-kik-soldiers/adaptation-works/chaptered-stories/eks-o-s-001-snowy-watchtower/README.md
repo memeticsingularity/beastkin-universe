@@ -120,14 +120,14 @@ B-23107, a wolf beastkin Kiki Soldier on duty at a snowy watchtower, is caught m
 ## 六、创作留痕 / Creation Trail
 
 - [查看变更日志](.process/CHANGELOG.md)
-- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+- [查看 AI 讨论索引](../eks-o-cm-003-black-sock-cycle/.process/ai-discussion/INDEX.md)
 
 ---
 
 ## VI. Creation Trail
 
 - [View Changelog](.process/CHANGELOG.md)
-- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+- [View AI Discussion Index](../eks-o-cm-003-black-sock-cycle/.process/ai-discussion/INDEX.md)
 
 ---
 

@@ -93,4 +93,4 @@ Bear beastkin "Dakuai" (E-419) is stranded. He encounters a bounty hunter attack
 
 ---
 
-[Return to Side Stories / 返回支线目录](../README.md) | [Return to Beastshield Paradise Home / 返回兽盾乐园首页](../../../../../README.md)
+[Return to Side Stories / 返回支线目录](README.md) | [Return to Beastshield Paradise Home / 返回兽盾乐园首页](../../../../../README.md)

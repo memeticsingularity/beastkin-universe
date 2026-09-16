@@ -2,7 +2,7 @@
 
 ---
 
-[返回目录](../README.md) | [上一章](ch-002-rain-and-blood.md) | [下一章](ch-004-mirror-and-mask.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../../README.md) | [上一章](ch-002-rain-and-blood.md) | [下一章](ch-004-mirror-and-mask.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -490,7 +490,7 @@ B-44502。
 
 ---
 
-[返回目录](../README.md) | [上一章](ch-002-rain-and-blood.md) | [下一章](ch-004-mirror-and-mask.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../../README.md) | [上一章](ch-002-rain-and-blood.md) | [下一章](ch-004-mirror-and-mask.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -707,7 +707,7 @@ B-38194选择了帮助B-45231，即使这意味着违规，意味着风险。这
 
 ---
 
-[返回目录](../README.md) | [上一章](ch-002-rain-and-blood.md) | [下一章](ch-004-mirror-and-mask.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../../README.md) | [上一章](ch-002-rain-and-blood.md) | [下一章](ch-004-mirror-and-mask.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

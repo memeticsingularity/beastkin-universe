@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](ch-033-watchtower-two-mission.md) | [返回目录](../README.md) | [下一章](ch-035-forest-interrogation.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../../README.md)
+[上一章](ch-033-watchtower-two-mission.md) | [返回目录](../README.md) | [下一章](ch-035-forest-interrogation.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../README.md)
 
 ---
 
@@ -52,7 +52,7 @@
 
 ---
 
-[上一章](ch-033-watchtower-two-mission.md) | [返回目录](../README.md) | [下一章](ch-035-forest-interrogation.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../../README.md)
+[上一章](ch-033-watchtower-two-mission.md) | [返回目录](../README.md) | [下一章](ch-035-forest-interrogation.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../README.md)
 
 ---
 
@@ -219,6 +219,6 @@ B-11407活了23天。他捡了一片枫叶形状的金属片，放在储物柜�
 
 ---
 
-[上一章](ch-033-watchtower-two-mission.md) | [返回目录](../README.md) | [下一章](ch-035-forest-interrogation.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../../README.md)
+[上一章](ch-033-watchtower-two-mission.md) | [返回目录](../README.md) | [下一章](ch-035-forest-interrogation.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../README.md)
 
 ---

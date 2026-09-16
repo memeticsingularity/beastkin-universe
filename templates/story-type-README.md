@@ -108,17 +108,17 @@
 
 ## 五、创作规范速查 / Quick Reference
 
-- 编码规范：[docs/spec/02-work-coding.md](../../../docs/spec/02-work-coding.md)
-- 故事格式：[docs/spec/11-story-format.md](../../../docs/spec/11-story-format.md)
-- 内容指南：[docs/spec/12-content-guidelines.md](../../../docs/spec/12-content-guidelines.md)
+- 编码规范：[docs/spec/02-work-coding.md](../docs/spec/02-work-coding.md)
+- 故事格式：[docs/spec/11-story-format.md](../docs/spec/11-story-format.md)
+- 内容指南：[docs/spec/12-content-guidelines.md](../docs/spec/12-content-guidelines.md)
 
 ---
 
 ## V. Quick Reference
 
-- Coding spec: [docs/spec/02-work-coding.md](../../../docs/spec/02-work-coding.md)
-- Story format: [docs/spec/11-story-format.md](../../../docs/spec/11-story-format.md)
-- Content guidelines: [docs/spec/12-content-guidelines.md](../../../docs/spec/12-content-guidelines.md)
+- Coding spec: [docs/spec/02-work-coding.md](../docs/spec/02-work-coding.md)
+- Story format: [docs/spec/11-story-format.md](../docs/spec/11-story-format.md)
+- Content guidelines: [docs/spec/12-content-guidelines.md](../docs/spec/12-content-guidelines.md)
 
 ---
 

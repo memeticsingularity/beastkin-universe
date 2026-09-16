@@ -256,7 +256,7 @@
 - 关联搭档：[魉](liang.md)
 - 关联角色：特工局[老雷（雷炎寰）](../../characters/agent-bureau/lao-lei.md)、熊猫、银
 - 关联作品：[炎魉外传·目录](../bs-o-cs-1-yan-liang/README.md)
-- 炎在主线中的对应：灼流暗劲传承体系与特工局[老雷](../../characters/agent-bureau/lao-lei.md)/[熊猫](../../characters/agent-bureau/panda.md)相关，但炎本人为独立赏金猎人，未加入特工局
+- 炎在主线中的对应：灼流暗劲传承体系与特工局[老雷](../../characters/agent-bureau/lao-lei.md)/[熊猫](../../../../../adaptation-works/chaptered-stories/bs-a-cs-14-save-us/.process/settings/characters/agent-bureau/panda.md)相关，但炎本人为独立赏金猎人，未加入特工局
 
 ---
 

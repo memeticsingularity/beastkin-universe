@@ -2,7 +2,7 @@
 
 ---
 
-[返回目录](../README.md) | [上一章](ch-001-scent-and-ash.md) | [下一章](ch-003-teeth-and-tongue.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../../README.md) | [上一章](ch-001-scent-and-ash.md) | [下一章](ch-003-teeth-and-tongue.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -615,7 +615,7 @@ B-45231站在雪地中，看着那些脚印被新雪覆盖。
 
 ---
 
-[返回目录](../README.md) | [上一章](ch-001-scent-and-ash.md) | [下一章](ch-003-teeth-and-tongue.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../../README.md) | [上一章](ch-001-scent-and-ash.md) | [下一章](ch-003-teeth-and-tongue.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -829,7 +829,7 @@ B-38194的悲剧在于，他看到了选择，但没有勇气做出选择。他�
 
 ---
 
-[返回目录](../README.md) | [上一章](ch-001-scent-and-ash.md) | [下一章](ch-003-teeth-and-tongue.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[返回目录](../../README.md) | [上一章](ch-001-scent-and-ash.md) | [下一章](ch-003-teeth-and-tongue.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
