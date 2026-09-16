@@ -38,6 +38,8 @@
 | `bs-a-cs-16-bear-captain` | 熊组长 | Bear Captain | `改编` `原作回响` `金钟罩` `成长责任` | [目录](chaptered-stories/bs-a-cs-16-bear-captain/README.md) |
 | `bs-a-cs-17-moying` | 魔影（雨禾版） | Moying (Yuhe Edition) | `改编` `支线` `魔影` `雨禾版` | [目录](chaptered-stories/bs-a-cs-17-moying/README.md) |
 | `bs-a-cs-18-yuwen` | 余温（炎魉·雨禾版） | Residual Warmth (Yanliang, Yuhe Edition) | `改编` `支线` `炎魉` `雨禾版` `战后余烬` | [目录](chaptered-stories/bs-a-cs-18-yuwen/README.md) |
+| `bs-a-cs-19-lao-lei-pov` | 这一夜（老雷主视角扩写） | One Night (Lao Lei POV Expansion) | `改编` `老雷` `主视角` `限知视角` `感官描写` | [目录](chaptered-stories/bs-a-cs-19-lao-lei-pov/README.md) |
+| `bs-a-cs-20-yan-pov` | 效率（颜部长主视角扩写） | Efficiency (Minister Yan POV Expansion) | `改编` `颜部长` `主视角` `狮子作` `情报即武力` | [目录](chaptered-stories/bs-a-cs-20-yan-pov/README.md) |
 
 ---
 

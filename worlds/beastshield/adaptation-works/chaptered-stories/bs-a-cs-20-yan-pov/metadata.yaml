@@ -1,0 +1,97 @@
+# ============================================
+# Beastkin Universe Metadata for Adaptation Chaptered Story
+# 兽盾宇宙改编分章故事元数据
+# ============================================
+
+work:
+  code: "bs-a-cs-20-yan-pov"
+
+  title:
+    chinese: "效率（颜部长主视角扩写）"
+    english: "Efficiency (Minister Yan POV Expansion)"
+
+  format: "chaptered-story"
+  form_type: "cs"
+  status: "planning"
+  location: "adaptation-works"
+
+  subtype: "side"
+
+  promotion_status: "eligible"
+
+  work_type: "original-adaptation"
+
+  tags:
+    - "original-adaptation"
+    - "minister-yan"
+    - "pov-limited-third-person"
+    - "slow-pace"
+    - "sensory-prose"
+    - "execution"
+    - "beastshield-intelligence"
+    - "flash-grenade"
+    - "counterpart-to-bs-a-cs-19"
+
+  content_warnings:
+    - "violence"
+    - "sexual-content"
+    - "dark-themes"
+    - "death"
+    - "execution"
+    - "ejaculation-death"
+    - "non-consensual"
+    - "subordinates-as-consumables"
+
+  reading_time_estimate:
+    minutes: 0
+
+  target_audience: "mature"
+
+  # —— 分章扩写企划 · 规划骨架（随写作进度更新）——
+  # 全程第三人称限知于颜部长。他不在场的事不写。
+  chapters:
+    count: 0
+    list: []
+    planned:
+      - "ch-01-return-to-the-nest: 归巢"
+      - "ch-02-the-reckoning: 清算"
+      - "ch-03-efficiency: 效率"
+      - "ch-04-the-crash-site: 现场"
+      - "ch-05-burn-the-field: 烧地"
+      - "ch-06-the-encirclement: 合围"
+
+creation:
+  author: "memeticsingularity + AI 协作"
+
+  adaptation_info:
+    original_work: "bs-o-cs-3-babysitter-lei"
+    original_title: "老雷突袭情报局（原：带娃的老雷）"
+    original_author: "lanse（笑天神犬）"
+    adaptation_approach: "original-adaptation"
+    sister_work: "bs-a-cs-19-lao-lei-pov（同一段故事的老雷主视角版）"
+    key_changes: |
+      1. 视角：全篇第三人称限知于颜部长；老雷在别处做的事，本作只呈现"结果传到他这里"的样子
+      2. 取材：原作 ch-3 开场／清算／下令围剿／检尸／烧地 + ch-4 合围段，全部收进颜部长自己的时间线
+      3. 与姊妹作 bs-a-cs-19 互补：19 写老雷亲历的一半，本作写颜部长亲历的一半，互为对方"看不见的那半边"
+      4. 笔风：按原作 lanse 的爽味配方——干脆利落的处决动作定格 + 冷幽默与轻蔑；部长级气场压迫为本作招牌
+
+  # —— preset 例外申报（兽盾故事出厂 preset ①③④ §七）——
+  # 与姊妹作同口径：本作为忠实改编，含检尸现场（弹孔、刺痕）等非射精致死痕迹。
+  # 血可存在，但不作血腥铺陈——不写喷溅、血泊、创口特写。
+  preset_exception:
+    gate: "A8（部分放宽）"
+    reason: "忠实改编需保留原作检尸段与枪击现场；流血可存在，但不写血腥细节"
+    approved_by: "author (2026-09-16)"
+
+  last_update: "2026-09-16"
+
+  universe_based_on: "beastshield"
+
+  license:
+    type: "CC-BY-NC-SA-4.0"
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  revision_history:
+    - version: "0.1"
+      date: "2026-09-16"
+      changes: "立项：颜部长主视角扩写企划（暂名《效率》），确认六章骨架；正文未开笔"

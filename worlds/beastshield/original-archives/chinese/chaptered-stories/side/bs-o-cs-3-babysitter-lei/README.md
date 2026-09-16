@@ -116,6 +116,8 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 如需续写或改编本故事，请在 `worlds/beastshield/adaptation-works/chaptered-stories/` 路径下新建项目。
 
 - [改编扩写版：bs-a-s-4-babysitter-lei / Adaptation: bs-a-s-4-babysitter-lei](../../../../../adaptation-works/short-stories/bs-a-s-4-babysitter-lei/) — 含感官序列扩写与灭口段落展开
+- [主视角扩写·老雷侧：这一夜 / bs-a-cs-19-lao-lei-pov](../../../../../adaptation-works/chaptered-stories/bs-a-cs-19-lao-lei-pov/) — 同一段故事的老雷主视角版，九章（覆盖原作 ch-1～ch-4），全篇限知于老雷
+- [主视角扩写·颜部长侧：效率 / bs-a-cs-20-yan-pov](../../../../../adaptation-works/chaptered-stories/bs-a-cs-20-yan-pov/) — 姊妹作，颜部长主视角版（已立项，六章骨架）
 
 ---
 
