@@ -83,16 +83,14 @@ neck? That would require both hands, meaning I’d have to let go of his **crotc
 risky.
 While I was thinking, my hand gripping his **crotch** unconsciously loosened a bit. The **Bear
 Beastkin** struggled, trying to get up. I immediately tightened my grip on his **balls** again.
-“Mm… mmm…” The **Bear Beastkin** made a pained sound, an uncomfortable expression on his face, his *
-*groin** slowly swelling.
+“Mm… mmm…” The **Bear Beastkin** made a pained sound, an uncomfortable expression on his face, his **groin** slowly swelling.
 Right, the **game** said characters **ejaculate** and then **die**. Could I just make him…
 
 Embracing this experimental idea, I pulled down his **tight waistband**, pulled out that short,
 thick **bear cock**, pressed the head down, and with a sound of separating mucosa, the **Bear
 Beastkin’s** **foreskin** was pulled back, revealing a red, plump, steaming **glans** that looked
 extremely **sensitive**.
-“Mmm… ah…” The **Bear Beastkin** let out a delicate moan. A drop of **pre-cum** flowed from his *
-*urethral slit**, wetting my palm.
+“Mmm… ah…” The **Bear Beastkin** let out a delicate moan. A drop of **pre-cum** flowed from his **urethral slit**, wetting my palm.
 Using this **fluid**, I stroked the **bear cock** up and down. The lubrication was just right,
 almost like **lube**.
 This **game** is so thoughtful. Characters produce their own **lube**; I didn’t even need to prepare
@@ -115,8 +113,7 @@ Oh right, that happened in previous playthroughs. After I restarted, it was like
 **Colleagues**? Hmm… So I’m a survivor of some **gang** that got wiped out.
 “Please stop, I… really… I’m really going to **cum**…” The **Bear Beastkin**, face flushed red,
 continued **pleading**.
-I looked at him. His chubby face was clenched, brows furrowed, looking somewhat cute. In another *
-*dating sim**, he’d probably be someone you’d want to romance.
+I looked at him. His chubby face was clenched, brows furrowed, looking somewhat cute. In another **dating sim**, he’d probably be someone you’d want to romance.
 “But if I don’t kill you, I can’t pass the **tutorial level**, you see~” I pinched the **Bear
 Beastkin’s** **chubby cheeks**, speaking with feigned distress. My palm held his **coronal ridge**
 still, my index finger lightly tapping his **frenulum**. The **Bear Beastkin’s** burly body trembled
@@ -127,12 +124,9 @@ Anyway, after the **game resets**, he’ll just **respawn**. Why should I feel *
 this, I steeled myself, but still comforted him: “Don’t be scared, hold on a bit. It’ll be over
 soon.”
 
-With that, I grasped his **cock** and sped up my **stroking**. Sure enough, within seconds, the *
-*Bear Beastkin** cried out: “No!.. Don’t!.. Ah!.. Ah!” Then his burly body arched, muscles tensing
-all over. After freezing stiff for three seconds, with an unwilling roar of “Ugh-ah!”, a stream of *
-*thick cum** sprayed from his **urethral slit**, covering his belly.
-“Ah… ah… hah… ah…” The **ejaculation** wasn’t over yet. As the **Bear Beastkin’s** waist bucked, *
-*semen** gushed out in spurt after spurt into the air. I worked his **cock** even more vigorously.
+With that, I grasped his **cock** and sped up my **stroking**. Sure enough, within seconds, the **Bear Beastkin** cried out: “No!.. Don’t!.. Ah!.. Ah!” Then his burly body arched, muscles tensing
+all over. After freezing stiff for three seconds, with an unwilling roar of “Ugh-ah!”, a stream of **thick cum** sprayed from his **urethral slit**, covering his belly.
+“Ah… ah… hah… ah…” The **ejaculation** wasn’t over yet. As the **Bear Beastkin’s** waist bucked, **semen** gushed out in spurt after spurt into the air. I worked his **cock** even more vigorously.
 After over a dozen spurts, the **Bear Beastkin** finally stopped **ejaculating**, collapsing
 powerlessly in my arms. His panting grew weaker and weaker until finally, his head lolled to the
 side, limbs splayed, motionless on the ground.
@@ -142,12 +136,10 @@ stood up and laid his heavy body flat on the ground.
 Looking at the **bear beastkin corpse** covered in **semen** on the ground, thinking this was the
 first **beast** I’d conquered, a strange sense of **accomplishment** arose in me.
 I squatted down, wiped the **semen** from my hands onto the **white socks** on his calves, then
-kneaded his **pectorals**. Sure enough, they were full and round, with a great feel. I felt his *
-*thick legs**—very springy.
+kneaded his **pectorals**. Sure enough, they were full and round, with a great feel. I felt his **thick legs**—very springy.
 Normally, I might have done something even more extreme to him as a **reward** for myself. But
 having just shot three loads, I had no drive left. I’ll call it a day here.
-Finally, I reluctantly closed the **Bear Beastkin’s** wide-open eyes, helped him pull up his *
-*waistband** to cover his still-erect **bear cock**, then clicked **Save** and quit the **game**.
+Finally, I reluctantly closed the **Bear Beastkin’s** wide-open eyes, helped him pull up his **waistband** to cover his still-erect **bear cock**, then clicked **Save** and quit the **game**.
 
 ---
 

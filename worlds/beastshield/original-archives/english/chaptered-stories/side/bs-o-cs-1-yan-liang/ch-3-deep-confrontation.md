@@ -67,8 +67,7 @@ breaks the rules."
 Indeed, we're too late."
 
 **Liao** followed him inside. In the middle of the **conference room** was a **large round table**,
-surrounded by eight **Beastmen**—four in **black uniforms** and four in **white uniforms**. The *
-*emblems** on their shoulders indicated they weren't ordinary soldiers but officers of some rank.
+surrounded by eight **Beastmen**—four in **black uniforms** and four in **white uniforms**. The **emblems** on their shoulders indicated they weren't ordinary soldiers but officers of some rank.
 They were all slumped motionless over the table, each with a barely visible puncture wound on their
 necks.
 
@@ -84,8 +83,7 @@ examined him.
 
 This **Rhino Guard** was nearly forty, his thick beard streaked with white. Scars visible all over
 his body attested to his numerous battle achievements, suggesting a high rank. At this moment, his
-lower body was erect, his **bull cock** straining against his **white leggings**, forming a *
-*pyramid** shape already filled with thick semen. He had probably used his formidable willpower to
+lower body was erect, his **bull cock** straining against his **white leggings**, forming a **pyramid** shape already filled with thick semen. He had probably used his formidable willpower to
 hold back the last few spurts of semen, barely clinging to life.
 
 **Yan** pressed urgently, "Who was the killer? Where did he go?"
@@ -113,13 +111,11 @@ face and chest, allowing him to experience a second climax in his life.
 
 Only after the **Rhino Guard** breathed his last did **Yan** stop stroking the **bull cock**. He
 pulled up the **Rhino Beastman**'s **white waistband**, covering the thick, red **bull cock** that
-had overperformed its duty, then wiped the semen from his hand onto the back of another nearby *
-*Guard** in a **black uniform**.
+had overperformed its duty, then wiped the semen from his hand onto the back of another nearby **Guard** in a **black uniform**.
 
 "Does this senior count as ours?" **Liao** asked, puzzled.
 
-"... I suppose so," **Yan** replied, then took off one of the **Rhino**'s **sneakers**, signaling *
-*Liao** to come record the **ID number**.
+"... I suppose so," **Yan** replied, then took off one of the **Rhino**'s **sneakers**, signaling **Liao** to come record the **ID number**.
 
 **Yan** and **Liao** walked to the **elevator** and pressed the button, but it remained stuck on *
 *B1 Floor**. With no other choice, they took the **stairs** down.
@@ -238,8 +234,7 @@ were equal—none could withstand a single move before ejaculating to death.
 
 After about five minutes, the last scream faded, and the sound of rolling bodies ceased. The
 three-story-high **spiral staircase** was now carpeted with **Beast Shield Guard** corpses. They lay
-haphazardly, twisted and slumped on the **steps**. Over a dozen thick calves and arms clad in *
-*stockings** protruded through the gaps in the **stair railings**, dangling powerlessly. The semen
+haphazardly, twisted and slumped on the **steps**. Over a dozen thick calves and arms clad in **stockings** protruded through the gaps in the **stair railings**, dangling powerlessly. The semen
 they had sprayed dripped down the **stairs**, pooling on **B1 Floor** into a thick, viscous **semen
 pond**. **Yan** and **Liao** had to step on these corpses to climb the **stairs**. Occasionally
 encountering a still-twitching, barely alive guard, **Liao** would help squeeze out their remaining
@@ -257,8 +252,7 @@ them.
 **Beast Shield Headquarters**. A **Bull Beastman** in a **black uniform** with a **Senior Military
 Emblem** on his shoulder knelt on one knee, sweating profusely as he awaited judgment.
 
-"The **Divine Martial Inheritor** we finally captured was released from your **base**, and the *
-*base** was completely slaughtered. Do you know what must be done?" **President Ya**'s icy voice
+"The **Divine Martial Inheritor** we finally captured was released from your **base**, and the **base** was completely slaughtered. Do you know what must be done?" **President Ya**'s icy voice
 rang out.
 
 "It was my failure. Please, **President Ya**, give me another chance!" the **Bull Beastman** begged,
@@ -368,8 +362,7 @@ on the spot. He moved through the **Beast Shield Base** as if strolling through 
 rescued the **Divine Martial Inheritor** and left behind countless mysteries.
 
 **【Director Ya】**  
-The highest authority of **Beast Shield**, a cold and ruthless ruler. His words could force a *
-*senior officer** to publicly masturbate to death. In his eyes, the lives of his subordinates are
+The highest authority of **Beast Shield**, a cold and ruthless ruler. His words could force a **senior officer** to publicly masturbate to death. In his eyes, the lives of his subordinates are
 like garbage.
 
 ### Story Reflection

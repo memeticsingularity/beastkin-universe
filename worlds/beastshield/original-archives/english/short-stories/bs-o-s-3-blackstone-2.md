@@ -28,8 +28,7 @@ intel was accurate.
 The **bear beastman** on duty wore a pure black uniform. Like all high-level recruits, he had a
 muscular, bulky build. The high-elasticity tight-fitting short sleeves and shorts further
 accentuated his well-defined curves. If not for the tactical vest and the cap on his head, he could
-easily be mistaken for a fitness coach or weightlifter. However, the long black socks with the *
-*Beast Shield Company** logo printed on them and the black military boots confirmed his identity.
+easily be mistaken for a fitness coach or weightlifter. However, the long black socks with the **Beast Shield Company** logo printed on them and the black military boots confirmed his identity.
 
 The **bear guard** had been on duty for several hours. He yawned, looked around to ensure no one was
 watching, then walked to a secluded corner to light a cigarette for a smoke.
@@ -127,8 +126,7 @@ muscles were pumped, it was merely a temporary illusion of strength. After just 
 his muscles were in their weakest, most exhausted state, capable of exerting less than half his
 usual strength.
 
-Of course, even at full strength, he would be unlikely to escape **Blackstone**'s monstrous grip. *
-*Blackstone**'s arms were as formidable as a crab's pincers.
+Of course, even at full strength, he would be unlikely to escape **Blackstone**'s monstrous grip. **Blackstone**'s arms were as formidable as a crab's pincers.
 
 "Let... let go... gghk..."
 
@@ -168,8 +166,7 @@ spoke, the hand kneading the chest gently pinched the **bull beastman**'s nipple
 
 "Ssshh...!"
 
-The **bull beastman**, stimulated, arched his feet for a moment. He understood the implication in *
-*Blackstone**'s words and begged desperately, "D-don't... kill me... please..."
+The **bull beastman**, stimulated, arched his feet for a moment. He understood the implication in **Blackstone**'s words and begged desperately, "D-don't... kill me... please..."
 
 "Can't do that. Your heads are worth good money," **Blackstone** said, continuing to gently pinch
 the other's nipple.

@@ -266,8 +266,7 @@ Bear Hou had just adjusted his breathing.
 Wolf Xun slowly let out a breath, white mist briefly visible in the cold air before dissipating.
 
 He continued moving, like a rusted machine, frame by frame. First, he pushed aside the thin blanket
-covering him—the *
-*Beast Shield Company**-issued olive-green blanket, filled with cheap synthetic cotton, almost
+covering him—the **Beast Shield Company**-issued olive-green blanket, filled with cheap synthetic cotton, almost
 non-insulating. Cold air
 immediately enveloped his body.
 
@@ -1441,8 +1440,7 @@ Ten meters.
 Finally, he reached the **large trash bin**.
 
 A green, sheet-metal round bin, height about 1.2 meters, diameter about eighty centimeters. Bin body
-printed with *
-*Beast Shield Company** emblem and "Recyclables"字样, but everyone knew what these bins were used
+printed with **Beast Shield Company** emblem and "Recyclables"字样, but everyone knew what these bins were used
 for.
 
 The lid flip-top, no lock.
@@ -1734,8 +1732,7 @@ strength even in sleep. He always carried a scent of sweat, faint alcohol, and t
 musky odor—the
 accumulated smell of years of life at the bottom, impossible to wash away or mask.
 
-Bear Hou wasn't the sharpest, but he was strong and willing to work. His reason for joining the *
-*Beast Shield Company**
+Bear Hou wasn't the sharpest, but he was strong and willing to work. His reason for joining the **Beast Shield Company**
 was simple: meals provided, a place to sleep, and the chance to send 100 RUB home every month. His
 hometown was in the
 remote mountains, his parents were old, and he had a younger brother still in school. Every payday,

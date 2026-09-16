@@ -54,8 +54,7 @@ As soon as I opened the panel, a muffled "Umm..." sound came from inside. I turn
 and saw a bound **Bear Beastman** lying on his side inside. He had a stocky, burly build, a black
 cloth covering his eyes, and was wearing a **military-green bodysuit**. The emblem on the suit
 clearly identified him as an employee of the **Beast Shield Company**. His two thick calves were
-tied together, lying horizontally on the floor. Only one of his meaty feet was wearing a long *
-*white sock**; the other **white sock** was stuffed into his mouth, preventing him from making any
+tied together, lying horizontally on the floor. Only one of his meaty feet was wearing a long **white sock**; the other **white sock** was stuffed into his mouth, preventing him from making any
 sound.
 
 Seeing he was from the **Beast Shield Company**, I didn't hesitate and immediately gave him a kick,
@@ -84,8 +83,7 @@ Hmph, even his last words are threats. Truly hopeless.
 I stuffed the **sock** back in, then spat on my palm, gripped the **Bear Beastman**'s **glans**, and
 started rubbing it in a circular motion, completely ignoring his pleading eyes.
 
-"Ugh...!" After a few strokes, the **Bear Beastman** arched his back with a loud groan. Then, his *
-*bear cock** twitched, and a thick stream of **semen** shot out from the tip of his **meat rod**,
+"Ugh...!" After a few strokes, the **Bear Beastman** arched his back with a loud groan. Then, his **bear cock** twitched, and a thick stream of **semen** shot out from the tip of his **meat rod**,
 flying over two meters away. I immediately pressed his **meat rod** downwards, aiming his **urethral
 opening** at the field. With his **meat rod** pressed, the **Bear Beastman**'s burly body leaned
 forward as well. His entire body twitched in rhythm with his ejaculation. One spurt... two spurts...

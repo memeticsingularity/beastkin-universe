@@ -82,8 +82,7 @@ at **Yan**. But the **bullets** bounced right off **Yan's** body.
 "What! **Diamond Body Protection**! Ugh...!" Before the **White Bear Team Leader** could react, *
 *Yan** had already grabbed his throat, pinning him against the wall. Then his crotch tightened—his *
 *lifeline** was squeezed by **Yan**. His nearly 300-pound body instantly lost the ability to resist.
-He could only press against the wall, supported by his two meaty legs, writhing left and right. *
-*Yan** wasn't polite either. He casually reached into the **White Bear's** blue **bulge** and
+He could only press against the wall, supported by his two meaty legs, writhing left and right. **Yan** wasn't polite either. He casually reached into the **White Bear's** blue **bulge** and
 grasped the thick, hefty **bear root**, beginning to channel his energy. His **Blazing Flow Hidden
 Force** was only rudimentary; he could only transmit it slowly like this. But it was enough for this
 **White Bear**. At first, the **White Bear** gritted his teeth, trying hard to resist the urge to
@@ -136,8 +135,7 @@ shooting eight thick jets, **Yan** mercilessly threw him onto the body of the **
 The **Wolf Guard**, not quite dead yet, lay face down on the floor, twitching incessantly. **Yan**
 didn't even look, just said coldly, "27 seconds. Next."
 
-"Number Three, come to my **office**." **Liang** called the next number and began handling the *
-*Wolf Guard**, working on both tasks simultaneously to save time.
+"Number Three, come to my **office**." **Liang** called the next number and began handling the **Wolf Guard**, working on both tasks simultaneously to save time.
 
 "Report... Report, ugh... Ah!" With a thick, honest voice, the second one to enter was a heavily
 built **Bear Beastman Guard**. He was a full head taller than **Yan**, his body exceptionally meaty
@@ -217,11 +215,9 @@ Guard's** round, full chest muscles with both hands, using his index and middle 
 
 Subjected to such stimulation, the **Bull Guard** moaned wildly, his whole body shaking like a
 sieve. His two thick legs in **white socks** twitched uncontrollably. As a **bull**, his **nipples**
-even secreted a bit of milky white fluid, splattering around as his body swayed. His already erect *
-*cock** leaked precum wildly, even mixing some semen with the pre-ejaculate fluid.
+even secreted a bit of milky white fluid, splattering around as his body swayed. His already erect **cock** leaked precum wildly, even mixing some semen with the pre-ejaculate fluid.
 
-"Stop... fast... stop... I can't take it anymore... Ugh ah!... Ah!" Before he could finish, the *
-*Bull Guard** threw his head back, his **cock** standing tall, and shot out a massive jet of thick
+"Stop... fast... stop... I can't take it anymore... Ugh ah!... Ah!" Before he could finish, the **Bull Guard** threw his head back, his **cock** standing tall, and shot out a massive jet of thick
 semen, hitting the wall opposite the **office**. Jet after jet followed, forceful and powerful. He
 seemed to have reached the peak of pleasure. Seeing the **Bull Guard** start to ejaculate, **Yan**
 also held his **cock** and pumped to help him expel semen. Only after he had shot his last drop did
@@ -322,8 +318,7 @@ Leader**, sitting in his office memorizing documents, probably thinking about ho
 recruits and climb the ladder. Then **Yan** barged in. Bullets bounced right off him. He didn't even
 get a chance to fight back before he was choked and pinned against the wall, his **bear root**
 seized in someone else's hand. He gritted his teeth and held on, but in the end, he couldn't bear
-it. Semen spurted all over the floor. He died slumped on the floor, his eyes still open. When *
-*Liang** closed them for him, you could probably still see the unwillingness in the corners of his
+it. Semen spurted all over the floor. He died slumped on the floor, his eyes still open. When **Liang** closed them for him, you could probably still see the unwillingness in the corners of his
 eyes—finally got a **blue uniform**, only to die inexplicably in his own office.
 
 **【Green Uniform Wolf Guard】**  
@@ -334,8 +329,7 @@ that muscle, those full wolf teats—they were useless in the end.
 
 **【Green Uniform Bear Beastman Guard】**  
 This **Bear Soldier** was a bit dim. When **Yan** grabbed him, he thought it was his **Team Leader**
-punishing him. He ejaculated in 12 seconds, but the amount he shot matched the size of his huge *
-*bear balls**. He died with a heavy *thud* on the floor, like a toppled sack. When **Liang** tucked
+punishing him. He ejaculated in 12 seconds, but the amount he shot matched the size of his huge **bear balls**. He died with a heavy *thud* on the floor, like a toppled sack. When **Liang** tucked
 in his **bear root** and patted his head, he probably didn't know anything anymore.
 
 **【Green Uniform Blue-furred Tiger Guard】**  

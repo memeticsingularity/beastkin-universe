@@ -43,8 +43,7 @@ hoping to earn some merit in front of the squad leader for a future promotion.
 
 But I was still a step too slow. A **Water Buffalo Guard** who had already circled behind the **Red
 Tiger** struck first. He was the biggest and strongest beastman in our squad. He threw a punch with
-enough force to create a gust of wind, but the **Red Tiger** dodged without even looking. The *
-*Water Buffalo** was stunned; it was too late to retract his move, and he left his back wide open.
+enough force to create a gust of wind, but the **Red Tiger** dodged without even looking. The **Water Buffalo** was stunned; it was too late to retract his move, and he left his back wide open.
 The **Red Tiger** punched him in the lower back, sending him flying straight toward me!
 
 Faced with the **Water Buffalo**'s massive bulk, I had no time to dodge. He landed right on top of
@@ -137,8 +136,7 @@ squeeze out a few words: "Save… save me…"
 I gently moved his hands, which were clutching his crotch, aside. His lower body was erect, the
 military-green **tights** tented, the fabric covered in half-dried semen stains.
 
-I pulled open the waistband of his **tights**. Since the semen had already dried halfway, the *
-*tights** were stuck firmly to the back of the **Brown Bear**'s glans. When I tore them apart at the
+I pulled open the waistband of his **tights**. Since the semen had already dried halfway, the **tights** were stuck firmly to the back of the **Brown Bear**'s glans. When I tore them apart at the
 sticky spot, the **Brown Bear** grunted in pain, then thrust his cock forward and shot another
 stream of semen!
 
@@ -163,8 +161,7 @@ frown deepened, and his lower body slowly began to rise.
 his ear.
 
 "Mm… hah…" With a final, barely audible groan, the **Brown Bear** arched his body and finally shot
-the last of his semen. The semen burst out like a small fountain, spraying a few drops onto the *
-*tights** already covered in stains. Then the **Brown Bear** let his head fall to the side, dying
+the last of his semen. The semen burst out like a small fountain, spraying a few drops onto the **tights** already covered in stains. Then the **Brown Bear** let his head fall to the side, dying
 peacefully in my arms.
 
 I smeared the semen from my hands onto the **Brown Bear**'s cheeks. Paired with his sleeping-like
@@ -204,8 +201,7 @@ opportunity.
 I silently put down the **walkie-talkie** in my hand, knelt, and placed my palm on the **Tiger Squad
 Leader**'s muscular thigh, giving it a gentle squeeze.
 
-Indeed, this kind of well-trained physique was different. Unlike our thick, fatty thighs, the *
-*Tiger Squad Leader**'s thick legs were more muscular, more elastic to the touch, with clearer
+Indeed, this kind of well-trained physique was different. Unlike our thick, fatty thighs, the **Tiger Squad Leader**'s thick legs were more muscular, more elastic to the touch, with clearer
 contours.
 
 Then I followed his thigh, stroking all the way down his knee to his **black socks**. I reached into
@@ -309,8 +305,7 @@ fastest and most inexplicably, without even seeing his opponent’s face.
 
 【**Green Uniform Wild Boar Guard**】  
 The wild boar on sentry duty with the wild bull, probably lazy even on normal days, chose this time
-to slack off—right into the grim reaper's hands. Like the wild bull, he was knocked down by the *
-*Red Tiger** with one punch, clutching his crotch and writhing on the ground, semen seeping through
+to slack off—right into the grim reaper's hands. Like the wild bull, he was knocked down by the **Red Tiger** with one punch, clutching his crotch and writhing on the ground, semen seeping through
 his tights. He twitched a few times, then fell still. His pair of boar breasts was never touched
 before death.
 
@@ -367,8 +362,7 @@ accomplice—they divided the work clearly, one clearing the field, the other mo
 The **Red Tiger**'s accomplice, probably observing from the shadows the whole time. His technique
 was skilled. He knew exactly how to use the **Tiger Squad Leader**'s **black sock** to stimulate me,
 bringing me to climax in just a few strokes. His voice was mocking, probably a pervert who enjoyed
-toying with his prey. He called me a "sneaky little cat," likely having seen me playing with the *
-*Tiger Squad Leader**'s corpse earlier.
+toying with his prey. He called me a "sneaky little cat," likely having seen me playing with the **Tiger Squad Leader**'s corpse earlier.
 
 ### Story Reflection
 

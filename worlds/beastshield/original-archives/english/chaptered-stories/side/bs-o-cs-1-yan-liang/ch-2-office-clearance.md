@@ -44,8 +44,7 @@ just hearsay.
 
 "You actually did it?" **Liang** couldn't believe his eyes either.
 
-"Wait, something's off. This guy is much stronger than the average guard, but nowhere near *
-*Minister** level." So he tightened his grip on the **Black Uniform Bear Guard**'s balls,
+"Wait, something's off. This guy is much stronger than the average guard, but nowhere near **Minister** level." So he tightened his grip on the **Black Uniform Bear Guard**'s balls,
 demanding, "Speak! Why are you wearing a **Minister's Uniform**?"
 
 With his balls squeezed painfully tight inside his **Black Tight Pants**, the **Bear Guard** had no
@@ -69,8 +68,7 @@ cum..."
 
 Seeing the **Bear Guard** was nearing his limit, **Yan** immediately stopped **channeling force**
 and pinched the base of the **Bear Guard**'s **cock** to help him hold back. The **Bear Guard**
-clenched his eyes shut, gritted his teeth, balled his fists, and trembled all over in his thick *
-*Black Socks**. Through sheer force of will, only a mixture of semen and pre-cum leaked from his
+clenched his eyes shut, gritted his teeth, balled his fists, and trembled all over in his thick **Black Socks**. Through sheer force of will, only a mixture of semen and pre-cum leaked from his
 slit—his life was spared for the moment.
 
 "Huff... Huff..." The **Bear Guard** gasped for breath, having narrowly escaped death. Once **Yan**
@@ -79,14 +77,12 @@ saw he had recovered somewhat, he grasped his **cock** again and urged, "Continu
 The **Bear Guard**, resigned to his fate, continued:
 
 "After **Green Uniform** guards pass their probation, the **Company** administers a physical
-aptitude test. Those with thick skin and hides, suited for close combat, are assigned to the *
-*Combat Group** and issued **Black Uniforms**, like me," the **Bear Guard** said with a hint of
+aptitude test. Those with thick skin and hides, suited for close combat, are assigned to the **Combat Group** and issued **Black Uniforms**, like me," the **Bear Guard** said with a hint of
 pride in his voice. "Those with precise marksmanship, suited for long-range combat, are assigned to
 the **Firearms Group** and issued **White Uniforms**. Those who excel in neither become management,
 responsible for training new recruits, and wear **Blue Uniforms**."
 
-"I see. No wonder your strength is only slightly above those cannon fodder." After hearing this, *
-*Yan** resumed **channeling force**.
+"I see. No wonder your strength is only slightly above those cannon fodder." After hearing this, **Yan** resumed **channeling force**.
 
 The **Bear Guard** flushed with anger, wanting to retort, but the incoming wave of orgasmic
 sensation only produced a few muffled grunts, confirming **Yan**'s assessment.
@@ -127,11 +123,9 @@ a **Tiger Beastman**—the **White Uniform** guard who had been chatting and cha
 **Bear Guard** earlier.
 
 Although a **Ranged Soldier**, this **Tiger Beastman** was still exceptionally burly, though his
-abdomen was tighter than the **Bear Guard**'s. The **White Tight Shirt** emblazoned with the *
-*Company Logo** accentuated the **Tiger Guard**'s thick chest, abdominal muscles, and powerful
+abdomen was tighter than the **Bear Guard**'s. The **White Tight Shirt** emblazoned with the **Company Logo** accentuated the **Tiger Guard**'s thick chest, abdominal muscles, and powerful
 biceps, while the **White Tight Pants** made his **bulge** even more prominent. Under the light, the
-shadows on the white fabric clearly delineated which part of the bulge was **penis** and which was *
-*balls**. Wearing this pristine **uniform**, the **Tiger Beastman** looked less like a guard and
+shadows on the white fabric clearly delineated which part of the bulge was **penis** and which was **balls**. Wearing this pristine **uniform**, the **Tiger Beastman** looked less like a guard and
 more like a hero from a movie. However, the **Long White Socks** and **Sneakers** on his feet were
 unmistakably standard **Beast Shield** issue.
 
@@ -166,8 +160,7 @@ let me go! See if I don't fuck you up, you bastard... Oh... Oh..."
 "How crude." **Yan** pinched the **Tiger Guard**'s mouth shut, then removed one of his shoes.
 Grabbing his **White Sock**-clad ankle, he lifted the foot. "**Liang**, record the **ID Number**."
 
-Once **Liang** was done, **Yan** peeled the **White Sock** off that foot and stuffed it into the *
-*Tiger Guard**'s mouth.
+Once **Liang** was done, **Yan** peeled the **White Sock** off that foot and stuffed it into the **Tiger Guard**'s mouth.
 
 "Mmmph!... Mmmph!..." The **Tiger Beastman** cursed at **Yan**, but not a single word was
 intelligible.
@@ -177,8 +170,7 @@ enough, once the shirt was wet, the two **nipples** also became visible through 
 **—pink and prominent against the white, extremely tempting.
 
 "You know what? Your colleagues are going to find you as a corpse with your **Tiger Cock** hard and
-throbbing, your **tits** leaking milk, and your face frozen in ecstasy. It's just a pity this *
-*White Uniform** of yours won't do much to cover your shame. On the contrary, it wraps you up like a
+throbbing, your **tits** leaking milk, and your face frozen in ecstasy. It's just a pity this **White Uniform** of yours won't do much to cover your shame. On the contrary, it wraps you up like a
 crystal shrimp dumpling, making you even more enticing. They might even have a go with your corpse
 on the spot."
 
@@ -198,8 +190,7 @@ urge to cum, holding on for over thirty seconds.
 stimulation. "Don't worry, I'll take care of all your colleagues, every last one of them. So stop
 holding back. Cum in peace."
 
-Whether it was the "comforting" words or simply that he couldn't hold on any longer, as soon as *
-*Yan** finished speaking, the **Tiger Guard** arched his hips high and began ejaculating inside his
+Whether it was the "comforting" words or simply that he couldn't hold on any longer, as soon as **Yan** finished speaking, the **Tiger Guard** arched his hips high and began ejaculating inside his
 **White Tight Pants**. His throat emitted continuous moans of "Mmhah... Mmhah..." The longer he had
 held back, the more violent the release. **Semen** filled every crevice within the **Tight Pants**,
 seeping through the fabric, running down the pant legs, soaking the **White Socks** and **Sneakers
@@ -226,8 +217,7 @@ Thus, **Yan** and **Liang** found a **Storage Room** for cleaning supplies. Outs
 Room**, a **Black Uniform Dog Beastman** was having a smoke.
 
 Although of the **Canine Beast** species, anyone assigned to the **Combat Group** was naturally
-built like a tank. His thigh muscles were sharply defined and powerful, stretching the hem of his *
-*Tight Shorts** to near bursting.
+built like a tank. His thigh muscles were sharply defined and powerful, stretching the hem of his **Tight Shorts** to near bursting.
 
 Seeing **Yan** approach, the **Dog Beastman** offered a cigarette with a smile. "Brother, want one?"
 
@@ -238,8 +228,7 @@ time to react before being completely immobilized, his face pressed against the 
 *cock** captured, his buttocks could only arch back slightly to make space for the impending *
 *execution**.
 
-"You... Who are you..." The **Dog Beastman** struggled to utter the question almost every executed *
-*Beastman** asked. **Yan**, having heard it countless times, couldn't be bothered to answer. He just
+"You... Who are you..." The **Dog Beastman** struggled to utter the question almost every executed **Beastman** asked. **Yan**, having heard it countless times, couldn't be bothered to answer. He just
 wanted a quick, clean kill to avoid complications. So he yanked down the **Dog Beastman**'s **Black
 Tight Pants**, pulling out a **Dog Cock** that wasn't particularly thick but was remarkably long.
 Based on his last two encounters, he knew these **higher-ranking soldiers** had much greater
@@ -260,8 +249,7 @@ enjoy his final moments to the fullest.
 
 After his last spurt, the **Dog Beastman**'s body slid slowly down the wall, knees buckling. Before
 he could fully collapse, **Yan** hoisted him back up, slung him over his shoulder with his buttocks
-facing forward, and waited for **Liang** to record the **ID Number** before carrying him into the *
-*Storage Room**.
+facing forward, and waited for **Liang** to record the **ID Number** before carrying him into the **Storage Room**.
 
 "Open that cabinet for me. I need to stuff this dead dog inside." The **Dog Beastman**'s corpse was
 simply too heavy, requiring **Yan** to support his buttocks with both hands to keep him balanced,
@@ -274,8 +262,7 @@ cabinet.
 
 Inside stood a naked, golden-maned **Lion Beastman**. His powerfully built, well-defined physique
 clearly marked him as a **Beast Shield Soldier**. His lush **mane** and wild **beard** should have
-lent him a majestic air, but his wide, staring eyes and vacant expression ruined the effect. The *
-*semen** still dripping from the tip of his now-softened **cock** confirmed he was already a
+lent him a majestic air, but his wide, staring eyes and vacant expression ruined the effect. The **semen** still dripping from the tip of his now-softened **cock** confirmed he was already a
 lifeless corpse.
 
 "It seems we're not the only ones who have their eyes on this place." **Yan** set down the **Dog
@@ -321,8 +308,7 @@ stripped off by **Yan** and worn away as a disguise. His naked body was shoved i
 former **Combat Soldier** didn't even get a shred of dignity in the end.
 
 **【White Uniform Tiger Guard】**
-This **White Uniform Firearms Soldier** might have had the most humiliating death in all of *
-*Chapter 2**.
+This **White Uniform Firearms Soldier** might have had the most humiliating death in all of **Chapter 2**.
 He stood at the entrance, his **white uniform** crisp and heroic, chest and abs sharply outlined
 like a movie hero. But when **Yan** closed in, he didn't even have time to draw his gun before a
 punch to the gut disabled him instantly.
@@ -374,8 +360,7 @@ He has his own strange "principles": he doesn't steal prey killed by others (the
 considering it against the rules. He also compromises a bit under **Liao**'s anger, giving later
 prey some "final care" (like a few strokes).
 Most interestingly, he deliberately humiliates those who insult him (like the **Tiger Guard**), and
-gives a bit of "preferential treatment" (letting them finish) to those who "cooperate" (like the *
-*Bear Guard** providing intel).
+gives a bit of "preferential treatment" (letting them finish) to those who "cooperate" (like the **Bear Guard** providing intel).
 When he changed into the **Bear Guard**'s stinky uniform, his comment, "No time to be picky about
 work," reveals a professional indifference. In this hunting world, he's a top-tier hunter, but not
 the top—the appearance of the **Panda Beastman** showed him there are levels beyond.

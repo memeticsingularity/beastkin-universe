@@ -195,13 +195,11 @@ sensory reality of that world:
 
 These descriptions are vital. They do not shy away from the world's original setting (sexual tension
 and death); instead, they **use the impact of that setting to provide the most solid emotional fuel
-for the player's 'defection'.** The player is not sympathizing from the shore; they have *
-*personally stepped into the water and been stung by its cold**.
+for the player's 'defection'.** The player is not sympathizing from the shore; they have **personally stepped into the water and been stung by its cold**.
 
 **"'If playing the game' meant having to go through that over and over, then I didn't want that
 playstyle."**
-This statement therefore possesses thunderous force. It is no longer a gentle declaration, but a *
-*warrior's manifesto** born from disillusionment, revulsion, and sorrow. His gentle revolution thus
+This statement therefore possesses thunderous force. It is no longer a gentle declaration, but a **warrior's manifesto** born from disillusionment, revulsion, and sorrow. His gentle revolution thus
 carries a resoluteness that yearns for light after experiencing darkness.
 
 ---

@@ -39,8 +39,7 @@ Furious, I dialed the after-sales phone number and sent a photo to customer serv
 
 "What's going on? Why is the captive I bought already dead!?"
 
-"Dear customer, it's like this: to prevent the goods from escaping, we always insert a *
-*power-draining rod** into their back hole. Of course, a common situation occurs during transport:
+"Dear customer, it's like this: to prevent the goods from escaping, we always insert a **power-draining rod** into their back hole. Of course, a common situation occurs during transport:
 the goods can't endure the bumps and... discharge on their own. We sincerely apologize. We will
 immediately send you a higher-grade replacement. Is that acceptable?"
 
@@ -218,8 +217,7 @@ a sob.
 Seeing his pitiful appearance, my heart softened instantly. Thinking it would be too extravagant to
 make him cum today, I decided to keep him for slow play.
 
-I reluctantly stroked the already towering, leaning tower-like giant ox cock, satisfied to see the *
-*ox beastman** shudder.
+I reluctantly stroked the already towering, leaning tower-like giant ox cock, satisfied to see the **ox beastman** shudder.
 
 "Alright, that's enough for today. Turn over. I need to reinsert the **suppressor**."
 
@@ -294,8 +292,7 @@ anymore. Those full tiger breasts, that thick tiger cock—all became props for 
 fantasy. Died silently, died inexplicably, without even a name.
 
 **【Blue-White Wrestling Singlet Ox Beastman Captive】**
-This ox brother was probably the most pitiable character in the whole story. Wearing a high-grade *
-*Wrestling Soldier** uniform, body built like a mountain—probably a tough guy in the fighting
+This ox brother was probably the most pitiable character in the whole story. Wearing a high-grade **Wrestling Soldier** uniform, body built like a mountain—probably a tough guy in the fighting
 arenas. Ended up a captive, sent over with a longer **suppressor** inserted. He genuinely thought he
 was going to die. Played with by the protagonist, scared and aroused, almost made to cum several
 times, barely holding back each time through sheer will to survive. Touching his nipples made him

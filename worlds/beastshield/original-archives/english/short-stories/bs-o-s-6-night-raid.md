@@ -89,20 +89,17 @@ the **bull beastman**’s **meat rod**, controlling its trajectory so that the e
 through the gaps in the railing, landing on the grass outside with a series of wet slaps.
 
 For every spurt of semen the **bull beastman** shot, **intruder** watched intently, not missing a
-single detail from the moment it sprayed to the moment it landed! Each expansion and twitch of the *
-*bull whip** in his palm represented another surge of bull semen passing through—this sensation
+single detail from the moment it sprayed to the moment it landed! Each expansion and twitch of the **bull whip** in his palm represented another surge of bull semen passing through—this sensation
 excited him immensely.
 
 After shooting over a dozen spurts, the **bull beastman** finally emptied all his semen. His
 soulless body began to sway. **Intruder** immediately supported the hefty, muscular body about to
-collapse, gently laying it forward so that its waist hung over the iron railing, its two *
-*white-socked** thick legs dangling limply on the ground, its full, firm buttocks raised high.
+collapse, gently laying it forward so that its waist hung over the iron railing, its two **white-socked** thick legs dangling limply on the ground, its full, firm buttocks raised high.
 
 Although the **bull beastman** was dead, **intruder** wasn’t ready to end things yet. He crouched
 down and began stroking the taut **white socks** on the **bull beastman**’s calves. The cotton
 texture wrapped around the muscles and the sticky, slippery sensation of the semen splattered on
-them sent waves of excitement through his palm and into his mind. He quickly removed one of the *
-*bull beastman**’s **military boots**, lifted his large foot, and buried his face into the broad
+them sent waves of excitement through his palm and into his mind. He quickly removed one of the **bull beastman**’s **military boots**, lifted his large foot, and buried his face into the broad
 sole. The slightly damp **white sock** emitted a faint trace of sweat, driving **intruder** wild
 with desire. He couldn’t help but lick the **bull beastman**’s sock sole a few times while
 simultaneously stroking his own **meat rod**, satisfying his craving.
@@ -165,24 +162,20 @@ Skilled, twisted. He’ll gently support a collapsing corpse, carefully admire t
 of semen, even thoughtfully “give the dead a toy to relieve boredom.”  
 When he licked the **bull beastman**’s sock sole, that obsession and excitement were chilling. This
 isn’t simple killing anymore—it’s ritualistic, sexually charged execution art.  
-He left satisfied. Tonight’s “hunt” has only just begun. In the darkness, who knows how many other *
-*Beast Shield Company** unlucky souls will become his next “masterpiece.”
+He left satisfied. Tonight’s “hunt” has only just begun. In the darkness, who knows how many other **Beast Shield Company** unlucky souls will become his next “masterpiece.”
 
 ### Story Reflection
 
 *After reading this, my back feels a little cold.*  
 *This **intruder**, what excites him isn’t the thrill of killing his own kind, but the process of
-“destroying.”*  
-*Watching a muscular, powerful **male beastman** lose resistance bit by bit in his hands, controlled
+“destroying.”**Watching a muscular, powerful **male beastman** lose resistance bit by bit in his hands, controlled
 by physiological reactions, and finally die in extreme fear and inexplicable pleasure—that’s what
 gets him off.*  
 *That **bull beastman** died in such a humiliating way.*  
 *He was probably just an ordinary soldier coasting through life, with no grand ambitions, just
 wanting to finish his shift peacefully. Instead, he became someone’s late-night “toy,” dying without
-any value and with immense shame.*  
-*The most ironic thing is that in this world, what **male beastmen** pride themselves on most—their
-strength and sexual characteristics—becomes their greatest weakness.*  
-*No matter how thick your chest muscles are, no matter how thick your arms are—once your lifeline is
+any value and with immense shame.**The most ironic thing is that in this world, what **male beastmen** pride themselves on most—their
+strength and sexual characteristics—becomes their greatest weakness.**No matter how thick your chest muscles are, no matter how thick your arms are—once your lifeline is
 seized, you’re like a snake pinched at its vital point, completely at the mercy of others.*  
 *And death is always tied to ejaculation.*  
 *As if to say: You **male beastmen**, you live to fight and reproduce, and even in death you can’t

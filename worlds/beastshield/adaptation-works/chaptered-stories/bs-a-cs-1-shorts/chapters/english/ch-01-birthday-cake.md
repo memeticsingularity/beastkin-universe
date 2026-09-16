@@ -48,8 +48,7 @@ Further away, several **wolf beastmen** were practicing combat moves, swift and 
 muscle lines rapidly
 contracting and extending beneath their uniforms.
 
-Azhuang walked towards the water cooler by the wall. His steps were heavy but steady, his *
-*olive-green sneakers**
+Azhuang walked towards the water cooler by the wall. His steps were heavy but steady, his **olive-green sneakers**
 making faint "squeaks" on the rubber floor. The thick muscles of his calves were clearly outlined
 beneath his **white
 long socks**, the olive-green stripe at the sock cuff stretched somewhat out of shape.
@@ -70,8 +69,7 @@ No colleague knew. At **Beast Shield Company**, no one cared about the birthday 
 **. They only cared
 about your number, your mission completion rate, how much labor you contributed each month. Azhuang
 was long used to it.
-He was just an ordinary yellow-skinned bull beastman, number **G-277**, monthly salary one hundred *
-*RUB**, duties
+He was just an ordinary yellow-skinned bull beastman, number **G-277**, monthly salary one hundred **RUB**, duties
 including patrol, guard duty, loading goods—all purely physical tasks that required no thought.
 
 He walked to his locker and twisted the combination lock open with thick fingers. The click of the
@@ -163,8 +161,7 @@ Not physically tired. That heavy, indescribable kind of tiredness in his heart.
 
 The elevator stopped at the first floor, doors opening.
 
-The lobby was spacious, floor tiled with polished marble. Directly facing the elevator, a huge *
-*Beast Shield Company**
+The lobby was spacious, floor tiled with polished marble. Directly facing the elevator, a huge **Beast Shield Company**
 emblem hung on the wall—a black shield with an interlocking claw pattern in the center. Below the
 emblem were a few
 potted plants, their leaves covered in a thin layer of dust.
@@ -196,8 +193,7 @@ his face. "See you tomorrow."
 "See you tomorrow." Azhuang nodded.
 
 He turned to leave, then stopped, looking back to add, "Brother Bear, be careful on duty tonight.
-Heard there are *
-*Bounty Hunters** active nearby recently."
+Heard there are **Bounty Hunters** active nearby recently."
 
 Brother Bear grinned, the smile somewhat fierce. "Let them come. I'm itching for a fight anyway."
 
@@ -270,8 +266,7 @@ garbage bins, the laundry detergent scent of drying clothes... all mingling toge
 Azhuang knew this road well. He'd been walking it for seven years.
 
 He remembered the first year. He'd just been employed three months, received his first salary.
-Counting those crumpled *
-*RUB** notes, he thought about what to buy to celebrate his twenty-fifth birthday. Passing "Sweet
+Counting those crumpled **RUB** notes, he thought about what to buy to celebrate his twenty-fifth birthday. Passing "Sweet
 Corner," he was drawn
 to the cakes displayed in the window. Pink cream, bright red fruit, and "Happy Birthday" written in
 chocolate sauce.
@@ -920,8 +915,7 @@ Azhuang slid down along the counter.
 His legs gave out, knees bending, buttocks hitting the floor with a heavy "thud." He sat leaning
 against the counter,
 thick legs splayed, the **white long socks** on his feet already completely soiled with blood and
-cream, the number *
-*G-277** on the soles covered by stains, barely legible.
+cream, the number **G-277** on the soles covered by stains, barely legible.
 
 He sat in his own pool of blood.
 
@@ -1050,8 +1044,7 @@ Then, he extended his index finger, gently swiping it over Azhuang's **nipple**.
 
 The moment his fingertip touched the nipple tip, Azhuang's body shook violently again. Not just
 sensitivity, but a deep,
-reproductive instinct reaction. His legs straightened stiffly, toes curling inside his socks, the *
-*white long sock**
+reproductive instinct reaction. His legs straightened stiffly, toes curling inside his socks, the **white long sock**
 cuffs stretched to their limit.
 
 The wolf's index finger pad picked up a bit of the milky liquid. He raised his hand, brought it to
@@ -1432,8 +1425,7 @@ small spoon. Sweet, so
 sweet he'd squint, thick tail gently swaying behind him. In that moment, he'd temporarily forget
 being a **Beast Shield
 grunt**, forget those colleague corpses he'd loaded into **trash bins**, forget **Captain Tiger**'s
-icy gaze and *
-*Bounty Hunters**' omnipresent threat. He was just Azhuang, a bull beastman who liked sweets.
+icy gaze and **Bounty Hunters**' omnipresent threat. He was just Azhuang, a bull beastman who liked sweets.
 
 Did he fantasize about a future? Perhaps. Late at night, when dorm snores rose and fell, he'd lie
 awake staring at the
