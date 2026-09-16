@@ -18,6 +18,16 @@
 
 ---
 
+## 配图 / Commissioned Art
+
+![黑豹守卫 · 二楼打扑克摸鱼](../../../../../images/commission/bs-o-cm-1-main-story-1/20260817-leopard.png)
+
+> 委托稿 · 2026-08-17 · 兽游世界（[委托稿说明](../../../../../images/commission/bs-o-cm-1-main-story-1/README.md)）
+
+> ⚠️ 画面与原文的出入：本档案为**黑豹**，画中为灰毛云豹/雪豹型；原文是**两只**守卫对坐打牌（另一只是棕熊），画中只有一只豹；「三张扑克牌」「枕手大笑」「翘腿露白袜脚掌」均为艺术加戏。本图属「G级杂兵摸鱼图」类别，不严格对应单一场景。
+
+---
+
 ## 二、登场原文
 
 ### [vol-1-ch-09：总部突袭](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)

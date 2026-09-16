@@ -17,6 +17,18 @@
 
 ---
 
+## 配图 / Commissioned Art
+
+![白制服虎枪械兵 · 被炎从背后制住](../../../../../images/commission/bs-o-cs-1-yan-liang/20260706-tiger.png)
+
+> 委托稿 · 2026-07-06 · 炎魉（[委托稿说明](../../../../../images/commission/bs-o-cs-1-yan-liang/README.md)）
+
+> 📋 本图是本作目录下 [`commission.md`](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/commission.md) 委约要素清单的成图，该清单逐条抄自 ch-2 第 70–100 行。
+
+> ⚠️ 画面与原文的出入：原文姿势是被顶在单膝跪地的炎的大腿上、身体反弓，且肉棒始终在裤内、精液灌在紧身裤里；画中改为俯视掏握，「满脸精液」原文无。
+
+---
+
 ## 二、外貌特征
 
 - 虎兽人，身材粗壮

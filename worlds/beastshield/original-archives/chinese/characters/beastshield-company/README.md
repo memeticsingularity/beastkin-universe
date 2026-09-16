@@ -98,6 +98,32 @@
 
 ---
 
+## 委托稿配图索引
+
+> 以下角色已配有**委托稿插画**，其档案内含 `## 配图 / Commissioned Art` 区块。
+> 图库总索引与命名规范见 [`original-archives/images/commission/README.md`](../../../images/commission/README.md)；
+> 写法规范见 [ARCHIVE-CONVENTIONS.md](ARCHIVE-CONVENTIONS.md) 第八节。
+
+| 委托稿 | 角色档案 | 作品 | 登场 |
+|--------|----------|------|------|
+| 20260529-tiger.png | [tiger-g-mo-quan-ch-2-001](tiger/g/tiger-g-mo-quan-ch-2-001.md) | 墨犬（支线） | s-1-ch2 山间遭遇 |
+| 20260604-bull.png | [bull-e-ss-003-001](bull/e/bull-e-ss-003-001.md) | 黑石2（短篇） | SS-003 处置段 |
+| 20260618-dog.png | [dog-g-vol-3-ch-08-001](dog/g/dog-g-vol-3-ch-08-001.md) | 白之都（三卷） | vol-3-ch-08 龙神浮岛 |
+| 20260630-dog.png | [dog-e-yan-liang-ch-2-001](dog/e/dog-e-yan-liang-ch-2-001.md) | 炎魉（支线） | 炎魉 ch-2 办公室清剿 |
+| 20260706-tiger.png | [tiger-r-yan-liang-ch-2-001](tiger/r/tiger-r-yan-liang-ch-2-001.md) | 炎魉（支线） | 炎魉 ch-2 办公室清剿 |
+| 20260717-wolf.png | [wolf-g-vol-3-ch-04-001](wolf/g/wolf-g-vol-3-ch-04-001.md) | 白之都（三卷） | vol-3-ch-04 念力防御 |
+| 20260717-wolf.png | [bear-g-vol-3-ch-04-001](bear/g/bear-g-vol-3-ch-04-001.md) 🔗同框 | 白之都（三卷） | vol-3-ch-04 念力防御 |
+| 20260725-lion.png | [lion-o-vol-2-ch-04-001](lion/o/lion-o-vol-2-ch-04-001.md) | 魔影（二卷） | vol-2-ch-04 虎卫组之战 |
+| 20260801-boar.png | [boar-g-vol-3-ch-07-001](boar/g/boar-g-vol-3-ch-07-001.md) | 白之都（三卷） | vol-3-ch-07 警察局突袭 |
+| 20260817-leopard.png | [leopard-g-vol-1-ch-09-001](leopard/g/leopard-g-vol-1-ch-09-001.md) | 兽游世界（一卷） | vol-1-ch-09 总部突袭 |
+| 20260822-bull.png | [bull-g-vol-2-ch-02-001](bull/g/bull-g-vol-2-ch-02-001.md) | 魔影（二卷） | vol-2-ch-02 走廊巡逻 |
+| 20260901-rhino.png | [rhino-r-yan-liang-ch-3-001](rhino/r/rhino-r-yan-liang-ch-3-001.md) | 炎魉（支线） | 炎魉 ch-3 深层对峙 |
+| 20260916-bear.png | [bear-e-vol-1-ch-13-001](bear/e/bear-e-vol-1-ch-13-001.md) | 兽游世界（一卷） | vol-1-ch-13 解锁封印 |
+
+🔗 = 该图中作为同框角色入镜，非画面主体。
+
+---
+
 ## 集体档案标记
 
 > ⭐ = 集体档案（代表多名无法区分的士兵群体，在索引中以 ⭐ 标记）

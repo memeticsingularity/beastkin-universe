@@ -17,6 +17,16 @@
 
 ---
 
+## 配图 / Commissioned Art
+
+![熊兽人（画面左下角倒卧者）· 狼兽人跪立其旁自撸射精](../../../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png)
+
+> 委托稿 · 2026-07-17 · 白之都（[委托稿说明](../../../../../images/commission/bs-o-cm-1-main-story-3/README.md)）
+
+> 🔗 **交叉引用**：本图画面的主体是把他吸杀的**狼兽人**（档案见 [wolf-g-vol-3-ch-04-001](../../wolf/g/wolf-g-vol-3-ch-04-001.md)），他作为身旁倒卧的尸体入镜——军绿色短裤 + 白袜与 G级制服一致。
+
+---
+
 ## 二、登场原文
 
 ### [念力防御](ch-4-psychic-defense.md)

@@ -14,6 +14,19 @@
 | [`images/`](images/) | 图片资源 | Image assets |
 | [`ai-discussion/`](ai-discussion/) | AI 讨论记录 | AI discussion records |
 
+### 图片资源 / Image Assets
+
+`images/` 下按来源与题材分目录：
+
+| 目录 | 收录内容 | 命名 |
+|------|----------|------|
+| [`images/character-arts/`](images/character-arts/) | 作者自绘的兵种制服设定图 | `<等级>-<兽种>/<日期>.jpg` |
+| [`images/main-story/`](images/main-story/) | 作者自绘的主线配图 | `vol N/ch-N-N.jpg` |
+| [`images/short-stories/`](images/short-stories/) | 作者自绘的短篇配图 | `cs-N-ch-N-N.jpg` |
+| [`images/songguo/`](images/songguo/) | 「松果」系列图 + 场景说明 | `<日期>-<序号>.jpg` |
+| [`images/daily/`](images/daily/) | 日常摸鱼图 | `<日期>-<序号>.jpg` |
+| **[`images/commission/`](images/commission/README.md)** | **委托画师绘制的约稿作品**（含命名与归档规范、总索引） | `<作品编码>/<日期>-<兽种>.png` |
+
 ---
 
 ## 二、作品总览 / Works Overview
