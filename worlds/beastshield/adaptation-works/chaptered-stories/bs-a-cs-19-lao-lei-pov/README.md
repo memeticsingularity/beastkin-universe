@@ -39,12 +39,28 @@
 
 ---
 
+## 第二部《围剿》章节骨架（续写中）
+
+> 承接原作 ch-3（颜部长的清算与追击）、ch-4（暗室三座浪青平）。
+> **视角铁律**：本作**只写老雷亲眼所见、亲身所历**——镜头钉在他肩上，他不在场的段落一律不写、不旁白。
+> 原作 ch-3 前半的「颜部长清算值守兵／检尸推案／下令烧地」属颜部长视角，**本作不涉及**，
+> 该线留待**另起独立作品**处理；他的存在在本作里只通过老雷的遭遇间接泄出（远处的火光、搜捕队的议论、曝尸的现场）。
+
+| 章 | 内容 | 对应原作 |
+|:--|:--|:--|
+| [Ch.6 归途](chapters/ch-06-the-road-back.md) | 弃车→路过自家门口→搭顺风车进市区→狙击（狗司机中弹）→反杀整队围剿兵（白熊／两牛／黑熊／白制服黑虎狙击手） | 原作 Ch.3 公路段（现场扩写） |
+| Ch.7 玉米地 | 藏身农田→地毯式搜捕→逐个猎杀（虎杂兵／犀牛杂兵／熊武斗兵）→远处烧地的火光 | 原作 Ch.3 玉米地段 |
+| Ch.8 民房与浪青平 | 被围民房→「暗室三座」浪青平一剑挑翻兽盾兵→索要情报局资料→交易未成→跳窗脱身 | 原作 Ch.4 前半 |
+| Ch.9 合围 | 老雷被围困视角下的合围：闪光弹的白光与浪青平重伤遁走、牛棚杂物间线、两人关门商议 | 原作 Ch.4 后半 |
+
+---
+
 ## 关联文档
 
 - [metadata.yaml](metadata.yaml)
 - [角色与推进追踪](.process/TRACKING.md)（时间线/角色/空间锚点/红线账本）
 - [当前进度](.process/CURRENT_STATUS.md)
-- [与原作对照](.process/2026-09-16-original-comparison.md)（Ch.1–5 ↔ 原作 ch-1/ch-2 逐拍比对；D/M/N/I 编号已逐条裁定并执行，余 D7 后半与 M5 待定）
+- [与原作对照](.process/2026-09-16-original-comparison.md)（Ch.1–5 ↔ 原作 ch-1/ch-2 逐拍比对；D/M/N/I/A 编号已逐条裁定并执行）
 - 原作：`worlds/beastshield/original-archives/.../side/bs-o-cs-3-babysitter-lei/`
 - 老雷档案：`worlds/beastshield/original-archives/.../characters/agent-bureau/lao-lei.md`
 - 笔法基准：`author/001-lanse/style-analysis/lanse-positive-creation-supplement.md`（五机制）
