@@ -83,3 +83,4 @@
 
 *档案来源：老雷突袭情报局 [第一章：别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md)*
 *创建日期：2026-08-20*
+*文本同步：2026-09-16（随作者更新稿同步引用）*

@@ -20,21 +20,22 @@
 ## 基本信息 / Basic Information
 
 - **编码 / Code**: `bs-o-cs-3-babysitter-lei`
+- **原作题名 / Original Title**: 兽盾情报局（第一卷） / Beastshield Intelligence Bureau (Vol. 1)
 - **曾用名 / Former Title**: 带娃的老雷 / Babysitter Lei
 - **状态 / Status**: 连载中 / Ongoing
 - **位置 / Location**: original-archives (原创作品 / Original work)
 - **类型 / Type**: 支线分章故事 (cs) / Side chaptered story
 - **作者 / Author**: lanse（笑天神犬）
 - **开始日期 / Start Date**: 2026-07-09
-- **最近更新 / Last Update**: 2026-09-01
+- **最近更新 / Last Update**: 2026-09-16
 
 ---
 
 ## 故事简介 / Synopsis
 
-隐居的武林高手老雷在别墅中抚养八岁的白虎小雷。深夜，兽盾武装士兵潜入家中试图绑走小雷，老雷不得不在家中展开一场血腥清理。事后他顺着幸存司机留下的线索主动出击，端掉兽盾情报部门窝点，一路潜入顶层数据中心夺走机密硬盘。外出归来的情报部长颜某发现窝点被抄，迁怒并逐一处决当夜守值兵，随后下令围剿雷神寰——老雷在返程顺风车上遭狙击，反杀整队围剿兵，又于玉米地逐一伏击搜捕的兽盾兵。追击途中，自称「暗室三座」的浪青平一剑挑翻兽盾兵，与被围困民房的老雷对峙，索取情报局资料，交易未成。
+隐居的武林高手老雷在别墅中抚养八岁的白虎小雷。深夜，兽盾武装士兵潜入家中试图绑走小雷，老雷不得不在家中展开一场血腥清理。事后他顺着幸存司机留下的线索主动出击，端掉兽盾情报部门窝点，一路潜入顶层数据中心夺走机密硬盘。外出归来的情报部长颜某发现窝点被抄，迁怒并逐一处决当夜守值兵，随后下令围剿雷神寰——老雷在返程顺风车上遭狙击，反杀整队围剿兵，又于玉米地逐一伏击搜捕的兽盾兵。追击途中，自称「暗室三座」的浪青平一剑挑翻兽盾兵，与被围困民房的老雷对峙，索取情报局资料，交易未成；颜部长随即率众合围，以犀牛杂兵为饵引爆其背后的闪光弹，浪青平肩胛重伤遁入牛棚，老雷解决追兵后与他照面，两人关上杂物间商议对策。
 
-A low-key martial arts master, Old Lei, raises his eight-year-old white tiger son Xiaolei in a villa. One night, BeastShield armed soldiers infiltrate the home to abduct Xiaolei, forcing Old Lei to turn his house into a battlefield. Later, following clues left by the surviving driver, he takes the offensive and cleans out a BeastShield intelligence department outpost, raiding the top-floor data center for classified data. Minister Yan, the intelligence chief, returns to find the outpost destroyed, vents his fury on the night-shift guards, then orders a manhunt for Lei Shenhuan — Old Lei survives a sniper ambush in a ride-share car, wipes out the pursuing squad, and poses as a farmhand to ambush the search party in the cornfields. During the pursuit, Luo Qingping, self-styled "Third Seat of the Dark Chamber," cuts down BeastShield soldiers and confronts the cornered Old Lei, demanding the intelligence data — the trade does not go through.
+A low-key martial arts master, Old Lei, raises his eight-year-old white tiger son Xiaolei in a villa. One night, BeastShield armed soldiers infiltrate the home to abduct Xiaolei, forcing Old Lei to turn his house into a battlefield. Later, following clues left by the surviving driver, he takes the offensive and cleans out a BeastShield intelligence department outpost, raiding the top-floor data center for classified data. Minister Yan, the intelligence chief, returns to find the outpost destroyed, vents his fury on the night-shift guards, then orders a manhunt for Lei Shenhuan — Old Lei survives a sniper ambush in a ride-share car, wipes out the pursuing squad, and poses as a farmhand to ambush the search party in the cornfields. During the pursuit, Luo Qingping, self-styled "Third Seat of the Dark Chamber," cuts down BeastShield soldiers and confronts the cornered Old Lei, demanding the intelligence data — the trade does not go through. Minister Yan then encircles the house and uses a rhino grunt as bait to set off a flash grenade on his back, wounding Qingping; Qingping, his shoulder shattered, flees into a cowshed, where Old Lei finishes off the pursuers and meets him — the two shut themselves in a storage room to discuss a plan.
 
 ---
 
@@ -47,7 +48,7 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 `灼流暗劲` `性欲值系统` `射精死亡` `强制高潮` `憋精` `一次性射空` `紧身制服` `白袜/黑袜` `袜底编号`
 
 ### ⚔️ 死亡与暴力 / Death & Violence
-`夜袭反杀` `暗劲处决` `捏蛋` `掐颈` `暗劲灌刀` `掷刀` `手指处决` `尸体处理` `尸体堆砌` `洁癖善后`
+`夜袭反杀` `暗劲处决` `捏蛋` `掐颈` `暗劲灌刀` `掷刀` `手指处决` `尸体处理` `尸体堆砌` `洁癖善后` `闪光弹诱饵`
 
 ### 🏛️ 权力与关系 / Power & Relations
 `特工局精英` `兽盾情报部门` `部长威压` `家庭守护` `父子关系` `制服等级制（军绿/E级黑/白）`
@@ -59,7 +60,7 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 `第三人称叙事` `短段落快节奏` `黑色幽默` `直白露骨` `武林高手主角`
 
 ### 🗺️ 核心场景 / Key Settings
-`老雷别墅（夜间）` `兽盾情报部门` `体训室` `走廊/洗手间` `顶层数据中心` `楼梯间`
+`老雷别墅（夜间）` `兽盾情报部门` `体训室` `走廊/洗手间` `顶层数据中心` `楼梯间` `农田玉米地` `民房` `牛棚杂物间`
 
 ### 🧩 世界观机制 / World Mechanics
 `兽盾公司等级制` `制服编码系统` `性欲值/Libido系统` `灼流暗劲` `暗劲灌器` `射尽而亡`
@@ -85,6 +86,21 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 
 ---
 
+## 原作文本收录记录 / Original Text Intake Log
+
+> 本栏记录按作者（lanse）提供的原稿所做的**逐次文本同步**；正文一律照录原稿，不做改写。
+
+- **2026-09-16 · 收录《兽盾情报局》第一卷原稿**（来源：作者提供文本，题名《兽盾情报局》，分卷标注「第一卷」，共四章）
+  - 第一章：按原稿同步（补入「咳呃」等响应句、熊兵憋精姿态等段落）
+  - 第二章：按原稿同步（开户/敲门段落重新分段）
+  - 第三章：与库内文本一致，未改动
+  - 第四章：**大幅增补** —— 原稿在本章后半新增约 84 段：颜部长率众合围浪青平、犀牛杂兵被当作闪光弹载体、浪青平重伤遁入牛棚、老雷处置追兵（熊兽兵「挺裆射」处决）并与浪青平约定在杂物间商谈对策
+  - 备注：收录阶段**一律照录原文**；错别字与语病留待作者统一修订
+  - 订正（2026-09-16，作者确认后直接改正文）：第二章「虎兽盾兵**画**还没说完」→「**话**」、「老雷**全称**握住」→「**全程**」；第一章「露了出来 。」多余空格已删；第四章「使了个**颜色**」→「**眼色**」、「真是**遥不可及**」→「**愚不可及**」、「就被**一直**大手」→「**一只**大手」、「**放**瘫软的熊兽兵**放**平在地上」→「**把**瘫软的熊兽兵放平在地上」。相关受害者档案的引用已同步
+  - 配图：第一章末尾的插图占位标记「（图）」已替换为配图 `images/short-stories/cs-3-ch-1-1.jpg`（原稿文件 `HMw222vbIAAu3Qq.jpg` 已按该目录命名规范重命名）
+
+---
+
 ## 与主线的关系 / Relation to Main Story
 
 - 老雷为主线第二卷《魔影》登场角色（特工局精英特工、魔影搭档），本篇聚焦其家庭线与隐居生活，为主线未展开的支线。
@@ -93,12 +109,13 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 
 - [2026-08-12 阅读印象](ai-discuss/2026-08-12-reading-impressions.md) — Ch.1-2 初次阅读感受：暴力与日常的荒诞并置、灼流暗劲变体、父子叙事情感张力
 - [2026-08-20 角色共情讨论](ai-discuss/2026-08-20-character-sympathy.md) — Ch.1-3 角色共情、道德分层、警报机制与安保建制分析（Q1-Q13）
+- [2026-09-16 原作文本收录记录](ai-discuss/2026-09-16-original-text-intake.md) — 收录《兽盾情报局》第一卷原稿的逐章差异、连带档案同步、疑似笔误与遗留事项清单
 
 ## 续写与改编 / Adaptation
 
 如需续写或改编本故事，请在 `worlds/beastshield/adaptation-works/chaptered-stories/` 路径下新建项目。
 
-- [改编扩写版：bs-a-s-4-babysitter-lei / Adaptation: bs-a-s-4-babysitter-lei](../../../adaptation-works/short-stories/bs-a-s-4-babysitter-lei/) — 含感官序列扩写与灭口段落展开
+- [改编扩写版：bs-a-s-4-babysitter-lei / Adaptation: bs-a-s-4-babysitter-lei](../../../../../adaptation-works/short-stories/bs-a-s-4-babysitter-lei/) — 含感官序列扩写与灭口段落展开
 
 ---
 

@@ -75,3 +75,4 @@
 
 *档案来源：老雷突袭情报局 [第二章](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)*
 *创建日期：2026-08-20*
+*文本同步：2026-09-16（随作者更新稿同步引用）*
