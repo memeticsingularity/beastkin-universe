@@ -24,19 +24,22 @@
 
 ## 索引总览
 
-| 兽种 | 已建档数 | 说明 |
-|------|---------|------|
-| [熊科 / Bear](bear/) | 76+5⭐ | 熊兽人（棕熊、白熊、黑熊、灰熊等）——兽盾主力兵种，分布最广 |
-| [牛科 / Bull](bull/) | 57+3⭐ | 牛兽人（黄牛、水牛等）——储精量最大，生命力顽强 |
-| [虎科 / Tiger](tiger/) | 64+1⭐ | 虎兽人（黄虎、白虎、蓝虎、黑虎等）——精锐战士，战斗技巧丰富 |
-| [犬科 / Dog](dog/) | 19+1⭐ | 狗兽人（德牧、哈士奇等）——数量庞大，多任底层巡逻 |
-| [狼科 / Wolf](wolf/) | 10+1⭐ | 狼兽人——敏捷见长，多担任巡逻 / 狙击 |
-| [野猪 / Boar](boar/) | 18+1⭐ | 野猪兽人——体格强壮，獠牙突出 |
-| [狮科 / Lion](lion/) | 8 | 狮兽人——力大无穷，身体素质最为出色 |
-| [豹科 / Leopard](leopard/) | 9 | 豹兽人——速度快、敏捷高，多任侦查 |
-| [犀牛 / Rhino](rhino/) | 11 | 犀牛兽人——皮糙肉厚，正面防御角色 |
-| [混合 / Mixed](mixed/) | 3+24⭐ | 多兽种混合场景 / 集体档案 |
-| [特殊 / Special](special/) | 10+1⭐ | 部长级、组长级、高层特殊角色 |
+| 兽种 | 已建档数 | 委托图 | 说明 |
+|------|---------|-------|------|
+| [熊科 / Bear](bear/) | 76+5⭐ | 🖼 2（1 同框） | 熊兽人（棕熊、白熊、黑熊、灰熊等）——兽盾主力兵种，分布最广 |
+| [牛科 / Bull](bull/) | 57+3⭐ | 🖼 2 | 牛兽人（黄牛、水牛等）——储精量最大，生命力顽强 |
+| [虎科 / Tiger](tiger/) | 64+1⭐ | 🖼 2 | 虎兽人（黄虎、白虎、蓝虎、黑虎等）——精锐战士，战斗技巧丰富 |
+| [犬科 / Dog](dog/) | 19+1⭐ | 🖼 2 | 狗兽人（德牧、哈士奇等）——数量庞大，多任底层巡逻 |
+| [狼科 / Wolf](wolf/) | 10+1⭐ | 🖼 1 | 狼兽人——敏捷见长，多担任巡逻 / 狙击 |
+| [野猪 / Boar](boar/) | 18+1⭐ | 🖼 1 | 野猪兽人——体格强壮，獠牙突出 |
+| [狮科 / Lion](lion/) | 8 | 🖼 1 | 狮兽人——力大无穷，身体素质最为出色 |
+| [豹科 / Leopard](leopard/) | 9 | 🖼 1 | 豹兽人——速度快、敏捷高，多任侦查 |
+| [犀牛 / Rhino](rhino/) | 11 | 🖼 1 | 犀牛兽人——皮糙肉厚，正面防御角色 |
+| [混合 / Mixed](mixed/) | 3+24⭐ | — | 多兽种混合场景 / 集体档案 |
+| [特殊 / Special](special/) | 10+1⭐ | — | 部长级、组长级、高层特殊角色 |
+
+> 🖼 = 该兽种已配委托稿张数（合计 **12 张 / 9 个兽种**）· 同框 = 该图中作为同框角色入镜 · — = 暂无委托稿。
+> 逐张浏览见下方 [委托稿配图索引](#委托稿配图索引)。
 
 ---
 
@@ -100,9 +103,136 @@
 
 ## 委托稿配图索引
 
-> 以下角色已配有**委托稿插画**，其档案内含 `## 配图 / Commissioned Art` 区块。
+> 12 张委托稿，覆盖 9 个兽种。每张图同时出现在**总索引（本页）**、**兽种 README**、**等级 README**、**角色档案**与**章节正文原位**五处。
 > 图库总索引与命名规范见 [`original-archives/images/commission/README.md`](../../../images/commission/README.md)；
-> 写法规范见 [ARCHIVE-CONVENTIONS.md](ARCHIVE-CONVENTIONS.md) 第八节。
+> 档案内的写法规范见 [ARCHIVE-CONVENTIONS.md](ARCHIVE-CONVENTIONS.md) 第八节。
+
+> 每个兽种一节，条目按约稿日期排列——**标题即「作品 + 章节 + 角色」**，可直接在大纲（Outline）里跳转。
+> 尚无委托稿的兽种（[混合](mixed/README.md) / [特殊](special/README.md)）不列。
+
+### 熊科 / Bear — 2 张（其中 1 张为同框）
+
+#### 兽游世界 Ch.13 解锁封印 · 灰熊武斗兵（E级 · 黑制服）
+
+**档案**：[bear-e-vol-1-ch-13-001](bear/e/bear-e-vol-1-ch-13-001.md)
+
+![灰熊武斗兵 · 被银针封穴后保持出拳姿势](../../../images/commission/bs-o-cm-1-main-story-1/20260916-bear.png)
+
+> 兽游世界 Ch.13 解锁封印 · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-1/README.md)
+
+#### 白之都 Ch.4 念力防御 · 熊兽人（G级 · 🔗同框）
+
+**档案**：[bear-g-vol-3-ch-04-001](bear/g/bear-g-vol-3-ch-04-001.md)
+
+![熊兽人（画面左下角倒卧者）· 狼兽人跪立其旁自撸射精](../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png)
+
+> 白之都 Ch.4 念力防御 · 画面主体为 [狼兽人](wolf/g/wolf-g-vol-3-ch-04-001.md) · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-3/README.md)
+
+### 牛科 / Bull — 2 张
+
+#### 黑石2（短篇）· 黑制服牛预备兵（E级）
+
+**档案**：[bull-e-ss-003-001](bull/e/bull-e-ss-003-001.md)
+
+![黑制服牛兽人 · 被黑石扭住乳头](../../../images/commission/bs-o-s-3-blackstone-2/20260604-bull.png)
+
+> 黑石2（短篇） · [委托稿说明](../../../images/commission/bs-o-s-3-blackstone-2/README.md)
+
+#### 魔影 Ch.2 走廊巡逻 · 牛兽人守卫（档案记 G级 / 画面为 R级白制服）
+
+**档案**：[bull-g-vol-2-ch-02-001](bull/g/bull-g-vol-2-ch-02-001.md)
+
+![牛兽人守卫 · 坐在马桶上](../../../images/commission/bs-o-cm-1-main-story-2/20260822-bull.png)
+
+> 魔影 Ch.2 走廊巡逻 · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-2/README.md)
+
+### 虎科 / Tiger — 2 张
+
+#### 墨犬 Ch.2 山间遭遇 · 棕虎搜捕队员（G级 · 寸止留手，未死亡）
+
+**档案**：[tiger-g-mo-quan-ch-2-001](tiger/g/tiger-g-mo-quan-ch-2-001.md)
+
+![棕虎兽人 · 被黑狗从背后制住](../../../images/commission/bs-o-cs-2-mo-quan/20260529-tiger.png)
+
+> 墨犬 Ch.2 山间遭遇 · [委托稿说明](../../../images/commission/bs-o-cs-2-mo-quan/README.md)
+
+#### 炎魉 Ch.2 办公室清剿 · 白制服虎枪械兵（R级）
+
+**档案**：[tiger-r-yan-liang-ch-2-001](tiger/r/tiger-r-yan-liang-ch-2-001.md)
+
+![白制服虎枪械兵 · 被炎从背后制住](../../../images/commission/bs-o-cs-1-yan-liang/20260706-tiger.png)
+
+> 炎魉 Ch.2 办公室清剿 · [委托稿说明](../../../images/commission/bs-o-cs-1-yan-liang/README.md)
+
+### 犬科 / Dog — 2 张
+
+#### 白之都 Ch.8 龙神浮岛 · 短腿狗兽人（G级）
+
+**档案**：[dog-g-vol-3-ch-08-001](dog/g/dog-g-vol-3-ch-08-001.md)
+
+![狗兽人 · 被铁箭钉在奶茶店墙上](../../../images/commission/bs-o-cm-1-main-story-3/20260618-dog.png)
+
+> 白之都 Ch.8 龙神浮岛 · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-3/README.md)
+
+#### 炎魉 Ch.2 办公室清剿 · 黑制服狗守卫（E级）
+
+**档案**：[dog-e-yan-liang-ch-2-001](dog/e/dog-e-yan-liang-ch-2-001.md)
+
+![黑制服狗守卫 · 杂物间门口抽烟](../../../images/commission/bs-o-cs-1-yan-liang/20260630-dog.png)
+
+> 炎魉 Ch.2 办公室清剿 · [委托稿说明](../../../images/commission/bs-o-cs-1-yan-liang/README.md)
+
+### 狼科 / Wolf — 1 张
+
+#### 白之都 Ch.4 念力防御 · 狼兽人（档案记 G级军绿 / 画面为 O级蓝配色）
+
+**档案**：[wolf-g-vol-3-ch-04-001](wolf/g/wolf-g-vol-3-ch-04-001.md)
+
+![狼兽人 · 跪在熊兽人尸体旁自撸射精](../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png)
+
+> 白之都 Ch.4 念力防御 · 🔗 同框：[熊兽人](bear/g/bear-g-vol-3-ch-04-001.md) · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-3/README.md)
+
+### 野猪 / Boar — 1 张
+
+#### 白之都 Ch.7 警局入侵 · 灰毛野猪兽人（G级）
+
+**档案**：[boar-g-vol-3-ch-07-001](boar/g/boar-g-vol-3-ch-07-001.md)
+
+![灰毛野猪兽人 · 被一线天倒吊](../../../images/commission/bs-o-cm-1-main-story-3/20260801-boar.png)
+
+> 白之都 Ch.7 警局入侵 · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-3/README.md)
+
+### 狮科 / Lion — 1 张
+
+#### 魔影 Ch.4 虎卫组之战 · 狮兽人（O级）
+
+**档案**：[lion-o-vol-2-ch-04-001](lion/o/lion-o-vol-2-ch-04-001.md)
+
+![狮子兽人 · 催眠房里被抬起双腿后入灌精](../../../images/commission/bs-o-cm-1-main-story-2/20260725-lion.png)
+
+> 魔影 Ch.4 虎卫组之战（原文件名作「白之都」，经作者确认属本卷）· [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-2/README.md)
+
+### 豹科 / Leopard — 1 张
+
+#### 兽游世界 Ch.9 总部突袭 · 黑豹守卫（G级）
+
+**档案**：[leopard-g-vol-1-ch-09-001](leopard/g/leopard-g-vol-1-ch-09-001.md)
+
+![黑豹守卫 · 二楼打扑克摸鱼](../../../images/commission/bs-o-cm-1-main-story-1/20260817-leopard.png)
+
+> 兽游世界 Ch.9 总部突袭 · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-1/README.md)
+
+### 犀牛 / Rhino — 1 张
+
+#### 炎魉 Ch.3 深层对峙 · 白制服犀牛老兵（R级）
+
+**档案**：[rhino-r-yan-liang-ch-3-001](rhino/r/rhino-r-yan-liang-ch-3-001.md)
+
+![白制服犀牛老兵 · 被架在会议桌上](../../../images/commission/bs-o-cs-1-yan-liang/20260901-rhino.png)
+
+> 炎魉 Ch.3 深层对峙 · [委托稿说明](../../../images/commission/bs-o-cs-1-yan-liang/README.md)
+
+### 逐张清单
 
 | 委托稿 | 角色档案 | 作品 | 登场 |
 |--------|----------|------|------|
@@ -114,13 +244,15 @@
 | 20260717-wolf.png | [wolf-g-vol-3-ch-04-001](wolf/g/wolf-g-vol-3-ch-04-001.md) | 白之都（三卷） | vol-3-ch-04 念力防御 |
 | 20260717-wolf.png | [bear-g-vol-3-ch-04-001](bear/g/bear-g-vol-3-ch-04-001.md) 🔗同框 | 白之都（三卷） | vol-3-ch-04 念力防御 |
 | 20260725-lion.png | [lion-o-vol-2-ch-04-001](lion/o/lion-o-vol-2-ch-04-001.md) | 魔影（二卷） | vol-2-ch-04 虎卫组之战 |
-| 20260801-boar.png | [boar-g-vol-3-ch-07-001](boar/g/boar-g-vol-3-ch-07-001.md) | 白之都（三卷） | vol-3-ch-07 警察局突袭 |
+| 20260801-boar.png | [boar-g-vol-3-ch-07-001](boar/g/boar-g-vol-3-ch-07-001.md) | 白之都（三卷） | vol-3-ch-07 警局入侵 |
 | 20260817-leopard.png | [leopard-g-vol-1-ch-09-001](leopard/g/leopard-g-vol-1-ch-09-001.md) | 兽游世界（一卷） | vol-1-ch-09 总部突袭 |
 | 20260822-bull.png | [bull-g-vol-2-ch-02-001](bull/g/bull-g-vol-2-ch-02-001.md) | 魔影（二卷） | vol-2-ch-02 走廊巡逻 |
 | 20260901-rhino.png | [rhino-r-yan-liang-ch-3-001](rhino/r/rhino-r-yan-liang-ch-3-001.md) | 炎魉（支线） | 炎魉 ch-3 深层对峙 |
 | 20260916-bear.png | [bear-e-vol-1-ch-13-001](bear/e/bear-e-vol-1-ch-13-001.md) | 兽游世界（一卷） | vol-1-ch-13 解锁封印 |
 
 🔗 = 该图中作为同框角色入镜，非画面主体。
+
+> **维护规则**：新增一张委托稿时，需同步本页（[索引总览](#索引总览)的「委托图」列 + 上方图墙 + 本清单）、对应**兽种 README**、对应**等级 README**、**角色档案**的 `## 配图 / Commissioned Art`、以及**章节正文原位插图**。详见 [`images/commission/README.md`](../../../images/commission/README.md) 与 [ARCHIVE-CONVENTIONS.md](ARCHIVE-CONVENTIONS.md) 第八节。
 
 ---
 

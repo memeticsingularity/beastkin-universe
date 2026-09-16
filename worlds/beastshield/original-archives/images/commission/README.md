@@ -40,9 +40,11 @@ images/commission/
 2. **文件名 = `<约稿日期>-<兽种英文小写>`**，如 `20260618-dog.png`。兽种词表与 `character-arts/` 保持一致：`bear / bull / dog / lion / leopard / rhino / tiger / wolf / boar`。
 3. **文件名日期 = 约稿/出图日期，不是故事内的时间顺序**（与 `songguo/` 的既有约定相同）。同一作品多张图按日期自然排序。
 4. **同一场景多张图**时追加序号：`<日期>-<兽种>-2.png`。
-5. 每新增一张图，需同步三处：
+5. 每新增一张图，需同步**五处**：
    - 该作品的 `README.md`（逐图说明）
    - 本文件的总表
+   - **角色档案**的 `## 配图 / Commissioned Art` 区块（含画面与原文的出入说明，见 [`ARCHIVE-CONVENTIONS.md`](../../chinese/characters/beastshield-company/ARCHIVE-CONVENTIONS.md) 第八节）
+   - **三级角色索引**：总索引 README（委托图列 + 按兽种图墙 + 逐张清单）、兽种 README（等级索引列 + 图墙）、等级 README（图墙 + 🖼 标记）
    - **对应章节正文原位插入图片 + 章末「插图索引」**
 
 ### 章节里的插图写法
@@ -78,7 +80,7 @@ images/commission/
 | 5 | [bs-o-cs-1-yan-liang/20260706-tiger.png](bs-o-cs-1-yan-liang/20260706-tiger.png) | 07-06 | [炎魉](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/README.md)（支线） | 虎兽人 · R级白制服 | [Ch.2 办公室清剿](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md) |
 | 6 | [bs-o-cm-1-main-story-3/20260717-wolf.png](bs-o-cm-1-main-story-3/20260717-wolf.png) | 07-17 | [白之都](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/README.md)（主线·三卷） | 狼兽人 · 画面为蓝制服（档案记 G级） | [Ch.4 念力防御](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md) |
 | 7 | [bs-o-cm-1-main-story-2/20260725-lion.png](bs-o-cm-1-main-story-2/20260725-lion.png) | 07-25 | [魔影](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/README.md)（主线·二卷） | 狮兽人 · O级蓝制服 | [Ch.4 虎卫组之战](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md) |
-| 8 | [bs-o-cm-1-main-story-3/20260801-boar.png](bs-o-cm-1-main-story-3/20260801-boar.png) | 08-01 | [白之都](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/README.md)（主线·三卷） | 野猪兽人 · G级军绿 | [Ch.7 警察局突袭](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) |
+| 8 | [bs-o-cm-1-main-story-3/20260801-boar.png](bs-o-cm-1-main-story-3/20260801-boar.png) | 08-01 | [白之都](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/README.md)（主线·三卷） | 野猪兽人 · G级军绿 | [Ch.7 警局入侵](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) |
 | 9 | [bs-o-cm-1-main-story-1/20260817-leopard.png](bs-o-cm-1-main-story-1/20260817-leopard.png) | 08-17 | [兽游世界](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/README.md)（主线·一卷） | 豹兽人 · G级军绿 | [Ch.9 总部突袭](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
 | 10 | [bs-o-cm-1-main-story-2/20260822-bull.png](bs-o-cm-1-main-story-2/20260822-bull.png) | 08-22 | [魔影](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/README.md)（主线·二卷） | 牛兽人 · 画面为 R级白制服 | [Ch.2 走廊巡逻](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-2-corridor-patrol.md) |
 | 11 | [bs-o-cs-1-yan-liang/20260901-rhino.png](bs-o-cs-1-yan-liang/20260901-rhino.png) | 09-01 | [炎魉](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/README.md)（支线） | 犀牛兽人 · R级白制服 | [Ch.3 深层对峙](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |

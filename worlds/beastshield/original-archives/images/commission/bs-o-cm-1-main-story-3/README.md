@@ -11,7 +11,7 @@
 |------|------|-------------|----------|------|
 | [20260618-dog.png](20260618-dog.png) | 2026-06-18 | 狗兽人（G级 · 军绿制服） | [Ch.8 龙神浮岛](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) | 已定位 |
 | [20260717-wolf.png](20260717-wolf.png) | 2026-07-17 | 狼兽人（画面为蓝制服；档案记 G级） | [Ch.4 念力防御](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md) | 已定位 |
-| [20260801-boar.png](20260801-boar.png) | 2026-08-01 | 野猪兽人（G级 · 军绿制服） | [Ch.7 警察局突袭](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) | 已定位 |
+| [20260801-boar.png](20260801-boar.png) | 2026-08-01 | 野猪兽人（G级 · 军绿制服） | [Ch.7 警局入侵](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) | 已定位 |
 
 > 📌 `20260725-lion.png`（原文件名「白之都 狮」）经作者确认属于**第二卷《魔影》**，已移至 [`../bs-o-cm-1-main-story-2/`](../bs-o-cm-1-main-story-2/20260725-lion.png)，本目录不再收录。
 
@@ -97,7 +97,7 @@
 
 [![20260801-boar](./20260801-boar.png)](./20260801-boar.png)
 
-**对应章节**：[Ch.7 警察局突袭](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) · 插图位于第 161 行之后
+**对应章节**：[Ch.7 警局入侵](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) · 插图位于第 161 行之后
 
 **观察到的细节：**
 
