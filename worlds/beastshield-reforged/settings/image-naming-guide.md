@@ -21,6 +21,7 @@ bsr_chXXX_序号_关键词.扩展名
 **示例 / Example:**
 `bsr_ch001_1_headshot.png`
 对应正文第一章的“见图01-2”，描绘虎警员被爆头的场景。
+
 Corresponds to "Image 01-2" in Chapter 1, depicting the headshot of the tiger police officer.
 
 ---

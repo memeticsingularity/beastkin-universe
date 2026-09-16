@@ -108,6 +108,7 @@ inadvertently saving his life.
 
 The wolf beastman ignored him. He walked over to the captive ox beastman, untied his bonds, and
 asked, **"Who are you?
+
 Why were they capturing you?"**
 
 This captive ox beastman was only fifteen years old, his eyes still holding the naivety of

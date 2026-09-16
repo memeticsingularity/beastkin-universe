@@ -46,6 +46,7 @@ tightly packed muscles, no excess fat, and looked extremely fit—but was a head
 else.
 
 The **wolf guard** sighed quietly and asked absently, "Why do you want to join the **Alliance**?"
+
 Even as he spoke, he'd already started writing "Unqualified" in large letters on the information
 sheet.
 

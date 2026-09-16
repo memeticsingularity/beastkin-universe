@@ -10,18 +10,25 @@
 Although Hu Meng was still recovering in the cultivation pod, this was worth celebrating! Those specially trained blue-sock soldiers had also been found. They were now standing in his gym.
 White Wolf looked at them, secretly pleased! At this moment, they had been stripped of their equipment and were only wearing tight T-shirts and underwear with military socks. Standing there motionless, their eyes were dull, like walking corpses.
 Their crotches were also fitted with strange devices that would extract the toxic semen they ejaculated. To prevent White Wolf from being poisoned, Commander White Wolf kicked their crotches one by one. With each kick, the device automatically executed the masturbation execution command, and in no time, they became corpses!
+
 A full 30 blue-sock soldier corpses standing there—what a spectacular sight! The canine beastman guards at his side also quickly removed those devices and took the semen inside away for processing.
 The purified pure toxin would be used on Noah. At this moment, Noah was half-dead, lying on the ground. He knew he was finished! He had lost thoroughly! The chip in his brain was fried, and he had already lost his basic functions as a Kik soldier!
+
 Now he was only wearing tight underwear and that thin layer of socks representing the Empire's high command. However, those socks no longer had any use and were now their only fig leaf!
+
 White Wolf happily pushed the door open and looked at Noah lying on the ground. His joy made his tail wag wildly. Step by step, he walked up to him.
 "You bastard! You still came! You must be laughing at me for becoming like this!" Noah knew who was approaching just by seeing the shadow. He lay on the ground, letting the shadow block the light in front of him. Closing his eyes, he said these words.
 "Laugh at you? You're not even as good as a black-sock piece of trash! And you want to become the second His Majesty the Emperor! Keep dreaming! His Majesty the Emperor is the Empire's only god! A piece of trash like you, a creation made by His Majesty, cannot succeed! You shouldn't even have such thoughts!" White Wolf said flatly.
 He grabbed his tail and dragged him toward the middle of the room. The powerless Noah moved like a mop. All the way to the window, looking at the distant snowy mountains, he couldn't help but feel a pang of loss thinking of his tiger cub.
 Obviously, Noah's tailbone was already broken; relying on his still-passable physique, he hadn't been pulled apart! Grabbing his head, he slammed it hard against the window. White Wolf was certain Noah could see the beautiful scenery of the snowy mountains! Letting him see something beautiful one last time before he died!
+
 Then he opened his bloody mouth and bit into his neck. His teeth broke through the skin, and blood filled his mouth. The tip of his tongue savored the enemy's blood. Noah was in too much pain to speak and could only breathe like a broken bellows.
 His limbs began to convulse, and his life was fading away. At least he wouldn't be masturbated to death! Even if His Majesty the Emperor had stripped him of his title, deep down he was still His Majesty's Kik soldier! The snowy mountains gradually blurred; he knew his time had come!
+
 White Wolf let go and let the blood flow out, staining the snow-white frog-suit uniform with a touch of color. Some also dripped onto his white socks. His heaving chest showed how excited he had been just moments ago!
+
 "His Majesty's intention was for you to die in the most humiliating way possible! But I couldn't bear it! That method will be carried out after your death." White Wolf whispered in his ear.
 Then he took out the drugs from his pocket and forced them down his throat. The wound stopped bleeding, and his own arm was a bit tired; after all, it wasn't easy supporting a 200-plus-pound guy! Turning around, he delivered a clean kick that sent him flying, quickly followed his trajectory, and with both hands formed a hammer, delivering a spike to his lower abdomen!
+
 His body hit the ground violently. Noah vomited a large mouthful of blood, and his limbs lay casually on the ground. White Wolf squatted down, regained his elegance, and pulled off the thin socks from his feet, stuffing them into his mouth and watching the blood stain those noble socks.
 He grabbed his tiger cock and stroked it, occasionally changing his technique. The tips of his claws stimulated various parts of the tiger cock from time to time...

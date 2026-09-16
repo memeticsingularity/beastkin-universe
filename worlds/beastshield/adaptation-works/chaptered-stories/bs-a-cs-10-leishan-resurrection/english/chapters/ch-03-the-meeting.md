@@ -319,6 +319,7 @@ He couldn't continue.
 Niu Pan listened, a flash of complex emotion in his crimson bull eyes — like fear, and also like... resonance. He didn't interrupt Leizhao, just listened quietly, body trembling slightly, not knowing whether from cold or from memory.
 
 After a long time, he spoke in a low voice, hoarse and exhausted, carrying a suppressed pain: "You... how did you escape?"
+
 His gaze wandered, not daring to look directly into Leizhao's eyes. "That... that person... what did he do to you?"
 
 Leizhao was stunned for a moment, then understood — Niu Pan was probing him. This senior officer wouldn't easily trust anyone, even in this desperate situation.

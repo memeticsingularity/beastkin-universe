@@ -20,6 +20,7 @@ helplessly.
 **"Of course I have. It's almost all about those modified beastmen lately. That company
 mass-produces these super
 beastmen, packages them as bodyguards, and rents them out for profit. This is completely inhumane!
+
 We should investigate
 the details even more!"**
 

@@ -291,6 +291,7 @@ The foundation for all the darkness and brilliance of this world originates from
 ### 🌱 最后的话
 
 "《帝国万岁》"是一面漆黑的镜子。
+
 我们凝视它，并非为了认同其中的黑暗，而是为了更清晰地辨认：
 **何为压迫，何为自由；何为工具，何为人。**
 

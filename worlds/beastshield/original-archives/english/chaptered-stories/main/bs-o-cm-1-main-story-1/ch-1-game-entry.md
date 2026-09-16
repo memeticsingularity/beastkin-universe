@@ -16,18 +16,21 @@
 
 I borrowed a **VR game** from a furry friend today. Without further ado, I put on the headset,
 clicked to enter, and a system prompt appeared: Proceed to the tutorial level?
+
 Since this was my first time playing this game, I’d better learn the basics properly.
 After clicking “Yes,” I woke up in the corner of a **warehouse**. A few **beastkin** corpses were
 lying nearby. They didn’t seem to have any wounds, but their **groins** were exposed, and they had
 all already sprayed white fluids.
 ???
 What kind of game is this?
+
 Then a system prompt popped up: In this **game world**, all damage caused by attacks will be
 converted into **Lust Value**. When a character’s **Lust Value** reaches their tolerance limit, they
 will **ejaculate to death**. Players must utilize this mechanism to progress through the game. Now,
 please eliminate the first enemy before you—a **low-level guard of the Beastshield Company**—to
 complete the tutorial.
 So this is an **H-game**?
+
 After reading the prompt, I noticed that at the **warehouse entrance**, a brown-furred **Bear
 Beastkin** wearing a set of **army-green**, short-sleeved, short-pants **tight uniform** was
 standing guard with his back to me. This **bear beastkin** was broad-shouldered, thick-waisted, and
@@ -35,6 +38,7 @@ heavily built, towering over me by a head. He seemed completely unaware of my pr
 thinking there were no survivors in this pile of corpses.
 I crept over quietly, picked up a nearby **wooden stick**, and swung it hard at the **Bear
 Beastkin’s** head!
+
 Clang!
 The **wooden stick** broke in two. The **Bear Beastkin** rubbed his head and turned around angrily.
 It seemed… this bit of damage wasn’t enough to take him down…
@@ -43,12 +47,16 @@ Then I was punched to the ground by him, followed by being stomped wildly by his
 **white socks**. Strangely, I didn’t feel any pain. Instead, the more I was beaten, the more excited
 I felt, even getting an erection! After the fourth heavy stomp from the **Bear Beastkin** landed on
 my abdomen, I actually broke through my **orgasm barrier** and spurted out my own **essence**!
+
 Seeing me start to **ejaculate**, the **Bear Beastkin** snorted, returned to the **entrance** to
 continue guarding, and ignored me. After rolling on the ground and shooting out all my **semen**, my
 vision went dark, and I lost consciousness.
 The system prompt popped up: **Game Over**. Restart the game?
+
 This is absolutely an **H-game**!
+
 And I couldn’t even beat the **tutorial level**!
+
 Fuming, I tried again. But my scrawny self was no match for the **Bear Beastkin**. After being
 brutally beaten to death twice more, clutching my **crotch** and howling, I took off the headset and
 silently quit the game.
@@ -65,6 +73,7 @@ Beastkin** basically wouldn’t notice me. Standing behind him, I hesitated whet
 **thousand-year kill** or grab his **crotch**. Recalling when he beat me before, his **groin**
 seemed pretty big, a round lump swinging around. So I made up my mind, launched a surprise attack
 from behind the **Bear Beastkin**, and grabbed his **balls**!
+
 “Oof!”
 
 The **Bear Beastkin** let out a muffled groan, his whole body shuddering, which startled me so much
@@ -101,6 +110,7 @@ resist, only able to lie panting heavily in my arms, letting out delicate moans 
 **.
 Wow, the **characters** in this **game** are pretty smart. They can even **beg for mercy**. Can they
 hold conversations too?
+
 “Where did all that fierceness from when you beat me up go? Huh?” I lifted his **chin** and asked,
 not stopping the hand jerking him off.
 “I… When did I ever beat you?” the **Bear Beastkin** answered, barely holding back his **ejaculation
@@ -131,6 +141,7 @@ After over a dozen spurts, the **Bear Beastkin** finally stopped **ejaculating**
 powerlessly in my arms. His panting grew weaker and weaker until finally, his head lolled to the
 side, limbs splayed, motionless on the ground.
 A prompt popped up: Congratulations on clearing the **Tutorial Level**! Start the game officially?
+
 I checked the **Bear Beastkin’s** **breathing**, confirming he had indeed stopped breathing. Then I
 stood up and laid his heavy body flat on the ground.
 Looking at the **bear beastkin corpse** covered in **semen** on the ground, thinking this was the

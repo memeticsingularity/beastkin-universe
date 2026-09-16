@@ -46,6 +46,7 @@ the box, he asked blankly, "So... you mean... these are **Uncle Oak**'s ashes in
 **Xin** patted his chest and exhaled, forcing a strained smile onto his face. "So this is just *
 *Uncle Oak**'s personal belongings, right? You haven't found the body, have you? And you're just
 assuming he's dead based on this stuff? And you came to deliver a death notice just like that?
+
 That's way too careless!"
 
 The two **guards** exchanged a glance, unsure how to respond.
@@ -86,6 +87,7 @@ utterly unresponsive.
 
 "Who... who did this..."
 "I will find out!"
+
 "I'll tear them... limb from limb!"
 
 **Xin** knew very well that to uncover the killer, joining the **Alliance Fortress** was essential.

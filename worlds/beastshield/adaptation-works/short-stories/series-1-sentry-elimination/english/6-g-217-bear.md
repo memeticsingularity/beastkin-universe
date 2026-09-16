@@ -230,6 +230,7 @@ The shadow sat on a discarded tire near the container opening, back against the 
 Fear, like cold steel needles, instantly pierced through the grizzly bear beastman's just-recovered, muddled consciousness. Memory fragments surged: the suffocating feeling of neck being locked, pain, powerlessness, darkness...
 
 "Mmph! Mmph —!"
+
 He suddenly struggled, massive body twisting and arching on the concrete ground, like a fish thrown ashore. Wrist and ankle nylon zip ties deeply cut into flesh, rubbing and making "rustle" sounds, yet not loosening in the slightest. The blocked mouth could only emit muffled and绝望 whimpers. He stared wide-eyed in terror at that shadow, "haa haa" gasping sounds from his throat.
 
 The shadow moved slightly, just adjusting sitting posture, still silent.
@@ -267,6 +268,7 @@ The force wasn't heavy, but enough to make him feel pain and strong sense of bei
 "Speak." The shadow spat out one word, fingers slightly twisting harder.
 
 "Mmph... Gray... Gray Rock!"
+
 The mouth-blocking cloth ball made his voice含糊不清, but he still奋力地, with a crying voice shouted out. Tears uncontrollably gushed from eye sockets because of pain and fear, mixing with sweat, flowing into the fur at his temples. "My name is Gray Rock! G... G-217! Designation G-217!"
 
 The instant he shouted out the number, he felt a thorough collapse and weakness. He had confessed, he had betrayed the company's most basic discipline — not revealing identity information to enemies. Although this discipline was also virtually useless within Beastshield, at this moment, it became the last straw that crushed his psychology.

@@ -73,6 +73,7 @@ An uncontrollable, mixed-with-extreme-pain, horror, and disbelief howl was about
 
 Pain!
 Indescribable pain!
+
 It wasn't just physical pain, but a fear and loss of control originating from the deepest, most primitive instinct of life! As if the very core of the body, the source of all strength, were completely crushed and drained in the instant that palm clenched! Wolf Xun felt all his muscles, bones, nerves simultaneously emitting cries and screams of collapse!
 
 All his counterattack movements, all his strength, all his fighting will, under the blow of this physiological absolute weakness being controlled, disintegrated! His lean body suddenly arched, then like a marionette with its spine and all joints removed, completely went limp, falling backward into a strange and forceful embrace.

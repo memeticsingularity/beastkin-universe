@@ -236,6 +236,7 @@ The shadow sat on an overturned scrap bucket not far away, back against the pale
 Fear, like the coldest lightning, instantly pierced through Huang Shuo's just-recovered, muddled consciousness. Memory fragments surged with intense pain: neck locked by iron箍 suffocation, wrist反向 twisted剧痛, powerlessness, darkness, then knowing nothing...
 
 "Mmph! Mmph —!"
+
 He suddenly struggled, massive body twisting and arching crazily on the concrete ground, like a trapped beast that fell into a trap. Wrist and ankle nylon zip ties deeply cut into flesh, rubbing and making tooth-aching "rustle" sounds, yet not moving in the slightest. His mouth was stuffed full with something, rough fabric, blocking the tongue, pressing deep into the throat, bringing strong nausea and suffocation-like fear. He could only emit muffled and绝望 whimpers and roars from his nasal cavity and deep throat. He stared wide-eyed, terrified, glaring at that shadow, eyeballs covered with bloodshot from congestion and fear, almost protruding from eye sockets.
 
 The shadow moved slightly, just adjusting sitting posture, still silent. That silence was more terrifying than any roar.
@@ -273,6 +274,7 @@ The force wasn't heavy, but enough to make him feel pain and a bone-deep, symbol
 "Speak." The shadow spat out one word, fingers slightly applying pressure on the horn tip, rubbing back and forth.
 
 "Mmph... Huang... Huang Shuo!"
+
 The mouth-blocking cloth ball made his voice含糊不清, but he still奋力地, with a crying voice and broken voice shouted out. Tears gushed out because of pain, fear and extreme shame, mixing with sweat, flowing into the dense short fur on his cheeks. "Number... G-332! G-332!"
 
 The instant he shouted out name and number, he felt a thorough collapse and weakness, as if a part of his soul was forcibly torn away. He had confessed, he had betrayed the company discipline that was virtually useless yet still hung over his head. This became the last straw that crushed his psychological defense.

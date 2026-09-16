@@ -176,6 +176,7 @@ blue-uniformed **Bull Beastman** was drinking gloomily. Just as **Blackstone** w
 and strike up a conversation, a black-uniformed **Tiger Beastman** beat him to it.
 
 The **Tiger Beastman** shoved the seated **Bull Beastman** and said arrogantly, "Get up and move!
+
 Can't you see we're standing here!" He pointed at a white-uniformed **Bear Beastman** beside him.
 
 "Why should I? I'm the same rank as you!" The **Bull Beastman** stood up, glaring at the **Tiger

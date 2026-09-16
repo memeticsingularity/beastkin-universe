@@ -235,6 +235,7 @@ The foundation for all the darkness and brilliance of this world originates from
 ### 🌱 最后的话
 
 "潜伏"不是屈服，而是最深的反抗。  
+
 在帝国的阴影下，唯有把自己变成阴影本身，才能等待黎明的缝隙。
 
 ---

@@ -181,6 +181,7 @@ Before **Da Wei** could finish, the young master, crestfallen, grabbed a corner 
 ripped it off.
 
 The tearing not only irritated the wound but also pulled out a few hairs from **Da Wei's** balls!
+
 The pain made **Da Wei
 ** immediately sit up straight and glare at the young master, instinctively raising his fist to
 punch him!

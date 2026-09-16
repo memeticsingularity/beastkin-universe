@@ -242,7 +242,9 @@ Brew a pot of tea, or heat some milk, sit on a comfy couch or the grass. Then as
 questions:
 
 "How was your day?"
+
 "What's your favorite food?"
+
 "When you were little, did you ever do anything especially mischievous?"
 
 They talk slowly, I listen quietly. Stories start as small fragments—a childhood stream, the

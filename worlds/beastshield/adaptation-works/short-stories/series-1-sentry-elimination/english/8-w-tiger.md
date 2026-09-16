@@ -265,6 +265,7 @@ Chen Mo didn't immediately pour. He just maintained that hovering posture, letti
 The questions suddenly escalated, jumping from basic security information to Beastshield Company's core secrets and internal spy network. Biao Zhua's brain "buzzed," completely blank. Blood Essence Stone? Derivatives? Experimental data? Blue-uniformed connection person? Some of these terms he had heard rumors of, some completely unfamiliar. He was just a wrestler; although considered a high-level troop, what he contacted were mostly fighting, performance, deterrence and execution tasks; this kind of thing involving high-level secrets and scientific research black curtain, he simply didn't know the details!
 
 "I... I don't know!"
+
 Biao Zhua urgently said, fear making his speech speed up, "I'm just a ring fighter! How could I know that kind of thing! Data... might be in the headquarters database, or under Director Ya's direct jurisdiction! Connection person... I've seen blue uniforms come watch matches, but don't know who is the connection person! Really!"
 
 Chen Mo listened quietly, examining the not-feigned blankness and急于撇清 panic in Biao Zhua's eyes. Intelligence showed that W-level wrestling soldiers, although high in status, were more symbols of force and consumables, indeed not necessarily able to contact the most core secrets. But he needed to confirm.
@@ -276,9 +277,11 @@ The alcohol bottle tilted slightly, a drop of crystal clear, pungent-smelling al
 The dark Lycra fabric was rapidly wet in a small patch, color becoming deeper. The cool touch, transmitted through the thin, elastically tight fabric, clearly reached the skin. Immediately after was the deeper, sharper cold stimulation brought by alcohol volatilization, and the chemical irritancy of alcohol itself on sensitive area skin...
 
 "Ugh — AHHH —!"
+
 Biao Zhua emitted a moan mixed with pain, terror and extreme discomfort. That feeling was more than ten times stronger than the chest! The cold was like a needle, piercing into the most vulnerable defense line; the subsequent irritative burning sensation triggered a chain of physiological reactions — muscle spasms, skin tightening, that part uncontrollably producing contraction and throbbing...
 
 "I'm telling the truth! I swear!"
+
 Biao Zhua's voice carried a crying tone, that was a physiological reaction brought by extreme fear, "Data matter... I only heard 'warehouse' is strengthening guards... connection person... different each time, wears a mask! Is 'Gray Sparrow'! They call him 'Gray Sparrow'! I only know this much! Please... don't... don't anymore..."
 
 Tears uncontrollably gushed from Biao Zhua's widened tiger eyes, mixing with sweat and iodine on his face, flowing into his dense temple fur. Pride, anger, dignity, at this moment were thoroughly crushed by the most primitive fear of that specific part suffering unimaginable torture. He was like a frightened child, sobbing, futilely begging.

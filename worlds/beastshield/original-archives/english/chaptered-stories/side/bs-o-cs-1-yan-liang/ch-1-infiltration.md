@@ -145,6 +145,7 @@ shot put. But he seemed very dim-witted. After being subdued by **Yan**, he stil
 what was happening. He even thought the one choking him was the **White Bear Team Leader**.
 
 "Tea... **Team Leader**... Why... What did I do wrong... Why do you want to kill... me... Ugh..!
+
 Ah... Ah!" And so, the **Bear Guard** began spurting thick semen without even knowing what was
 happening. The amount he shot was proportional to the size of his **testicles**—he spurted a good
 dozen jets before finishing. Then his body went limp and he fell heavily to the floor with a *thud*.
