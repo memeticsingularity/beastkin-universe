@@ -5,7 +5,9 @@
 
 ## Story Scope
 时间跨度：约35-38年（牛先锋的一生）
+
 叙事视角：第三人称（牛先锋中心视角，但不完全限知）
+
 章节数：预估 7-10 章
 
 ## Proposed Chapter Structure
