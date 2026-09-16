@@ -8,9 +8,9 @@
 
 | 项目 | 内容 |
 |------|------|
-| **种族** | 异形种牛兽人（原为黄皮牛兽人，详见[牛杂﹥冥府牛头](../../g/bull-g-vol-1-ch-07-niuza.md)） |
+| **种族** | 异形种牛兽人（原为黄皮牛兽人，详见[牛杂﹥冥府牛头](../g/bull-g-vol-1-ch-07-niuza.md)） |
 | **等级/制服** | E级武斗兵 · 黑色紧身制服+黑袜 |
-| **身份** | 十三层刑房审讯组长，号称"冥府牛头"（原为[玩家下属牛蒋顿/牛杂](../../g/bull-g-vol-1-ch-07-niuza.md)） |
+| **身份** | 十三层刑房审讯组长，号称"冥府牛头"（原为[玩家下属牛蒋顿/牛杂](../g/bull-g-vol-1-ch-07-niuza.md)） |
 | **状态** | **已死亡**——被魔影用各种刑具反复玩弄，射精19次后全身瘫软力竭而死 |
 | **首次登场** | [vol-2-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-10-thirteenth-floor-infiltration.md) |
 | **最后登场** | [vol-2-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-10-thirteenth-floor-infiltration.md) |

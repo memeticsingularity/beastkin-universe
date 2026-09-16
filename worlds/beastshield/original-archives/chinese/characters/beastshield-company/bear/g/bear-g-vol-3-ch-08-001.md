@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服+白袜+运动鞋 |
 | **身份** | 兽盾组织巡逻队员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-08](ch-8-dragon-god-island.md) |
-| **最后登场** | [vol-3-ch-08](ch-8-dragon-god-island.md) |
+| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
+| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
 
 ---
 
 ## 二、登场原文
 
-### [龙神岛](ch-8-dragon-god-island.md)
+### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)
 
 > 墩常便松开了手让铁箭射了出去，"嗖"的一声响过，犀牛组长和另外两只绿制服兽人还没反应过来，就被铁箭穿胸带起，倒飞了出去，死死钉在了饮品店的墙上。
 

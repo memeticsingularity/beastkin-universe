@@ -1,7 +1,7 @@
 # Chapter 10 十三层潜入 - 分析
 
 >
-对应文件：[ch-10-thirteenth-floor-infiltration.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-10-thirteenth-floor-infiltration.md)
+对应文件：[ch-10-thirteenth-floor-infiltration.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-10-thirteenth-floor-infiltration.md)
 > 分析日期：2026-03-19
 
 ---

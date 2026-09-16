@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 地下格斗场摔跤兵 |
 | **状态** | **已死亡**——被主角用麻痹戒指控制后处决 |
-| **首次登场** | [vol-1-ch-08](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
-| **最后登场** | [vol-1-ch-08](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
+| **首次登场** | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
+| **最后登场** | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 三、登场原文
 
-### [vol-1-ch-08：转职挑战](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md)
+### [vol-1-ch-08：转职挑战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md)
 
 > "你行不行啊，居然连一只绿制服的都解决不掉，太丢脸了吧。"擂台旁一只同样穿摔跤服的棕牛兽人起哄道。
 

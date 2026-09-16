@@ -107,7 +107,7 @@ The fates of the Twelve Divine Weapons' inheritors intertwine, and the final bat
 ## Language Versions / 语言版本
 
 - [English Version / 英文版](./) (current / 当前页面)
-- [Chinese Version / 中文版](../../chinese/README.md)
+- [Chinese Version / 中文版](../../../chinese/README.md)
 
 ---
 

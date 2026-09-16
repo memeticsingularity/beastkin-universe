@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色紧身制服 |
 | **身份** | 兽盾组织入侵小队成员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-05](ch-5-undercover-hunt.md) |
-| **最后登场** | [vol-3-ch-05](ch-5-undercover-hunt.md) |
+| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md) |
+| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 三、登场原文
 
-### [卧底猎杀](ch-5-undercover-hunt.md)
+### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md)
 
 > 监控里一只棕牛兽人向楼上走来，不一会门口便传来"噔噔噔"的上楼声，于是金毛谨慎的贴在了房门边埋伏好。
 

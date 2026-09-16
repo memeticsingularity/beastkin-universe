@@ -1,6 +1,6 @@
 # Chapter 10 首次对决
 
-[上一章](ch-09-challenge-headquarters.md) | [返回目录](../README.md) | [下一章](ch-11-agent-bureau.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-9-challenge-headquarters.md) | [返回目录](../README.md) | [下一章](ch-11-agent-bureau.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -287,7 +287,7 @@
 
 ---
 
-[上一章](ch-09-challenge-headquarters.md) | [返回目录](../README.md) | [下一章](ch-11-agent-bureau.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-9-challenge-headquarters.md) | [返回目录](../README.md) | [下一章](ch-11-agent-bureau.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

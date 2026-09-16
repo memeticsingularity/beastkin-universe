@@ -2006,7 +2006,7 @@
 
 #### cs-1-ch-02-1.jpg (来自short-stories)
 
-![cs-1-ch-02-1.jpg](./short-stories/cs-1-ch-02-1.jpg)
+![cs-1-ch-02-1.jpg](short-stories/cs-1-ch-2-1.jpg)
 
 **观察到的细节：**
 
@@ -2022,7 +2022,7 @@
 
 #### cs-1-ch-02-2.jpg (来自short-stories)
 
-![cs-1-ch-02-2.jpg](./short-stories/cs-1-ch-02-2.jpg)
+![cs-1-ch-02-2.jpg](short-stories/cs-1-ch-2-2.jpg)
 
 **观察到的细节：**
 
@@ -2038,7 +2038,7 @@
 
 #### cs-1-ch-03-1.jpg (来自short-stories)
 
-![cs-1-ch-03-1.jpg](./short-stories/cs-1-ch-03-1.jpg)
+![cs-1-ch-03-1.jpg](short-stories/cs-1-ch-3-1.jpg)
 
 **观察到的细节：**
 
@@ -2054,7 +2054,7 @@
 
 #### cs-1-ch-03-2.jpg (来自short-stories)
 
-![cs-1-ch-03-2.jpg](./short-stories/cs-1-ch-03-2.jpg)
+![cs-1-ch-03-2.jpg](short-stories/cs-1-ch-3-2.jpg)
 
 **观察到的细节：**
 
@@ -2376,7 +2376,7 @@
 
 #### ch-03-1.jpg
 
-![ch-03-1.jpg](./main-story/vol%201/chapters/ch-03-1.jpg)
+![ch-03-1.jpg](main-story/vol%201/ch-3-1.jpg)
 
 **观察到的细节：**
 
@@ -2389,7 +2389,7 @@
 
 #### ch-03-2.jpg
 
-![ch-03-2.jpg](./main-story/vol%201/chapters/ch-03-2.jpg)
+![ch-03-2.jpg](main-story/vol%201/ch-3-2.jpg)
 
 **观察到的细节：**
 
@@ -2405,7 +2405,7 @@
 
 ### 2.4 第4章
 
-![ch-03-1.jpg](./main-story/vol%201/chapters/ch-03-1.jpg)
+![ch-03-1.jpg](main-story/vol%201/ch-3-1.jpg)
 
 **观察到的细节：**
 
@@ -2508,7 +2508,7 @@
 
 #### ch-09-1.jpg
 
-![ch-09-1.jpg](./main-story/vol%201/chapters/ch-09-1.jpg)
+![ch-09-1.jpg](main-story/vol%201/ch-9-1.jpg)
 
 **观察到的细节：**
 
@@ -2523,7 +2523,7 @@
 
 #### ch-09-2.jpg
 
-![ch-09-2.jpg](./main-story/vol%201/chapters/ch-09-2.jpg)
+![ch-09-2.jpg](main-story/vol%201/ch-9-2.jpg)
 
 **观察到的细节：**
 
@@ -2540,7 +2540,7 @@
 
 ### 2.8 第11章
 
-![ch-09-1.jpg](./main-story/vol%201/chapters/ch-09-1.jpg)
+![ch-09-1.jpg](main-story/vol%201/ch-9-1.jpg)
 
 **观察到的细节：**
 
@@ -2557,7 +2557,7 @@
 
 #### ch-11.jpg
 
-![ch-11.jpg](./main-story/vol%201/chapters/ch-11.jpg)
+![ch-11.jpg](main-story/vol%201/ch-11.jpg)
 
 **观察到的细节：**
 
@@ -2576,7 +2576,7 @@
 
 #### ch-12-1.jpg
 
-![ch-12-1.jpg](./main-story/vol%201/chapters/ch-12-1.jpg)
+![ch-12-1.jpg](main-story/vol%201/ch-12-1.jpg)
 
 **观察到的细节：**
 
@@ -2591,7 +2591,7 @@
 
 #### ch-12-2.jpg
 
-![ch-12-2.jpg](./main-story/vol%201/chapters/ch-12-2.jpg)
+![ch-12-2.jpg](main-story/vol%201/ch-12-2.jpg)
 
 **观察到的细节：**
 
@@ -2607,7 +2607,7 @@
 
 #### ch-12-3.jpg
 
-![ch-12-3.jpg](./main-story/vol%201/chapters/ch-12-3.jpg)
+![ch-12-3.jpg](main-story/vol%201/ch-12-3.jpg)
 
 **观察到的细节：**
 
@@ -2623,7 +2623,7 @@
 
 #### ch-12-4.jpg
 
-![ch-12-4.jpg](./main-story/vol%201/chapters/ch-12-4.jpg)
+![ch-12-4.jpg](main-story/vol%201/ch-12-4.jpg)
 
 **观察到的细节：**
 

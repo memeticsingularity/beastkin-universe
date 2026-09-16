@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾大楼一楼大厅守卫 |
 | **状态** | **已死亡**——大腿被刺后割喉 |
-| **首次登场** | [vol-1-ch-09](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
-| **最后登场** | [vol-1-ch-09](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
+| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
+| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [vol-1-ch-09：总部突袭](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
+### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
 
 > 鬼魅一般停留在一只红牛兽人身前，红牛兽人一愣，本能地抬起白袜粗腿想将我踹开，我躲开踹击抓住他的粗腿，在上面扎了两刀。
 

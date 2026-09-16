@@ -1,6 +1,6 @@
 # Chapter 2 走廊巡逻
 
-[上一章](ch-01-locker-room-hunt.md) | [返回目录](../README.md) | [下一章](ch-03-terrace-hunt.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-1-locker-room-hunt.md) | [返回目录](../README.md) | [下一章](ch-3-terrace-hunt.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 > *走廊是建筑的血脉，切断血脉，整栋楼就会慢慢死去。*
 
@@ -72,7 +72,7 @@
 
 ---
 
-[上一章](ch-01-locker-room-hunt.md) | [返回目录](../README.md) | [下一章](ch-03-terrace-hunt.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-1-locker-room-hunt.md) | [返回目录](../README.md) | [下一章](ch-3-terrace-hunt.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

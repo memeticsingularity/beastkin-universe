@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾大楼二楼储物间守卫 |
 | **状态** | **已死亡**——被一刀割喉 |
-| **首次登场** | [vol-1-ch-09](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
-| **最后登场** | [vol-1-ch-09](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
+| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
+| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 二、登场原文
 
-### [vol-1-ch-09：总部突袭](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
+### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
 
 > 二楼是物资储备区，门口正坐着两只绿制服守卫在打扑克，见到我到来，其中一只黑豹守卫起身走过来。
 >

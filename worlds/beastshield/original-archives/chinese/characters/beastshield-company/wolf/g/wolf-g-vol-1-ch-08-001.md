@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾楼道守卫 |
 | **状态** | **已死亡**——被扭断脖子后射精而死 |
-| **首次登场** | [vol-1-ch-08](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
-| **最后登场** | [vol-1-ch-08](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
+| **首次登场** | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
+| **最后登场** | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [vol-1-ch-08：转职挑战](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md)
+### [vol-1-ch-08：转职挑战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md)
 
 > **兽盾**楼道的**垃圾桶**旁，一只**绿制服狼兽人**正在悠闲地抽着烟，丝毫没有注意到身后的我已悄悄靠近。
 > 

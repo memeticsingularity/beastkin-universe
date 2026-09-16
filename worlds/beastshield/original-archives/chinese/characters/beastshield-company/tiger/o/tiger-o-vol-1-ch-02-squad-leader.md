@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 仓库小队队长，持有仓库钥匙 |
 | **状态** | **已死亡**——被主角用匕首背刺后射精而死 |
-| **首次登场** | [vol-1-ch-02](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md) |
-| **最后登场** | [vol-1-ch-02](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md) |
+| **首次登场** | [vol-1-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md) |
+| **最后登场** | [vol-1-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md) |
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-02：仓库逃脱](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md)
+### [vol-1-ch-02：仓库逃脱](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md)
 
 > 我贴着墙角偷偷窥视，只见几只穿着**绿制服**的**兽人**正围在一只穿着**蓝色制服**的**虎兽人**旁边，**虎兽人**似乎在分配工作，没过一会，便各自散了开去。
 

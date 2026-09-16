@@ -12,8 +12,8 @@
 | **等级/制服** | G级高层变体·蓝色紧身制服 |
 | **身份** | 蟒蛇岛基地守卫 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-2-ch-15](ch-15-return-to-python-island.md) |
-| **最后登场** | [vol-2-ch-15](ch-15-return-to-python-island.md) |
+| **首次登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-15-return-to-python-island.md) |
+| **最后登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-15-return-to-python-island.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 三、登场原文
 
-### [重返蟒蛇岛](ch-15-return-to-python-island.md)
+### [重返蟒蛇岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-15-return-to-python-island.md)
 
 > 儡先生慢慢走到一只身材粗壮的蓝制服牛兽人身前，看了看他圆润的翘臀和被紧身裤勒出的饱满肥大的卵蛋，点了点头笑道:
 >

@@ -12,14 +12,14 @@
 | **等级/制服** | G级（绿影）+ 蓝制服（蓝影） |
 | **身份** | 虎队长部下，负责暗杀白虎弟子 |
 | **状态** | 已死亡（推测） |
-| **首次登场** | [vol-3-ch-02](ch-2-dojo-massacre.md) |
-| **最后登场** | [vol-3-ch-02](ch-2-dojo-massacre.md) |
+| **首次登场** | [vol-3-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md) |
+| **最后登场** | [vol-3-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md) |
 
 ---
 
 ## 二、登场原文
 
-### [武馆屠杀](ch-2-dojo-massacre.md)
+### [武馆屠杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md)
 
 > 白虎刚走出门，一个绿影从身后袭来，瞬间捂住他的嘴，另一只手准备掏裆，白虎本能的抓住对方手腕，一个过肩摔将对手直接摔到身前地上，还没来得及张嘴质问，另一个蓝影闪出，掐住他的喉咙将他摁在了地上，速度之快力道之强，超过之前绿影不知多少倍。
 

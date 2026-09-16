@@ -2,7 +2,7 @@
 
 ---
 
-[Back to Directory](../README.md) | [Next Chapter](ch-02-escape-warehouse.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)
+[Back to Directory](../README.md) | [Next Chapter](ch-2-escape-warehouse.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)
 
 ---
 
@@ -157,7 +157,7 @@ Finally, I reluctantly closed the **Bear Beastkin’s** wide-open eyes, helped h
 
 ---
 
-[Back to Directory](../README.md) | [Next Chapter](ch-02-escape-warehouse.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)
+[Back to Directory](../README.md) | [Next Chapter](ch-2-escape-warehouse.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)
 
 ---
 
@@ -267,4 +267,4 @@ most memorable—lesson about *Beast World*.
 
 ---
 
-[Back to Directory](../README.md) | [Next Chapter](ch-02-escape-warehouse.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)
+[Back to Directory](../README.md) | [Next Chapter](ch-2-escape-warehouse.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)

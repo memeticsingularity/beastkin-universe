@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服 |
 | **身份** | 兽盾公司鼠神武搜寻队站岗护卫 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-14](ch-14-mouse-divine-weapon.md) |
-| **最后登场** | [vol-3-ch-14](ch-14-mouse-divine-weapon.md) |
+| **首次登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-14-mouse-divine-weapon.md) |
+| **最后登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-14-mouse-divine-weapon.md) |
 
 ---
 
 ## 二、登场原文
 
-### [鼠神武](ch-14-mouse-divine-weapon.md)
+### [鼠神武](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-14-mouse-divine-weapon.md)
 
 > 第二只被解决掉的是一只野猪兽人，野猪的长相在兽人圈本就不太讨喜，这只野猪又带着一脸匪气，毫无悬念的被魔影再次评价为不及格，然后尸体被推进了身旁的毒潭里，慢慢沉了下去。
 

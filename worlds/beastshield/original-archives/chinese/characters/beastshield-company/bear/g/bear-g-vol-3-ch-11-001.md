@@ -12,8 +12,8 @@
 | **等级/制服** | 辉董护卫·特制白制服（白袜） |
 | **身份** | 光照会辉董的圣堂护卫 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-11](ch-11-light-cult-infiltration.md) |
-| **最后登场** | [vol-3-ch-11](ch-11-light-cult-infiltration.md) |
+| **首次登场** | [vol-3-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md) |
+| **最后登场** | [vol-3-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [光照会渗透](ch-11-light-cult-infiltration.md)
+### [光照会渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md)
 
 > 率先出手的是一只棕熊兽人，他举起砍刀向银的脸颊挥去！
 

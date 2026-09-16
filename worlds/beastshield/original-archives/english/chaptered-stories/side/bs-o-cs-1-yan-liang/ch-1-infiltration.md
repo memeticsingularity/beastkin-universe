@@ -2,7 +2,7 @@
 
 ---
 
-| [Return to Directory](../../../short-stories/README.md) | [Next Chapter](ch-02-office-clearance.md) |
+| [Return to Directory](../../../short-stories/README.md) | [Next Chapter](ch-2-office-clearance.md) |
 
 ---
 
@@ -402,4 +402,4 @@ employees—they can die at any time without knowing why, without even someone t
 bodies. And **Yan** and **Liang** continue deeper into the base. The night is long, and the
 slaughter continues.
 
-| [Return to Directory](../../../short-stories/README.md) | [Next Chapter](ch-02-office-clearance.md) |
+| [Return to Directory](../../../short-stories/README.md) | [Next Chapter](ch-2-office-clearance.md) |

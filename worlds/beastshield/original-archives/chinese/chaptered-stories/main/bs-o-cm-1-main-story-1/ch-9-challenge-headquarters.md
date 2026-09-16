@@ -1,6 +1,6 @@
 # Chapter 9 总部突袭
 
-[上一章](ch-08-class-change-quest.md) | [返回目录](../README.md) | [下一章](ch-10-first-encounter-boss.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-8-class-change-quest.md) | [返回目录](../README.md) | [下一章](ch-10-first-encounter-boss.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -354,7 +354,7 @@
 
 ---
 
-[上一章](ch-08-class-change-quest.md) | [返回目录](../README.md) | [下一章](ch-10-first-encounter-boss.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-8-class-change-quest.md) | [返回目录](../README.md) | [下一章](ch-10-first-encounter-boss.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

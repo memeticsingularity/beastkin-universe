@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾仓库守卫 |
 | **状态** | **已死亡**——被主角两次处决（首次拧脖子，重开后撸射） |
-| **首次登场** | [vol-1-ch-02](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md) |
-| **最后登场** | [vol-1-ch-02](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md) |
+| **首次登场** | [vol-1-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md) |
+| **最后登场** | [vol-1-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md) |
 
 ---
 
@@ -47,7 +47,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-02：仓库逃脱](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md)
+### [vol-1-ch-02：仓库逃脱](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md)
 
 > 只见几只穿着**绿制服**的**兽人**正围在一只穿着**蓝色制服**的**虎兽人**旁边，**虎兽人**似乎在分配工作，没过一会，便各自散了开去，其中一只**德牧狗兽人**朝着我这边走来。
 

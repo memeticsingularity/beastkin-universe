@@ -246,4 +246,4 @@ This work is an original official work under the Beastkin Universe worldview. Co
 
 ---
 
-[Return to Trilogy Overview](../README.md) | [Return to Project Home](../../../../../../README.md)
+[Return to Trilogy Overview](../README.md) | [Return to Project Home](README.md)

@@ -12,14 +12,14 @@
 | **等级/制服** | 大部分G级军绿制服，夹杂蓝制服 |
 | **身份** | 之前参加提拔/保职测试的员工 |
 | **状态** | 已死亡（全员覆灭） |
-| **首次登场** | [vol-3-ch-01](ch-1-promotion-test.md) |
-| **最后登场** | [vol-3-ch-01](ch-1-promotion-test.md) |
+| **首次登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md) |
+| **最后登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md) |
 
 ---
 
 ## 二、登场原文
 
-### [提拔测试](ch-1-promotion-test.md)
+### [提拔测试](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md)
 
 > 帘子自动感应缓缓打开，呈现出一座恐怖的尸山，里面堆叠着的都是之前参加测试的员工，大部分穿着绿色制服，夹杂着一些蓝制服员工，个个身材粗壮，双脚上的长筒白袜在日光灯的反射下格外亮眼，表情有的恐惧，有的愤怒，有的不甘，但无一例外，个个死不瞑目悔不当初。
 

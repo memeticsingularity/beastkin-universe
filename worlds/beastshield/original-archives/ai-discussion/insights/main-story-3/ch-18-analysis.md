@@ -1,7 +1,7 @@
 # Chapter 18《血君王降临》正文分析
 
 >
-对应文件：[ch-18-flame-cannon-finale.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-18-flame-cannon-finale.md)
+对应文件：[ch-18-flame-cannon-finale.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-18-flame-cannon-finale.md)
 > 分析日期：2026-03-19
 
 ---

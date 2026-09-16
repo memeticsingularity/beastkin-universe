@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织寻龙小分队成员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-09](ch-9-divine-bow-hunter.md) |
-| **最后登场** | [vol-3-ch-09](ch-9-divine-bow-hunter.md) |
+| **首次登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md) |
+| **最后登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 三、登场原文
 
-### [神弓猎人](ch-9-divine-bow-hunter.md)
+### [神弓猎人](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md)
 
 > 得令的牛兽人迈开粗壮的肉腿走进小院，他庞大的身体十分笨重，踩坏了许多院子里的蔬菜瓜果才走到茅屋前，然后毫不客气的抬起白袜粗腿一脚将门踹开，扯着嗓子吼到:"有人吗，给老子出。。。。呃！"牛兽人话没说完，只闷哼了一声，粗壮的身体僵在了原地，被踹开的门诡异的自行关上，只留下牛兽人保持着踹门后的姿势立在门外一动不动。
 

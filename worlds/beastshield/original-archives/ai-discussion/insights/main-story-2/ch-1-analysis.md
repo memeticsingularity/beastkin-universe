@@ -1,7 +1,7 @@
 # Chapter 1 更衣室狩猎 - 分析
 
 >
-对应文件：[ch-01-locker-room-hunt.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-01-locker-room-hunt.md)
+对应文件：[ch-01-locker-room-hunt.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-1-locker-room-hunt.md)
 > 分析日期：2026-03-19
 
 ---

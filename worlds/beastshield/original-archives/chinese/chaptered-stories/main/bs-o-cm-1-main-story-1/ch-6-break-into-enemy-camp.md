@@ -1,6 +1,6 @@
 # Chapter 6 潜入敌营
 
-[上一章](ch-05-first-costume-change.md) | [返回目录](../README.md) | [下一章](ch-07-training-subordinates.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-5-first-costume-change.md) | [返回目录](../README.md) | [下一章](ch-7-training-subordinates.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -220,7 +220,7 @@ OMG！这个**档**废了！
 
 ---
 
-[上一章](ch-05-first-costume-change.md) | [返回目录](../README.md) | [下一章](ch-07-training-subordinates.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-5-first-costume-change.md) | [返回目录](../README.md) | [下一章](ch-7-training-subordinates.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

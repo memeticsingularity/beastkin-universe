@@ -13,8 +13,8 @@
 | **编号** | 未知（教程关卡未显示） |
 | **身份** | 兽盾仓库守卫，教程关卡敌人 |
 | **状态** | **已死亡**——被主角抓住卵蛋后撸射而死 |
-| **首次登场** | [vol-1-ch-01](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md) |
-| **最后登场** | [vol-1-ch-01](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md) |
+| **首次登场** | [vol-1-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md) |
+| **最后登场** | [vol-1-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md) |
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-01：游戏入门](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md)
+### [vol-1-ch-01：游戏入门](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md)
 
 > 在仓库门口处，有只身穿一套**军绿色短袖短裤紧身制服**的棕皮**熊兽人**正背对着我站岗，这只熊兽人膀大腰圆，身材肥壮，比我高出一个头，对我这边毫无戒备，估计是认为这边死人堆里已经没有活口。
 
@@ -118,8 +118,8 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **踩踏攻击** | 用穿白袜的粗腿疯狂踩踏敌人，可让敌人射精 | [vol-1-ch-01](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md) |
-| **弱点敏感** | 卵蛋被抓住后会全身瘫软，失去反抗能力 | [vol-1-ch-01](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md) |
+| **踩踏攻击** | 用穿白袜的粗腿疯狂踩踏敌人，可让敌人射精 | [vol-1-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md) |
+| **弱点敏感** | 卵蛋被抓住后会全身瘫软，失去反抗能力 | [vol-1-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md) |
 
 ---
 

@@ -14,7 +14,7 @@
 | **等级/制服** | E级 · 黑色紧身制服，黑袜，军靴 |
 | **身份** | 兽盾武斗兵·虎兽人兵营全体 |
 | **状态** | **全员覆灭**——被熊猫兽人一夜屠尽 |
-| **登场** | [vol-1-ch-12](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md) |
+| **登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [vol-1-ch-12：夜袭兵营](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md)
+### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md)
 
 > "哦，虎兽人兵营你们已经不用操心了，"熊猫摆了摆手懒洋洋地道："潜行什么的太麻烦了，我直接把里面的人都杀光了。"
 

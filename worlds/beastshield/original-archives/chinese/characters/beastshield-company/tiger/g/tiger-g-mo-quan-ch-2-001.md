@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿紧身短袖+短裤 |
 | **身份** | 搜捕队员（奉命寻找并击杀黑色犬科兽人） |
 | **状态** | **存活**（被寸止功法救下，昏迷于树下） |
-| **首次登场** | [s-1-ch2-1](../../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) |
-| **最后登场** | [s-1-ch2-1](../../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) |
+| **首次登场** | [s-1-ch2-1](../../../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) |
+| **最后登场** | [s-1-ch2-1](../../../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) |
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 三、登场原文
 
-### [s-1-ch2-1：墨犬·第二章 山间遭遇](../../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)
+### [s-1-ch2-1：墨犬·第二章 山间遭遇](../../../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)
 
 > **棕虎兽人**拉下军绿色**紧身裤**头，对着灌木丛开始放水，冒着热气的虎尿浇在草木上发出啪啪啪的声音，掩盖了身后悄悄逼近的脚步声。
 
@@ -74,4 +74,4 @@
 
 ---
 
-*档案来源：墨犬篇 [第二章](../../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)*
+*档案来源：墨犬篇 [第二章](../../../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)*

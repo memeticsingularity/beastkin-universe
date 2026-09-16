@@ -1,6 +1,6 @@
 # Chapter 1 Locker Room Hunt
 
-[Return to Index](../README.md) | [Next Chapter](ch-02-corridor-patrol.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Return to Index](../README.md) | [Next Chapter](ch-2-corridor-patrol.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 > (To be supplemented)
 
@@ -104,7 +104,7 @@ Afterward, Demon Shadow successively hunted down more than a dozen guards. Some 
 
 ---
 
-[Return to Index](../README.md) | [Next Chapter](ch-02-corridor-patrol.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Return to Index](../README.md) | [Next Chapter](ch-2-corridor-patrol.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
 

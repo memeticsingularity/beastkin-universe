@@ -1,6 +1,6 @@
 # Chapter 5 Kitchen and Fatal Lunch
 
-[Previous Chapter](ch-04-tiger-guard-battle.md) | [Return to Index](../README.md) | [Next Chapter](ch-06-lei-lei-arrival.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-4-tiger-guard-battle.md) | [Return to Index](../README.md) | [Next Chapter](ch-6-lei-lei-arrival.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 > (To be supplemented)
 
@@ -86,7 +86,7 @@ Looking at these elites overall, a grizzly bear beastman sitting on a sofa had h
 
 ---
 
-[Previous Chapter](ch-04-tiger-guard-battle.md) | [Return to Index](../README.md) | [Next Chapter](ch-06-lei-lei-arrival.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-4-tiger-guard-battle.md) | [Return to Index](../README.md) | [Next Chapter](ch-6-lei-lei-arrival.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
 

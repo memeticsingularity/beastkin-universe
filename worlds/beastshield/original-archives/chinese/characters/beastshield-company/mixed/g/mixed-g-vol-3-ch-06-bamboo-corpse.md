@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服 |
 | **身份** | 兽盾组织搜查队员，随薛鼎部长前往五竹峰 |
 | **状态** | 全员死亡 |
-| **首次登场** | [vol-3-ch-06](ch-6-divine-weapons-secret.md) |
-| **最后登场** | [vol-3-ch-06](ch-6-divine-weapons-secret.md) |
+| **首次登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md) |
+| **最后登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md) |
 
 ---
 
 ## 二、登场原文
 
-### [神兵机密](ch-6-divine-weapons-secret.md)
+### [神兵机密](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md)
 
 #### 集体被点穴
 

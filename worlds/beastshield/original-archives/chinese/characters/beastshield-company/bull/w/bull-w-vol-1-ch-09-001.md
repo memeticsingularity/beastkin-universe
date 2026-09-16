@@ -17,8 +17,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾大楼三楼体训房·健身士兵 |
 | **状态** | **已死亡**——被主角后入中出而死 |
-| **首次登场** | [vol-1-ch-09](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
-| **最后登场** | [vol-1-ch-09](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
+| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
+| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 三、登场原文
 
-### [vol-1-ch-09：总部突袭](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
+### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
 
 > 我发现在深蹲区居然有一只穿着蓝色摔跤服的牛兽人高级兵正趴在地上，后颈被挂着几百公斤杠铃片的杠铃杆压住动弹不得，他没有穿鞋，一双摔跤靴被脱下放在一边，刚练完深蹲充血的双腿粗壮如柱，裹着白袜在地上踢踹蹬腿试图挣脱束缚，脏黑的袜底一览无余。
 >

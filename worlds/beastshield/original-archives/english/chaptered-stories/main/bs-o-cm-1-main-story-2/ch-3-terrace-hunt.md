@@ -1,6 +1,6 @@
 # Chapter 3 Terrace Hunt
 
-[Previous Chapter](ch-02-corridor-patrol.md) | [Return to Index](../README.md) | [Next Chapter](ch-04-tiger-guard-battle.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-2-corridor-patrol.md) | [Return to Index](../README.md) | [Next Chapter](ch-4-tiger-guard-battle.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 > (To be supplemented)
 
@@ -48,7 +48,7 @@ Before long, Demon Shadow had changed into a well-fitting blue-and-white new uni
 
 ---
 
-[Previous Chapter](ch-02-corridor-patrol.md) | [Return to Index](../README.md) | [Next Chapter](ch-04-tiger-guard-battle.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-2-corridor-patrol.md) | [Return to Index](../README.md) | [Next Chapter](ch-4-tiger-guard-battle.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
 

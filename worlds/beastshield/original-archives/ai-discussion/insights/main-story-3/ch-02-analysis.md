@@ -1,7 +1,7 @@
 # Chapter 02《道馆灭门》- 分析
 
 >
-对应文件：[ch-02-dojo-massacre.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-02-dojo-massacre.md)
+对应文件：[ch-02-dojo-massacre.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md)
 > 分析日期：2026-03-19
 
 ---

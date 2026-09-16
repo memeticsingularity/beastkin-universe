@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织巡逻队员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-08](ch-8-dragon-god-island.md) |
-| **最后登场** | [vol-3-ch-08](ch-8-dragon-god-island.md) |
+| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
+| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 三、登场原文
 
-### [龙神岛](ch-8-dragon-god-island.md)
+### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)
 
 > 只有一只绿制服狗兽人由于腿太短搭不上桌子，只能乖乖的放在地上歇息。
 

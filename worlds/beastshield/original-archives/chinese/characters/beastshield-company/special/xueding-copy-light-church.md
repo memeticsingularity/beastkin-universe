@@ -12,14 +12,14 @@
 | **等级/制服** | 部长级·黑色制服 |
 | **身份** | 薛鼎复制体，牙董的信使 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-11](ch-11-light-cult-infiltration.md) |
-| **最后登场** | [vol-3-ch-11](ch-11-light-cult-infiltration.md) |
+| **首次登场** | [vol-3-ch-11](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md) |
+| **最后登场** | [vol-3-ch-11](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md) |
 
 ---
 
 ## 二、登场原文
 
-### [光照会渗透](ch-11-light-cult-infiltration.md)
+### [光照会渗透](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md)
 
 > "启禀辉董，"薛鼎叩首道："我是来传达牙董的口令的，由于消息十分重要，担心用远程通讯工具会被特工局监听，所以特派我来亲自传达口信。"
 >

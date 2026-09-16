@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾杂兵，虎队长行动中的同伴 |
 | **状态** | **已死亡**——被主角拉来挡枪，身中数十枪而死 |
-| **首次登场** | [vol-1-ch-06](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
-| **最后登场** | [vol-1-ch-06](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
+| **首次登场** | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
+| **最后登场** | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-06：闯入敌营](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md)
+### [vol-1-ch-06：闯入敌营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md)
 
 > "他是这次行动的**队长**，是**兽盾武斗部队**里调过来的，身手相当了得！"**灰熊**语气中带着崇敬的味道。
 

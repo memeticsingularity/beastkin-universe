@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤 |
 | **身份** | 兽盾组织仓储部员工 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-03](ch-3-warehouse-vengeance.md) |
-| **最后登场** | [vol-3-ch-03](ch-3-warehouse-vengeance.md) |
+| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
+| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
 
 ---
 
 ## 二、登场原文
 
-### [仓库复仇](ch-3-warehouse-vengeance.md)
+### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md)
 
 > 旁边一只绿制服狗兽人想要偷袭，抄起铁棍击向老雷后背，但没有人看清发生了什么，就只见狗兽人粗壮的身体如同断线的风筝一般飞了出去，在地上滚了几圈，然后趴在地上没了动静，只有一滩精液从下体慢慢流出
 

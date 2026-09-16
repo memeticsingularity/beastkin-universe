@@ -12,8 +12,8 @@
 | **等级/制服** | 部长级·黑色紧身制服+黑袜（死前要求穿上） |
 | **身份** | 薛鼎复制体四号 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-08](ch-8-dragon-god-island.md) |
-| **最后登场** | [vol-3-ch-08](ch-8-dragon-god-island.md) |
+| **首次登场** | [vol-3-ch-08](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
+| **最后登场** | [vol-3-ch-08](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 三、登场原文
 
-### [龙神岛](ch-8-dragon-god-island.md)
+### [龙神岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)
 
 > 旁边那个一人粗的管道里哧溜一声滑出一只粗壮兽人，浑身赤裸布满粘液趴在地上，外貌和罐子里的薛鼎一模一样，也许这就是机器里报的薛鼎四号。
 

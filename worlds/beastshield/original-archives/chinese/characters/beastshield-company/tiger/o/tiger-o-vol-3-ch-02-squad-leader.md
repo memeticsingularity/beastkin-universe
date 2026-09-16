@@ -12,8 +12,8 @@
 | **等级/制服** | O级·蓝色制服+高筒白袜 |
 | **身份** | 兽盾组织小队长，负责武馆屠杀行动 |
 | **状态** | 存活 |
-| **首次登场** | [vol-3-ch-02](ch-2-dojo-massacre.md) |
-| **最后登场** | [vol-3-ch-02](ch-2-dojo-massacre.md) |
+| **首次登场** | [vol-3-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md) |
+| **最后登场** | [vol-3-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [武馆屠杀](ch-2-dojo-massacre.md)
+### [武馆屠杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md)
 
 > 此时道馆大门缓缓打开，走进七八个和他同样穿着的兽人，只有领头的一只黄虎兽人穿着蓝色的制服，眼睛在灯光的反射下，闪过一丝不易察觉的红光。
 

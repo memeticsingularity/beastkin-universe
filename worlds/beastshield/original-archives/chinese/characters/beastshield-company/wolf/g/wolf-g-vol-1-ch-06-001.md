@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾总部一楼守卫 |
 | **状态** | **已死亡**——卫生间被撸射而死 |
-| **首次登场** | [vol-1-ch-06](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
-| **最后登场** | [vol-1-ch-06](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
+| **首次登场** | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
+| **最后登场** | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 三、登场原文
 
-### [vol-1-ch-06：闯入敌营](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md)
+### [vol-1-ch-06：闯入敌营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md)
 
 > 没过多久，一只穿着**绿制服**的蓝皮**狼兽人**就屁颠屁颠的跑了进来，迫不及待地贴着小便池捋下裤头准备尿尿，完全没有注意到背后偷偷靠近的我。
 > 

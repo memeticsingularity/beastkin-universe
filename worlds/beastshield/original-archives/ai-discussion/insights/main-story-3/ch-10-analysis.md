@@ -1,7 +1,7 @@
 # Chapter 10《光照会之秘》- 分析
 
 >
-对应文件：[ch-10-old-friend-reunion.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-10-old-friend-reunion.md)
+对应文件：[ch-10-old-friend-reunion.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-10-old-friend-reunion.md)
 > 分析日期：2026-03-19
 
 ---

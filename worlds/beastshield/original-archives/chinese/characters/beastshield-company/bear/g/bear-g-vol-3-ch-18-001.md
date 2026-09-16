@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿短袖+短裤 |
 | **身份** | 杂兵 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-18](ch-18-flame-cannon-finale.md) |
-| **最后登场** | [vol-3-ch-18](ch-18-flame-cannon-finale.md) |
+| **首次登场** | [vol-3-ch-18](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-18-flame-cannon-finale.md) |
+| **最后登场** | [vol-3-ch-18](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-18-flame-cannon-finale.md) |
 
 ---
 
@@ -57,4 +57,4 @@
 
 ---
 
-*档案来源：第三卷·白之都 [ch-18](ch-18-flame-cannon-finale.md)*
+*档案来源：第三卷·白之都 [ch-18](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-18-flame-cannon-finale.md)*

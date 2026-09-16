@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤 |
 | **身份** | 兽盾组织底层员工，参加提拔测试 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-04](ch-4-psychic-defense.md) |
-| **最后登场** | [vol-3-ch-04](ch-4-psychic-defense.md) |
+| **首次登场** | [vol-3-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md) |
+| **最后登场** | [vol-3-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 二、登场原文
 
-### [念力防御](ch-4-psychic-defense.md)
+### [念力防御](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md)
 
 > "哈哈，是呀是呀，快点开始吧。"另一只狼兽人跟着嘲笑道。
 

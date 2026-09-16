@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤 |
 | **身份** | 兽盾组织仓储部员工 |
 | **状态** | 已死亡（全员覆灭） |
-| **首次登场** | [vol-3-ch-03](ch-3-warehouse-vengeance.md) |
-| **最后登场** | [vol-3-ch-03](ch-3-warehouse-vengeance.md) |
+| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
+| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
 
 ---
 
 ## 二、登场原文
 
-### [仓库复仇](ch-3-warehouse-vengeance.md)
+### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md)
 
 > 曲先生的战乐一共四首，曲调分别对应一年四季，现在他所奏的是最具攻击性的夏日灼魂歌，此曲通过独特的音律震动，刺激兽人身体的各处穴位，使其达到高潮射精，对受伤虚弱的兽人尤其有效，所以他才催促老雷赶紧离开。
 

@@ -2,7 +2,7 @@
 
 ---
 
-| [Previous Chapter](ch-01-infiltration.md) | [Return to Directory](../../../short-stories/README.md) | [Next Chapter](ch-03-deep-confrontation.md) |
+| [Previous Chapter](ch-1-infiltration.md) | [Return to Directory](../../../short-stories/README.md) | [Next Chapter](ch-3-deep-confrontation.md) |
 
 ---
 
@@ -442,4 +442,4 @@ cicada, unaware of the oriole behind. The night is still deep, and the hunt is f
 
 ---
 
-| [Previous Chapter](ch-01-infiltration.md) | [Return to Directory](../../../short-stories/README.md) | [Next Chapter](ch-03-deep-confrontation.md) |
+| [Previous Chapter](ch-1-infiltration.md) | [Return to Directory](../../../short-stories/README.md) | [Next Chapter](ch-3-deep-confrontation.md) |

@@ -1,7 +1,7 @@
 # Chapter 2 走廊巡逻 - 分析
 
 >
-对应文件：[ch-02-corridor-patrol.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-02-corridor-patrol.md)
+对应文件：[ch-02-corridor-patrol.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-2-corridor-patrol.md)
 > 分析日期：2026-03-19
 
 ---

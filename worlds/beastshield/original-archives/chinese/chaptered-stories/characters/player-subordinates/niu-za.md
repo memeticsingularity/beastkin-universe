@@ -94,7 +94,7 @@
 - 战败后白熊消耗了大量体力，为玩家后续偷袭创造机会
 - 傍晚拖着疲惫身体回到办公室，**玩家调侃称其为"冥府牛头"**
 
-### 5.3 食堂遭遇战（[vol-1-ch-9](../../main/bs-o-c-m-1-main-story-1/ch-9-challenge-headquarters.md)）
+### 5.3 食堂遭遇战（[vol-1-ch-9](../../main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)）
 
 - 与熊掌在食堂吃饭时遭遇伪装状态的玩家
 - 勇敢迎战，被玩家捅伤腿部后仍不退缩

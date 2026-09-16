@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服 |
 | **身份** | 兽盾组织车夫，儡部长的御用车夫 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-12](ch-12-desert-ambush.md) |
-| **最后登场** | [vol-3-ch-12](ch-12-desert-ambush.md) |
+| **首次登场** | [vol-3-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md) |
+| **最后登场** | [vol-3-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md) |
 
 ---
 
 ## 二、登场原文
 
-### [沙漠伏击](ch-12-desert-ambush.md)
+### [沙漠伏击](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md)
 
 > 儡部长皱着眉拉开车帘质问车夫道："怎么回事？"可是拉车的兽人并没有回答他，只是坐在驾车位上一动不动。
 

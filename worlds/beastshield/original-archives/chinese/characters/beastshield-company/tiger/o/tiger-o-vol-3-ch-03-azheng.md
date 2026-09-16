@@ -12,8 +12,8 @@
 | **等级/制服** | O级（组长级）·蓝色制服+白袜 |
 | **身份** | 兽盾组织仓储部组长，曾执行武馆屠杀（剪翼计划） |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-03](ch-3-warehouse-vengeance.md) |
-| **最后登场** | [vol-3-ch-03](ch-3-warehouse-vengeance.md) |
+| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
+| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [仓库复仇](ch-3-warehouse-vengeance.md)
+### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md)
 
 > 这场搏斗又围攻变成了单方面的屠杀，老雷每问一句，便有一只兽人喷精而毙变成尸体，直到一只黄虎蓝制服兽人从仓库内走出来。
 >

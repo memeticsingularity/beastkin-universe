@@ -13,8 +13,8 @@
 | **编号** | 无（特殊身份） |
 | **身份** | 牙董直属·嗜精兽部长 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-16](ch-16-blood-king-resurrection.md) |
-| **最后登场** | [vol-3-ch-18](ch-18-flame-cannon-finale.md) |
+| **首次登场** | [vol-3-ch-16](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md) |
+| **最后登场** | [vol-3-ch-18](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-18-flame-cannon-finale.md) |
 
 ---
 
@@ -97,4 +97,4 @@
 
 ---
 
-*档案来源：第三卷·白之都 [ch-16](ch-16-blood-king-resurrection.md) ~ [ch-18](ch-18-flame-cannon-finale.md)*
+*档案来源：第三卷·白之都 [ch-16](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md) ~ [ch-18](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-18-flame-cannon-finale.md)*

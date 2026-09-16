@@ -1,7 +1,7 @@
 # Chapter 15 重返蟒蛇岛 - 分析
 
 >
-对应文件：[ch-15-return-to-python-island.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-15-return-to-python-island.md)
+对应文件：[ch-15-return-to-python-island.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-15-return-to-python-island.md)
 > 分析日期：2026-03-19
 
 ---

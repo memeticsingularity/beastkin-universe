@@ -44,7 +44,7 @@
 ## 四、语言版本 / Language Versions
 
 - [中文版 / Chinese Version](./) (当前页面 / current)
-- [英文版 / English Version](../../english/chaptered-stories/side/README.md)
+- [英文版 / English Version](README.md)
 
 ---
 

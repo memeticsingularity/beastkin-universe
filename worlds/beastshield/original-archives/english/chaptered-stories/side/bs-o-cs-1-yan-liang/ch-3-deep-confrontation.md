@@ -2,7 +2,7 @@
 
 ---
 
-| [Previous Chapter](ch-02-office-clearance.md) | [Return to Directory](../../../short-stories/README.md) |
+| [Previous Chapter](ch-2-office-clearance.md) | [Return to Directory](../../../short-stories/README.md) |
 
 ---
 
@@ -303,7 +303,7 @@ mountains of corpses and a bloodstain that can never be washed clean.*
 
 ---
 
-| [Previous Chapter](ch-02-office-clearance.md) | [Return to Directory](../../../short-stories/README.md) |
+| [Previous Chapter](ch-2-office-clearance.md) | [Return to Directory](../../../short-stories/README.md) |
 
 ---
 
@@ -431,4 +431,4 @@ I just wonder who will be the next to fall at the staircase landing, with semen 
 
 ---
 
-| [Previous Chapter](ch-02-office-clearance.md) | [Return to Directory](../../../short-stories/README.md) |
+| [Previous Chapter](ch-2-office-clearance.md) | [Return to Directory](../../../short-stories/README.md) |

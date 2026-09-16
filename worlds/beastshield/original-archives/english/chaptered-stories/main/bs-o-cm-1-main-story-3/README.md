@@ -78,91 +78,91 @@ This volume consists of 22 chapters, the final chapter of the main trilogy, tyin
 
 ## 3. Full Volume Chapter Index / 全卷章节目录
 
-### Chapter 1: Promotion Test / 第1章：晋升测试 ([ch-01-promotion-test.md](./chapters/ch-01-promotion-test.md))
+### Chapter 1: Promotion Test / 第1章：晋升测试 ([ch-01-promotion-test.md](ch-1-promotion-test.md))
 - **Tags / 章节标签**: `#Promotion Test #Red Stone Potion #Corpse Mountain` / `#晋升测试 #红石药剂 #尸山`
 - **Synopsis / 剧情简介**: Beastshield conducts a promotion test that is actually a screening for Semen-Eater Beast candidates; failures are piled into mountains of corpses. / 兽盾公司进行晋升测试，实则是筛选嗜精兽候选人，失败者被堆成尸山处理。
 
-### Chapter 2: Dojo Massacre / 第2章：武馆灭门 ([ch-02-dojo-massacre.md](./chapters/ch-02-dojo-massacre.md))
+### Chapter 2: Dojo Massacre / 第2章：武馆灭门 ([ch-02-dojo-massacre.md](ch-2-dojo-massacre.md))
 - **Tags / 章节标签**: `#Dojo #Massacre #Bear Dojo Master #Revenge` / `#武馆 #灭门 #熊馆长 #复仇`
 - **Synopsis / 剧情简介**: Beastshield attacks the dojo, all of Bear Dojo Master's disciples are killed, and Lao Lei flies into a rage upon hearing the news. / 兽盾袭击武馆，熊馆长弟子全部遇害，老雷得知消息后暴怒复仇。
 
-### Chapter 3: Warehouse Vengeance / 第3章：仓库复仇 ([ch-03-warehouse-vengeance.md](./chapters/ch-03-warehouse-vengeance.md))
+### Chapter 3: Warehouse Vengeance / 第3章：仓库复仇 ([ch-03-warehouse-vengeance.md](ch-3-warehouse-vengeance.md))
 - **Tags / 章节标签**: `#Lao Lei #Warehouse Department #A Zheng #Revenge` / `#老雷 #仓储部 #阿正 #复仇`
 - **Synopsis / 剧情简介**: Lao Lei storms the warehouse department for revenge, slaughtering Beastshield employees along the way, swearing to find the murderer of Bear Dojo Master. / 老雷闯入仓储部复仇，一路屠杀兽盾员工，誓要找出杀害熊馆长的凶手。
 
-### Chapter 4: Psychic Defense / 第4章：心灵防御 ([ch-04-psychic-defense.md](./chapters/ch-04-psychic-defense.md))
+### Chapter 4: Psychic Defense / 第4章：心灵防御 ([ch-04-psychic-defense.md](ch-4-psychic-defense.md))
 - **Tags / 章节标签**: `#Golden Retriever #Psychological Counseling #Villa Defense #Intruder` / `#金毛 #心理咨询 #别墅防御 #入侵者`
 - **Synopsis / 剧情简介**: A golden retriever psychologist encounters a Beastshield invasion, using psychological tactics and special abilities to repel the intruders. / 心理咨询师金毛遭遇兽盾入侵，利用心理战术和特殊能力击退入侵者。
 
-### Chapter 5: Undercover Hunt / 第5章：卧底猎杀 ([ch-05-undercover-hunt.md](./chapters/ch-05-undercover-hunt.md))
+### Chapter 5: Undercover Hunt / 第5章：卧底猎杀 ([ch-05-undercover-hunt.md](ch-5-undercover-hunt.md))
 - **Tags / 章节标签**: `#Xiao Hao #Undercover #Counter-kill #Black Bull` / `#小豪 #卧底 #反杀 #黑牛`
 - **Synopsis / 剧情简介**: Xiao Hao goes undercover in Beastshield dormitories, counter-killing the black bull and tiger beastkin who extort him, showcasing agent prowess. / 小豪在兽盾宿舍卧底，反杀勒索他的黑牛和虎兽人，展现特工实力。
 
-### Chapter 6: Divine Weapons Secret / 第6章：十二神武之谜 ([ch-06-divine-weapons-secret.md](./chapters/ch-06-divine-weapons-secret.md))
+### Chapter 6: Divine Weapons Secret / 第6章：十二神武之谜 ([ch-06-divine-weapons-secret.md](ch-6-divine-weapons-secret.md))
 - **Tags / 章节标签**: `#Twelve Divine Weapons #History #Human-Beast War #Inheritance` / `#十二神武 #历史 #人兽大战 #传承`
 - **Synopsis / 剧情简介**: The Commander tells Lao Lei about the origins of the Twelve Divine Weapons and the history of the human-beast war five hundred years ago. / 司令向老雷讲述十二神武的来历，以及五百年前人兽大战的历史。
 
-### Chapter 7: Police Station Invasion / 第7章：警局入侵 ([ch-07-police-station-invasion.md](./chapters/ch-07-police-station-invasion.md))
+### Chapter 7: Police Station Invasion / 第7章：警局入侵 ([ch-07-police-station-invasion.md](ch-7-police-station-invasion.md))
 - **Tags / 章节标签**: `#Police Station #Flowing Ruin #Director Fu #Black Slime` / `#警局 #流墟 #傅局长 #黑色粘液`
 - **Synopsis / 剧情简介**: Flowing Ruin invades the police station, Director Fu is killed, and Detective Qinchuan vows to pursue the truth. / 流墟入侵警局，傅局长遇害，勤川警探誓言追查真相。
 
-### Chapter 8: Dragon God Island / 第8章：龙神浮岛 ([ch-08-dragon-god-island.md](./chapters/ch-08-dragon-god-island.md))
+### Chapter 8: Dragon God Island / 第8章：龙神浮岛 ([ch-08-dragon-god-island.md](ch-8-dragon-god-island.md))
 - **Tags / 章节标签**: `#Floating Island #Dragon Martial God #Five Elements Seal #Heavenly Prison` / `#浮岛 #龙武神 #五行封禁 #天牢`
 - **Synopsis / 剧情简介**: The Beastshield army attacks the East Sea floating islands; Dragon Martial God uses the Five Elements Seal to guard the Heavenly Prison, and the great battle is imminent. / 兽盾大军进攻东海浮岛，龙武神以五行封禁守护天牢，大战一触即发。
 
-### Chapter 9: Divine Bow Hunter / 第9章：神弓猎人 ([ch-09-divine-bow-hunter.md](./chapters/ch-09-divine-bow-hunter.md))
+### Chapter 9: Divine Bow Hunter / 第9章：神弓猎人 ([ch-09-divine-bow-hunter.md](ch-9-divine-bow-hunter.md))
 - **Tags / 章节标签**: `#Dunchang #Kui Niu Bow #Divine Weapon Inheritor #Milk Tea Shop` / `#墩常 #夔牛弓 #神武传人 #奶茶店`
 - **Synopsis / 剧情简介**: Divine Weapon inheritor Dunchang debuts, encountering Beastshield members at a milk tea shop and showcasing the power of the Kui Niu Bow. / 神武传人墩常登场，在奶茶店遭遇兽盾成员，展现夔牛弓的威力。
 
-### Chapter 10: Old Friend Reunion / 第10章：老友重逢 ([ch-10-old-friend-reunion.md](./chapters/ch-10-old-friend-reunion.md))
+### Chapter 10: Old Friend Reunion / 第10章：老友重逢 ([ch-10-old-friend-reunion.md](ch-10-old-friend-reunion.md))
 - **Tags / 章节标签**: `#Dunchang #Da Ben #Xianxian Bei Shi Armor #Buffalo Village` / `#墩常 #大奔 #先贤卑豕甲 #水牛村`
 - **Synopsis / 剧情简介**: Dunchang reunites with Da Ben, learns his master was captured by Minister Lei, and receives divine armor to prepare a rescue. / 墩常与大奔重逢，得知师父被儡部长擒获，获赠神甲准备营救。
 
-### Chapter 11: Light Cult Infiltration / 第11章：光照会潜入 ([ch-11-light-cult-infiltration.md](./chapters/ch-11-light-cult-infiltration.md))
+### Chapter 11: Light Cult Infiltration / 第11章：光照会潜入 ([ch-11-light-cult-infiltration.md](ch-11-light-cult-infiltration.md))
 - **Tags / 章节标签**: `#Yin #Light Cult #Chairman Hui #Disguise Art` / `#银 #光照会 #辉董 #易容术`
 - **Synopsis / 剧情简介**: Yin infiltrates the Light Cult in disguise, fails to assassinate Chairman Hui, and engages in fierce battle with crocodile guards. / 银易容潜入光照会，刺杀辉董失败，与鳄鱼护卫激战。
 
-### Chapter 12: Desert Ambush / 第12章：沙漠伏击 ([ch-12-desert-ambush.md](./chapters/ch-12-desert-ambush.md))
+### Chapter 12: Desert Ambush / 第12章：沙漠伏击 ([ch-12-desert-ambush.md](ch-12-desert-ambush.md))
 - **Tags / 章节标签**: `#Dunchang #Minister Lei #Desert #Ambush` / `#墩常 #儡部长 #沙漠 #伏击`
 - **Synopsis / 剧情简介**: Dunchang ambushes Minister Lei's convoy in the desert, encountering undead beastkin from black coffins. / 墩常在沙漠伏击儡部长的车队，遭遇黑棺中的不死兽人。
 
-### Chapter 13: Dragon God Battle / 第13章：龙神之战 ([ch-13-dragon-god-battle.md](./chapters/ch-13-dragon-god-battle.md))
+### Chapter 13: Dragon God Battle / 第13章：龙神之战 ([ch-13-dragon-god-battle.md](ch-13-dragon-god-battle.md))
 - **Tags / 章节标签**: `#Floating Island Battle #Dragon God #Three Chairmen #Five Elements Mutual Generation` / `#浮岛大战 #龙神 #三董事 #五行相生`
 - **Synopsis / 剧情简介**: Three chairmen join forces to battle Dragon Martial God, a peak showdown between the Five Elements Seal and forbidden spells. / 三位董事联手对战龙武神，五行封禁与禁咒的巅峰对决。
 
-### Chapter 14: Mouse Divine Weapon / 第14章：鼠族神武 ([ch-14-mouse-divine-weapon.md](./chapters/ch-14-mouse-divine-weapon.md))
+### Chapter 14: Mouse Divine Weapon / 第14章：鼠族神武 ([ch-14-mouse-divine-weapon.md](ch-14-mouse-divine-weapon.md))
 - **Tags / 章节标签**: `#Shadow Demon #Emerald Ruins #Mouse Divine Weapon #Poison Fog` / `#魔影 #翠绿遗迹 #鼠神武 #毒雾`
 - **Synopsis / 剧情简介**: Shadow Demon searches for the Mouse Divine Weapon in the Emerald Ruins, encounters Beastshield search teams, and learns news of the floating island battle. / 魔影在翠绿遗迹寻找鼠神武，遭遇兽盾搜索队，得知浮岛大战消息。
 
-### Chapter 15: Final Battle / 第15章：最终之战 ([ch-15-final-battle.md](./chapters/ch-15-final-battle.md))
+### Chapter 15: Final Battle / 第15章：最终之战 ([ch-15-final-battle.md](ch-15-final-battle.md))
 - **Tags / 章节标签**: `#Chairman Lan #Forbidden Spell #Cold Bone Terror #Essence Vine` / `#岚董 #禁咒 #寒骨冤骇徙 #汲精藤`
 - **Synopsis / 剧情简介**: The floating island battlefield reaches white heat; Chairman Lan casts high-level forbidden spells, and Dragon God counters with Five Elements mutual generation. / 浮岛战场进入白热化，岚董施展高阶禁咒，龙神以五行相生反击。
 
-### Chapter 16: Blood King Resurrection / 第16章：血王复活 ([ch-16-blood-king-resurrection.md](./chapters/ch-16-blood-king-resurrection.md))
+### Chapter 16: Blood King Resurrection / 第16章：血王复活 ([ch-16-blood-king-resurrection.md](ch-16-blood-king-resurrection.md))
 - **Tags / 章节标签**: `#Agent Bureau #Semen-Eater Beast #Lao Lei #A Bao` / `#特工局 #嗜精兽 #老雷 #阿宝`
 - **Synopsis / 剧情简介**: The Agent Bureau joins the battlefield; Lao Lei and Minister A Bao engage in fierce combat, evenly matched. / 特工局加入战场，老雷与阿宝部长激战，双方势均力敌。
 
-### Chapter 17: Godly Music Duel / 第17章：蚀魔之锥 ([ch-17-godly-music-duel.md](./chapters/ch-17-godly-music-duel.md))
+### Chapter 17: Godly Music Duel / 第17章：蚀魔之锥 ([ch-17-godly-music-duel.md](ch-17-godly-music-duel.md))
 - **Tags / 章节标签**: `#Demon-Eroding Cone #Heavenly Prison Opening #Chairman Ya #Blood King` / `#蚀魔锥 #天牢开启 #牙董 #血君王`
 - **Synopsis / 剧情简介**: Chairman Ya uses the Mouse Divine Weapon Demon-Eroding Cone to break the Heavenly Prison seal; the Blood King takes the opportunity to resurrect, possessing Dragon God's body. / 牙董用鼠神武蚀魔锥破开天牢封印，血君王借机复活，占据龙神肉体。
 
-### Chapter 18: Flame Cannon Finale / 第18章：黄泉缩地 ([ch-18-flame-cannon-finale.md](./chapters/ch-18-flame-cannon-finale.md))
+### Chapter 18: Flame Cannon Finale / 第18章：黄泉缩地 ([ch-18-flame-cannon-finale.md](ch-18-flame-cannon-finale.md))
 - **Tags / 章节标签**: `#Chairman Lan #Yellow Spring Earth Shrink #Humans #Truth` / `#岚董 #黄泉缩地 #人类 #真相`
 - **Synopsis / 剧情简介**: Chairman Lan casts forbidden spells to take away the humans in the Heavenly Prison; the Blood King possesses Dragon God's body, and the truth surfaces. / 岚董施展禁咒带走天牢中的人类，血君王占据龙神肉体，真相浮出水面。
 
-### Chapter 19: Origin Revelation / 第19章：真相大白 ([ch-19-origin-revelation.md](./chapters/ch-19-origin-revelation.md))
+### Chapter 19: Origin Revelation / 第19章：真相大白 ([ch-19-origin-revelation.md](ch-19-origin-revelation.md))
 - **Tags / 章节标签**: `#Blood King #Dragon God Fall #Chairman Hui #Betrayal` / `#血君王 #龙神陨落 #辉董 #背叛`
 - **Synopsis / 剧情简介**: The Blood King recounts the history of Semen-Eater Beasts; Chairman Hui betrays and stabs Dragon God, and the Blood King fully takes over Dragon God's body. / 血君王讲述嗜精兽历史，辉董背叛刺伤龙神，血君王完全占据龙神身体。
 
-### Chapter 20: Identity Merge / 第20章：身份融合 ([ch-20-identity-merge.md](./chapters/ch-20-identity-merge.md))
+### Chapter 20: Identity Merge / 第20章：身份融合 ([ch-20-identity-merge.md](ch-20-identity-merge.md))
 - **Tags / 章节标签**: `#Xue Ding #Clone #Fusion #Xiao Kun #Revenge` / `#薛鼎 #复制体 #融合 #小昆 #复仇`
 - **Synopsis / 剧情简介**: Xue Ding's clone merges with the original, gaining complete memories, and vows to avenge Xiao Kun. / 薛鼎复制体与本体融合，获得完整记忆，誓要为小昆复仇。
 
-### Chapter 21: Divine Battle / 第21章：神曲对决 ([ch-21-divine-battle.md](./chapters/ch-21-divine-battle.md))
+### Chapter 21: Divine Battle / 第21章：神曲对决 ([ch-21-divine-battle.md](ch-21-divine-battle.md))
 - **Tags / 章节标签**: `#Mr. Qu #Celestial Sound #Four Seasons Divine Melody #Blood King` / `#曲先生 #天籁 #四季神曲 #血君王`
 - **Synopsis / 剧情简介**: Mr. Qu battles the Blood King with the Four Seasons Divine Melody, showcasing the true power of the Celestial Sound Divine Weapon. / 曲先生以四季神曲对战血君王，展现神武天籁的真正威力。
 
-### Chapter 22: Rampage End / 第22章：破城炮终章 ([ch-22-rampage-end.md](./chapters/ch-22-rampage-end.md))
+### Chapter 22: Rampage End / 第22章：破城炮终章 ([ch-22-rampage-end.md](ch-22-rampage-end.md))
 - **Tags / 章节标签**: `#Lao Lei #Sun-Burning City-Breaking Cannon #A Bao #Memories #Finale` / `#老雷 #焚阳破城炮 #阿宝 #回忆 #终结`
 - **Synopsis / 剧情简介**: Lao Lei uses the Sun-Burning City-Breaking Cannon Divine Weapon to finish A Bao; the floating island battle ends, the Blood King departs, and a new chapter opens. / 老雷以神武焚阳破城炮终结阿宝，浮岛大战落幕，血君王离去，新篇章开启。
 
@@ -285,4 +285,4 @@ This work is an original official work under the Beastkin Universe worldview. Co
 
 ---
 
-[Return to Trilogy Overview / 返回三部曲总览](../README.md) | [Return to Project Home / 返回项目主页](../../../../../../README.md)
+[Return to Trilogy Overview / 返回三部曲总览](../README.md) | [Return to Project Home / 返回项目主页](README.md)

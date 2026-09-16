@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿紧身短袖+短裤 |
 | **身份** | 搜捕队员 |
 | **状态** | 已死亡 |
-| **首次登场** | [s-1-ch1-1](ch-1-cave-awakening.md) |
-| **最后登场** | [s-1-ch1-1](ch-1-cave-awakening.md) |
+| **首次登场** | [s-1-ch1-1](../../../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md) |
+| **最后登场** | [s-1-ch1-1](../../../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md) |
 
 ---
 
@@ -96,4 +96,4 @@
 
 ---
 
-*档案来源：墨犬（炎魉篇） [ch-1](ch-1-cave-awakening.md)*
+*档案来源：墨犬（炎魉篇） [ch-1](../../../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)*

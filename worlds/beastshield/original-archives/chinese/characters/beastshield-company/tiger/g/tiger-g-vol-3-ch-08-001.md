@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服 |
 | **身份** | 兽盾组织巡逻队员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-08](ch-8-dragon-god-island.md) |
-| **最后登场** | [vol-3-ch-08](ch-8-dragon-god-island.md) |
+| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
+| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
 
 ---
 
 ## 二、登场原文
 
-### [龙神岛](ch-8-dragon-god-island.md)
+### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)
 
 > 一只绿制服虎兽人走上前拧起服务员的衣领恶狠狠的道:"什么！买单？没看到我们是兽盾的人吗！"
 

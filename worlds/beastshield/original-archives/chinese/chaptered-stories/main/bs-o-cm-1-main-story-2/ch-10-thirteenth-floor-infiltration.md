@@ -1,6 +1,6 @@
 # Chapter 10 十三层潜入
 
-[上一章](ch-09-corridor-cleanup.md) | [返回目录](../README.md) | [下一章](ch-11-hell-bull-battle.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-9-corridor-cleanup.md) | [返回目录](../README.md) | [下一章](ch-11-hell-bull-battle.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 > *潜入的最高境界不是不被发现，而是被发现了也没人能拦得住。*
 
@@ -100,7 +100,7 @@
 
 ---
 
-[上一章](ch-09-corridor-cleanup.md) | [返回目录](../README.md) | [下一章](ch-11-hell-bull-battle.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-9-corridor-cleanup.md) | [返回目录](../README.md) | [下一章](ch-11-hell-bull-battle.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

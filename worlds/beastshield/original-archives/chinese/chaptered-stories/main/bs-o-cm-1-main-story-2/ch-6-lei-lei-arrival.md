@@ -1,6 +1,6 @@
 # Chapter 6 老雷登场
 
-[上一章](ch-05-kitchen-and-lunch.md) | [返回目录](../README.md) | [下一章](ch-07-bear-territory-infiltration.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-5-kitchen-and-lunch.md) | [返回目录](../README.md) | [下一章](ch-7-bear-territory-infiltration.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 > *当暴力美学有了名字，那个名字就叫老雷。*
 
@@ -140,7 +140,7 @@
 
 ---
 
-[上一章](ch-05-kitchen-and-lunch.md) | [返回目录](../README.md) | [下一章](ch-07-bear-territory-infiltration.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-5-kitchen-and-lunch.md) | [返回目录](../README.md) | [下一章](ch-7-bear-territory-infiltration.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

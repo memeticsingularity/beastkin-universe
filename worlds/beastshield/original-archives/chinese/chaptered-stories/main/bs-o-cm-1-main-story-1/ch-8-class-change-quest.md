@@ -1,6 +1,6 @@
 # Chapter 8 转职挑战
 
-[上一章](ch-07-training-subordinates.md) | [返回目录](../README.md) | [下一章](ch-09-challenge-headquarters.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-7-training-subordinates.md) | [返回目录](../README.md) | [下一章](ch-9-challenge-headquarters.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -221,7 +221,7 @@ W593
 
 ---
 
-[上一章](ch-07-training-subordinates.md) | [返回目录](../README.md) | [下一章](ch-09-challenge-headquarters.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-7-training-subordinates.md) | [返回目录](../README.md) | [下一章](ch-9-challenge-headquarters.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Chapter 8 炼药房之战
 
-[上一章](ch-07-bear-territory-infiltration.md) | [返回目录](../README.md) | [下一章](ch-09-corridor-cleanup.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-7-bear-territory-infiltration.md) | [返回目录](../README.md) | [下一章](ch-9-corridor-cleanup.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 > *炼金术的本质是转化：金属变成黄金，肉体变成欲望，欲望变成死亡。*
 
@@ -153,7 +153,7 @@
 
 ---
 
-[上一章](ch-07-bear-territory-infiltration.md) | [返回目录](../README.md) | [下一章](ch-09-corridor-cleanup.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-7-bear-territory-infiltration.md) | [返回目录](../README.md) | [下一章](ch-9-corridor-cleanup.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

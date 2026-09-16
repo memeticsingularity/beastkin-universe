@@ -1,6 +1,6 @@
 # Chapter 7 训练部下
 
-[上一章](ch-06-break-into-enemy-camp.md) | [返回目录](../README.md) | [下一章](ch-08-class-change-quest.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-6-break-into-enemy-camp.md) | [返回目录](../README.md) | [下一章](ch-8-class-change-quest.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -179,7 +179,7 @@
 
 ---
 
-[上一章](ch-06-break-into-enemy-camp.md) | [返回目录](../README.md) | [下一章](ch-08-class-change-quest.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-6-break-into-enemy-camp.md) | [返回目录](../README.md) | [下一章](ch-8-class-change-quest.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

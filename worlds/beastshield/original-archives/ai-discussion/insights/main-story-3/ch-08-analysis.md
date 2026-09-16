@@ -1,7 +1,7 @@
 # Chapter 08《夔牛弓现》- 分析
 
 >
-对应文件：[ch-08-dragon-god-island.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-08-dragon-god-island.md)
+对应文件：[ch-08-dragon-god-island.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)
 > 分析日期：2026-03-19
 
 ---

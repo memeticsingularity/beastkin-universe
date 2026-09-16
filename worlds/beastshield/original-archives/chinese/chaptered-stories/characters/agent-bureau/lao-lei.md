@@ -15,7 +15,7 @@
 | **隶属** | 特工局 / Agent Bureau |
 | **师父** | 熊猫（第一卷） |
 | **状态** | **已死亡**——在浮岛最终决战中被血君王的邪火焚烧殆尽（[vol-3-ch-21](../../main/bs-o-cm-1-main-story-3/ch-21-divine-battle.md)） |
-| **首次登场（时间线）** | 短篇《毕业实习》（[bs-o-s-7](../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)） |
+| **首次登场（时间线）** | 短篇《毕业实习》（[bs-o-s-7](../../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)） |
 | **首次登场（主线）** | 第一卷·第11章特工局会议（[vol-1-ch-11](../../main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)） |
 | **最后登场** | 第三卷·第21章（[vol-3-ch-21](../../main/bs-o-cm-1-main-story-3/ch-21-divine-battle.md)） |
 
@@ -40,7 +40,7 @@
 **短篇**
 | 作品 | 文件 |
 |:----:|:-----|
-| 《毕业实习》 | [`bs-o-s-7`](../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)（雷炎寰，毕业考核） |
+| 《毕业实习》 | [`bs-o-s-7`](../../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)（雷炎寰，毕业考核） |
 
 **支线**
 | 作品 | 文件 |
@@ -59,7 +59,7 @@
 
 ### 2.1 基础外观
 
-老雷是一只虎兽人，年过三旬，身材魁梧。年轻时毛色为鲜艳的红色（"红皮虎兽人"，[bs-o-s-7](../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)），成年后毛色转为虎纹常态。在特工局以正面战斗能力见长，与魔影的潜入暗杀风格截然相反。
+老雷是一只虎兽人，年过三旬，身材魁梧。年轻时毛色为鲜艳的红色（"红皮虎兽人"，[bs-o-s-7](../../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)），成年后毛色转为虎纹常态。在特工局以正面战斗能力见长，与魔影的潜入暗杀风格截然相反。
 
 ### 2.2 标志性装备
 
@@ -112,7 +112,7 @@
 
 ### 5.0 早年：实习与初入特工局
 
-**毕业实习——雷炎寰**（[bs-o-s-7](../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)）
+**毕业实习——雷炎寰**（[bs-o-s-7](../../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)）
 
 特工局毕业考核，代号"雷"的红虎兽人以"雷炎寰"之名执行首次单人实战任务。目标为偏僻荒郊的一处兽盾仓库，驻守6名绿制服守卫。
 
@@ -246,7 +246,7 @@
 | 24 | 灰熊嗜精兽 | 熊（蓝制服） | 单手掐颈拧碎喉骨→站着射精 | 300多斤身体被单手提起；拧碎喉骨后喷血射精 |
 | 25 | 水牛嗜精兽 | 水牛 | 一拳击腹→灼流暗劲 | 承受一击后勉强站立，最终站着射精而死 |
 
-### [bs-o-s-7](../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) 毕业实习（6人）
+### [bs-o-s-7](../../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) 毕业实习（6人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:------|
@@ -324,7 +324,7 @@
 
 | 对手 | 结果 | 出处 | 备注 |
 |:-----|:----:|:----|:------|
-| 兽盾仓库6守卫 | ✅ 胜 | [bs-o-s-7](../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) | 毕业实习，单人清场 |
+| 兽盾仓库6守卫 | ✅ 胜 | [bs-o-s-7](../../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) | 毕业实习，单人清场 |
 | 牛守卫（一楼） | ✅ 胜 | [vol-2-ch-6](../../main/bs-o-cm-1-main-story-2/ch-6-lei-lei-arrival.md) | 一拳秒杀 |
 | 熊领队（一楼） | ✅ 胜 | [vol-2-ch-6](../../main/bs-o-cm-1-main-story-2/ch-6-lei-lei-arrival.md) | 三拳击毙 |
 | 犀牛守卫 | ✅ 胜 | [vol-2-ch-10](../../main/bs-o-cm-1-main-story-2/ch-10-thirteenth-floor-infiltration.md) | 残虐处决 |
@@ -341,7 +341,7 @@
 
 ## 九、主要事迹总结
 
-1. **毕业实习满分毕业**——雷炎寰单人攻破兽盾仓库，击杀6名守卫，首次展示灼流暗劲（[bs-o-s-7](../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)）
+1. **毕业实习满分毕业**——雷炎寰单人攻破兽盾仓库，击杀6名守卫，首次展示灼流暗劲（[bs-o-s-7](../../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)）
 2. **特工局新秀**——作为熊猫之徒参与处决玩家会议，热血冲动、嫉恶如仇（[vol-1-ch-11](../../main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)）
 3. **奉命支援魔影**——镇守一楼，单人击退多波增援小队（[vol-2-ch-6](../../main/bs-o-cm-1-main-story-2/ch-6-lei-lei-arrival.md)）
 2. **走廊清理**——累计击杀31人，将尸体整齐摆放在厕所（[vol-2-ch-9](../../main/bs-o-cm-1-main-story-2/ch-9-corridor-cleanup.md)）
@@ -356,7 +356,7 @@
 
 ## 十、原文引用
 
-> "各位叔叔好，我今天来这是为了完成毕业实习作业的，那么，就劳烦各位叔叔今天都在这里喷一发哈。"——毕业实习登场台词（[bs-o-s-7](../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)）
+> "各位叔叔好，我今天来这是为了完成毕业实习作业的，那么，就劳烦各位叔叔今天都在这里喷一发哈。"——毕业实习登场台词（[bs-o-s-7](../../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)）
 
 > "你这老不死的少装，你折磨我的时候怎么没见你疲软？"——对师父熊猫（[vol-1-ch-11](../../main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)）
 

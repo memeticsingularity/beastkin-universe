@@ -1,7 +1,7 @@
 # Chapter 5 厨房与致命午餐 - 分析
 
 >
-对应文件：[ch-05-kitchen-and-lunch.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-05-kitchen-and-lunch.md)
+对应文件：[ch-05-kitchen-and-lunch.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-5-kitchen-and-lunch.md)
 > 分析日期：2026-03-19
 
 ---

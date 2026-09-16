@@ -13,14 +13,14 @@
 | **编号** | 未知 |
 | **身份** | 训练房守卫 |
 | **状态** | **已死亡**——被太刀捅穿腹部，站着射精而死 |
-| **首次登场** | [vol-1-ch-10](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md) |
-| **最后登场** | [vol-1-ch-10](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md) |
+| **首次登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md) |
+| **最后登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md) |
 
 ---
 
 ## 二、登场原文
 
-### [vol-1-ch-10：首次对决](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md)
+### [vol-1-ch-10：首次对决](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md)
 
 > 在我砍杀牛兽人的时候，身后一只虎兽人突然偷袭，我不躲反攻，一个后撤步错开他的攻击，同时将太刀直接捅进了他的小腹。
 >

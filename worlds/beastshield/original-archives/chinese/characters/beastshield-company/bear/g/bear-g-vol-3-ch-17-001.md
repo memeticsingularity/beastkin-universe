@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿制服 |
 | **身份** | 直升机驾驶员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-17](ch-17-godly-music-duel.md) |
-| **最后登场** | [vol-3-ch-17](ch-17-godly-music-duel.md) |
+| **首次登场** | [vol-3-ch-17](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-17-godly-music-duel.md) |
+| **最后登场** | [vol-3-ch-17](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-17-godly-music-duel.md) |
 
 ---
 
@@ -78,4 +78,4 @@
 
 ---
 
-*档案来源：第三卷·白之都 [ch-17](ch-17-godly-music-duel.md)*
+*档案来源：第三卷·白之都 [ch-17](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-17-godly-music-duel.md)*

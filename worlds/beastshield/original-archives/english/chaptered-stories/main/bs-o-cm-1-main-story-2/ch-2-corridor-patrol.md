@@ -1,6 +1,6 @@
 # Chapter 2 Corridor Patrol
 
-[Previous Chapter](ch-01-locker-room-hunt.md) | [Return to Index](../README.md) | [Next Chapter](ch-03-terrace-hunt.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-1-locker-room-hunt.md) | [Return to Index](../README.md) | [Next Chapter](ch-3-terrace-hunt.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 > (To be supplemented)
 
@@ -70,7 +70,7 @@ Demon Shadow lifted his foot, used his toes to hook the black panther's corpse a
 
 ---
 
-[Previous Chapter](ch-01-locker-room-hunt.md) | [Return to Index](../README.md) | [Next Chapter](ch-03-terrace-hunt.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-1-locker-room-hunt.md) | [Return to Index](../README.md) | [Next Chapter](ch-3-terrace-hunt.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
 

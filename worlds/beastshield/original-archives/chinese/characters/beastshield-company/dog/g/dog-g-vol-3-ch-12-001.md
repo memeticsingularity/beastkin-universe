@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服 |
 | **身份** | 兽盾组织车夫，运输儡部长的黑棺 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-12](ch-12-desert-ambush.md) |
-| **最后登场** | [vol-3-ch-12](ch-12-desert-ambush.md) |
+| **首次登场** | [vol-3-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md) |
+| **最后登场** | [vol-3-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md) |
 
 ---
 
 ## 二、登场原文
 
-### [沙漠伏击](ch-12-desert-ambush.md)
+### [沙漠伏击](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md)
 
 > "真倒霉，被安排来这里拉棺材，毛都快被晒秃了，真羡慕那些可以坐飞机的。"拉第二口棺的马车车夫是一只鬣狗兽人。
 

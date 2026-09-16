@@ -1,6 +1,6 @@
 # Chapter 5 厨房与致命午餐
 
-[上一章](ch-04-tiger-guard-battle.md) | [返回目录](../README.md) | [下一章](ch-06-lei-lei-arrival.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-4-tiger-guard-battle.md) | [返回目录](../README.md) | [下一章](ch-6-lei-lei-arrival.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 > *饥饿是最好的调味料，但魔影想品尝的不仅是食物。*
 
@@ -86,7 +86,7 @@
 
 ---
 
-[上一章](ch-04-tiger-guard-battle.md) | [返回目录](../README.md) | [下一章](ch-06-lei-lei-arrival.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-4-tiger-guard-battle.md) | [返回目录](../README.md) | [下一章](ch-6-lei-lei-arrival.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

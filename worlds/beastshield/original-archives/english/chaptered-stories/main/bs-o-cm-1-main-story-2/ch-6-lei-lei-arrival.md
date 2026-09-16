@@ -1,6 +1,6 @@
 # Chapter 6 Old Lei's Arrival
 
-[Previous Chapter](ch-05-kitchen-and-lunch.md) | [Return to Index](../README.md) | [Next Chapter](ch-07-bear-territory-infiltration.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-5-kitchen-and-lunch.md) | [Return to Index](../README.md) | [Next Chapter](ch-7-bear-territory-infiltration.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 > (To be supplemented)
 
@@ -114,7 +114,7 @@ Old Lei saw that the bear beastman had finished shooting all his semen. He gripp
 
 ---
 
-[Previous Chapter](ch-05-kitchen-and-lunch.md) | [Return to Index](../README.md) | [Next Chapter](ch-07-bear-territory-infiltration.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-5-kitchen-and-lunch.md) | [Return to Index](../README.md) | [Next Chapter](ch-7-bear-territory-infiltration.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
 

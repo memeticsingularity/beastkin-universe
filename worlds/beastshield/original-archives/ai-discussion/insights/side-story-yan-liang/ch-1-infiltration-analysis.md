@@ -1,7 +1,7 @@
 # Chapter 1 潜入基地 - 分析
 
 >
-对应文件：[ch-01-infiltration.md](../../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-01-infiltration.md)
+对应文件：[ch-01-infiltration.md](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)
 > 分析日期：2026-03-19
 
 ---

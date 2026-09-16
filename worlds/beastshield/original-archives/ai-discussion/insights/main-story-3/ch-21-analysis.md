@@ -1,7 +1,7 @@
 # Chapter 21《神曲对决》 - 分析
 
 >
-对应文件：[ch-21-divine-battle.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-21-divine-battle.md)
+对应文件：[ch-21-divine-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-21-divine-battle.md)
 > 分析日期：2026-03-19
 
 ---

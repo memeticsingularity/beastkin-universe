@@ -12,8 +12,8 @@
 | **等级/制服** | O级·蓝色制服（嗜精兽·血精石强化） |
 | **身份** | 嗜精兽战士 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-17](ch-17-godly-music-duel.md) |
-| **最后登场** | [vol-3-ch-18](ch-18-flame-cannon-finale.md) |
+| **首次登场** | [vol-3-ch-17](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-17-godly-music-duel.md) |
+| **最后登场** | [vol-3-ch-18](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-18-flame-cannon-finale.md) |
 
 ---
 
@@ -65,4 +65,4 @@
 
 ---
 
-*档案来源：第三卷·白之都 [ch-17](ch-17-godly-music-duel.md) [ch-18](ch-18-flame-cannon-finale.md)*
+*档案来源：第三卷·白之都 [ch-17](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-17-godly-music-duel.md) [ch-18](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-18-flame-cannon-finale.md)*

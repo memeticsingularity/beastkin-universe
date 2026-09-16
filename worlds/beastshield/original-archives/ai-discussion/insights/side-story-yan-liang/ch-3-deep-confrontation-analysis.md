@@ -1,7 +1,7 @@
 # Chapter 3 基地深处的激战 - 分析
 
 >
-对应文件：[ch-03-deep-confrontation.md](../../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-03-deep-confrontation.md)
+对应文件：[ch-03-deep-confrontation.md](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
 > 分析日期：2026-03-19
 
 ---

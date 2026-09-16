@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾公司鼠神武搜寻队站岗护卫 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-14](ch-14-mouse-divine-weapon.md) |
-| **最后登场** | [vol-3-ch-14](ch-14-mouse-divine-weapon.md) |
+| **首次登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-14-mouse-divine-weapon.md) |
+| **最后登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-14-mouse-divine-weapon.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 三、登场原文
 
-### [鼠神武](ch-14-mouse-divine-weapon.md)
+### [鼠神武](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-14-mouse-divine-weapon.md)
 
 > 第三只被干掉的是一只白熊兽人，他虽然四肢粗壮，但肚子也很圆滚，还是那种圆鼓鼓的硬肚子，由于肚子太大，魔影在他身后够不到他的熊鞭，只好把他放倒在地上撸射，射精的过程中，白熊粗圆的白袜双腿在地上来回蹭了十几下后才射干毙命，精液射得满肚皮都是。
 

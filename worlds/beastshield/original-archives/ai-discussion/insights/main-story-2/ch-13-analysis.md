@@ -1,7 +1,7 @@
 # Chapter 13 蟒蛇岛回忆·上 - 分析
 
 >
-对应文件：[ch-13-python-island-flashback.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-13-python-island-flashback.md)
+对应文件：[ch-13-python-island-flashback.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-13-python-island-flashback.md)
 > 分析日期：2026-03-19
 
 ---

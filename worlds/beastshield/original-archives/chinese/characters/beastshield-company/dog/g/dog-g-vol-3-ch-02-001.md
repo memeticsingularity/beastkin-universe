@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤 |
 | **身份** | 兽盾组织守卫，虎队长部下 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-02](ch-2-dojo-massacre.md) |
-| **最后登场** | [vol-3-ch-02](ch-2-dojo-massacre.md) |
+| **首次登场** | [vol-3-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md) |
+| **最后登场** | [vol-3-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md) |
 
 ---
 
 ## 二、登场原文
 
-### [武馆屠杀](ch-2-dojo-massacre.md)
+### [武馆屠杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md)
 
 > 一只绿制服狗兽人率先上阵，只见他抽出电击棒朝熊馆长迎面挥出，熊馆长正眼也不看他一眼，一招左格掌将他电击棒架开，然后一拳击中对方小腹！
 >

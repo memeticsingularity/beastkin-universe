@@ -12,8 +12,8 @@
 | **等级/制服** | O级·蓝色制服（嗜精兽·血精石强化） |
 | **身份** | 嗜精兽战士 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-16](ch-16-blood-king-resurrection.md) |
-| **最后登场** | [vol-3-ch-16](ch-16-blood-king-resurrection.md) |
+| **首次登场** | [vol-3-ch-16](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md) |
+| **最后登场** | [vol-3-ch-16](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md) |
 
 ---
 
@@ -63,4 +63,4 @@
 
 ---
 
-*档案来源：第三卷·白之都 [ch-16](ch-16-blood-king-resurrection.md)*
+*档案来源：第三卷·白之都 [ch-16](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md)*

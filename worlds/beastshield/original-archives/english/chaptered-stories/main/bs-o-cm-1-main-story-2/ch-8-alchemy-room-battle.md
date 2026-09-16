@@ -1,6 +1,6 @@
 # Chapter 8 Alchemy Room Battle
 
-[Previous Chapter](ch-07-bear-territory-infiltration.md) | [Return to Index](../README.md) | [Next Chapter](ch-09-corridor-cleanup.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-7-bear-territory-infiltration.md) | [Return to Index](../README.md) | [Next Chapter](ch-9-corridor-cleanup.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 > (To be supplemented)
 
@@ -164,7 +164,7 @@ Demon Shadow smiled understandingly, because he understood the bear leader's sil
 
 ---
 
-[Previous Chapter](ch-07-bear-territory-infiltration.md) | [Return to Index](../README.md) | [Next Chapter](ch-09-corridor-cleanup.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-7-bear-territory-infiltration.md) | [Return to Index](../README.md) | [Next Chapter](ch-9-corridor-cleanup.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
 

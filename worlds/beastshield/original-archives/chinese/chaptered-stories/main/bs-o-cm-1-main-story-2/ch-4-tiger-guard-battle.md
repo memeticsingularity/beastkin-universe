@@ -1,6 +1,6 @@
 # Chapter 4 虎卫组之战
 
-[上一章](ch-03-terrace-hunt.md) | [返回目录](../README.md) | [下一章](ch-05-kitchen-and-lunch.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-3-terrace-hunt.md) | [返回目录](../README.md) | [下一章](ch-5-kitchen-and-lunch.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 > *老虎是这座大楼的看门狗，但他们面对的不是普通的闯入者。*
 
@@ -94,7 +94,7 @@
 
 ---
 
-[上一章](ch-03-terrace-hunt.md) | [返回目录](../README.md) | [下一章](ch-05-kitchen-and-lunch.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-3-terrace-hunt.md) | [返回目录](../README.md) | [下一章](ch-5-kitchen-and-lunch.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

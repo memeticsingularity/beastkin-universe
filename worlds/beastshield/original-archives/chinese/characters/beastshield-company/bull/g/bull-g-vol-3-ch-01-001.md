@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤 |
 | **身份** | 兽盾组织底层守卫，参加提拔测试 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-01](ch-1-promotion-test.md) |
-| **最后登场** | [vol-3-ch-01](ch-1-promotion-test.md) |
+| **首次登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md) |
+| **最后登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 三、登场原文
 
-### [提拔测试](ch-1-promotion-test.md)
+### [提拔测试](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md)
 
 > "兄弟，你知道这测试的具体内容吗，透露些小道消息给咱们这些小杂兵呗。"排在队列末端的一只穿绿制服的牛兽人对前面比他高一级穿着蓝制服的虎兽人笑道。
 

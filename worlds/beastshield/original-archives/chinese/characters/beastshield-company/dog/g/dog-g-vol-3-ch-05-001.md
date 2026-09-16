@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织入侵小队成员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-05](ch-5-undercover-hunt.md) |
-| **最后登场** | [vol-3-ch-05](ch-5-undercover-hunt.md) |
+| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md) |
+| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 三、登场原文
 
-### [卧底猎杀](ch-5-undercover-hunt.md)
+### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md)
 
 > 这时一双兽爪持枪从门外慢慢伸了进来，步伐小心谨慎，金毛则眼疾手快左手将对方枪口架起然后顺势搂住对方身体，右手则将枪口顶在他的腹部，毫不留情的扣下扳机！
 

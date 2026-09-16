@@ -12,14 +12,14 @@
 | **等级/制服** | 辉董护卫·特制白制服（白袜） |
 | **身份** | 光照会辉董的圣堂护卫 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-11](ch-11-light-cult-infiltration.md) |
-| **最后登场** | [vol-3-ch-11](ch-11-light-cult-infiltration.md) |
+| **首次登场** | [vol-3-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md) |
+| **最后登场** | [vol-3-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md) |
 
 ---
 
 ## 二、登场原文
 
-### [光照会渗透](ch-11-light-cult-infiltration.md)
+### [光照会渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md)
 
 > 然后是剩下的两只狼兽人，他们如同多米罗牌一样，按照中针的顺序一股接一股有节奏地喷射着浓精，像事先排练好的戏剧一般滑稽，他们明明保持着帅气的战斗姿势，脸上的表情却充满痛苦和绝望，下体的白色大包一弹一弹地喷射着他们珍贵的浓精，被精液打湿的白色紧身裤立刻变得晶莹透明，透出里面龟头的红晕，看上去十分诱人可爱。
 

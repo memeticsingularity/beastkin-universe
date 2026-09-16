@@ -12,14 +12,14 @@
 | **等级/制服** | G级·墨绿短裤+白袜+运动鞋 |
 | **身份** | 兽盾组织仓储部员工 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-03](ch-3-warehouse-vengeance.md) |
-| **最后登场** | [vol-3-ch-03](ch-3-warehouse-vengeance.md) |
+| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
+| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
 
 ---
 
 ## 二、登场原文
 
-### [仓库复仇](ch-3-warehouse-vengeance.md)
+### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md)
 
 > 见来者不善，一只抱着一箱货物准备卸货的牛兽人走上前，用粗犷的声音喝问道:"你是什么人，没看到这是兽盾组织的货仓吗，快滚快滚。"
 >

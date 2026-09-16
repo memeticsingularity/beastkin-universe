@@ -12,8 +12,8 @@
 | **等级/制服** | 部长级·仅穿黑色三角短裤（印有兽盾组织标记） |
 | **身份** | 兽盾组织采购部部长·嗜精兽 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-07](ch-7-police-station-invasion.md) |
-| **最后登场** | [vol-3-ch-18](ch-18-flame-cannon-finale.md) |
+| **首次登场** | [vol-3-ch-07](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) |
+| **最后登场** | [vol-3-ch-18](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-18-flame-cannon-finale.md) |
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## 四、登场原文
 
-### [警局入侵](ch-7-police-station-invasion.md)
+### [警局入侵](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md)
 
 > 不知何时办公室里多出了一只黑皮白腹的鲨鱼兽人，他浑身赤裸抱胸而立，健壮的肌肉和光滑的皮肤在日光灯的照射下反射出苍白高光，一条黑色的三角短裤围在胯下勒出一个大包，裤子上醒目的印着兽盾组织的标记。
 
@@ -68,7 +68,7 @@
 
 > 根据牛局长的死状以及自己这几个月来私底下调查出的兽盾组织情报，勤川很轻松就推理出杀人凶手是兽盾组织采购部的部长——流墟。
 
-### [浮岛混战](ch-16-blood-king-resurrection.md)
+### [浮岛混战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md)
 
 > 突然，几根细不可见的白线飞来，拦住了鲨鱼的去路，然后瞬间收缩将鲨鱼的脑袋缠住！
 >
@@ -80,7 +80,7 @@
 >
 > 「果然和情报里的一样，没有那么好杀，看来得从长计议了。」勤川收回白线，甩掉了上面残留的胶液，向后一跃与流墟拉开距离。
 
-### [最终之战](ch-18-flame-cannon-finale.md)
+### [最终之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-18-flame-cannon-finale.md)
 
 > 可此时正好就是辉董发动无垢的那一瞬间，顿时白光笼罩全岛，所有人都被刺激的睁不开眼，但勤川由于在流墟的笼罩下，那股强光被流墟胶液身体阻挡，变得没有那么刺眼，同时也将流墟原本漆黑一片的身体照成了半透明状，如同x光片一般，也就在这一瞬间，勤川清楚地看到流墟的身体里有一个拳头大小的椭圆物体被强光刺激到挣扎蠕动了一下，接着流墟的身体瞬间以那个椭圆物体为中心缩成了一团，勤川趁机逃过了一劫。
 

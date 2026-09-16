@@ -1,6 +1,6 @@
 # Chapter 9 Corridor Cleanup
 
-[Previous Chapter](ch-08-alchemy-room-battle.md) | [Return to Index](../README.md) | [Next Chapter](ch-10-thirteenth-floor-infiltration.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-8-alchemy-room-battle.md) | [Return to Index](../README.md) | [Next Chapter](ch-10-thirteenth-floor-infiltration.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 > (To be supplemented)
 
@@ -164,7 +164,7 @@ Afterward, the ox follower licked the water buffalo's lower body clean, gently c
 
 ---
 
-[Previous Chapter](ch-08-alchemy-room-battle.md) | [Return to Index](../README.md) | [Next Chapter](ch-10-thirteenth-floor-infiltration.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-8-alchemy-room-battle.md) | [Return to Index](../README.md) | [Next Chapter](ch-10-thirteenth-floor-infiltration.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
 

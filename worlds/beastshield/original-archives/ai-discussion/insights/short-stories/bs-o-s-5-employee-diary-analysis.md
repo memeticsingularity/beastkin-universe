@@ -1,7 +1,7 @@
 # SS-005《兽盾员工的一天》- 分析
 
 >
-对应文件：[bs-o-s-5-employee-diary.md](../../../../../chinese/short-stories/bs-o-s-5-employee-diary.md)
+对应文件：[bs-o-s-5-employee-diary.md](../../../english/short-stories/bs-o-s-5-employee-diary.md)
 > 分析日期：2026-03-19
 
 ---

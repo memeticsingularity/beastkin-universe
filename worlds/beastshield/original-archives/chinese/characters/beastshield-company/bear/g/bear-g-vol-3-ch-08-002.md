@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织底层员工 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-08](ch-8-dragon-god-island.md) |
-| **最后登场** | [vol-3-ch-08](ch-8-dragon-god-island.md) |
+| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
+| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
 
 ---
 
 ## 二、登场原文
 
-### [龙神岛](ch-8-dragon-god-island.md)
+### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)
 
 > 小豪一手接着电话，另一只手正抓着一只绿制服熊兽人的卵蛋不停揉捏，这只得罪了小豪的倒霉蛋四肢趴开平躺在地上，肉棒早已竖起流水，由于小豪正在接电话，暂时没有空闲结果他，只是不停的挤捏着他的卵蛋，抽空他的力气让他无法反抗，被蹂躏的熊兽人此时难受得闷哼不止，躺在地上四肢不停扭动。
 

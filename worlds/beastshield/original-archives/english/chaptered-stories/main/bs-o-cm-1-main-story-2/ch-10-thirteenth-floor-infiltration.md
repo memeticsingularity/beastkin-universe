@@ -1,6 +1,6 @@
 # Chapter 10 Thirteenth Floor Infiltration
 
-[Previous Chapter](ch-09-corridor-cleanup.md) | [Return to Index](../README.md) | [Next Chapter](ch-11-hell-bull-battle.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-9-corridor-cleanup.md) | [Return to Index](../README.md) | [Next Chapter](ch-11-hell-bull-battle.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 > (To be supplemented)
 
@@ -104,7 +104,7 @@ Demon Shadow kicked the ox leader's black-socked calf. He only moved mechanicall
 
 ---
 
-[Previous Chapter](ch-09-corridor-cleanup.md) | [Return to Index](../README.md) | [Next Chapter](ch-11-hell-bull-battle.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-9-corridor-cleanup.md) | [Return to Index](../README.md) | [Next Chapter](ch-11-hell-bull-battle.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
 

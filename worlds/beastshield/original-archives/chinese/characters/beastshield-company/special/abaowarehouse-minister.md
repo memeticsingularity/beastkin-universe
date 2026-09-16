@@ -12,8 +12,8 @@
 | **等级/制服** | 部长级·黑色制服 |
 | **身份** | 兽盾组织仓储部部长 |
 | **状态** | 存活 |
-| **首次登场** | [vol-3-ch-08](ch-8-dragon-god-island.md) |
-| **最后登场** | [vol-3-ch-08](ch-8-dragon-god-island.md) |
+| **首次登场** | [vol-3-ch-08](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
+| **最后登场** | [vol-3-ch-08](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 五、登场原文
 
-### [龙神岛](ch-8-dragon-god-island.md)
+### [龙神岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)
 
 > "哇，大哥哥好厉害啊，手臂还这么粗，要不要当我的男朋友啊～"不知何时，兽盾组织仓储部的阿宝部长出现在了他的身后，扯着墩常的衣角问道。
 

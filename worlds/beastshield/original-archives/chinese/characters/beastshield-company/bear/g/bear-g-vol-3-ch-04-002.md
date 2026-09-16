@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织守卫，奉命监视岚董 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-04](ch-4-psychic-defense.md) |
-| **最后登场** | [vol-3-ch-04](ch-4-psychic-defense.md) |
+| **首次登场** | [vol-3-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md) |
+| **最后登场** | [vol-3-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md) |
 
 ---
 
 ## 二、登场原文
 
-### [念力防御](ch-4-psychic-defense.md)
+### [念力防御](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md)
 
 > "你说那只笨黑熊啊，在你认真偷听的时候我就把他解决了，喏，不是还趴在那吗。"
 >

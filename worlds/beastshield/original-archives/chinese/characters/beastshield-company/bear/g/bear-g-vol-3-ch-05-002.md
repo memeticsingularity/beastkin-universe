@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织入侵小队成员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-05](ch-5-undercover-hunt.md) |
-| **最后登场** | [vol-3-ch-05](ch-5-undercover-hunt.md) |
+| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md) |
+| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 三、登场原文
 
-### [卧底猎杀](ch-5-undercover-hunt.md)
+### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md)
 
 > 在二楼的休息室，一只绿制服白熊兽人刚检查完所有房间，确认二楼无人后打开了房里的冰箱，各种五彩缤纷的酒水饮料映入眼帘，馋得白熊直流口水。
 

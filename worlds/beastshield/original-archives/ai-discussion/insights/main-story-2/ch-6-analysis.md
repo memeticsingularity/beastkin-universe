@@ -1,7 +1,7 @@
 # Chapter 6 老雷登场 - 分析
 
 >
-对应文件：[ch-06-lei-lei-arrival.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-06-lei-lei-arrival.md)
+对应文件：[ch-06-lei-lei-arrival.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-6-lei-lei-arrival.md)
 > 分析日期：2026-03-19
 
 ---

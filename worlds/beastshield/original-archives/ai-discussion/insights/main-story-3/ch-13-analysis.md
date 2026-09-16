@@ -1,7 +1,7 @@
 # Chapter 13《浮岛大战（中）》正文分析
 
 >
-对应文件：[ch-13-dragon-god-battle.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-13-dragon-god-battle.md)
+对应文件：[ch-13-dragon-god-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md)
 > 分析日期：2026-03-19
 
 ---

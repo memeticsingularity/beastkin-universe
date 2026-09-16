@@ -12,8 +12,8 @@
 | **等级/制服** | 部长级·黑色紧身制服+黑袜 |
 | **身份** | 兽盾组织部长，仓储部负责人 |
 | **状态** | 存活 |
-| **首次登场** | [vol-3-ch-03](ch-3-warehouse-vengeance.md) |
-| **最后登场** | [vol-3-ch-03](ch-3-warehouse-vengeance.md) |
+| **首次登场** | [vol-3-ch-03](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
+| **最后登场** | [vol-3-ch-03](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [仓库复仇](ch-3-warehouse-vengeance.md)
+### [仓库复仇](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md)
 
 > "大哥哥，你看起来好强啊，要不要做我的男朋友啊。"一只个头比老雷稍矮，但肌肉粗硬度完全不输老雷的熊兽人抓着老雷的手腕，抬着头一脸天真无邪的看着他，只见他浑身穿着黑色紧身制服，脚着黑袜，面部干净整洁没有胡渣，看上去如同十来岁的小年轻，与这身夸张的肌肉十分不搭。
 

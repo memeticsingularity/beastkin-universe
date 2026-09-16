@@ -1,7 +1,7 @@
 # Chapter 01《提拔测试》- 分析
 
 >
-对应文件：[ch-01-promotion-test.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-01-promotion-test.md)
+对应文件：[ch-01-promotion-test.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md)
 > 分析日期：2026-03-19
 
 ---

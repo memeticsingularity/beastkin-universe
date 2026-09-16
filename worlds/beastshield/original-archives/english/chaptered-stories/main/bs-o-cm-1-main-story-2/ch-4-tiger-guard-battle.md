@@ -1,6 +1,6 @@
 # Chapter 4 Tiger Guard Battle
 
-[Previous Chapter](ch-03-terrace-hunt.md) | [Return to Index](../README.md) | [Next Chapter](ch-05-kitchen-and-lunch.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-3-terrace-hunt.md) | [Return to Index](../README.md) | [Next Chapter](ch-5-kitchen-and-lunch.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 > (To be supplemented)
 
@@ -92,7 +92,7 @@ The toxin on the yellow tiger guard's body had already dissipated. The corpse be
 
 ---
 
-[Previous Chapter](ch-03-terrace-hunt.md) | [Return to Index](../README.md) | [Next Chapter](ch-05-kitchen-and-lunch.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-3-terrace-hunt.md) | [Return to Index](../README.md) | [Next Chapter](ch-5-kitchen-and-lunch.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
 

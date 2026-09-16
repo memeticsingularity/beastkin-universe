@@ -12,8 +12,8 @@
 | **等级/制服** | 部长级·黑色紧身制服+黑袜 |
 | **身份** | 兽盾组织售后部部长（新晋） |
 | **状态** | 疑似死亡（自称杀不死） |
-| **首次登场** | [vol-3-ch-06](ch-6-divine-weapons-secret.md) |
-| **最后登场** | [vol-3-ch-06](ch-6-divine-weapons-secret.md) |
+| **首次登场** | [vol-3-ch-06](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md) |
+| **最后登场** | [vol-3-ch-06](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 三、登场原文
 
-### [神兵机密](ch-6-divine-weapons-secret.md)
+### [神兵机密](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md)
 
 #### 家庭生活·血晶石发作
 

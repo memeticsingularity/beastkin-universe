@@ -269,4 +269,4 @@ This work is an original official work under the Beastkin Universe worldview. Co
 
 ---
 
-[返回三部曲总览 / Return to Trilogy Overview](../README.md) | [返回项目主页 / Return to Project Home](../../../../../../README.md)
+[返回三部曲总览 / Return to Trilogy Overview](../README.md) | [返回项目主页 / Return to Project Home](README.md)

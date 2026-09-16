@@ -11,8 +11,8 @@
 | **种族** | 混合（熊、牛、虎等多兽种） |
 | **等级/制服** | G级·军绿短袖+短裤 |
 | **状态** | 部分死亡，部分重伤 |
-| **首次登场** | [vol-3-ch-15](ch-15-final-battle.md) |
-| **最后登场** | [vol-3-ch-15](ch-15-final-battle.md) |
+| **首次登场** | [vol-3-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-15-final-battle.md) |
+| **最后登场** | [vol-3-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-15-final-battle.md) |
 
 ---
 
@@ -60,4 +60,4 @@
 
 ---
 
-*档案来源：第三卷·白之都 [ch-15](ch-15-final-battle.md)*
+*档案来源：第三卷·白之都 [ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-15-final-battle.md)*

@@ -1,7 +1,7 @@
 # SS-007《毕业实习》分析
 
 >
-对应文件：[bs-o-s-7-graduation-internship.md](../../../../../chinese/short-stories/bs-o-s-7-graduation-internship.md)
+对应文件：[bs-o-s-7-graduation-internship.md](../../../chinese/short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)
 > 分析日期：2026-03-19
 
 ---

@@ -12,8 +12,8 @@
 | **等级/制服** | 冥偶·兽盾旧款黑色制服+黑袜 |
 | **身份** | 儡部长以秘术淬炼的尸体傀儡 |
 | **状态** | 已死亡（本为死者，被流沙掩埋） |
-| **首次登场** | [vol-3-ch-12](ch-12-desert-ambush.md) |
-| **最后登场** | [vol-3-ch-12](ch-12-desert-ambush.md) |
+| **首次登场** | [vol-3-ch-12](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md) |
+| **最后登场** | [vol-3-ch-12](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [沙漠伏击](ch-12-desert-ambush.md)
+### [沙漠伏击](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md)
 
 > 黑棺吸完了所有的黑气后，棺盖纷纷被从内推开，里面站起三只穿着兽盾旧款黑色制服的兽人：一只健壮结实的黄虎兽人；一只粗壮墩实的棕熊兽人；以及一只身材异于常人般高大魁梧的黄牛兽人。他们虽然人立着，但脊背弯曲，双臂下垂，穿着黑袜的粗腿也如野兽般弯曲着，眼神呆滞无光，胸口毫无起伏，全身散发着一股幽冥死气。
 

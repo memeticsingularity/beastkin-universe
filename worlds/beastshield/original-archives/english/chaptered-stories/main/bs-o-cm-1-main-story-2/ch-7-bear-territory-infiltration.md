@@ -1,6 +1,6 @@
 # Chapter 7 Bear Territory Infiltration
 
-[Previous Chapter](ch-06-lei-lei-arrival.md) | [Return to Index](../README.md) | [Next Chapter](ch-08-alchemy-room-battle.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-6-lei-lei-arrival.md) | [Return to Index](../README.md) | [Next Chapter](ch-8-alchemy-room-battle.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 > (To be supplemented)
 
@@ -128,7 +128,7 @@ Afterward, Demon Shadow quietly got up and left. The guards here were all the sa
 
 ---
 
-[Previous Chapter](ch-06-lei-lei-arrival.md) | [Return to Index](../README.md) | [Next Chapter](ch-08-alchemy-room-battle.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
+[Previous Chapter](ch-6-lei-lei-arrival.md) | [Return to Index](../README.md) | [Next Chapter](ch-8-alchemy-room-battle.md) | [Return to Worldview Home](../../../../../README.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
 

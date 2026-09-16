@@ -21,8 +21,8 @@ An amnesiac black dog awakens in darkness, finding himself in a cave with a beas
 
 ## Chapter List / 章节列表
 
-- [Chapter 1: Cave Awakening / 第一章: 洞穴醒来](ch-1-cave-awakening.md)
-- [Chapter 2: Mountain Encounter / 第二章: 山间遭遇](ch-2-mountain-encounter.md)
+- [Chapter 1: Cave Awakening / 第一章: 洞穴醒来](../../../../chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)
+- [Chapter 2: Mountain Encounter / 第二章: 山间遭遇](../../../../chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)
 
 ---
 

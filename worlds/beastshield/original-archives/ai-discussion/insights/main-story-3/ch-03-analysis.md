@@ -1,7 +1,7 @@
 # Chapter 03《卧底风云》- 分析
 
 >
-对应文件：[ch-03-warehouse-vengeance.md](../../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-03-warehouse-vengeance.md)
+对应文件：[ch-03-warehouse-vengeance.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md)
 > 分析日期：2026-03-19
 
 ---

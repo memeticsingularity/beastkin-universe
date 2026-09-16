@@ -53,4 +53,4 @@
 
 ---
 
-*档案来源：[SS-004 俘虏快递](../../../short-stories/bs-o-s-4-captive-delivery/bs-o-s-4-captive-delivery.md)*
+*档案来源：[SS-004 俘虏快递](../../../../short-stories/bs-o-s-4-captive-delivery/bs-o-s-4-captive-delivery.md)*

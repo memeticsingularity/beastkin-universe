@@ -1,6 +1,6 @@
 # Chapter 9 走廊清理
 
-[上一章](ch-08-alchemy-room-battle.md) | [返回目录](../README.md) | [下一章](ch-10-thirteenth-floor-infiltration.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-8-alchemy-room-battle.md) | [返回目录](../README.md) | [下一章](ch-10-thirteenth-floor-infiltration.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 > *老雷的暴力美学在这一层达到了顶峰。*
 
@@ -152,7 +152,7 @@
 
 ---
 
-[上一章](ch-08-alchemy-room-battle.md) | [返回目录](../README.md) | [下一章](ch-10-thirteenth-floor-infiltration.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-8-alchemy-room-battle.md) | [返回目录](../README.md) | [下一章](ch-10-thirteenth-floor-infiltration.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

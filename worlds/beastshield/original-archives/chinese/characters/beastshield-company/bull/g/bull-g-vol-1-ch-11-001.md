@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾俘虏（原为杂兵） |
 | **状态** | **已死亡**——被银针封穴后撸射而死 |
-| **首次登场** | [vol-1-ch-11](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md) |
-| **最后登场** | [vol-1-ch-11](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md) |
+| **首次登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md) |
+| **最后登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md) |
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 三、登场原文
 
-### [vol-1-ch-11：特工局](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)
+### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)
 
 > 银拍了拍手，不一会几个特种兵押着一只被绑起来的体型格外粗壮的兽盾绿制服杂兵走了进来。
 >

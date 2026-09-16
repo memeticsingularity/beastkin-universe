@@ -1,7 +1,7 @@
 # SS-004《俘虏快递》- 分析
 
 >
-对应文件：[bs-o-s-4-captive-delivery.md](../../../../../chinese/short-stories/bs-o-s-4-captive-delivery.md)
+对应文件：[bs-o-s-4-captive-delivery.md](../../../english/short-stories/bs-o-s-4-captive-delivery.md)
 > 分析日期：2026-03-19
 
 ---
