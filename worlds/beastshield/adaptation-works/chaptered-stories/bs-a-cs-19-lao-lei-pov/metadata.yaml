@@ -52,7 +52,7 @@ work:
   # 全程第三人称限知于老雷、主视角连贯、无时间跳切。
   # 本卷"这一夜"= 别墅夜袭 → 情报局清剿夺盘。
   chapters:
-    count: 7
+    count: 9
     list:
       - "ch-01-villa-night-raid: 别墅夜袭"
       - "ch-02-the-driver: 司机"
@@ -61,9 +61,8 @@ work:
       - "ch-05-data-center: 数据中心（第一部《这一夜》完）"
       - "ch-06-the-road-back: 归途（第二部《围剿》起）"
       - "ch-07-cornfield: 玉米地"
-    planned:
-      - "ch-08-the-house: 民房与浪青平"
-      - "ch-09-the-encirclement: 合围"
+      - "ch-08-the-house: 民房"
+      - "ch-09-the-encirclement: 合围（第二部完）"
 
   # —— preset 例外申报（兽盾故事出厂 preset ①③④ §七）——
   # 本作为「原作忠实改编」：所据原作 bs-o-cs-3 含枪械击杀与流血（狙击手爆头、碎玻璃卡颈、
