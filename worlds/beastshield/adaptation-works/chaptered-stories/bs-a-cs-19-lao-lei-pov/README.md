@@ -44,6 +44,7 @@
 - [metadata.yaml](metadata.yaml)
 - [角色与推进追踪](.process/TRACKING.md)（时间线/角色/空间锚点/红线账本）
 - [当前进度](.process/CURRENT_STATUS.md)
+- [与原作对照](.process/2026-09-16-original-comparison.md)（Ch.1–5 ↔ 原作 ch-1/ch-2 逐拍比对；D/M/N/I 编号已逐条裁定并执行，余 D7 后半与 M5 待定）
 - 原作：`worlds/beastshield/original-archives/.../side/bs-o-cs-3-babysitter-lei/`
 - 老雷档案：`worlds/beastshield/original-archives/.../characters/agent-bureau/lao-lei.md`
 - 笔法基准：`author/001-lanse/style-analysis/lanse-positive-creation-supplement.md`（五机制）
