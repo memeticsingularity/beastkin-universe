@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-08-the-deer.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-10-the-fox.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-08-the-deer.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-10-the-fox.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -608,6 +608,6 @@ Never dimming.
 
 ---
 
-[Previous Chapter](ch-08-the-deer.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-10-the-fox.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-08-the-deer.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-10-the-fox.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---

@@ -2,7 +2,7 @@
 
 ---
 
-[Return to Story Index](../README.md) | [Previous Chapter](./ch-03-awakening.md) | [Next Chapter](./ch-05-the-eve-of-war.md)
+[Return to Story Index](../../README.md) | [Previous Chapter](./ch-03-awakening.md) | [Next Chapter](./ch-05-the-eve-of-war.md)
 
 ---
 
@@ -934,6 +934,6 @@ And this, perhaps, is all we need in the darkness.
 
 ---
 
-[Return to Story Index](../README.md) | [Previous Chapter](./ch-03-awakening.md) | [Next Chapter](./ch-05-the-eve-of-war.md)
+[Return to Story Index](../../README.md) | [Previous Chapter](./ch-03-awakening.md) | [Next Chapter](./ch-05-the-eve-of-war.md)
 
 ---

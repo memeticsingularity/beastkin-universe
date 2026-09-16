@@ -778,7 +778,7 @@ That was enough. That was enough to let him straighten his spine, look straight 
 
 **Last Updated**: 2026-03-18
 **Word Count**: Approximately 35,000 words
-**Previous Version**: [v5.0 (55,000 words)](history/ch-02-the-price-of-blood-v5.0-55000words.md)
+**Previous Version**: [v5.0 (55,000 words)](../../.process/history/ch-02-the-price-of-blood-v5.0-55000words.md)
 
 ### Version Update Log
 

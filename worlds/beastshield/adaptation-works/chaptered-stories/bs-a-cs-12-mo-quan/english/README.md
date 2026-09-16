@@ -6,7 +6,7 @@
 - **Status**: Updating
 - **Location**: adaptation-works (Adapted Works)
 - **Type**: Branch chaptered story (cs)
-- **Original Work**: [bs-o-cs-2-mo-quan Ink Hound](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/README.md)
+- **Original Work**: [bs-o-cs-2-mo-quan Ink Hound](../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/README.md)
 - **Start Date**: 2026-05-11
 
 ## Story Synopsis
@@ -15,23 +15,23 @@ The amnesiac black canine beastkin **Hei Gou (Black Dog)**, bearing the mysterio
 
 ## Chapter List
 
-- [Chapter 3: Hillside Ambush](ch-3-hillside-ambush.md) (Continuation)
+- [Chapter 3: Hillside Ambush](chapters/ch-3-hillside-ambush.md) (Continuation)
 
 ## Original Work Chapters
 
-- [Chapter 1: Awakening in the Cave](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)
-- [Chapter 2: Mountain Encounter](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)
+- [Chapter 1: Awakening in the Cave](../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)
+- [Chapter 2: Mountain Encounter](../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)
 
 ## Creative Materials
 
 ### Original Work References
 
-- [Original Work Directory](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/README.md)
+- [Original Work Directory](../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/README.md)
 - [Worldbuilding Setting Library](../../../settings/0-original-setting/)
 
 ### Project Materials
 
-- [Style Guide](notes/guides/style-guide.md) — Narrative perspective, sentence rhythm, language style, erotic description standards, etc.
-- [Worldview Adaptation Guide](notes/guides/worldview-adaptation.md) — Which parts of the Beastshield universe setting apply, which are stripped, quick-transmigration setting details
-- [Story Setting Files](notes/setting/story-setting.md) — Character, prop, scene, martial arts technique files
-- [Project Collaboration Guide](GUIDE.md) — File structure, workflow, prohibited items
+- [Style Guide](../notes/guides/style-guide.md) — Narrative perspective, sentence rhythm, language style, erotic description standards, etc.
+- [Worldview Adaptation Guide](../notes/guides/worldview-adaptation.md) — Which parts of the Beastshield universe setting apply, which are stripped, quick-transmigration setting details
+- [Story Setting Files](../notes/setting/story-setting.md) — Character, prop, scene, martial arts technique files
+- [Project Collaboration Guide](../GUIDE.md) — File structure, workflow, prohibited items

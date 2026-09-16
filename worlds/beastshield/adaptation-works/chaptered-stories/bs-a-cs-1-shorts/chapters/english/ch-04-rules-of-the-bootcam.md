@@ -2,7 +2,7 @@
 
 ---
 
-[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)
 
 ---
 
@@ -293,7 +293,7 @@ Survival of the fittest, the unfit... become numbers in trash bins, and white so
 
 ---
 
-[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)
 
 ---
 
@@ -413,7 +413,7 @@ Or, the next participants.
 
 ---
 
-[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)
 
 ---
 

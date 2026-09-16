@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](./ch-06-the-war.md) | [Return to Story Directory](../README.md) | [Next Chapter](./ch-08-the-end.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](./ch-06-the-war.md) | [Return to Story Directory](../../README.md) | [Next Chapter](./ch-08-the-end.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -512,7 +512,7 @@ The final battle had begun.
 
 ---
 
-[Previous Chapter](./ch-06-the-war.md) | [Return to Story Directory](../README.md) | [Next Chapter](./ch-08-the-end.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](./ch-06-the-war.md) | [Return to Story Directory](../../README.md) | [Next Chapter](./ch-08-the-end.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -640,7 +640,7 @@ And this is the most beautiful part of human nature.
 
 ---
 
-[Previous Chapter](./ch-06-the-war.md) | [Return to Story Directory](../README.md) | [Next Chapter](./ch-08-the-end.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](./ch-06-the-war.md) | [Return to Story Directory](../../README.md) | [Next Chapter](./ch-08-the-end.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 

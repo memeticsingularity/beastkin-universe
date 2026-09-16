@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](./ch-05-the-eve-of-war.md) | [返回作品目录](../README.md) | [下一章](./ch-07-aftermath.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](./ch-05-the-eve-of-war.md) | [返回作品目录](../README.md) | [下一章](./ch-07-aftermath.md) | [返回世界观首页](../README.md) | [返回项目主页](../README.md)
 
 ---
 
@@ -469,7 +469,7 @@ facility。那里曾经是地狱，现在是一片废墟。黑烟从破碎的窗
 
 ---
 
-[上一章](./ch-05-the-eve-of-war.md) | [返回作品目录](../README.md) | [下一章](./ch-07-aftermath.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](./ch-05-the-eve-of-war.md) | [返回作品目录](../README.md) | [下一章](./ch-07-aftermath.md) | [返回世界观首页](../README.md) | [返回项目主页](../README.md)
 
 ---
 
@@ -654,7 +654,7 @@ G-1172站在阳光下，感到一种前所未有的……自由。
 
 ---
 
-[上一章](./ch-05-the-eve-of-war.md) | [返回作品目录](../README.md) | [下一章](./ch-07-aftermath.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](./ch-05-the-eve-of-war.md) | [返回作品目录](../README.md) | [下一章](./ch-07-aftermath.md) | [返回世界观首页](../README.md) | [返回项目主页](../README.md)
 
 ---
 

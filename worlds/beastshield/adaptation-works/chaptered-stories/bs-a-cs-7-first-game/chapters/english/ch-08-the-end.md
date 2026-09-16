@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](./ch-07-aftermath.md) | [Return to Story Directory](../README.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](./ch-07-aftermath.md) | [Return to Story Directory](../../README.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -382,7 +382,7 @@ That was life.
 
 ---
 
-[Previous Chapter](./ch-07-aftermath.md) | [Return to Story Directory](../README.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](./ch-07-aftermath.md) | [Return to Story Directory](../../README.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -530,7 +530,7 @@ May we all find our own answers in our "first game."
 
 ---
 
-[Previous Chapter](./ch-07-aftermath.md) | [Return to Story Directory](../README.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](./ch-07-aftermath.md) | [Return to Story Directory](../../README.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 

@@ -4,7 +4,7 @@
 
 *
 
-*[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+*[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)
 
 **
 
@@ -1709,7 +1709,7 @@ Never fading.
 
 *
 
-*[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+*[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)
 
 **
 
@@ -1910,4 +1910,4 @@ But silence, at times, is louder than any noise.
 
 ---
 
-[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)

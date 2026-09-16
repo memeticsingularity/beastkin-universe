@@ -2,7 +2,7 @@
 
 ---
 
-[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)
 
 ---
 
@@ -1392,7 +1392,7 @@ aren't needed.*
 
 ---
 
-[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)
 
 ---
 
@@ -1587,4 +1587,4 @@ grow old slowly.
 
 ---
 
-[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)

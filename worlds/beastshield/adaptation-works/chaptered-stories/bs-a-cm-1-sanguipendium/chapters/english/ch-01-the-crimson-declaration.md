@@ -447,4 +447,4 @@ This is Beastshield.
 
 ---
 
-[Return to Table of Contents](../README.md) | [Next Chapter](ch-02-the-volunteers.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Return to Table of Contents](../README.md) | [Next Chapter](../ch-02-the-volunteers.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)

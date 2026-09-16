@@ -136,15 +136,15 @@ This is not a story of glory. It is a brutal tale of money, despair, and the cal
 | 章节 | 标题 | 链接 |
 |------|------|------|
 | Ch.1 | 猩红宣告 (The Crimson Declaration) | [阅读](chapters/ch-01-the-crimson-declaration.md) |
-| Ch.2 | 血的价格 (The Price of Blood) | [阅读](chapters/ch-02-the-price-of-blood.md) |
-| Ch.3 | 虎穴 (The Tiger's Den) | [阅读](chapters/ch-03-the-tiger-s-den.md) |
-| Ch.4 | 熊巢 (The Bear's Lair) | [阅读](chapters/ch-04-the-bear-s-lair.md) |
-| Ch.5 | 犬群 (The Hound's Pack) | [阅读](chapters/ch-05-the-hound-s-pack.md) |
-| Ch.6 | 囚笼 (The Enclave) | [阅读](chapters/ch-06-the-enclave.md) |
-| Ch.7 | 午后 (The Afternoon) | [阅读](chapters/ch-07-the-afternoon.md) |
-| Ch.8 | 沐浴 (The Bath) | [阅读](chapters/ch-08-the-bath.md) |
-| Ch.9 | 夜晚 (The Night) | [阅读](chapters/ch-09-the-night.md) |
-| Ch.10 | 梦前 (Before Dreams) | [阅读](chapters/ch-10-before-dreams.md) |
+| Ch.2 | 血的价格 (The Price of Blood) | [阅读](chapters/english/ch-02-the-price-of-blood.md) |
+| Ch.3 | 虎穴 (The Tiger's Den) | [阅读](chapters/english/ch-03-the-tiger-s-den.md) |
+| Ch.4 | 熊巢 (The Bear's Lair) | [阅读](chapters/english/ch-04-the-bear-s-lair.md) |
+| Ch.5 | 犬群 (The Hound's Pack) | [阅读](chapters/english/ch-05-the-hound-s-pack.md) |
+| Ch.6 | 囚笼 (The Enclave) | [阅读](chapters/english/ch-06-the-enclave.md) |
+| Ch.7 | 午后 (The Afternoon) | [阅读](chapters/english/ch-07-the-afternoon.md) |
+| Ch.8 | 沐浴 (The Bath) | [阅读](chapters/english/ch-08-the-bath.md) |
+| Ch.9 | 夜晚 (The Night) | [阅读](chapters/ch-09-the-fourth-match.md) |
+| Ch.10 | 梦前 (Before Dreams) | [阅读](chapters/ch-10-the-fifth-match.md) |
 
 ---
 
@@ -153,15 +153,15 @@ This is not a story of glory. It is a brutal tale of money, despair, and the cal
 | Chapter | Title | Link |
 |---------|-------|------|
 | Ch.1 | The Crimson Declaration | [Read](chapters/ch-01-the-crimson-declaration.md) |
-| Ch.2 | The Price of Blood | [Read](chapters/ch-02-the-price-of-blood.md) |
-| Ch.3 | The Tiger's Den | [Read](chapters/ch-03-the-tiger-s-den.md) |
-| Ch.4 | The Bear's Lair | [Read](chapters/ch-04-the-bear-s-lair.md) |
-| Ch.5 | The Hound's Pack | [Read](chapters/ch-05-the-hound-s-pack.md) |
-| Ch.6 | The Enclave | [Read](chapters/ch-06-the-enclave.md) |
-| Ch.7 | The Afternoon | [Read](chapters/ch-07-the-afternoon.md) |
-| Ch.8 | The Bath | [Read](chapters/ch-08-the-bath.md) |
-| Ch.9 | The Night | [Read](chapters/ch-09-the-night.md) |
-| Ch.10 | Before Dreams | [Read](chapters/ch-10-before-dreams.md) |
+| Ch.2 | The Price of Blood | [Read](chapters/english/ch-02-the-price-of-blood.md) |
+| Ch.3 | The Tiger's Den | [Read](chapters/english/ch-03-the-tiger-s-den.md) |
+| Ch.4 | The Bear's Lair | [Read](chapters/english/ch-04-the-bear-s-lair.md) |
+| Ch.5 | The Hound's Pack | [Read](chapters/english/ch-05-the-hound-s-pack.md) |
+| Ch.6 | The Enclave | [Read](chapters/english/ch-06-the-enclave.md) |
+| Ch.7 | The Afternoon | [Read](chapters/english/ch-07-the-afternoon.md) |
+| Ch.8 | The Bath | [Read](chapters/english/ch-08-the-bath.md) |
+| Ch.9 | The Night | [Read](chapters/ch-09-the-fourth-match.md) |
+| Ch.10 | Before Dreams | [Read](chapters/ch-10-the-fifth-match.md) |
 
 ---
 

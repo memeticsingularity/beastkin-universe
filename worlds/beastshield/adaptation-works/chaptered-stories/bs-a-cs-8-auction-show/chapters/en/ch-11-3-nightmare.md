@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-11-2-buyout.md) | [Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-11-2-buyout.md) | [Back to Work Directory](../../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -574,6 +574,6 @@ Not death itself, but the process of hope shattering.
 
 ---
 
-[Previous Chapter](ch-11-2-buyout.md) | [Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-11-2-buyout.md) | [Back to Work Directory](../../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---

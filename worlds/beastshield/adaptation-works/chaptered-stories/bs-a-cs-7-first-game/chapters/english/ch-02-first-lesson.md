@@ -2,7 +2,7 @@
 
 ---
 
-[Return to Story Index](../README.md) | [Previous Chapter](./ch-01-descent.md) | [Next Chapter](./ch-03-awakening.md)
+[Return to Story Index](../../README.md) | [Previous Chapter](./ch-01-descent.md) | [Next Chapter](./ch-03-awakening.md)
 
 ---
 
@@ -1131,6 +1131,6 @@ That connection is a power stronger than any spiritual power.
 
 ---
 
-[Return to Story Index](../README.md) | [Previous Chapter](./ch-01-descent.md) | [Next Chapter](./ch-03-awakening.md)
+[Return to Story Index](../../README.md) | [Previous Chapter](./ch-01-descent.md) | [Next Chapter](./ch-03-awakening.md)
 
 ---

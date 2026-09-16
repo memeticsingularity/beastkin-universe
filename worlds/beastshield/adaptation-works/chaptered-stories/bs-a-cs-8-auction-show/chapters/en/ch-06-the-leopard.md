@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-05-the-dog.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-07-the-boar.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-05-the-dog.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-07-the-boar.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -409,6 +409,6 @@ This sentence is a lesson all young people should remember.
 
 ---
 
-[Previous Chapter](ch-05-the-dog.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-07-the-boar.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-05-the-dog.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-07-the-boar.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---

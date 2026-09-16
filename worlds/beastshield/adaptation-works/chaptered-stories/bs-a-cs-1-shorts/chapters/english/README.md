@@ -374,13 +374,13 @@ Bounty Hunter
 
 **中文**
 
-- [兽盾世界观设定](../../../settings/1-recommended-canon/beastshield_setting_chinese.md)
+- [兽盾世界观设定](../../../../../settings/1-recommended-canon/beastshield_setting_chinese.md)
 - [作品命名指南](../../../../../docs/work-naming-guide-chinese.md) (v2.3.0)
 - [通用故事模板指南](../../../../../docs/universal-story-template-guide-chinese.md) (v5.0)
 
 **English**
 
-- [Beastshield Universe Settings](../../../settings/1-recommended-canon/beastshield_setting_chinese.md)
+- [Beastshield Universe Settings](../../../../../settings/1-recommended-canon/beastshield_setting_chinese.md)
 - [Work Naming Guide](../../../../../docs/work-naming-guide-chinese.md) (v2.3.0)
 - [Universal Story Template Guide](../../../../../docs/universal-story-template-guide-chinese.md) (
   v5.0)
@@ -464,11 +464,11 @@ Human Conception → AI Expansion → Human Review → AI Optimization → Final
 ## 10 📄 元数据文件 / Metadata File
 
 **中文**  
-本系列的完整元数据信息，包含详细的创作信息、章节索引、角色关系等，请查看：[metadata.yaml](../metadata.yaml)
+本系列的完整元数据信息，包含详细的创作信息、章节索引、角色关系等，请查看：[metadata.yaml](../../metadata.yaml)
 
 **English**  
 Complete metadata information for this series, including detailed creation info, chapter index,
-character relationships, etc., please see: [metadata.yaml](../metadata.yaml)
+character relationships, etc., please see: [metadata.yaml](../../metadata.yaml)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-01-the-wolf.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-03-the-tiger.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-01-the-wolf.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-03-the-tiger.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -475,6 +475,6 @@ This is the most profound tragedy.
 
 ---
 
-[Previous Chapter](ch-01-the-wolf.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-03-the-tiger.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-01-the-wolf.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-03-the-tiger.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---

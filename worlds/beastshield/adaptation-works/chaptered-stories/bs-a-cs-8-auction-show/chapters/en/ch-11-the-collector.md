@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-10-the-fox.md) | [Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-10-the-fox.md) | [Back to Work Directory](../../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -752,6 +752,6 @@ That's enough.
 
 ---
 
-[Previous Chapter](ch-10-the-fox.md) | [Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-10-the-fox.md) | [Back to Work Directory](../../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---

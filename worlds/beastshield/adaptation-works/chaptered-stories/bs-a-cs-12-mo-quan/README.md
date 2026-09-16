@@ -213,8 +213,8 @@
 - [View Changelog](.process/CHANGELOG.md)
 - [View AI Discussion Index](.process/ai-discussion/INDEX.md)
 - [Project Collaboration Guide](GUIDE.md)
-- [Style Guide](notes/style-guide.md)
-- [Worldview Adaptation Guide](notes/worldview-adaptation.md)
+- [Style Guide](notes/guides/style-guide.md)
+- [Worldview Adaptation Guide](notes/guides/worldview-adaptation.md)
 - [Story Setting Archive](notes/setting/story-setting.md)
 
 ---

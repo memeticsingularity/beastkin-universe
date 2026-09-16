@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-13-give-him-to-me.md) | [返回目录](../../../short-stories/README.md) | [下一章](ch-15-all-aboard.md) |
+| [上一章](ch-13-give-him-to-me.md) | [返回目录](../../../../short-stories/README.md) | [下一章](ch-15-all-aboard.md) |
 
 ---
 
@@ -181,7 +181,7 @@
 
 ---
 
-| [上一章](ch-13-give-him-to-me.md) | [返回目录](../../../short-stories/README.md) | [下一章](ch-15-all-aboard.md) |
+| [上一章](ch-13-give-him-to-me.md) | [返回目录](../../../../short-stories/README.md) | [下一章](ch-15-all-aboard.md) |
 
 ---
 

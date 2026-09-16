@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-04-the-ox.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-06-the-leopard.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-04-the-ox.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-06-the-leopard.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -455,6 +455,6 @@ In this world, youth and kindness are both crimes.
 
 ---
 
-[Previous Chapter](ch-04-the-ox.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-06-the-leopard.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-04-the-ox.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-06-the-leopard.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---

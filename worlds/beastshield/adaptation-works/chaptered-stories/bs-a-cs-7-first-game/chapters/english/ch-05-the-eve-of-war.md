@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](./ch-04-the-spy.md) | [Return to Story Directory](../README.md) | [Next Chapter](./ch-06-the-war.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](./ch-04-the-spy.md) | [Return to Story Directory](../../README.md) | [Next Chapter](./ch-06-the-war.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -663,7 +663,7 @@ The war had begun.
 
 ---
 
-[Previous Chapter](./ch-04-the-spy.md) | [Return to Story Directory](../README.md) | [Next Chapter](./ch-06-the-war.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](./ch-04-the-spy.md) | [Return to Story Directory](../../README.md) | [Next Chapter](./ch-06-the-war.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -821,7 +821,7 @@ And that is where hope lies.
 
 ---
 
-[Previous Chapter](./ch-04-the-spy.md) | [Return to Story Directory](../README.md) | [Next Chapter](./ch-06-the-war.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](./ch-04-the-spy.md) | [Return to Story Directory](../../README.md) | [Next Chapter](./ch-06-the-war.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 

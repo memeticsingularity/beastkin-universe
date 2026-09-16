@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-07-the-boar.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-09-the-lion.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-07-the-boar.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-09-the-lion.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -442,6 +442,6 @@ That is hope.
 
 ---
 
-[Previous Chapter](ch-07-the-boar.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-09-the-lion.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-07-the-boar.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-09-the-lion.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---

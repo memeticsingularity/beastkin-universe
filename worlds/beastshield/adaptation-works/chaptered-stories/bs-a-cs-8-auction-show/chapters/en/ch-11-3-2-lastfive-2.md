@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-11-3-1-firstfive-2.md) | [Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-11-3-1-firstfive-2.md) | [Back to Work Directory](../../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -232,6 +232,6 @@ The garbage truck transported the ten bodies away, to the incinerator. The man s
 
 ---
 
-[Previous Chapter](ch-11-3-1-firstfive-2.md) | [Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-11-3-1-firstfive-2.md) | [Back to Work Directory](../../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---

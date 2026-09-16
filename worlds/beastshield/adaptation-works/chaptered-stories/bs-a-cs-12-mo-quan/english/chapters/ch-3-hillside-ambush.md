@@ -2,7 +2,7 @@
 
 ---
 
-| [Previous Chapter](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) | [Return to Contents](README.md) |
+| [Previous Chapter](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) | [Return to Contents](../README.md) |
 
 ---
 
@@ -197,7 +197,7 @@ The **walkie-talkie** was still transmitting chaotic dispatch sounds, but he no 
 
 ---
 
-| [Previous Chapter](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) | [Return to Contents](README.md) |
+| [Previous Chapter](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) | [Return to Contents](../README.md) |
 
 ---
 

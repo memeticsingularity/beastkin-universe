@@ -144,7 +144,7 @@ Bear `Bear` · Boar `Boar` · Bull `Bull` · Dog `Dog` · Tiger `Tiger` · Wolf 
 
 ## 五、原作真相与本作关系 / Canon Connection
 
-> 以下内容基于原作者 lanse 的口述设定（[存档原文](../../settings/0-original-setting/author-notes/2025-12-10-lanse-ai-canon.md)），揭示了《兽游世界》的底层真相。
+> 以下内容基于原作者 lanse 的口述设定（[存档原文](../../../settings/0-original-setting/author-notes/2025-12-10-lanse-ai-canon.md)），揭示了《兽游世界》的底层真相。
 
 **原作核心设定**：
 - 第一部主角用自己的号挂机，让 AI 上号自动操作

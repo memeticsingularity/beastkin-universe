@@ -2,7 +2,7 @@
 
 ---
 
-[Return to Story Index](../README.md) | [Previous Chapter](../README.md) | [Next Chapter](./ch-02-first-lesson.md)
+[Return to Story Index](../../README.md) | [Previous Chapter](../../README.md) | [Next Chapter](./ch-02-first-lesson.md)
 
 ---
 
@@ -1135,6 +1135,6 @@ Some things that let us maintain our humanity.
 
 ---
 
-[Return to Story Index](../README.md) | [Previous Chapter](../README.md) | [Next Chapter](./ch-02-first-lesson.md)
+[Return to Story Index](../../README.md) | [Previous Chapter](../../README.md) | [Next Chapter](./ch-02-first-lesson.md)
 
 ---

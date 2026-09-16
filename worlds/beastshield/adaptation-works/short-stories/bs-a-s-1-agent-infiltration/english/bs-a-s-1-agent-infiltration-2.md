@@ -2,7 +2,7 @@
 
 ---
 
-[Return to Works Directory](../README.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Return to Works Directory](../README.md) | [Return to Worldview Homepage](../README.md) | [Return to Project Homepage](../README.md)
 
 ---
 
@@ -527,7 +527,7 @@ The warehouse returned to silence, only the mixture of semen and urine slowly se
 
 ---
 
-[Return to Works Directory](../README.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Return to Works Directory](../README.md) | [Return to Worldview Homepage](../README.md) | [Return to Project Homepage](../README.md)
 
 ---
 
@@ -645,6 +645,6 @@ And in some archive room, their numbers have already been replaced by new number
 
 ---
 
-[Return to Works Directory](../README.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Return to Works Directory](../README.md) | [Return to Worldview Homepage](../README.md) | [Return to Project Homepage](../README.md)
 
 ---

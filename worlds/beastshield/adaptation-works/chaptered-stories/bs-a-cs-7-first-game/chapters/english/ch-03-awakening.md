@@ -2,7 +2,7 @@
 
 ---
 
-[Return to Story Index](../README.md) | [Previous Chapter](./ch-02-first-lesson.md) | [Next Chapter](./ch-04-the-spy.md)
+[Return to Story Index](../../README.md) | [Previous Chapter](./ch-02-first-lesson.md) | [Next Chapter](./ch-04-the-spy.md)
 
 ---
 
@@ -950,6 +950,6 @@ And this, perhaps, is all we need in the darkness.
 
 ---
 
-[Return to Story Index](../README.md) | [Previous Chapter](./ch-02-first-lesson.md) | [Next Chapter](./ch-04-the-spy.md)
+[Return to Story Index](../../README.md) | [Previous Chapter](./ch-02-first-lesson.md) | [Next Chapter](./ch-04-the-spy.md)
 
 ---

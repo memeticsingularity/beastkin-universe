@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-14-follow-me.md) | [返回目录](../../../short-stories/README.md) | [下一章](ch-16-first-night.md) |
+| [上一章](ch-14-follow-me.md) | [返回目录](../../../../short-stories/README.md) | [下一章](ch-16-first-night.md) |
 
 ---
 
@@ -166,7 +166,7 @@
 
 ---
 
-| [上一章](ch-14-follow-me.md) | [返回目录](../../../short-stories/README.md) | [下一章](ch-16-first-night.md) |
+| [上一章](ch-14-follow-me.md) | [返回目录](../../../../short-stories/README.md) | [下一章](ch-16-first-night.md) |
 
 ---
 

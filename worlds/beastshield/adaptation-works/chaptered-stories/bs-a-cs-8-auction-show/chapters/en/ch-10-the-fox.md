@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-09-the-lion.md) | [Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-09-the-lion.md) | [Back to Work Directory](../../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -601,6 +601,6 @@ What kind of us turns a blind eye to this?
 
 ---
 
-[Previous Chapter](ch-09-the-lion.md) | [Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-09-the-lion.md) | [Back to Work Directory](../../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---

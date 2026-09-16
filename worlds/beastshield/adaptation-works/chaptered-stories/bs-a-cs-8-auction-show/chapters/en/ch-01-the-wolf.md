@@ -2,7 +2,7 @@
 
 ---
 
-[Back to Work Directory](../README.md) | [Next Chapter](ch-02-the-bear.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Back to Work Directory](../../README.md) | [Next Chapter](ch-02-the-bear.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -284,4 +284,4 @@ In the Beast Shield world, surviving was indeed a crime.
 
 ---
 
-[Back to Work Directory](../README.md) | [Next Chapter](ch-02-the-bear.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Back to Work Directory](../../README.md) | [Next Chapter](ch-02-the-bear.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)

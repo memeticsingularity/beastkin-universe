@@ -125,7 +125,7 @@ A dark series centered around the theme of "birthdays," telling the fatal fates 
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 生日蛋糕 | [阅读](chapters/ch-01-birthday-cake.md) |
+| Ch.1 | 生日蛋糕 | [阅读](../bs-a-cs-1-shorts/chapters/ch-01-birthday-cake.md) |
 | Ch.2 | 生日礼物 | （大纲阶段） |
 | Ch.3 | 生日派对 | （大纲阶段） |
 | Ch.4 | 生日枪响 | （大纲阶段） |
@@ -137,7 +137,7 @@ A dark series centered around the theme of "birthdays," telling the fatal fates 
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | Birthday Cake | [Read](chapters/ch-01-birthday-cake.md) |
+| Ch.1 | Birthday Cake | [Read](../bs-a-cs-1-shorts/chapters/ch-01-birthday-cake.md) |
 | Ch.2 | Birthday Gift | (Outline Stage) |
 | Ch.3 | Birthday Party | (Outline Stage) |
 | Ch.4 | Birthday Gunfire | (Outline Stage) |

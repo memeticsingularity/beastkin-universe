@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-11-2-buyout.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-11-3-2-lastfive-3.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-11-2-buyout.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-11-3-2-lastfive-3.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -318,6 +318,6 @@ The black ox's silence would continue forever.
 
 ---
 
-[Previous Chapter](ch-11-2-buyout.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-11-3-2-lastfive-3.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-11-2-buyout.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-11-3-2-lastfive-3.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---

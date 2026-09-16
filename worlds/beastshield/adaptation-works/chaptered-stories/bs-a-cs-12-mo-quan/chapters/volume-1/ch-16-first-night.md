@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-15-all-aboard.md) | [返回目录](../../../short-stories/README.md) | [下一章](ch-17-meal.md) |
+| [上一章](ch-15-all-aboard.md) | [返回目录](../../../../short-stories/README.md) | [下一章](ch-17-meal.md) |
 
 ---
 
@@ -209,7 +209,7 @@
 
 ---
 
-| [上一章](ch-15-all-aboard.md) | [返回目录](../../../short-stories/README.md) |
+| [上一章](ch-15-all-aboard.md) | [返回目录](../../../../short-stories/README.md) |
 
 ---
 

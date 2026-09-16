@@ -2,7 +2,7 @@
 
 ---
 
-[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)
 
 ---
 
@@ -130,7 +130,7 @@ That was enough.
 
 ---
 
-[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)
 
 ---
 
@@ -190,4 +190,4 @@ Can Xiong Hecheng succeed? Where will Li You's plan lead? I don't know. But I kn
 
 ---
 
-[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)

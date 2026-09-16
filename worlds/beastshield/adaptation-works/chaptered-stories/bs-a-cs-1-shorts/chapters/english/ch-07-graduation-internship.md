@@ -2,7 +2,7 @@
 
 ---
 
-[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)
 
 ---
 
@@ -1190,6 +1190,6 @@ Only the semen and corpses all over the ground, telling of what had just happene
 
 ---
 
-[Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](../../../../../../README.md)
+[Back to Work Directory](README.md) | [Back to Worldview Homepage](../../../../README.md) | [Back to Project Homepage](README.md)
 
 ---

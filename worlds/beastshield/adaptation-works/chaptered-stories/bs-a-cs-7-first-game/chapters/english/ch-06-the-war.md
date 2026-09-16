@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](./ch-05-the-eve-of-war.md) | [Return to Story Directory](../README.md) | [Next Chapter](./ch-07-aftermath.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](./ch-05-the-eve-of-war.md) | [Return to Story Directory](../../README.md) | [Next Chapter](./ch-07-aftermath.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -455,7 +455,7 @@ But the story continued.
 
 ---
 
-[Previous Chapter](./ch-05-the-eve-of-war.md) | [Return to Story Directory](../README.md) | [Next Chapter](./ch-07-aftermath.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](./ch-05-the-eve-of-war.md) | [Return to Story Directory](../../README.md) | [Next Chapter](./ch-07-aftermath.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -640,7 +640,7 @@ Because they know, only this way, will those who died not have sacrificed in vai
 
 ---
 
-[Previous Chapter](./ch-05-the-eve-of-war.md) | [Return to Story Directory](../README.md) | [Next Chapter](./ch-07-aftermath.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](./ch-05-the-eve-of-war.md) | [Return to Story Directory](../../README.md) | [Next Chapter](./ch-07-aftermath.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 

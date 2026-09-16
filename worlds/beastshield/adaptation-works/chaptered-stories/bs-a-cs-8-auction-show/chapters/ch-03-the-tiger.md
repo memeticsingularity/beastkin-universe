@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](ch-02-the-bear.md) | [返回作品目录](../README.md) | [下一章](ch-04-the-ox.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-02-the-bear.md) | [返回作品目录](../README.md) | [下一章](ch-04-the-ox.md) | [返回世界观首页](../README.md) | [返回项目主页](../README.md)
 
 ---
 
@@ -515,6 +515,6 @@ G-891的尸体被解下，拖走。
 
 ---
 
-[上一章](ch-02-the-bear.md) | [返回作品目录](../README.md) | [下一章](ch-04-the-ox.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-02-the-bear.md) | [返回作品目录](../README.md) | [下一章](ch-04-the-ox.md) | [返回世界观首页](../README.md) | [返回项目主页](../README.md)
 
 ---

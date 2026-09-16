@@ -2,7 +2,7 @@
 
 ---
 
-| [返回目录](../../../short-stories/README.md) | [下一章](ch-2-mountain-encounter.md) |
+| [返回目录](../../../../short-stories/README.md) | [下一章](ch-2-mountain-encounter.md) |
 
 ---
 
@@ -144,7 +144,7 @@
 
 ---
 
-| [返回目录](../../../short-stories/README.md) | [下一章](ch-2-mountain-encounter.md) |
+| [返回目录](../../../../short-stories/README.md) | [下一章](ch-2-mountain-encounter.md) |
 
 ---
 

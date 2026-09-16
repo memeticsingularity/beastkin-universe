@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-11-3-1-firstfive-5.md) | [Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-11-3-1-firstfive-5.md) | [Back to Work Directory](../../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -414,6 +414,6 @@ And in some corner of the city, new prey was being selected, new tragedy was bre
 
 ---
 
-[Previous Chapter](ch-11-3-1-firstfive-5.md) | [Back to Work Directory](../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-11-3-1-firstfive-5.md) | [Back to Work Directory](../../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---

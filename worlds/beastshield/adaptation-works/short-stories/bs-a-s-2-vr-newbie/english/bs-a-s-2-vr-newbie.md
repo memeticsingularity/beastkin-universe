@@ -2,7 +2,7 @@
 
 ---
 
-[Return to Works Directory](../README.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Return to Works Directory](../README.md) | [Return to Worldview Homepage](../README.md) | [Return to Project Homepage](../README.md)
 
 ---
 
@@ -447,7 +447,7 @@ His first game had just begun.
 
 ---
 
-[Return to Works Directory](../README.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Return to Works Directory](../README.md) | [Return to Worldview Homepage](../README.md) | [Return to Project Homepage](../README.md)
 
 ---
 
@@ -533,6 +533,6 @@ Good luck, Chen Mo.
 
 ---
 
-[Return to Works Directory](../README.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Return to Works Directory](../README.md) | [Return to Worldview Homepage](../README.md) | [Return to Project Homepage](../README.md)
 
 ---

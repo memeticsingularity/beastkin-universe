@@ -19,7 +19,7 @@
 | 想找的内容 | 所在位置 |
 |-----------|---------|
 | **原作前两章原文** | [`../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/`](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/) |
-| **原作笔风指南** | [`../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/notes/style-guide.md`](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/notes/style-guide.md) |
+| **原作笔风指南** | [`../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/notes/style-guide.md`](notes/guides/style-guide.md) |
 | **原作设定** | [`../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/settings/story-setting.md`](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/settings/story-setting.md) |
 | **世界观主设定** | [`../../../settings/0-original-setting/`](../../../settings/0-original-setting/) |
 
@@ -63,7 +63,7 @@ bs-a-cs-12-mo-quan/
 - **情色与生死绑定**：射精=死亡，直白露骨，不避讳
 - **失忆主角**：黑狗对身份与力量一无所知，常被动触发能力
 
-详细规范请阅读：[原作笔风指南](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/notes/style-guide.md)
+详细规范请阅读：[原作笔风指南](notes/guides/style-guide.md)
 
 ---
 

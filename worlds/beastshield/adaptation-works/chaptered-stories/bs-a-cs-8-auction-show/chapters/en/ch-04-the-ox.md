@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-03-the-tiger.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-05-the-dog.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-03-the-tiger.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-05-the-dog.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -471,6 +471,6 @@ This is our world.
 
 ---
 
-[Previous Chapter](ch-03-the-tiger.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-05-the-dog.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-03-the-tiger.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-05-the-dog.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---

@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-06-the-leopard.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-08-the-deer.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-06-the-leopard.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-08-the-deer.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -553,6 +553,6 @@ What truly should be judged is perhaps the system that created greed itself.
 
 ---
 
-[Previous Chapter](ch-06-the-leopard.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-08-the-deer.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-06-the-leopard.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-08-the-deer.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
