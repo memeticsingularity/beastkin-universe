@@ -20,25 +20,25 @@
 
 ## 委托稿配图 / Commissioned Art
 
-> 本兽种已配 **2 张**委托稿。图库总索引见 [`images/commission/`](../../../../images/commission/README.md)。
+> 本等级已配 **2 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../images/commission/GALLERY.md)。
 
-### 白之都 Ch.8 龙神浮岛 · 短腿狗兽人（G级）
-
-**档案**：[dog-g-vol-3-ch-08-001](g/dog-g-vol-3-ch-08-001.md) · 白之都 Ch.8 龙神浮岛
-
-![狗兽人 · 被铁箭钉在奶茶店墙上](../../../../images/commission/bs-o-cm-1-main-story-3/20260618-dog.png)
-
-> 委托稿 · 2026-06-18 · 白之都（[委托稿说明](../../../../images/commission/bs-o-cm-1-main-story-3/README.md)）
-
-### 炎魉 Ch.2 办公室清剿 · 黑制服狗守卫（E级）
-
-**档案**：[dog-e-yan-liang-ch-2-001](e/dog-e-yan-liang-ch-2-001.md) · 炎魉 Ch.2 办公室清剿
-
-![黑制服狗守卫 · 杂物间门口抽烟](../../../../images/commission/bs-o-cs-1-yan-liang/20260630-dog.png)
-
-> 委托稿 · 2026-06-30 · 炎魉（[委托稿说明](../../../../images/commission/bs-o-cs-1-yan-liang/README.md)）
-
----
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../images/commission/bs-o-cm-1-main-story-3/20260618-dog.png"><img src="../../../../images/commission/thumbs/bs-o-cm-1-main-story-3/20260618-dog.jpg" width="240" alt="狗兽人 · 被铁箭钉在奶茶店墙上"></a><br>
+    <b>白之都 Ch.8 龙神浮岛 · 短腿狗兽人（G级）</b><br>
+    <sub>2026-06-18</sub>
+  </td>
+  <td align="center" width="25%">
+    <a href="../../../../images/commission/bs-o-cs-1-yan-liang/20260630-dog.png"><img src="../../../../images/commission/thumbs/bs-o-cs-1-yan-liang/20260630-dog.jpg" width="240" alt="黑制服狗守卫 · 杂物间门口抽烟"></a><br>
+    <b>炎魉 Ch.2 办公室清剿 · 黑制服狗守卫（E级）</b><br>
+    <sub>2026-06-30</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>
 
 ## 总览
 

@@ -9,32 +9,18 @@
 
 ## 委托稿配图 / Commissioned Art
 
-### 白之都 Ch.8 龙神浮岛 · 短腿狗兽人（dog-g-vol-3-ch-08-001）
+> 本等级已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../../images/commission/GALLERY.md)。
 
-![狗兽人 · 被铁箭钉在奶茶店墙上](../../../../../images/commission/bs-o-cm-1-main-story-3/20260618-dog.png)
-
-> 委托稿 · 2026-06-18 · 白之都 Ch.8 龙神浮岛（[委托稿说明](../../../../../images/commission/bs-o-cm-1-main-story-3/README.md)）
-
----
-
-| 档案 | 种族 | 登场 | 状态 |
-|------|------|------|------|
-| [dog-g-vol-1-ch-02-001](dog-g-vol-1-ch-02-001.md) | 德牧狗兽人 | vol-1-ch-02 仓库逃脱 | 已死亡 |
-| [dog-g-vol-1-ch-09-001](dog-g-vol-1-ch-09-001.md) | 灰毛狗兽人 | vol-1-ch-09 大厅砍刀兵 | 已死亡 |
-| [dog-g-vol-1-ch-09-002](dog-g-vol-1-ch-09-002.md) | 狗兽人 | vol-1-ch-09 食堂飞刀 | 已死亡 |
-| [dog-g-vol-2-ch-01-001](dog-g-vol-2-ch-01-001.md) | 狗兽人 | vol-2-ch-01 更衣室首位猎物 | 已死亡 |
-| [dog-g-vol-2-ch-03-001](dog-g-vol-2-ch-03-001.md) | 狗兽人 | vol-2-ch-03 露台制服贡献者 | 已死亡 |
-| [dog-g-vol-2-ch-05-001](dog-g-vol-2-ch-05-001.md) | 狗兽人 | vol-2-ch-05 十楼电话意外 | 已死亡 |
-| [dog-g-vol-2-ch-09-001](dog-g-vol-2-ch-09-001.md) | 狗兽人 | vol-2-ch-09 走廊逃跑被追回 | 已死亡 |
-| [dog-g-vol-2-ch-13-001](dog-g-vol-2-ch-13-001.md) | 狗兽人 | vol-2-ch-13 蟒蛇岛哨塔·麻醉撸杀 | 已死亡 |
-| [dog-g-vol-3-ch-02-001](dog-g-vol-3-ch-02-001.md) | 狗兽人 | vol-3-ch-02 武馆·电击棒被拧颈 | 已死亡 |
-| [dog-g-vol-3-ch-03-001](dog-g-vol-3-ch-03-001.md) | 狗兽人 | vol-3-ch-03 仓储部·偷袭老雷被击飞 | 已死亡 |
-| [dog-g-vol-3-ch-05-001](dog-g-vol-3-ch-05-001.md) | 狗兽人 | vol-3-ch-05 入侵金毛别墅·被六发春药弹射杀 | 已死亡 |
-| [dog-g-vol-3-ch-06-001](dog-g-vol-3-ch-06-001.md) | 狗兽人 | vol-3-ch-06 五竹峰·被薛鼎吮吸至死 | 已死亡 |
-| [🖼 dog-g-vol-3-ch-08-001](dog-g-vol-3-ch-08-001.md) | 狗兽人（短腿） | vol-3-ch-08 奶茶店·被铁箭钉墙后被勤川挂警帽撸射 | 已死亡 |
-| [dog-g-vol-3-ch-08-002](dog-g-vol-3-ch-08-002.md) | 狗兽人 | vol-3-ch-08 薛鼎复制室·被小豪捂嘴撸杀 | 已死亡 |
-| [dog-g-vol-3-ch-12-001](dog-g-vol-3-ch-12-001.md) | 鬣狗兽人 | vol-3-ch-12 沙漠·黑棺车夫被铁箭钉棺材侧面气管戳破而死 | 已死亡 |
-| [dog-g-vol-3-ch-14-001](dog-g-vol-3-ch-14-001.md) | 狗兽人 | vol-3-ch-14 翠绿遗迹·搜寻神武被魔影摘面具毒发喷精而死 | 已死亡 |
-| [dog-g-yan-liang-ch-1-001](dog-g-yan-liang-ch-1-001.md) | 狗兽人 | 炎魉篇 ch-1 路上被炎撞见抓住卵蛋当场射精而死 | 已死亡 |
-| [dog-g-ss-002-001](dog-g-ss-002-001.md) | 狗兽人（杂役兵） | s-02 黑石·旅馆搬尸体时被黑石灭口 | 已死亡 |
-| [dog-g-ss-007-001](dog-g-ss-007-001.md) | 狗兽人 | s-07 毕业实习·仓库掐住肉根死憋仍泄 | 已死亡 |
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../../images/commission/bs-o-cm-1-main-story-3/20260618-dog.png"><img src="../../../../../images/commission/thumbs/bs-o-cm-1-main-story-3/20260618-dog.jpg" width="240" alt="狗兽人 · 被铁箭钉在奶茶店墙上"></a><br>
+    <b>白之都 Ch.8 龙神浮岛 · 短腿狗兽人（dog-g-vol-3-ch-08-001）</b><br>
+    <sub>2026-06-18</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>

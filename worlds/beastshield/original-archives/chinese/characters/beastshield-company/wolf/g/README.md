@@ -9,24 +9,18 @@
 
 ## 委托稿配图 / Commissioned Art
 
-### 白之都 Ch.4 念力防御 · 狼兽人（wolf-g-vol-3-ch-04-001 · 画面为 O级蓝配色）
+> 本等级已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../../images/commission/GALLERY.md)。
 
-![狼兽人 · 跪在熊兽人尸体旁自撸射精](../../../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png)
-
-> 委托稿 · 2026-07-17 · 白之都 Ch.4 念力防御（[委托稿说明](../../../../../images/commission/bs-o-cm-1-main-story-3/README.md)）· 🔗 同框：[bear-g-vol-3-ch-04-001](../../bear/g/bear-g-vol-3-ch-04-001.md)
-
----
-
-| 档案 | 种族 | 登场 | 状态 |
-|------|------|------|------|
-| [wolf-g-vol-1-ch-06-001](wolf-g-vol-1-ch-06-001.md) | 蓝狼兽人 | vol-1-ch-06 洗手间 | 已死亡 |
-| [wolf-g-vol-1-ch-08-001](wolf-g-vol-1-ch-08-001.md) | 烟狼兽人 | vol-1-ch-08 抽烟守卫 | 已死亡 |
-| [wolf-g-vol-2-ch-03-001](wolf-g-vol-2-ch-03-001.md) | 狼兽人 | vol-2-ch-03 电梯货物搬运 | 已死亡 |
-| [wolf-g-vol-2-ch-04-001](wolf-g-vol-2-ch-04-001.md) | 狼兽人 | vol-2-ch-04 虎组长捏蛋处决 | 已死亡 |
-| [wolf-g-vol-2-ch-13-001](wolf-g-vol-2-ch-13-001.md) | 狼兽人 | vol-2-ch-13 蟒蛇岛站岗广场·潜行撸杀 | 已死亡 |
-| [wolf-g-vol-3-ch-03-001](wolf-g-vol-3-ch-03-001.md) | 狼兽人 | vol-3-ch-03 仓储部·被老雷提着扔开 | 已死亡 |
-| [🖼 wolf-g-vol-3-ch-04-001](wolf-g-vol-3-ch-04-001.md) | 狼兽人 | vol-3-ch-04 测试嘲笑者·被控制后自撸射精 | 已死亡 |
-| [wolf-g-vol-3-ch-04-002](wolf-g-vol-3-ch-04-002.md) | 狼兽人 | vol-3-ch-04 酒店偷听者·被小豪口交后入致死 | 已死亡 |
-| [wolf-g-vol-3-ch-06-001](wolf-g-vol-3-ch-06-001.md) | 狼兽人 | vol-3-ch-06 五竹峰·持枪被老雷后入插死 | 已死亡 |
-| [⭐ wolf-g-vol-3-ch-11-white-guards](wolf-g-vol-3-ch-11-white-guards.md) | 狼兽人（两只·白制服） | vol-3-ch-11 光照会·辉董护卫被银北斗泄阳针多米诺射精而死 | 已死亡 |
-| [wolf-g-yan-liang-ch-1-001](wolf-g-yan-liang-ch-1-001.md) | 狼兽人 | 炎魉篇 ch-1 办公室报告没打完就被勒住运功27秒射精而死 | 已死亡 |
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png"><img src="../../../../../images/commission/thumbs/bs-o-cm-1-main-story-3/20260717-wolf.jpg" width="240" alt="狼兽人 · 跪在熊兽人尸体旁自撸射精"></a><br>
+    <b>白之都 Ch.4 念力防御 · 狼兽人（wolf-g-vol-3-ch-04-001 · 画面为 O级蓝配色）</b><br>
+    <sub>2026-07-17</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>

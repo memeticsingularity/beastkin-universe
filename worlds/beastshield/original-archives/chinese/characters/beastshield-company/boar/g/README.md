@@ -9,31 +9,18 @@
 
 ## 委托稿配图 / Commissioned Art
 
-### 白之都 Ch.7 警局入侵 · 灰毛野猪兽人（boar-g-vol-3-ch-07-001）
+> 本等级已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../../images/commission/GALLERY.md)。
 
-![灰毛野猪兽人 · 被一线天倒吊](../../../../../images/commission/bs-o-cm-1-main-story-3/20260801-boar.png)
-
-> 委托稿 · 2026-08-01 · 白之都 Ch.7 警局入侵（场景：富力小区）（[委托稿说明](../../../../../images/commission/bs-o-cm-1-main-story-3/README.md)）
-
----
-
-| 档案 | 种族 | 登场 | 状态 |
-|------|------|------|------|
-| [野猪兄弟·兄（NO.564）](boar-g-vol-1-ch-04-001.md) | 野猪兽人 | vol-1-ch-04 商店购物 | 已死亡 |
-| [野猪兄弟·弟](boar-g-vol-1-ch-04-002.md) | 野猪兽人 | vol-1-ch-04 商店购物 | 已死亡 |
-| [胖野猪兽人](boar-g-vol-1-ch-09-001.md) | 野猪兽人 | vol-1-ch-09 大厅被屠 | 已死亡 |
-| [boar-g-vol-2-ch-01-001](boar-g-vol-2-ch-01-001.md) | 野猪兽人 | vol-2-ch-01 更衣室乳首处刑 | 已死亡 |
-| [boar-g-vol-2-ch-03-001](boar-g-vol-2-ch-03-001.md) | 野猪兽人 | vol-2-ch-03 十楼露台墙角绞杀 | 已死亡 |
-| [boar-g-vol-2-ch-06-001](boar-g-vol-2-ch-06-001.md) | 野猪兽人 | vol-2-ch-06 首冲被膝撞 | 已死亡 |
-| [boar-g-vol-2-ch-12-001](boar-g-vol-2-ch-12-001.md) | 野猪兽人 | vol-2-ch-12 教学样本·揉搓射精 | 已死亡 |
-| [boar-g-vol-3-ch-01-001](boar-g-vol-3-ch-01-001.md) | 野猪兽人 | vol-3-ch-01 提拔测试首位死者 | 已死亡 |
-| [boar-g-vol-3-ch-03-001](boar-g-vol-3-ch-03-001.md) | 野猪兽人 | vol-3-ch-03 仓储部·被拧断脖子 | 已死亡 |
-| [🖼 boar-g-vol-3-ch-07-001](boar-g-vol-3-ch-07-001.md) | 灰毛野猪兽人 | vol-3-ch-07 富力小区·被一线天倒吊揉龟头射精 | 已死亡 |
-| [boar-g-vol-3-ch-09-001](boar-g-vol-3-ch-09-001.md) | 野猪兽人 | vol-3-ch-09 浮岛·被藤蔓钻后穴按压前列腺射精而死 | 已死亡 |
-| [boar-g-vol-3-ch-12-001](boar-g-vol-3-ch-12-001.md) | 野猪兽人 | vol-3-ch-12 沙漠·黑棺车夫被铁箭穿太阳穴而死 | 已死亡 |
-| [boar-g-vol-3-ch-14-001](boar-g-vol-3-ch-14-001.md) | 野猪兽人 | vol-3-ch-14 翠绿遗迹·站岗被魔影撸杀后推入毒潭 | 已死亡 |
-| [boar-g-yan-liang-ch-1-001](boar-g-yan-liang-ch-1-001.md) | 野猪兽人 | 炎魉篇 ch-1 名单最后一个·死前遗言：早知道就不来兽盾应聘了 | 已死亡 |
-| [boar-g-ss-002-001](boar-g-ss-002-001.md) | 野猪兽人 | s-02 黑石·旅馆欠赌债被同事当众玩弄致死 | 已死亡 |
-| [boar-g-ss-005-001](boar-g-ss-005-001.md) | 野猪兽人 | s-05 员工的一天·营地站岗被红虎一拳放倒 | 已死亡 |
-| [绿制服野猪兽盾兵（警报后·被当肉盾·老雷篇）](boar-g-babysitter-lei-ch-2-001.md) | 野猪兽人 | 老雷篇 ch-2 警报·被掐颈提起后遭熊精英一拳打穿胸腔 | 已死亡 |
-| [⭐ 野猪绿制服杂兵×2（民房二楼·老雷篇）](boar-g-babysitter-lei-ch-4-001.md) | 野猪兽人（两只） | 老雷篇 ch-4 民房·被老雷先手干掉，一只瘫死、一只捂裆喷精 | 已死亡 |
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../../images/commission/bs-o-cm-1-main-story-3/20260801-boar.png"><img src="../../../../../images/commission/thumbs/bs-o-cm-1-main-story-3/20260801-boar.jpg" width="240" alt="灰毛野猪兽人 · 被一线天倒吊"></a><br>
+    <b>白之都 Ch.7 警局入侵 · 灰毛野猪兽人（boar-g-vol-3-ch-07-001）</b><br>
+    <sub>2026-08-01</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>

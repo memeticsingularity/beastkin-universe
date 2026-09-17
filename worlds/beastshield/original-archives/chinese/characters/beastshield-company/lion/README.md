@@ -20,17 +20,21 @@
 
 ## 委托稿配图 / Commissioned Art
 
-> 本兽种已配 **1 张**委托稿。图库总索引见 [`images/commission/`](../../../../images/commission/README.md)。
+> 本等级已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../images/commission/GALLERY.md)。
 
-### 魔影 Ch.4 虎卫组之战 · 狮兽人（O级）
-
-**档案**：[lion-o-vol-2-ch-04-001](o/lion-o-vol-2-ch-04-001.md) · 魔影 Ch.4 虎卫组之战
-
-![狮子兽人 · 催眠房里被抬起双腿后入灌精](../../../../images/commission/bs-o-cm-1-main-story-2/20260725-lion.png)
-
-> 委托稿 · 2026-07-25 · 魔影（原文件名作「白之都」，经作者确认属本卷 · [委托稿说明](../../../../images/commission/bs-o-cm-1-main-story-2/README.md)）
-
----
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../images/commission/bs-o-cm-1-main-story-2/20260725-lion.png"><img src="../../../../images/commission/thumbs/bs-o-cm-1-main-story-2/20260725-lion.jpg" width="240" alt="狮子兽人 · 催眠房里被抬起双腿后入灌精"></a><br>
+    <b>魔影 Ch.4 虎卫组之战 · 狮兽人（O级）</b><br>
+    <sub>2026-07-25</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>
 
 ## 总览
 

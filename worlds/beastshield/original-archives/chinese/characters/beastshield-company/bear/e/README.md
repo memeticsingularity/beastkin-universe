@@ -9,38 +9,18 @@
 
 ## 委托稿配图 / Commissioned Art
 
-### 兽游世界 Ch.13 解锁封印 · 灰熊武斗兵（bear-e-vol-1-ch-13-001）
+> 本等级已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../../images/commission/GALLERY.md)。
 
-![灰熊武斗兵 · 被银针封穴后保持出拳姿势](../../../../../images/commission/bs-o-cm-1-main-story-1/20260916-bear.png)
-
-> 委托稿 · 2026-09-16 · 兽游世界 Ch.13 解锁封印（[委托稿说明](../../../../../images/commission/bs-o-cm-1-main-story-1/README.md)）
-
----
-
-| 档案 | 种族 | 登场 | 状态 |
-|------|------|------|------|
-| [bear-e-vol-1-ch-11-001](bear-e-vol-1-ch-11-001.md) | 熊兽人 | vol-1-ch-11 武斗兵（熊猫掌毙） | 已死亡 |
-| [bear-e-vol-1-ch-12-001](bear-e-vol-1-ch-12-001.md) | 熊兽人 | vol-1-ch-12 大门左守卫（忠贞不屈） | 已死亡 |
-| [bear-e-vol-1-ch-12-002](bear-e-vol-1-ch-12-002.md) | 熊兽人 | vol-1-ch-12 大门右守卫（封穴处决） | 已死亡 |
-| [bear-e-vol-1-ch-12-003](bear-e-vol-1-ch-12-003.md) | 熊兽人 | vol-1-ch-12 盥洗室换班（拧颈） | 已死亡 |
-| [bear-e-vol-1-ch-12-004](bear-e-vol-1-ch-12-004.md) | 熊兽人 | vol-1-ch-12 鱼缸值班（抹喉） | 已死亡 |
-| [bear-e-vol-1-ch-12-005](bear-e-vol-1-ch-12-005.md) | 熊兽人 | vol-1-ch-12 鱼缸值班（流墟吞噬） | 已死亡 |
-| [⭐ 熊武斗兵营无名阵亡者](bear-e-vol-1-ch-12-massacre-remainder.md) | 熊兽人（集体） | vol-1-ch-12 余下无名武斗兵 | 已死亡 |
-| [🖼 bear-e-vol-1-ch-13-001](bear-e-vol-1-ch-13-001.md) | 灰熊兽人 | vol-1-ch-13 最后活口 | 已死亡 |
-| [bear-e-vol-2-ch-08-squad-leader](bear-e-vol-2-ch-08-squad-leader.md) | 熊兽人 | vol-2-ch-08 十一层炼药房组长 | 已死亡 |
-| [bear-e-yan-liang-ch-2-001](bear-e-yan-liang-ch-2-001.md) | 熊兽人 | 炎魉篇 ch-2 门口换班被炎逼供后拇指刮系带引爆射精而死 | 已死亡 |
-| [bear-e-yan-liang-ch-3-001](bear-e-yan-liang-ch-3-001.md) | 熊兽人 | 炎魉篇 ch-3 楼梯支援被熊猫胸口一点即毙 | 已死亡 |
-| [bear-e-ss-003-001](bear-e-ss-003-001.md) | 熊兽人（黑制服） | s-03 黑石2·娱乐中心门口被黑石勒颈窒息而死 | 已死亡 |
-| [熊兽人（三百斤·浴室首杀·老雷篇）](bear-e-babysitter-lei-ch-1-001.md) | 熊兽人 | 老雷篇 ch-1 别墅夜袭·被老雷掐喉灌灼流暗劲拖入浴室排干精液 | 已死亡 |
-| [棕熊兽人（小雷房间·烟花秀后拧颈·老雷篇）](bear-e-babysitter-lei-ch-1-002.md) | 棕熊兽人 | 老雷篇 ch-1 别墅夜袭·在小雷面前喷烟花后被拧颈 | 已死亡 |
-| [棕熊武斗兵（体训室·一拳射精·老雷篇）](bear-e-babysitter-lei-ch-2-001.md) | 棕熊兽人 | 老雷篇 ch-2 体训室·被一拳砸腹灌灼流暗劲原地射精 | 已死亡 |
-| [白熊武斗兵（体训室·三刀毙命·老雷篇）](bear-e-babysitter-lei-ch-2-002.md) | 白熊兽人 | 老雷篇 ch-2 体训室·被暗劲灌刀连捅三刀射精而亡 | 已死亡 |
-| [灰熊武斗兵（电梯·被换装黑制服·老雷篇）](bear-e-babysitter-lei-ch-2-003.md) | 灰熊兽人 | 老雷篇 ch-2 电梯·被逼问楼层后处决，黑制服被换装 | 已死亡 |
-| [黑制服熊精英（踹门·挡枪·双雄互压·老雷篇）](bear-e-babysitter-lei-ch-2-004.md) | 熊兽人 | 老雷篇 ch-2 数据中心·被拉作肉盾挡枪后与虎枪手互射精而死 | 已死亡 |
-| [黑制服熊兽人（值守请罪·被揉捏流精而死·老雷篇）](bear-e-babysitter-lei-ch-3-001.md) | 熊兽人 | 老雷篇 ch-3 情报中心·值守请罪，被颜部长揉胸捏乳流精而死、"处理垃圾" | 已死亡 |
-| [玉米地熊武斗兵（老雷篇）](bear-e-babysitter-lei-ch-3-002.md) | 熊兽人 | 老雷篇 ch-3 玉米地·抡膀扫荡被老雷抓住黑袜脚踝绊倒后骑背拧颈毙命 | 已死亡 |
-| [黑制服熊兽人（农田呼喝·老雷篇）](bear-e-babysitter-lei-ch-4-001.md) | 熊兽人 | 老雷篇 ch-4 农田·呼喝兽盾兵分头搜捕，未见死亡 | 存活 |
-| [农田熊武斗兵（老雷篇）](bear-e-babysitter-lei-ch-4-002.md) | 熊兽人 | 老雷篇 ch-4 农田·一拳砸向浪青平被唐刀没腹，拔刀喷精屈辱毙命 | 已死亡 |
-| [民房熊武斗兵（老雷篇）](bear-e-babysitter-lei-ch-4-003.md) | 熊兽人 | 老雷篇 ch-4 民房·与牛武斗兵对峙，被浪青平极速两刀背后贯穿瘫地冒精 | 已死亡 |
-| [黑制服熊武斗兵×2（闪光弹后中刀僵立·老雷篇）](bear-e-babysitter-lei-ch-4-004.md) | 熊兽人（两只） | 老雷篇 ch-4 民房·闪光弹后冲向浪青平，保持挥棍马步僵立射精后颈中刀栽倒 | 已死亡 |
-| [黑制服熊兽人武斗兵（牛棚·被老雷握嘴撸杀·老雷篇）](bear-e-babysitter-lei-ch-4-005.md) | 熊兽人 | 老雷篇 ch-4 牛棚·被老雷从背后握嘴拉下裤头撸杀，因缩裆被喝令挺起射精后松手射空而死 | 已死亡 |
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../../images/commission/bs-o-cm-1-main-story-1/20260916-bear.png"><img src="../../../../../images/commission/thumbs/bs-o-cm-1-main-story-1/20260916-bear.jpg" width="240" alt="灰熊武斗兵 · 被银针封穴后保持出拳姿势"></a><br>
+    <b>兽游世界 Ch.13 解锁封印 · 灰熊武斗兵（bear-e-vol-1-ch-13-001）</b><br>
+    <sub>2026-09-16</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>

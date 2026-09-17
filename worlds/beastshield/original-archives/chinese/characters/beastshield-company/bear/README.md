@@ -20,25 +20,25 @@
 
 ## 委托稿配图 / Commissioned Art
 
-> 本兽种已配 **2 张**委托稿（其中 1 张为同框）。图库总索引见 [`images/commission/`](../../../../images/commission/README.md)。
+> 本等级已配 **2 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../images/commission/GALLERY.md)。
 
-### 兽游世界 Ch.13 解锁封印 · 灰熊武斗兵（E级 · 黑制服）
-
-**档案**：[bear-e-vol-1-ch-13-001](e/bear-e-vol-1-ch-13-001.md) · 兽游世界 Ch.13 解锁封印
-
-![灰熊武斗兵 · 被银针封穴后保持出拳姿势](../../../../images/commission/bs-o-cm-1-main-story-1/20260916-bear.png)
-
-> 委托稿 · 2026-09-16 · 兽游世界（[委托稿说明](../../../../images/commission/bs-o-cm-1-main-story-1/README.md)）
-
-### 白之都 Ch.4 念力防御 · 熊兽人（G级 · 🔗同框）
-
-**档案**：[bear-g-vol-3-ch-04-001](g/bear-g-vol-3-ch-04-001.md) · 白之都 Ch.4 念力防御
-
-![熊兽人（画面左下角倒卧者）· 狼兽人跪立其旁自撸射精](../../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png)
-
-> 委托稿 · 2026-07-17 · 白之都（[委托稿说明](../../../../images/commission/bs-o-cm-1-main-story-3/README.md)）· 画面主体是 [狼兽人](../wolf/g/wolf-g-vol-3-ch-04-001.md)
-
----
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../images/commission/bs-o-cm-1-main-story-1/20260916-bear.png"><img src="../../../../images/commission/thumbs/bs-o-cm-1-main-story-1/20260916-bear.jpg" width="240" alt="灰熊武斗兵 · 被银针封穴后保持出拳姿势"></a><br>
+    <b>兽游世界 Ch.13 解锁封印 · 灰熊武斗兵（E级 · 黑制服）</b><br>
+    <sub>2026-09-16</sub>
+  </td>
+  <td align="center" width="25%">
+    <a href="../../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png"><img src="../../../../images/commission/thumbs/bs-o-cm-1-main-story-3/20260717-wolf.jpg" width="240" alt="熊兽人（画面左下角倒卧者）· 狼兽人跪立其旁自撸射精"></a><br>
+    <b>白之都 Ch.4 念力防御 · 熊兽人（G级 · 🔗同框）</b><br>
+    <sub>2026-07-17</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>
 
 ## 特殊角色
 

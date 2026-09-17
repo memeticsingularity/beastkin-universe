@@ -9,22 +9,18 @@
 
 ## 委托稿配图 / Commissioned Art
 
-### 黑石2（短篇）· 黑制服牛预备兵（bull-e-ss-003-001）
+> 本等级已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../../images/commission/GALLERY.md)。
 
-![黑制服牛兽人 · 被黑石扭住乳头](../../../../../images/commission/bs-o-s-3-blackstone-2/20260604-bull.png)
-
-> 委托稿 · 2026-06-04 · 黑石2（短篇）（[委托稿说明](../../../../../images/commission/bs-o-s-3-blackstone-2/README.md)）
-
----
-
-| 档案 | 种族 | 登场 | 状态 |
-|------|------|------|------|
-| [⭐ 牛武斗兵营牺牲者（银夜袭）](bull-e-vol-1-ch-12-massacre.md) | 牛兽人（集体） | vol-1-ch-12 银无声暗杀 | 已死亡 |
-| [bull-e-vol-2-ch-10-hell-bull](bull-e-vol-2-ch-10-hell-bull.md) | 异形种牛兽人（冥府牛头） | vol-2-ch-10 十三层刑房组长 | 已死亡 |
-| [bull-e-yan-liang-ch-3-001](bull-e-yan-liang-ch-3-001.md) | 牛兽人（棕皮） | 炎魉篇 ch-3 会议室门口站岗被银针封穴站着被撸射而死 | 已死亡 |
-| [bull-e-yan-liang-ch-3-002](bull-e-yan-liang-ch-3-002.md) | 牛兽人 | 炎魉篇 ch-3 基地失守被牙董逼令脱裤自撸射精而死 | 已死亡 |
-| [🖼 bull-e-ss-003-001](bull-e-ss-003-001.md) | 牛兽人（黑制服） | s-03 黑石2·深夜加练被黑石撸射二十发 | 已死亡 |
-| [⭐ 牛兽人×2（楼下·一拳一个打射·老雷篇）](bull-e-babysitter-lei-ch-1-001.md) | 牛兽人（两只） | 老雷篇 ch-1 别墅·楼下被一拳一个打射精尽 | 已死亡 |
-| [黑制服牛兽人（走廊窗口·撸射后扒装·老雷篇）](bull-e-babysitter-lei-ch-2-001.md) | 牛兽人 | 老雷篇 ch-2 走廊·被手掌撸射后扒装换装 | 已死亡 |
-| [黑制服牛武斗兵（民房对峙·被浪青平连斩·老雷篇）](bull-e-babysitter-lei-ch-4-001.md) | 牛兽人 | 老雷篇 ch-4 民房·与熊武斗兵对峙老雷，被浪青平极速两刀背后贯穿瘫地冒精 | 已死亡 |
-| [黑制服牛武斗兵（闪光弹后唯一撑住站立·老雷篇）](bull-e-babysitter-lei-ch-4-002.md) | 牛兽人 | 老雷篇 ch-4 民房·闪光弹后冲向浪青平中刀，三名武斗兵中唯一撑住站立，被颜部长称赞后栽倒 | 已死亡 |
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../../images/commission/bs-o-s-3-blackstone-2/20260604-bull.png"><img src="../../../../../images/commission/thumbs/bs-o-s-3-blackstone-2/20260604-bull.jpg" width="240" alt="黑制服牛兽人 · 被黑石扭住乳头"></a><br>
+    <b>黑石2（短篇）· 黑制服牛预备兵（bull-e-ss-003-001）</b><br>
+    <sub>2026-06-04</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>

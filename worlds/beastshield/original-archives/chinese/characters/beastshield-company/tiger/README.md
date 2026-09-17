@@ -20,25 +20,25 @@
 
 ## 委托稿配图 / Commissioned Art
 
-> 本兽种已配 **2 张**委托稿。图库总索引见 [`images/commission/`](../../../../images/commission/README.md)。
+> 本等级已配 **2 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../images/commission/GALLERY.md)。
 
-### 墨犬 Ch.2 山间遭遇 · 棕虎搜捕队员（G级 · 寸止留手，未死亡）
-
-**档案**：[tiger-g-mo-quan-ch-2-001](g/tiger-g-mo-quan-ch-2-001.md) · 墨犬 Ch.2 山间遭遇
-
-![棕虎兽人 · 被黑狗从背后制住](../../../../images/commission/bs-o-cs-2-mo-quan/20260529-tiger.png)
-
-> 委托稿 · 2026-05-29 · 墨犬（[委托稿说明](../../../../images/commission/bs-o-cs-2-mo-quan/README.md)）
-
-### 炎魉 Ch.2 办公室清剿 · 白制服虎枪械兵（R级）
-
-**档案**：[tiger-r-yan-liang-ch-2-001](r/tiger-r-yan-liang-ch-2-001.md) · 炎魉 Ch.2 办公室清剿
-
-![白制服虎枪械兵 · 被炎从背后制住](../../../../images/commission/bs-o-cs-1-yan-liang/20260706-tiger.png)
-
-> 委托稿 · 2026-07-06 · 炎魉（[委托稿说明](../../../../images/commission/bs-o-cs-1-yan-liang/README.md)）
-
----
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../images/commission/bs-o-cs-2-mo-quan/20260529-tiger.png"><img src="../../../../images/commission/thumbs/bs-o-cs-2-mo-quan/20260529-tiger.jpg" width="240" alt="棕虎兽人 · 被黑狗从背后制住"></a><br>
+    <b>墨犬 Ch.2 山间遭遇 · 棕虎搜捕队员（G级 · 寸止留手，未死亡）</b><br>
+    <sub>2026-05-29</sub>
+  </td>
+  <td align="center" width="25%">
+    <a href="../../../../images/commission/bs-o-cs-1-yan-liang/20260706-tiger.png"><img src="../../../../images/commission/thumbs/bs-o-cs-1-yan-liang/20260706-tiger.jpg" width="240" alt="白制服虎枪械兵 · 被炎从背后制住"></a><br>
+    <b>炎魉 Ch.2 办公室清剿 · 白制服虎枪械兵（R级）</b><br>
+    <sub>2026-07-06</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>
 
 ## 总览
 

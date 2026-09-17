@@ -20,25 +20,25 @@
 
 ## 委托稿配图 / Commissioned Art
 
-> 本兽种已配 **2 张**委托稿。图库总索引见 [`images/commission/`](../../../../images/commission/README.md)。
+> 本等级已配 **2 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../images/commission/GALLERY.md)。
 
-### 黑石2（短篇）· 黑制服牛预备兵（E级）
-
-**档案**：[bull-e-ss-003-001](e/bull-e-ss-003-001.md) · 黑石2（短篇）
-
-![黑制服牛兽人 · 被黑石扭住乳头](../../../../images/commission/bs-o-s-3-blackstone-2/20260604-bull.png)
-
-> 委托稿 · 2026-06-04 · 黑石2（[委托稿说明](../../../../images/commission/bs-o-s-3-blackstone-2/README.md)）
-
-### 魔影 Ch.2 走廊巡逻 · 牛兽人守卫（档案记 G级 / 画面为 R级白制服）
-
-**档案**：[bull-g-vol-2-ch-02-001](g/bull-g-vol-2-ch-02-001.md) · 魔影 Ch.2 走廊巡逻
-
-![牛兽人守卫 · 坐在马桶上](../../../../images/commission/bs-o-cm-1-main-story-2/20260822-bull.png)
-
-> 委托稿 · 2026-08-22 · 魔影（[委托稿说明](../../../../images/commission/bs-o-cm-1-main-story-2/README.md)）
-
----
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../images/commission/bs-o-s-3-blackstone-2/20260604-bull.png"><img src="../../../../images/commission/thumbs/bs-o-s-3-blackstone-2/20260604-bull.jpg" width="240" alt="黑制服牛兽人 · 被黑石扭住乳头"></a><br>
+    <b>黑石2（短篇）· 黑制服牛预备兵（E级）</b><br>
+    <sub>2026-06-04</sub>
+  </td>
+  <td align="center" width="25%">
+    <a href="../../../../images/commission/bs-o-cm-1-main-story-2/20260822-bull.png"><img src="../../../../images/commission/thumbs/bs-o-cm-1-main-story-2/20260822-bull.jpg" width="240" alt="牛兽人守卫 · 坐在马桶上"></a><br>
+    <b>魔影 Ch.2 走廊巡逻 · 牛兽人守卫（档案记 G级 / 画面为 R级白制服）</b><br>
+    <sub>2026-08-22</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>
 
 ## 总览
 

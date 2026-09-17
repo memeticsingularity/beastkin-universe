@@ -20,17 +20,21 @@
 
 ## 委托稿配图 / Commissioned Art
 
-> 本兽种已配 **1 张**委托稿。图库总索引见 [`images/commission/`](../../../../images/commission/README.md)。
+> 本等级已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../images/commission/GALLERY.md)。
 
-### 炎魉 Ch.3 深层对峙 · 白制服犀牛老兵（R级）
-
-**档案**：[rhino-r-yan-liang-ch-3-001](r/rhino-r-yan-liang-ch-3-001.md) · 炎魉 Ch.3 深层对峙
-
-![白制服犀牛老兵 · 被架在会议桌上](../../../../images/commission/bs-o-cs-1-yan-liang/20260901-rhino.png)
-
-> 委托稿 · 2026-09-01 · 炎魉（[委托稿说明](../../../../images/commission/bs-o-cs-1-yan-liang/README.md)）· 画中执行者手上是白手套（原文执行者为黑制服的炎）、袜底 `NO.826` 为画师自拟
-
----
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../images/commission/bs-o-cs-1-yan-liang/20260901-rhino.png"><img src="../../../../images/commission/thumbs/bs-o-cs-1-yan-liang/20260901-rhino.jpg" width="240" alt="白制服犀牛老兵 · 被架在会议桌上"></a><br>
+    <b>炎魉 Ch.3 深层对峙 · 白制服犀牛老兵（R级）</b><br>
+    <sub>2026-09-01</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>
 
 ## 总览
 

@@ -20,17 +20,21 @@
 
 ## 委托稿配图 / Commissioned Art
 
-> 本兽种已配 **1 张**委托稿。图库总索引见 [`images/commission/`](../../../../images/commission/README.md)。
+> 本等级已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../images/commission/GALLERY.md)。
 
-### 白之都 Ch.4 念力防御 · 狼兽人（档案记 G级军绿 / 画面为 O级蓝配色）
-
-**档案**：[wolf-g-vol-3-ch-04-001](g/wolf-g-vol-3-ch-04-001.md) · 白之都 Ch.4 念力防御
-
-![狼兽人 · 跪在熊兽人尸体旁自撸射精](../../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png)
-
-> 委托稿 · 2026-07-17 · 白之都（[委托稿说明](../../../../images/commission/bs-o-cm-1-main-story-3/README.md)）· 🔗 同框：[熊兽人](../bear/g/bear-g-vol-3-ch-04-001.md)
-
----
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png"><img src="../../../../images/commission/thumbs/bs-o-cm-1-main-story-3/20260717-wolf.jpg" width="240" alt="狼兽人 · 跪在熊兽人尸体旁自撸射精"></a><br>
+    <b>白之都 Ch.4 念力防御 · 狼兽人（档案记 G级军绿 / 画面为 O级蓝配色）</b><br>
+    <sub>2026-07-17</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>
 
 ## 总览
 

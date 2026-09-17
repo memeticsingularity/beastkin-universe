@@ -116,7 +116,7 @@
 
 **档案**：[bear-e-vol-1-ch-13-001](bear/e/bear-e-vol-1-ch-13-001.md)
 
-![灰熊武斗兵 · 被银针封穴后保持出拳姿势](../../../images/commission/bs-o-cm-1-main-story-1/20260916-bear.png)
+<a href="../../../images/commission/bs-o-cm-1-main-story-1/20260916-bear.png"><img src="../../../images/commission/thumbs/bs-o-cm-1-main-story-1/20260916-bear.jpg" width="200" alt="灰熊武斗兵 · 被银针封穴后保持出拳姿势"></a>
 
 > 兽游世界 Ch.13 解锁封印 · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-1/README.md)
 
@@ -124,7 +124,7 @@
 
 **档案**：[bear-g-vol-3-ch-04-001](bear/g/bear-g-vol-3-ch-04-001.md)
 
-![熊兽人（画面左下角倒卧者）· 狼兽人跪立其旁自撸射精](../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png)
+<a href="../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png"><img src="../../../images/commission/thumbs/bs-o-cm-1-main-story-3/20260717-wolf.jpg" width="200" alt="熊兽人（画面左下角倒卧者）· 狼兽人跪立其旁自撸射精"></a>
 
 > 白之都 Ch.4 念力防御 · 画面主体为 [狼兽人](wolf/g/wolf-g-vol-3-ch-04-001.md) · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-3/README.md)
 
@@ -134,7 +134,7 @@
 
 **档案**：[bull-e-ss-003-001](bull/e/bull-e-ss-003-001.md)
 
-![黑制服牛兽人 · 被黑石扭住乳头](../../../images/commission/bs-o-s-3-blackstone-2/20260604-bull.png)
+<a href="../../../images/commission/bs-o-s-3-blackstone-2/20260604-bull.png"><img src="../../../images/commission/thumbs/bs-o-s-3-blackstone-2/20260604-bull.jpg" width="200" alt="黑制服牛兽人 · 被黑石扭住乳头"></a>
 
 > 黑石2（短篇） · [委托稿说明](../../../images/commission/bs-o-s-3-blackstone-2/README.md)
 
@@ -142,7 +142,7 @@
 
 **档案**：[bull-g-vol-2-ch-02-001](bull/g/bull-g-vol-2-ch-02-001.md)
 
-![牛兽人守卫 · 坐在马桶上](../../../images/commission/bs-o-cm-1-main-story-2/20260822-bull.png)
+<a href="../../../images/commission/bs-o-cm-1-main-story-2/20260822-bull.png"><img src="../../../images/commission/thumbs/bs-o-cm-1-main-story-2/20260822-bull.jpg" width="200" alt="牛兽人守卫 · 坐在马桶上"></a>
 
 > 魔影 Ch.2 走廊巡逻 · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-2/README.md)
 
@@ -152,7 +152,7 @@
 
 **档案**：[tiger-g-mo-quan-ch-2-001](tiger/g/tiger-g-mo-quan-ch-2-001.md)
 
-![棕虎兽人 · 被黑狗从背后制住](../../../images/commission/bs-o-cs-2-mo-quan/20260529-tiger.png)
+<a href="../../../images/commission/bs-o-cs-2-mo-quan/20260529-tiger.png"><img src="../../../images/commission/thumbs/bs-o-cs-2-mo-quan/20260529-tiger.jpg" width="200" alt="棕虎兽人 · 被黑狗从背后制住"></a>
 
 > 墨犬 Ch.2 山间遭遇 · [委托稿说明](../../../images/commission/bs-o-cs-2-mo-quan/README.md)
 
@@ -160,7 +160,7 @@
 
 **档案**：[tiger-r-yan-liang-ch-2-001](tiger/r/tiger-r-yan-liang-ch-2-001.md)
 
-![白制服虎枪械兵 · 被炎从背后制住](../../../images/commission/bs-o-cs-1-yan-liang/20260706-tiger.png)
+<a href="../../../images/commission/bs-o-cs-1-yan-liang/20260706-tiger.png"><img src="../../../images/commission/thumbs/bs-o-cs-1-yan-liang/20260706-tiger.jpg" width="200" alt="白制服虎枪械兵 · 被炎从背后制住"></a>
 
 > 炎魉 Ch.2 办公室清剿 · [委托稿说明](../../../images/commission/bs-o-cs-1-yan-liang/README.md)
 
@@ -170,7 +170,7 @@
 
 **档案**：[dog-g-vol-3-ch-08-001](dog/g/dog-g-vol-3-ch-08-001.md)
 
-![狗兽人 · 被铁箭钉在奶茶店墙上](../../../images/commission/bs-o-cm-1-main-story-3/20260618-dog.png)
+<a href="../../../images/commission/bs-o-cm-1-main-story-3/20260618-dog.png"><img src="../../../images/commission/thumbs/bs-o-cm-1-main-story-3/20260618-dog.jpg" width="200" alt="狗兽人 · 被铁箭钉在奶茶店墙上"></a>
 
 > 白之都 Ch.8 龙神浮岛 · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-3/README.md)
 
@@ -178,7 +178,7 @@
 
 **档案**：[dog-e-yan-liang-ch-2-001](dog/e/dog-e-yan-liang-ch-2-001.md)
 
-![黑制服狗守卫 · 杂物间门口抽烟](../../../images/commission/bs-o-cs-1-yan-liang/20260630-dog.png)
+<a href="../../../images/commission/bs-o-cs-1-yan-liang/20260630-dog.png"><img src="../../../images/commission/thumbs/bs-o-cs-1-yan-liang/20260630-dog.jpg" width="200" alt="黑制服狗守卫 · 杂物间门口抽烟"></a>
 
 > 炎魉 Ch.2 办公室清剿 · [委托稿说明](../../../images/commission/bs-o-cs-1-yan-liang/README.md)
 
@@ -188,7 +188,7 @@
 
 **档案**：[wolf-g-vol-3-ch-04-001](wolf/g/wolf-g-vol-3-ch-04-001.md)
 
-![狼兽人 · 跪在熊兽人尸体旁自撸射精](../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png)
+<a href="../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png"><img src="../../../images/commission/thumbs/bs-o-cm-1-main-story-3/20260717-wolf.jpg" width="200" alt="狼兽人 · 跪在熊兽人尸体旁自撸射精"></a>
 
 > 白之都 Ch.4 念力防御 · 🔗 同框：[熊兽人](bear/g/bear-g-vol-3-ch-04-001.md) · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-3/README.md)
 
@@ -198,7 +198,7 @@
 
 **档案**：[boar-g-vol-3-ch-07-001](boar/g/boar-g-vol-3-ch-07-001.md)
 
-![灰毛野猪兽人 · 被一线天倒吊](../../../images/commission/bs-o-cm-1-main-story-3/20260801-boar.png)
+<a href="../../../images/commission/bs-o-cm-1-main-story-3/20260801-boar.png"><img src="../../../images/commission/thumbs/bs-o-cm-1-main-story-3/20260801-boar.jpg" width="200" alt="灰毛野猪兽人 · 被一线天倒吊"></a>
 
 > 白之都 Ch.7 警局入侵 · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-3/README.md)
 
@@ -208,7 +208,7 @@
 
 **档案**：[lion-o-vol-2-ch-04-001](lion/o/lion-o-vol-2-ch-04-001.md)
 
-![狮子兽人 · 催眠房里被抬起双腿后入灌精](../../../images/commission/bs-o-cm-1-main-story-2/20260725-lion.png)
+<a href="../../../images/commission/bs-o-cm-1-main-story-2/20260725-lion.png"><img src="../../../images/commission/thumbs/bs-o-cm-1-main-story-2/20260725-lion.jpg" width="200" alt="狮子兽人 · 催眠房里被抬起双腿后入灌精"></a>
 
 > 魔影 Ch.4 虎卫组之战（原文件名作「白之都」，经作者确认属本卷）· [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-2/README.md)
 
@@ -218,7 +218,7 @@
 
 **档案**：[leopard-g-vol-1-ch-09-001](leopard/g/leopard-g-vol-1-ch-09-001.md)
 
-![黑豹守卫 · 二楼打扑克摸鱼](../../../images/commission/bs-o-cm-1-main-story-1/20260817-leopard.png)
+<a href="../../../images/commission/bs-o-cm-1-main-story-1/20260817-leopard.png"><img src="../../../images/commission/thumbs/bs-o-cm-1-main-story-1/20260817-leopard.jpg" width="200" alt="黑豹守卫 · 二楼打扑克摸鱼"></a>
 
 > 兽游世界 Ch.9 总部突袭 · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-1/README.md)
 
@@ -228,7 +228,7 @@
 
 **档案**：[rhino-r-yan-liang-ch-3-001](rhino/r/rhino-r-yan-liang-ch-3-001.md)
 
-![白制服犀牛老兵 · 被架在会议桌上](../../../images/commission/bs-o-cs-1-yan-liang/20260901-rhino.png)
+<a href="../../../images/commission/bs-o-cs-1-yan-liang/20260901-rhino.png"><img src="../../../images/commission/thumbs/bs-o-cs-1-yan-liang/20260901-rhino.jpg" width="200" alt="白制服犀牛老兵 · 被架在会议桌上"></a>
 
 > 炎魉 Ch.3 深层对峙 · [委托稿说明](../../../images/commission/bs-o-cs-1-yan-liang/README.md)
 

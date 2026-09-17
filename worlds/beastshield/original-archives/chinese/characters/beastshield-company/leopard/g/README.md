@@ -9,22 +9,18 @@
 
 ## 委托稿配图 / Commissioned Art
 
-### 兽游世界 Ch.9 总部突袭 · 黑豹守卫（leopard-g-vol-1-ch-09-001 · 画面为灰毛豹）
+> 本等级已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../../images/commission/GALLERY.md)。
 
-![黑豹守卫 · 二楼打扑克摸鱼](../../../../../images/commission/bs-o-cm-1-main-story-1/20260817-leopard.png)
-
-> 委托稿 · 2026-08-17 · 兽游世界 Ch.9 总部突袭（[委托稿说明](../../../../../images/commission/bs-o-cm-1-main-story-1/README.md)）
-
----
-
-| 档案 | 种族 | 登场 | 状态 |
-|------|------|------|------|
-| [🖼 leopard-g-vol-1-ch-09-001](leopard-g-vol-1-ch-09-001.md) | 黑豹兽人 | vol-1-ch-09 二楼守卫 | 已死亡 |
-| [leopard-g-vol-1-ch-11-001](leopard-g-vol-1-ch-11-001.md) | 雪豹兽人 | vol-1-ch-11 银针练习 | 已死亡 |
-| [leopard-g-vol-2-ch-02-001](leopard-g-vol-2-ch-02-001.md) | 黑豹兽人 | vol-2-ch-02 走廊麻醉踩踏 | 已死亡 |
-| [leopard-g-vol-2-ch-06-001](leopard-g-vol-2-ch-06-001.md) | 黑豹兽人 | vol-2-ch-06 手帕包龟头灌精 | 已死亡 |
-| [leopard-g-vol-2-ch-09-001](leopard-g-vol-2-ch-09-001.md) | 豹子兽人 | vol-2-ch-09 一楼被踢飞绿裤喷射 | 已死亡 |
-| [leopard-g-vol-2-ch-14-001](leopard-g-vol-2-ch-14-001.md) | 豹兽人 | vol-2-ch-14 蟒蛇岛主营·精液喷脸自行射精 | 已死亡 |
-| [leopard-g-vol-3-ch-03-001](leopard-g-vol-3-ch-03-001.md) | 豹兽人 | vol-3-ch-03 仓储部·试图逃跑被碎喉 | 已死亡 |
-| [leopard-g-vol-3-ch-06-001](leopard-g-vol-3-ch-06-001.md) | 豹兽人 | vol-3-ch-06 五竹峰·被熊猫点穴定身 | 已死亡 |
-| [leopard-g-ss-007-001](leopard-g-ss-007-001.md) | 黑豹兽人 | s-07 毕业实习·仓库被当肉盾挡春药弹而死 | 已死亡 |
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../../images/commission/bs-o-cm-1-main-story-1/20260817-leopard.png"><img src="../../../../../images/commission/thumbs/bs-o-cm-1-main-story-1/20260817-leopard.jpg" width="240" alt="黑豹守卫 · 二楼打扑克摸鱼"></a><br>
+    <b>兽游世界 Ch.9 总部突袭 · 黑豹守卫（leopard-g-vol-1-ch-09-001 · 画面为灰毛豹）</b><br>
+    <sub>2026-08-17</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>

@@ -20,17 +20,21 @@
 
 ## 委托稿配图 / Commissioned Art
 
-> 本兽种已配 **1 张**委托稿。图库总索引见 [`images/commission/`](../../../../images/commission/README.md)。
+> 本等级已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../images/commission/GALLERY.md)。
 
-### 兽游世界 Ch.9 总部突袭 · 黑豹守卫（G级）
-
-**档案**：[leopard-g-vol-1-ch-09-001](g/leopard-g-vol-1-ch-09-001.md) · 兽游世界 Ch.9 总部突袭
-
-![黑豹守卫 · 二楼打扑克摸鱼](../../../../images/commission/bs-o-cm-1-main-story-1/20260817-leopard.png)
-
-> 委托稿 · 2026-08-17 · 兽游世界（[委托稿说明](../../../../images/commission/bs-o-cm-1-main-story-1/README.md)）· 画面为灰毛豹（原文作黑豹），属画师配色出入
-
----
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../images/commission/bs-o-cm-1-main-story-1/20260817-leopard.png"><img src="../../../../images/commission/thumbs/bs-o-cm-1-main-story-1/20260817-leopard.jpg" width="240" alt="黑豹守卫 · 二楼打扑克摸鱼"></a><br>
+    <b>兽游世界 Ch.9 总部突袭 · 黑豹守卫（G级）</b><br>
+    <sub>2026-08-17</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>
 
 ## 总览
 

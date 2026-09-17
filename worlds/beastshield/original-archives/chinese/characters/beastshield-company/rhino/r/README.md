@@ -8,14 +8,18 @@
 
 ## 委托稿配图 / Commissioned Art
 
-### 炎魉 Ch.3 深层对峙 · 白制服犀牛老兵（rhino-r-yan-liang-ch-3-001）
+> 本等级已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../../images/commission/GALLERY.md)。
 
-![白制服犀牛老兵 · 被架在会议桌上](../../../../../images/commission/bs-o-cs-1-yan-liang/20260901-rhino.png)
-
-> 委托稿 · 2026-09-01 · 炎魉 Ch.3 深层对峙（[委托稿说明](../../../../../images/commission/bs-o-cs-1-yan-liang/README.md)）· 画中执行者为白手套（原文是黑制服的炎）、袜底 `NO.826` 为画师自拟
-
----
-
-| 档案 | 种族 | 登场 | 状态 |
-|------|------|------|------|
-| [🖼 rhino-r-yan-liang-ch-3-001](rhino-r-yan-liang-ch-3-001.md) | 犀牛兽人 | 炎魉篇 ch-3 会议室银针封穴后靠意志憋住最后几股精液·被炎温柔手法运功送终 | 已死亡 |
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../../images/commission/bs-o-cs-1-yan-liang/20260901-rhino.png"><img src="../../../../../images/commission/thumbs/bs-o-cs-1-yan-liang/20260901-rhino.jpg" width="240" alt="白制服犀牛老兵 · 被架在会议桌上"></a><br>
+    <b>炎魉 Ch.3 深层对峙 · 白制服犀牛老兵（rhino-r-yan-liang-ch-3-001）</b><br>
+    <sub>2026-09-01</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>

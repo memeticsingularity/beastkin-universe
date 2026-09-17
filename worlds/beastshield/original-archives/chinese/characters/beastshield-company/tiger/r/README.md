@@ -8,18 +8,18 @@
 
 ## 委托稿配图 / Commissioned Art
 
-### 炎魉 Ch.2 办公室清剿 · 白制服虎枪械兵（tiger-r-yan-liang-ch-2-001）
+> 本等级已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
+> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../../images/commission/GALLERY.md)。
 
-![白制服虎枪械兵 · 被炎从背后制住](../../../../../images/commission/bs-o-cs-1-yan-liang/20260706-tiger.png)
-
-> 委托稿 · 2026-07-06 · 炎魉 Ch.2 办公室清剿（[委托稿说明](../../../../../images/commission/bs-o-cs-1-yan-liang/README.md)）
-
----
-
-| 档案 | 种族 | 登场 | 状态 |
-|------|------|------|------|
-| [🖼 tiger-r-yan-liang-ch-2-001](tiger-r-yan-liang-ch-2-001.md) | 虎兽人 | 炎魉篇 ch-2 门口站岗被侮辱处决 | 已死亡 |
-| [白制服虎枪手（朝老雷开枪·被压射精·老雷篇）](tiger-r-babysitter-lei-ch-2-001.md) | 虎兽人 | 老雷篇 ch-2 数据中心·被熊尸体压住后与熊互贴射精而死 | 已死亡 |
-| [白制服虎兽人（围剿传令兵·老雷篇）](tiger-r-babysitter-lei-ch-3-001.md) | 虎兽人 | 老雷篇 ch-3 情报中心·回报雷神寰动向并领命围剿 | 存活 |
-| [白制服黑虎兽人（狙击手·被踩背反杀·老雷篇）](tiger-r-babysitter-lei-ch-3-002.md) | 虎兽人（黑虎） | 老雷篇 ch-3 车祸现场·被老雷踩背用狙击枪折磨后击毙 | 已死亡 |
-| [白制服虎兽人·虎岩（民房外狙击手·老雷篇）](tiger-r-babysitter-lei-ch-4-001.md) | 虎兽人 | 老雷篇 ch-4 民房外·举枪瞄准老雷被浪青平背刺，栽进门内胯部渗精 | 已死亡 |
+<table>
+<tr>
+  <td align="center" width="25%">
+    <a href="../../../../../images/commission/bs-o-cs-1-yan-liang/20260706-tiger.png"><img src="../../../../../images/commission/thumbs/bs-o-cs-1-yan-liang/20260706-tiger.jpg" width="240" alt="白制服虎枪械兵 · 被炎从背后制住"></a><br>
+    <b>炎魉 Ch.2 办公室清剿 · 白制服虎枪械兵（tiger-r-yan-liang-ch-2-001）</b><br>
+    <sub>2026-07-06</sub>
+  </td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+  <td width="25%"></td>
+</tr>
+</table>
