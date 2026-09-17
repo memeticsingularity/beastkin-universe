@@ -49,3 +49,7 @@ structure
 # AI 协作速查手册为本地辅助文档，不纳入版本控制
 CLAUDE.md
 
+# 11 .dsh-tmp/
+# 忽略 AI 代理执行批量修改时产生的临时脚本与校验输出
+# Ignore scratch scripts and verification output produced by AI agents during bulk edits
+.dsh-tmp/
