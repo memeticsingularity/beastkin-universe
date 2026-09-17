@@ -18,7 +18,7 @@
 
 ---
 
-## 二、登场原文
+## 四、登场原文
 
 ### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 三、结局
+## 五、结局
 
 在四楼食堂察觉到异常，试图下楼查看情况，被主角一飞刀扎中后心而死。
 

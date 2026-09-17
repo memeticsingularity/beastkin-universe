@@ -38,16 +38,19 @@
 | 角色 | 身份 | 状态 |
 |------|------|------|
 | 牙董 / Chairman Ya | 兽盾董事长 | 存活 |
-| 岚董 / Chairman Lan | 三董事之一，禁咒大师 | 存活 |
-| 辉董 / Chairman Hui | 三董事之一，光照会教主 | 已死亡 |
+| [岚董 / 岚起鹏 / Chairman Lan](beastshield-company/special/lan-dong.md) | 三董事之一，蓝虎兽人·禁咒大师 | 存活 |
+| [辉董 / Chairman Hui](beastshield-company/special/hui-dong.md) | 三董事之一，纯白龙兽人·光照会教主 | **已死亡**（第三卷·第19章被血君王邪火烧成焦尸；第11章死的是替身） |
 | [颜部长 / Minister Yan](beastshield-company/special/minister-yan.md) | 兽盾情报部长，手指功法处决者 | 存活 |
+| [儡部长 / 儡爵 / Minister Lei](beastshield-company/special/lei-buzhang.md) | 人事部部长·鼠兽人，操控不死兽人与冥偶（第二卷 ch-15 正文称「儡先生」，为同一人） | **已死亡**（第三卷·第12章） |
 | [红狼人 / Red Wolf](beastshield-company/special/hong-lang.md) | 旅馆赌局庄家（编制存疑：正文未写制服等级） | 存活 |
-| 阿宝 / A Bao | 仓储部部长 | 已死亡 |
-| 熊部长 / Bear Minister | 黑制服部长级 | 已死亡 |
-| 大楼总头目 / 嗜精兽 | — | — |
-| 流墟 / Flow Ruins | 采购部部长·鲶鱼兽人 | — |
-| 薛鼎 / Xue Ding | 售后部部长（本体与复制体） | 身份融合 |
-| 儡部长 / Minister Lei | 操控不死兽人 | 存活 |
+| [阿宝 / A Bao](beastshield-company/special/a-bao.md) | 仓储部部长·熊兽人（正文 vol-3-ch-03 称「熊部长」，两处为同一角色，档案已合并） | 存活 |
+| [大楼总头目 / 嗜精兽](beastshield-company/special/building-boss.md) | 大楼顶层负责人 | 存活 |
+| [流墟 / Flow Ruins](beastshield-company/special/flow-ruins.md) | 采购部部长·鲶鱼兽人·胶液嗜精兽 | **已死亡** |
+| [薛鼎 / Xue Ding](beastshield-company/special/tiger-minister-xueding.md) | 售后部部长（本体与复制体） | 身份融合 |
+| [鳄鱼兽人 / Crocodile](beastshield-company/special/eyu-shouren.md) | 辉董最得力的手下 | **已死亡** |
+| [⭐ 儡部长冥偶·黑制服三兽](beastshield-company/special/lie-ministry-puppets.md) | 儡部长操控的冥偶（集体档案） | 已死亡（冥偶） |
+
+> **「熊部长」与「阿宝部长」是同一角色**（2026-09-17 合并）：正文 vol-3-ch-03 称呼其为「熊部长」、ch-8 L91 点名「仓储部的阿宝部长」，两者职级、制服、外貌声线与标志性台词均一致。原 `bear-minister.md` 与 `abaowarehouse-minister.md` 两份重复档案已合并为 [`a-bao.md`](beastshield-company/special/a-bao.md)。
 
 ---
 
@@ -57,14 +60,19 @@
 |------|------|------|------|---------|
 | [老雷 / Lao Lei](agent-bureau/lao-lei.md) | 虎 | 特工局精英特工，灼流暗劲 | **已死亡** | 第二卷·第6章 |
 | [魔影 / Shadow Demon](agent-bureau/mo-ying.md) | 银白狼 | 特工局首席刺客，血毒能力 | **已死亡** | 第二卷·第1章 |
-| 小豪 / Xiao Hao | 未确认 | 年轻特工，魔影所带新人 | 存活 | 第二卷·第12章 |
+| [小豪 / Xiao Hao](agent-bureau/xiao-hao.md) | 野猪兽人（卧底时期伪装绿制服） | 年轻特工，受训于魔影；曾长期卧底兽盾宿舍 | 存活 | 第三卷·第4章 |
 | [银 / 银狼 / Yin](agent-bureau/yin-lang.md) | 银白狼 | 首席特工之一，银针封穴 + 易容 + 北斗泄阳针 | **已死亡** | 第一卷·第11章（炎魉篇 ch-3 亦登场） |
-| [熊猫 / Panda](agent-bureau/xiong-mao.md) | 熊猫 | 实力深不可测 | 存活 | 第一卷·第12章 |
+| [熊猫 / Panda](agent-bureau/xiong-mao.md) | 熊猫 | 特工局成员，实力深不可测 | 存活 | 第一卷·第11章 |
+| [总司令 / 勤司令 / Commander-in-Chief](agent-bureau/qin-siling.md) | 黑背狗 | 特工局领导者；十二神武·青雉缚阳锁持有者 | 存活 | 第一卷·第11章 |
+| [狼兽人特工（棕色）](agent-bureau/lang-tegong.md) | 狼兽人 | 特工局特工 | **已死亡** | 第三卷·第16章 |
+| [白虎兽人（特工局）](agent-bureau/baihu-tegong.md) | 白虎 | 特工局特工 | 存活 | 第三卷·第16章 |
+| [牛兽人特工](agent-bureau/niu-tegong.md) | 牛兽人 | 特工局特工 | **已死亡** | 第三卷·第21章 |
+| [老师（退休特工教师）](agent-bureau/laoshi-tegong.md) | 正文未指明 | 退休特工，现担任教师 | 存活 | 第二卷·第12章 |
 | 雷炎寰 / Lei Yanhuan | 红虎 | 年轻特工，不足二十岁 | 存活 | 短篇 ss-007 |
-| 总司令 / Commander-in-Chief | 德牧 | 特工局领导者 | 存活 | 第一卷·第13章 |
-| 玩家 / The Player | 犬科（未确认） | VR玩家 → 嗜精兽 → 特工局成员 | 存活 | 第一卷·第1章 |
+| [玩家 / 主角 / The Player](others/player.md) | 犬科（正文未明确指明） | 第一人称主角：VR玩家 → 嗜精兽 → 特工局成员 | 存活 | 第一卷·第1章 |
 
 > 老雷与魔影同时是**十二神武传人**（焚阳破城炮 / 鼠神武·蚀魔锥），该项记在各档案内。
+> **熊猫首次登场为第一卷·第11章 L74**（此前索引误记为第12章）；**总司令首次登场为第一卷·第11章 L98**（此前误记为第13章，第13章为再次登场）。
 
 ---
 
@@ -87,17 +95,29 @@
 | [小雷 / Xiao Lei](others/xiao-lei.md) | 白虎 | 老雷（特工局精英特工）之子，八岁 | 存活 | 老雷突袭情报局 ch-1 |
 | [顺风车司机狗兽人](others/dog-driver-babysitter-lei-ch-3.md) | 狗兽人 | 老雷篇 ch-3 顺风车司机（非兽盾编制） | **已死亡** | 老雷突袭情报局 ch-3 |
 | [洞穴尸体 / Unknown Corpse](others/unknown-corpse-mo-quan-ch-1-001.md) | **正文未指明** | 墨犬篇 ch-1 与主角同处一室的尸体；身份线索的持有者 | **已死亡**（死因未交代） | 墨犬 Ch.1 |
-| 墩常 / Dunchang | 水牛 | 夔牛弓传人 | 存活 | 第三卷·第9章 |
-| 大奔 / Da Ben | 未确认 | 先贤卑豕甲持有者 | 存活 | 第三卷·第10章 |
-| 曲先生 / Mr. Qu | 兽人 | 天籁·四季神曲传承者 | 存活 | 第三卷·第21章 |
-| 金毛 / Golden Retriever | 金毛犬 | 心理咨询师 | 存活 | 第三卷·第4章 |
-| 勤川 / Qinchuan | 猎犬 | 警局副局长，一线天继承人 | 存活 | 第三卷·第7章 |
-| 傅局长 / Director Fu | 未确认 | 警局局长 | **已死亡** | 第三卷·第7章 |
+| [测试官](others/ceshiguan.md) | **正文未指明** | 提拔科测试官 | 存活 | 第三卷·第1章 |
+| [小熊猫兽人](others/xiao-panda.md) | 小熊猫 | 武器店店主 / 赏金工会任务接发点中介 | 存活 | 第一卷·第4章 |
+| [熊馆长 / Bear Dojo Master](others/xiong-guanzhang.md) | 熊兽人 | 武道馆馆长；后被卷入特工局 | **已死亡**（第三卷·第2章） | 第一卷·第5章 |
+| [白虎弟子](others/baishou-dizi.md) | 白虎 | 龙拳馆弟子，柔道服 | **已死亡** | 第三卷·第2章 |
+| [狮子警察](others/shizi-jingcha.md) | 狮子 | 警局警员 | **已死亡** | 第一卷·第6章 |
+| [牛警长](others/niu-jingzhang.md) | 牛兽人 | 警局警长级警官 | **已死亡** | 第一卷·第6章 |
+| [野猪矿工](others/yezhu-kuanggong.md) | 野猪 | 矿工·酒店证人 | 存活 | 第一卷·第6章 |
+| [曲先生 / 小曲 / Mr. Qu](others/qu-xiansheng.md) | 兔子（雪白·白布袍·玉笛） | 天籁·四季神曲传承者 | 存活 | 第三卷·第3章 |
+| [金毛 / Golden Retriever](others/jinmao.md) | 金毛犬 | 心理咨询师（平民，**非兽盾雇员**；被兽盾杀手小队猎杀的目标） | 存活 | 第三卷·第5章 |
+| [小昆 / Xiao Kun](others/xi-aho.md) | 狼兽人 | 薛鼎的伴侣（平民） | **已死亡** | 第三卷·第6章 |
+| [勤川 / Qinchuan](others/qinchuan.md) | 猎犬 | 警局副局长·一线天继承人 | 存活 | 第三卷·第7章 |
+| [傅局长 / Director Fu](others/fu-juzhang.md) | 水牛（灰蓝色） | 警局局长 | **已死亡** | 第三卷·第7章 |
+| [墩常 / Dunchang](others/dunchang.md) | 水牛 | 水牛村猎人·夔牛弓传人·十二神武传人 | 存活 | 第三卷·第8章 |
+| [龙武神 / Dragon Martial God](others/long-wushen.md) | 龙兽人 | 天下第一·五行封禁创造者 | 肉体被占 | 第三卷·第9章 |
+| [墩钢 / Dun Gang](others/dun-gang.md) | 黄牛 | 墩常的师父兼父；被儡部长淬炼成冥牛冥偶 | **已死亡** | 第三卷·第12章 |
+| [血君王 / Blood King](others/xue-junwang.md) | 未确认 | 嗜精兽始祖（正文首次登场为第三卷·第19章，非第16章） | 借龙神肉体复活 | 第三卷·第19章 |
+| [野猪兽人（光照会信徒）](others/yezhu-xintu.md) | 野猪 | 平民 → 光照会信徒 | **已死亡** | 第三卷·第20章 |
+| [猫兽人 → 白龙兽人](others/mao-shouren-bailong.md) | 猫兽人 → 白龙兽人 | 光照会成员（与辉董是否同一存在，正文未明说） | 存活 | 第三卷·第20章 |
+| [大奔 / Da Ben](beastshield-company/bull/g/bull-g-vol-3-ch-04-daben.md) | 白牛（水牛） | **岚董的专属守卫**（非「金毛的护卫」）；先贤卑豕甲持有者 | 存活 | 第三卷·第4章 |
 | 小谷 / Xiao Gu | 牛 | 兽盾农家乐经营者 | 存活 | 短篇 ss-001 |
 | 古博士 / Dr. Gu | 雪纳瑞犬 | 实验农场引路人 | 存活 | 短篇 ss-001 |
-| 龙武神 / Dragon Martial God | 龙 | 天下第一，五行封禁创造者 | 肉体被占 | 第三卷·第8章 |
-| 血君王 / Blood King | 未确认 | 嗜精兽始祖 | 借龙神肉体复活 | 第三卷·第16章 |
-| 熊馆长 / Bear Dojo Master | 白熊 | 武道馆馆长 | **已死亡** | 第一卷·第5章 |
+
+> **主角的叙述范围**：第一人称叙述仅存在于**第一卷 ch-1 ~ ch-13**。第二卷 ch-1、第三卷 ch-1 与 ch-22 的正文中主角均未出场（`player.md` 已逐章注明）。
 
 ---
 

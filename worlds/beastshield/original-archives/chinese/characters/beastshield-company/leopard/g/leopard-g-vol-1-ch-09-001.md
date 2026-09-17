@@ -28,7 +28,7 @@
 
 ---
 
-## 二、登场原文
+## 四、登场原文
 
 ### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 三、结局
+## 五、结局
 
 正在二楼打扑克时被主角打断，问话未说完便被一刀割喉，喷精倒下。
 

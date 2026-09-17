@@ -9,11 +9,9 @@
 |------|------|------|------|
 | [⭐ mixed-g-vol-1-ch-05-trash-bin](mixed-g-vol-1-ch-05-trash-bin.md) | 多种（不明） | vol-1-ch-05 垃圾桶无名杂兵 | 已死亡 |
 | [⭐ mixed-g-vol-2-ch-01-massacre](mixed-g-vol-2-ch-01-massacre.md) | 多种（不明） | vol-2-ch-01 更衣室无名守卫群 | 已死亡 |
-| [⭐ mixed-g-vol-2-ch-05-massacre](mixed-g-vol-2-ch-05-massacre.md) | 多种 | vol-2-ch-05 十楼满屋高层守卫尸体 | 已死亡 |
 | [mixed-g-vol-2-ch-05-sushi-chef](mixed-g-vol-2-ch-05-sushi-chef.md) | 不明 | vol-2-ch-05 寿司处刑厨师 | 存活 |
 | [⭐ mixed-g-vol-2-ch-06-unnamed-soldiers](mixed-g-vol-2-ch-06-unnamed-soldiers.md) | 不明 | vol-2-ch-06 第一波两个无名守卫 | 已死亡 |
 | [⭐ mixed-g-vol-2-ch-09-first-floor-squad](mixed-g-vol-2-ch-09-first-floor-squad.md) | 野猪/犀牛/狮子 | vol-2-ch-09 一楼走廊快速毙命三人组 | 已死亡 |
-| [⭐ mixed-g-vol-2-ch-11-massacre](mixed-g-vol-2-ch-11-massacre.md) | 牛兽人（数十名） | vol-2-ch-11 十三层大厅蓝药之战 | 已死亡 |
 | [⭐ mixed-g-vol-2-ch-13-sniped-patrol](mixed-g-vol-2-ch-13-sniped-patrol.md) | 不明（四名） | vol-2-ch-13 蟒蛇岛·春药弹狙击 | 已死亡 |
 | [⭐ mixed-g-vol-2-ch-15-patrol](mixed-g-vol-2-ch-15-patrol.md) | 不明（多名） | vol-2-ch-15 草丛巡逻·魔影逐个暗杀 | 已死亡 |
 | [mixed-g-vol-3-ch-01-staff](mixed-g-vol-3-ch-01-staff.md) | 不明 | vol-3-ch-01 提拔测试·蓝制服红光工作人员 | 存活 |
