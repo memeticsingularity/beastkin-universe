@@ -62,7 +62,7 @@
 
 ## 五、登场原文
 
-### [老雷突袭情报局 - 第三章：颜部长的清算与追击](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)
+### [Chapter 3 颜部长的清算与追击](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)
 
 本章开头部分该角色未出场。
 
@@ -160,7 +160,7 @@
 
 ---
 
-### [老雷突袭情报局 - 第四章：暗室三座浪青平](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md)
+### [Chapter 4 暗室三座浪青平](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md)
 
 本章开头部分该角色未出场。
 

@@ -78,7 +78,7 @@
 
 ## 五、登场原文
 
-### [MS-001: 炎魉 - 第一章：潜入基地](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)
+### [Chapter 1 潜入基地](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)
 
 > **兽盾**新兵训练基地，一只巡逻的**虎守卫**在路过墙边时，被一只大手抓住后颈拉进了墙角，对方制住**虎守卫**后立刻勒住他的喉咙，然后另一只手伸进他军绿色的**紧身裤**里握住了**虎守卫**的**肉棒**。
 >
@@ -204,7 +204,7 @@
 
 ---
 
-### [MS-001: 炎魉 - 第二章：清理办公室](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)
+### [Chapter 2 清理办公室](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)
 
 > 顺路解决了几个不长眼的新兵后，**炎**终于抵挡了中心地区的入口，但他只是看了一眼门口守卫就立刻跳到一个过道里藏好，浑身冷汗，**魉**还是第一次看到**炎**吓成这样。
 >
@@ -338,7 +338,7 @@
 
 ---
 
-### [MS-001: 炎魉 - 第三章：基地深处的激战](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
+### [Chapter 3 基地深处的激战](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
 
 > 转过几个拐角，**炎**来到一间**会议室**附近，**会议室**门口正有两只身材魁梧的**黑制服**守卫把守，看样子里面正在开会。
 >

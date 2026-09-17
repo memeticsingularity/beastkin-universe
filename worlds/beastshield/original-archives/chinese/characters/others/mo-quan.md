@@ -76,7 +76,7 @@
 
 ## 五、登场原文
 
-### [墨犬 - 第一章：洞穴醒来](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)
+### [Chapter 1 洞穴醒来](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)
 
 > “唔，头好痛，这……这是哪里？”
 >
@@ -204,7 +204,7 @@
 
 ---
 
-### [墨犬 - 第二章：山间遭遇](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)
+### [Chapter 2 山间遭遇](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)
 
 > “妈的，这么大一座山怎么找？”
 >
