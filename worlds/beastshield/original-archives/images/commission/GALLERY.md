@@ -38,7 +38,7 @@
     <sub>虎兽人 · R级白制服<br>2026-07-06 · Ch.2 办公室清剿</sub>
   </td>
   <td align="center" width="25%">
-    <a href="bs-o-cm-1-main-story-3/20260717-wolf.png"><img src="thumbs/bs-o-cm-1-main-story-3/20260717-wolf.jpg" width="240" alt="狼兽人 · 画面为蓝制服"></a><br>
+    <a href="bs-o-cm-1-main-story-3/20260717-wolf.png"><img src="thumbs/bs-o-cm-1-main-story-3/20260717-wolf.jpg" width="240" alt="狼兽人 · O级蓝色制服"></a><br>
     <b>白之都</b><br>
     <sub>狼兽人 · 画面为蓝制服<br>2026-07-17 · Ch.4 念力防御</sub>
   </td>
@@ -91,7 +91,7 @@
 | 3 | [![狗兽人 · G级军绿](thumbs/bs-o-cm-1-main-story-3/20260618-dog.jpg)](bs-o-cm-1-main-story-3/20260618-dog.png) | 2026-06-18 | 白之都 | 狗兽人 · G级军绿 | Ch.8 龙神浮岛 | [20260618-dog.png](bs-o-cm-1-main-story-3/20260618-dog.png) |
 | 4 | [![狗兽人 · E级黑制服](thumbs/bs-o-cs-1-yan-liang/20260630-dog.jpg)](bs-o-cs-1-yan-liang/20260630-dog.png) | 2026-06-30 | 炎魉 | 狗兽人 · E级黑制服 | Ch.2 办公室清剿 | [20260630-dog.png](bs-o-cs-1-yan-liang/20260630-dog.png) |
 | 5 | [![虎兽人 · R级白制服](thumbs/bs-o-cs-1-yan-liang/20260706-tiger.jpg)](bs-o-cs-1-yan-liang/20260706-tiger.png) | 2026-07-06 | 炎魉 | 虎兽人 · R级白制服 | Ch.2 办公室清剿 | [20260706-tiger.png](bs-o-cs-1-yan-liang/20260706-tiger.png) |
-| 6 | [![狼兽人 · 画面为蓝制服](thumbs/bs-o-cm-1-main-story-3/20260717-wolf.jpg)](bs-o-cm-1-main-story-3/20260717-wolf.png) | 2026-07-17 | 白之都 | 狼兽人 · 画面为蓝制服 | Ch.4 念力防御 | [20260717-wolf.png](bs-o-cm-1-main-story-3/20260717-wolf.png) |
+| 6 | [![狼兽人 · O级蓝色制服](thumbs/bs-o-cm-1-main-story-3/20260717-wolf.jpg)](bs-o-cm-1-main-story-3/20260717-wolf.png) | 2026-07-17 | 白之都 | 狼兽人 · O级蓝色制服 | Ch.4 念力防御 | [20260717-wolf.png](bs-o-cm-1-main-story-3/20260717-wolf.png) |
 | 7 | [![狮兽人 · O级蓝制服](thumbs/bs-o-cm-1-main-story-2/20260725-lion.jpg)](bs-o-cm-1-main-story-2/20260725-lion.png) | 2026-07-25 | 魔影 | 狮兽人 · O级蓝制服 | Ch.4 虎卫组之战 | [20260725-lion.png](bs-o-cm-1-main-story-2/20260725-lion.png) |
 | 8 | [![野猪兽人 · G级军绿](thumbs/bs-o-cm-1-main-story-3/20260801-boar.jpg)](bs-o-cm-1-main-story-3/20260801-boar.png) | 2026-08-01 | 白之都 | 野猪兽人 · G级军绿 | Ch.7 警察局突袭 | [20260801-boar.png](bs-o-cm-1-main-story-3/20260801-boar.png) |
 | 9 | [![豹兽人 · G级军绿](thumbs/bs-o-cm-1-main-story-1/20260817-leopard.jpg)](bs-o-cm-1-main-story-1/20260817-leopard.png) | 2026-08-17 | 兽游世界 | 豹兽人 · G级军绿 | Ch.9 总部突袭 | [20260817-leopard.png](bs-o-cm-1-main-story-1/20260817-leopard.png) |

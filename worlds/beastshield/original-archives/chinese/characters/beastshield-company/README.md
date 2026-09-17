@@ -126,7 +126,7 @@
 
 <a href="../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png"><img src="../../../images/commission/thumbs/bs-o-cm-1-main-story-3/20260717-wolf.jpg" width="200" alt="熊兽人（画面左下角倒卧者）· 狼兽人跪立其旁自撸射精"></a>
 
-> 白之都 Ch.4 念力防御 · 画面主体为 [狼兽人](wolf/g/wolf-g-vol-3-ch-04-001.md) · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-3/README.md)
+> 白之都 Ch.4 念力防御 · 画面主体为 [狼兽人](wolf/o/wolf-o-vol-3-ch-04-001.md) · [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-3/README.md)
 
 ### 牛科 / Bull — 2 张
 
@@ -186,7 +186,7 @@
 
 #### 白之都 Ch.4 念力防御 · 狼兽人（档案记 G级军绿 / 画面为 O级蓝配色）
 
-**档案**：[wolf-g-vol-3-ch-04-001](wolf/g/wolf-g-vol-3-ch-04-001.md)
+**档案**：[wolf-o-vol-3-ch-04-001](wolf/o/wolf-o-vol-3-ch-04-001.md)
 
 <a href="../../../images/commission/bs-o-cm-1-main-story-3/20260717-wolf.png"><img src="../../../images/commission/thumbs/bs-o-cm-1-main-story-3/20260717-wolf.jpg" width="200" alt="狼兽人 · 跪在熊兽人尸体旁自撸射精"></a>
 
@@ -241,7 +241,7 @@
 | 20260618-dog.png | [dog-g-vol-3-ch-08-001](dog/g/dog-g-vol-3-ch-08-001.md) | 白之都（三卷） | vol-3-ch-08 龙神浮岛 |
 | 20260630-dog.png | [dog-e-yan-liang-ch-2-001](dog/e/dog-e-yan-liang-ch-2-001.md) | 炎魉（支线） | 炎魉 ch-2 办公室清剿 |
 | 20260706-tiger.png | [tiger-r-yan-liang-ch-2-001](tiger/r/tiger-r-yan-liang-ch-2-001.md) | 炎魉（支线） | 炎魉 ch-2 办公室清剿 |
-| 20260717-wolf.png | [wolf-g-vol-3-ch-04-001](wolf/g/wolf-g-vol-3-ch-04-001.md) | 白之都（三卷） | vol-3-ch-04 念力防御 |
+| 20260717-wolf.png | [wolf-o-vol-3-ch-04-001](wolf/o/wolf-o-vol-3-ch-04-001.md) | 白之都（三卷） | vol-3-ch-04 念力防御 |
 | 20260717-wolf.png | [bear-g-vol-3-ch-04-001](bear/g/bear-g-vol-3-ch-04-001.md) 🔗同框 | 白之都（三卷） | vol-3-ch-04 念力防御 |
 | 20260725-lion.png | [lion-o-vol-2-ch-04-001](lion/o/lion-o-vol-2-ch-04-001.md) | 魔影（二卷） | vol-2-ch-04 虎卫组之战 |
 | 20260801-boar.png | [boar-g-vol-3-ch-07-001](boar/g/boar-g-vol-3-ch-07-001.md) | 白之都（三卷） | vol-3-ch-07 警局入侵 |
