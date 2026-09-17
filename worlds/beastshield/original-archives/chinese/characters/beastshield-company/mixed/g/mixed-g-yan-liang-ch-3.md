@@ -16,7 +16,7 @@
 
 ## 二、已独立建档角色
 
-> 以下角色已建立[独立档案](../../../../original-archives/chinese/characters/beastshield-company/)，详见：
+> 以下角色已建立[独立档案](../../README.md)，详见：
 > - [棕皮牛守卫（门口站岗·银针封穴）](../../bull/e/bull-e-yan-liang-ch-3-001.md)
 > - [白虎守卫（门口站岗·银针封穴）](../../tiger/e/tiger-e-yan-liang-ch-3-001.md)
 > - [犀牛老兵（会议室·温柔送终）](../../rhino/r/rhino-r-yan-liang-ch-3-001.md)

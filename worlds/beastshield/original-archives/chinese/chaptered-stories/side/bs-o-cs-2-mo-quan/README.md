@@ -84,7 +84,7 @@ An amnesiac black dog awakens in darkness, finding himself in a cave with a beas
 
 For continuations or adaptations, please create a new project under `worlds/beastshield/adaptation-works/chaptered-stories/`.
 
-- [改编续写项目：bs-a-cs-12-mo-quan / Adaptation: bs-a-cs-12-mo-quan](../../../adaptation-works/chaptered-stories/bs-a-cs-12-mo-quan/) — 包含笔风指南、世界观适配、角色档案与创作框架 / Includes style guide, worldview adaptation, character profiles, and creative framework
+- [改编续写项目：bs-a-cs-12-mo-quan / Adaptation: bs-a-cs-12-mo-quan](../../../../../adaptation-works/chaptered-stories/bs-a-cs-12-mo-quan/) — 包含笔风指南、世界观适配、角色档案与创作框架 / Includes style guide, worldview adaptation, character profiles, and creative framework
 
 ---
 

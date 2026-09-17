@@ -390,7 +390,7 @@
 
 ## 十一、档案索引
 
-- 关联角色：[魔影](mo-ying.md)、[曲先生](../../../../adaptation-works/chaptered-stories/bs-a-cs-14-save-us/.process/settings/characters/agent-bureau/qu-xian-sheng.md)、[总司令](../../../../adaptation-works/chaptered-stories/bs-a-cs-14-save-us/.process/settings/characters/agent-bureau/commander.md)、[墩常](dunchang.md)、小雷（儿子，[《老雷突袭情报局》](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/README.md)）
+- 关联角色：[魔影](mo-ying.md)、[曲先生](../../../../adaptation-works/chaptered-stories/bs-a-cs-14-save-us/.process/settings/characters/agent-bureau/qu-xian-sheng.md)、[总司令](../../../../adaptation-works/chaptered-stories/bs-a-cs-14-save-us/.process/settings/characters/agent-bureau/commander.md)、[墩常](../others/dunchang.md)、小雷（儿子，[《老雷突袭情报局》](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/README.md)）
 - 老雷在改编侧的展开：暂未独立展开
 - 支线故事：《老雷突袭情报局》（[bs-o-cs-3](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/README.md)）——隐居家庭生活线与主动清剿兽盾情报部门
 

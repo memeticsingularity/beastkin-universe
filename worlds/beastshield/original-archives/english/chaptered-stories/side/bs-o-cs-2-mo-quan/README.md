@@ -32,7 +32,7 @@ For continuations or adaptations, please create a new project under `worlds/beas
 
 如需续写或改编本故事，请在 `worlds/beastshield/adaptation-works/chaptered-stories/` 路径下新建项目。
 
-- [Adaptation: bs-a-cs-12-mo-quan / 改编续写项目：bs-a-cs-12-mo-quan](../../../adaptation-works/chaptered-stories/bs-a-cs-12-mo-quan/) — Includes style guide, worldview adaptation, character profiles, and creative framework / 包含笔风指南、世界观适配、角色档案与创作框架
+- [Adaptation: bs-a-cs-12-mo-quan / 改编续写项目：bs-a-cs-12-mo-quan](../../../../../adaptation-works/chaptered-stories/bs-a-cs-12-mo-quan/) — Includes style guide, worldview adaptation, character profiles, and creative framework / 包含笔风指南、世界观适配、角色档案与创作框架
 
 ---
 
