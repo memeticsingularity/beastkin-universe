@@ -24,7 +24,7 @@
 ## 参考文档
 
 - 读者偏好参考：`../reader-profile.md`
-- 项目规则：`../../CLAUDE.md`
+- 项目规则：`../../AGENTS.md`
 - 项目简介：`../../README.md`
 - 世界观完整设定：`worlds/beastshield/settings/0-original-setting/world-setting.md`
 - Lanse 风味指南：`worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-12-mo-quan/.process/lanse-flavor-guide.md`

@@ -40,8 +40,8 @@
 
 1. 在本表新增一行
 2. 创建文件：`{YYYY-MM-DD}-{主题}.md`
-3. 详细格式规范见 `worlds/beastshield/original-archives/ai-discussion/insights/_guides/qa-discussion-format-spec.md`（CLAUDE.md §4.4）
+3. 详细格式规范见 `worlds/beastshield/original-archives/ai-discussion/insights/_guides/qa-discussion-format-spec.md`（AGENTS.md）
 
 ---
 
-*规范来源：CLAUDE.md §4.4 · 参照 bs-a-cs-17-moying / -.process/ai-discussion/*
+*规范来源：AGENTS.md · 参照 bs-a-cs-17-moying / -.process/ai-discussion/*

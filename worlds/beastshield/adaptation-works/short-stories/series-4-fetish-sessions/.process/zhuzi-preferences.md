@@ -51,5 +51,5 @@
 ## 参考文档
 
 - [读者偏好参考](./reader-profile.md)
-- [项目规则](../CLAUDE.md)
+- [项目规则](../AGENTS.md)
 - [世界观完整设定](../../../../settings/0-original-setting/world-setting.md)

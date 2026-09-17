@@ -27,4 +27,4 @@
 | [lanse-first-person-guide.md](../../../../author/001-lanse/style-analysis/lanse-first-person-guide.md) | 第一人称审阅的深层依据 |
 | [lanse-master-anthology.md](../../../../author/001-lanse/style-analysis/lanse-master-anthology.md) | 摘抄库，审阅时对照原作用例 |
 | [lanse-practice-tips.md](../../../../author/001-lanse/style-analysis/lanse-practice-tips.md) | 实战纪律，审阅"硬伤"的依据 |
-| [CLAUDE.md](../../CLAUDE.md) | 世界观基本规则 |
+| [AGENTS.md](../../AGENTS.md) | 世界观基本规则 |

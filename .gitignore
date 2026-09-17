@@ -45,9 +45,12 @@ structure
 # 忽略 VSCode IDE 本地配置
 .vscode/
 
-# 10 CLAUDE.md
-# AI 协作速查手册为本地辅助文档，不纳入版本控制
-CLAUDE.md
+# 10 AGENTS.md
+# 项目指令文件纳入版本控制，随仓库共享（DSH 原生约定为 AGENTS.md，
+# CLAUDE.md 为兼容别名，两者都会被读入上下文）
+# 带 .local 后缀的本地覆盖不纳入版本控制
+AGENTS.local.md
+CLAUDE.local.md
 
 # 11 .dsh-tmp/
 # 忽略 AI 代理执行批量修改时产生的临时脚本与校验输出

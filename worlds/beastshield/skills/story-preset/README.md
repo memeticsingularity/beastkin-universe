@@ -25,7 +25,7 @@
 
 | 闸门 | 内容 | 来源 |
 |:--|:--|:--|
-| **A · ③ 兽盾视觉/世界观** | 物种/制服色/袜色/登场公式/体型/双性征/术语/全男/无流血/保鲜 | `style-guide.md` §12/§14/§15/§17/§21、CLAUDE.md §8 |
+| **A · ③ 兽盾视觉/世界观** | 物种/制服色/袜色/登场公式/体型/双性征/术语/全男/无流血/保鲜 | `style-guide.md` §12/§14/§15/§17/§21、AGENTS.md |
 | **B · ① 大狗口味** | 死亡必射/精液一定五要/处决流程/死后仪式/情感调色盘/差异化/爽点收尾/断章节奏/**五感齐备＋身体四件套＋"事后层"** | `lanse-write-skill.md` §5、`templates/beastshield-writing-guidelines.md` §2、`.process/POLISH-BENCHMARK.md` |
 | **C · ④ 设定溯源** | 赏金/月薪/物价/编号格式/等级配对等**硬数据必须来自设定集原文，禁止自创**；查不到标 `[待确认]` 问作者 | `settings/0-original-setting/`、`settings/1-recommended-canon/` |
 

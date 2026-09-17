@@ -184,7 +184,7 @@ Phase 6  提交            原文侧检查 → 版本号commit
 
 ### 4c: 世界观规则专家
 
-**参考文件：**`CLAUDE.md` §8（兽盾角色必填内容/世界观不可违反规则）
+**参考文件：**`AGENTS.md`「写作规则」（兽盾角色必填内容 / 世界观不可违反规则）
 
 **检查清单：**
 - [ ] 死亡必有射精（射精=死亡绑定，没有例外）
@@ -310,4 +310,4 @@ Step 6  乳头泌乳+语感修+肉壮（v1.4） ← 第三次专项+审阅
 
 *版本：v1.0 | 创建日期：2026-07-21*
 *来源：bs-a-s-4-babysitter-lei 全流程复盘*
-*关联文件：`lanse-ejaculation-expert.md` · `lanse-positive-creation-supplement.md` · `lanse-review-guide.md` · `CLAUDE.md`*
+*关联文件：`lanse-ejaculation-expert.md` · `lanse-positive-creation-supplement.md` · `lanse-review-guide.md` · `AGENTS.md`*

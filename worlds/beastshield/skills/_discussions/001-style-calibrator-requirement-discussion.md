@@ -20,7 +20,7 @@
 基于对以下三组文本的对比阅读：
 - **原作**：`bs-o-s-1-farm-inn`（兽盾农家乐）、`bs-o-cs-3-babysitter-lei`（带娃的老雷）
 - **AI 改编**：`bs-a-s-5/4-g-tiger-driver.md`（主线）、`bs-a-s-5/4-g-tiger-driver-h.md`（幸存者分支）
-- **现有指南**：`writing-style-guide-v2.md`、`CLAUDE.md`
+- **现有指南**：`writing-style-guide-v2.md`、`AGENTS.md`
 
 ### 四个核心差异维度
 
@@ -45,7 +45,7 @@
 
 ### 现有指南的盲区
 
-`writing-style-guide-v2.md` 和 `CLAUDE.md` 覆盖了"写什么"（制服系统、XP 元素、叙事视角），但没有覆盖"怎么写才不像 AI"。它们是设定检查清单，不是风格校准工具。
+`writing-style-guide-v2.md` 和 `AGENTS.md` 覆盖了"写什么"（制服系统、XP 元素、叙事视角），但没有覆盖"怎么写才不像 AI"。它们是设定检查清单，不是风格校准工具。
 
 ---
 

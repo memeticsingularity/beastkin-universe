@@ -79,4 +79,4 @@
 - Lanse 风味指南：`worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-12-mo-quan/.process/lanse-flavor-guide.md`
 - 墨犬笔风指南：`worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-12-mo-quan/notes/guides/style-guide.md`
 - Lanse 风格调优计划：`worlds/beastshield/adaptation-works/short-stories/.process/plans/2026-06-10-lanse-style-tuning-plan.md`
-- 项目规则：`worlds/beastshield/adaptation-works/short-stories/series-4-fetish-sessions/CLAUDE.md`
+- 项目规则：`worlds/beastshield/adaptation-works/short-stories/series-4-fetish-sessions/AGENTS.md`
