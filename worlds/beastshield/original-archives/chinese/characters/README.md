@@ -20,7 +20,7 @@
 
 ## 二、兽盾公司 / Beastshield Company
 
-兽盾公司是数量最庞大的阵营，已建档 **385 个文件**。完整索引见 [**beastshield-company/README.md**](beastshield-company/README.md)。
+兽盾公司是数量最庞大的阵营，已建档 **345 个档案文件**（317 个独立个体 + 28 份 ⭐集体档案）。本库四个阵营合计 **356 个档案**。完整索引见 [**beastshield-company/README.md**](beastshield-company/README.md)。
 
 制服等级速查：
 
@@ -58,8 +58,8 @@
 | [老雷 / Lao Lei](agent-bureau/lao-lei.md) | 虎 | 特工局精英特工，灼流暗劲 | **已死亡** | 第二卷·第6章 |
 | [魔影 / Shadow Demon](agent-bureau/mo-ying.md) | 银白狼 | 特工局首席刺客，血毒能力 | **已死亡** | 第二卷·第1章 |
 | 小豪 / Xiao Hao | 未确认 | 年轻特工，魔影所带新人 | 存活 | 第二卷·第12章 |
-| 银 / Yin | 银白狼 | 首席特工之一，易容 + 北斗泄阳针 | **已死亡** | 第三卷·第11章 |
-| 熊猫 / Panda | 熊猫 | 实力深不可测 | 存活 | 第一卷·第12章 |
+| [银 / 银狼 / Yin](agent-bureau/yin-lang.md) | 银白狼 | 首席特工之一，银针封穴 + 易容 + 北斗泄阳针 | **已死亡** | 第一卷·第11章（炎魉篇 ch-3 亦登场） |
+| [熊猫 / Panda](agent-bureau/xiong-mao.md) | 熊猫 | 实力深不可测 | 存活 | 第一卷·第12章 |
 | 雷炎寰 / Lei Yanhuan | 红虎 | 年轻特工，不足二十岁 | 存活 | 短篇 ss-007 |
 | 总司令 / Commander-in-Chief | 德牧 | 特工局领导者 | 存活 | 第一卷·第13章 |
 | 玩家 / The Player | 犬科（未确认） | VR玩家 → 嗜精兽 → 特工局成员 | 存活 | 第一卷·第1章 |
@@ -84,6 +84,9 @@
 |------|------|------|------|---------|
 | [黑狗 / 墨犬 / Mo Quan](others/mo-quan.md) | 黑色犬科 | 失忆的神秘武者，寸止功法觉醒者 | 存活 | 墨犬 Ch.1 |
 | [浪青平 / Luo Qingping](others/luo-qingping.md) | 灰毛狼 | **暗室**三座·唐刀杀手（非兽盾编制） | 存活（重伤） | 老雷突袭情报局 ch-4 |
+| [小雷 / Xiao Lei](others/xiao-lei.md) | 白虎 | 老雷（特工局精英特工）之子，八岁 | 存活 | 老雷突袭情报局 ch-1 |
+| [顺风车司机狗兽人](others/dog-driver-babysitter-lei-ch-3.md) | 狗兽人 | 老雷篇 ch-3 顺风车司机（非兽盾编制） | **已死亡** | 老雷突袭情报局 ch-3 |
+| [洞穴尸体 / Unknown Corpse](others/unknown-corpse-mo-quan-ch-1-001.md) | **正文未指明** | 墨犬篇 ch-1 与主角同处一室的尸体；身份线索的持有者 | **已死亡**（死因未交代） | 墨犬 Ch.1 |
 | 墩常 / Dunchang | 水牛 | 夔牛弓传人 | 存活 | 第三卷·第9章 |
 | 大奔 / Da Ben | 未确认 | 先贤卑豕甲持有者 | 存活 | 第三卷·第10章 |
 | 曲先生 / Mr. Qu | 兽人 | 天籁·四季神曲传承者 | 存活 | 第三卷·第21章 |
@@ -105,19 +108,26 @@
 | 兽盾公司无名角色 | `<兽种>-<等级>-<作品>-<章>-<序号>.md` | `bear-g-vol-1-ch-09-001.md`、`bull-e-ss-003-001.md` |
 | 有名 / 有编号的角色 | `<name-or-id>.md` | `niu-za.md` |
 | 非公司阵营角色 | `<拼音小写连字符>.md` | `lao-lei.md`、`yan.md` |
+| **正文未指明兽种/制服者** | `unknown-<篇>-ch-<N>-NNN.md`（归 `others/`） | `unknown-corpse-mo-quan-ch-1-001.md` |
 
 > **“有名”怎么判定**：只认**故事正文**里出现的名字与编号。
 > 仅见于“故事评述与感慨”等非正文区块的名字（如 SS-007 的 G-533~G-538、牛大壮等）**不算**——
 > **原故事没有名字就是没有名字**，一律沿用无名式命名。此条用于消解“§2.1 要求有名字者用 name-or-id”
 > 与“§4 Step 1 要求忽略评述区”之间的冲突。
+>
+> **`unknown-` 前缀**（2026-09-17 首次启用）：当正文既未给出兽种、也未给出制服等级，无法套用
+> `species-rank-…` 时使用；档案内须把未指明项**逐条写「正文未指明」，不得推测**。详见
+> [`beastshield-company/ARCHIVE-CONVENTIONS.md`](beastshield-company/ARCHIVE-CONVENTIONS.md) §2.1。
 
 ---
 
 ## 七、待办 / Open Items
 
 - ✅ **`chaptered-stories/characters/player-subordinates/` 的 2 个文件（牛杂、熊掌）确认保留现状**——二人虽在 `beastshield-company/` 内另有档案，但因其早期是**玩家的下属**、具有特殊性，两处并存。
-- ⚠️ **`beastshield-company` 的等级索引不完整**：13 个等级 README（`bear/e`、`bear/g`、`boar/g`、`bull/e`、`bull/g`、`dog/e`、`dog/g`、`leopard/g`、`lion/o`、`rhino/r`、`tiger/g`、`tiger/r`、`wolf/g`）目前**只有委托稿图墙、没有档案表**，其下约 251 个档案在等级层不可见。三级索引的中间层待补。
-- ⚠️ **“登场原文”删节**：短篇集经逐篇审计发现普遍存在删节（最严重者 75 段正文只引 24 段）。规范要求见 `beastshield-company/README.md` 第 94–100 行“登场原文规范”，含“完整引用 / 过渡标注 / 原始格式”三条。修复中。
+- ✅ **`beastshield-company` 的等级索引已补全**（2026-09-16）：13 个等级 README（`bear/e`、`bear/g`、`boar/g`、`bull/e`、`bull/g`、`dog/e`、`dog/g`、`leopard/g`、`lion/o`、`rhino/r`、`tiger/g`、`tiger/r`、`wolf/g`）此前**只有委托稿图墙、没有档案表**，其下 251 个档案在等级层不可见；现已逐级补上档案表并校验「表格行数 = 档案数」。
+- ✅ **支线三篇「登场原文」已修复**（2026-09-17）：炎魉篇 23 份档案补齐至 191/191 段逐字符相等、0 未匹配；墨犬篇两份分别补齐至 62/62 与 46/46；老雷篇 7 份档案补引 29 段、引文 211 行 0 未匹配。规范见 `beastshield-company/README.md` 第 94–100 行「登场原文规范」（完整引用 / 过渡标注 / 原始格式）。
+- ⚠️ **主线「登场原文」尚待逐章核对**：短篇集与支线已完成，主线三卷（第一卷 ch-01~ch-13、第二卷 ch-01~ch-15、第三卷 ch-01~ch-22）正在逐章审计中。
+- ⚠️ **非兽盾「名角」档案缺「登场原文」区块**：`special/`、`agent-bureau/`、`bounty-hunters/`、`others/` 下的名角档案（lao-lei、mo-ying、minister-yan、mo-quan、yan、liang、luo-qingping）当初采用「时间线 / 原文摘句」写法，无 `## 四、登场原文`，无法逐段机器核对。补齐中。
 - **暗室**（杀手组织）目前只有浪青平 1 名成员，暂并入 `others/`；若成员增多应独立为 `hidden-chamber/`。
 - 本库目前只覆盖 `original-archives` 的原作角色。改编作品的角色档案仍在各自的 `adaptation-works/` 内。
 
@@ -125,4 +135,4 @@
 
 [返回中文原作 / Return to Chinese Originals](../README.md)
 
-*最后更新 / Last Updated: 2026-09-16*
+*最后更新 / Last Updated: 2026-09-17*

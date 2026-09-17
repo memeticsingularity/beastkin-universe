@@ -39,7 +39,7 @@ An amnesiac black dog awakens in darkness, finding himself in a cave with a beas
 ## 内容标签与核心元素 / Content Tags & Core Elements
 
 ### 🐾 物种 / Species
-犬（黑狗/主角）、熊、虎、野猪
+犬（黑狗/主角）、熊、虎
 
 ### 🔞 情色与身体 / Erotic & Bodily
 `性欲值系统` `射精死亡` `情色战斗` `战后亵玩` `紧身制服` `长筒袜/袜底编号` `点穴催情` `勃起描写` `射精描写`

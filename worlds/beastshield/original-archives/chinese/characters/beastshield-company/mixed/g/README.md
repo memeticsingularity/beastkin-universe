@@ -25,4 +25,4 @@
 | [⭐ mixed-g-vol-3-ch-09-burned-rescuers](mixed-g-vol-3-ch-09-burned-rescuers.md) | 多种（约3-4名） | vol-3-ch-09 浮岛·被邪火点燃烧死 | 已死亡 |
 | [⭐ mixed-g-vol-3-ch-13-formation-massacre](mixed-g-vol-3-ch-13-formation-massacre.md) | 多种（八名） | vol-3-ch-13 浮岛·被龙武神水滴串糖葫芦穿脑而死 | 已死亡 |
 | [⭐ mixed-g-vol-3-ch-15-burned-soldiers](mixed-g-vol-3-ch-15-burned-soldiers.md) | 多种（十余名） | vol-3-ch-15 龙神大战·被五行封禁反噬的纯阳烈火焚身 | 部分死亡·部分重伤 |
-| [⭐ 炎魉·第三章：基地激战](mixed-g-yan-liang-ch-3.md) | 大量（各等级混合） | 炎魉篇 ch-3 会议室屠杀+楼梯无双+牙董逼杀 | 已死亡 |
+| [⭐ 炎魉·第三章：基地激战](mixed-g-yan-liang-ch-3.md) | 大量（各等级混合） | 炎魉篇 ch-3 会议室屠杀+关押室外遭遇战+楼梯无双+牙董逼杀 | 已死亡 |

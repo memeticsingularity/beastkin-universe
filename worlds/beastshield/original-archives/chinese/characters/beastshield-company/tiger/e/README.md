@@ -7,13 +7,14 @@
 
 | 档案 | 种族 | 登场 | 状态 |
 |------|------|------|------|
-| [tiger-captain-combat](tiger-captain-combat.md) | 黄皮虎兽人 | vol-1-ch-06 ~ ch-10 武斗部队队长 | 已死亡 |
 | [⭐ 虎武斗兵营全灭](tiger-e-vol-1-ch-12-massacre.md) | 虎兽人（集体） | vol-1-ch-12 被熊猫屠营 | 全员覆灭 |
 | [tiger-e-vol-2-ch-04-squad-leader](tiger-e-vol-2-ch-04-squad-leader.md) | 虎兽人 | vol-2-ch-04 虎卫组组长 | 已死亡 |
-| [tiger-e-yan-liang-ch-3-001](tiger-e-yan-liang-ch-3-001.md) | 虎兽人（白虎） | 炎魉篇 ch-3 会议室门口站岗被银针封穴站着被撸射而死 | 已死亡 |
-| [tiger-e-yan-liang-ch-3-002](tiger-e-yan-liang-ch-3-002.md) | 虎兽人（两只） | 炎魉篇 ch-3 持电击棒攻击熊猫被闪避后在腰背点穴射精而死 | 已死亡 |
 | [tiger-e-ss-002-001](tiger-e-ss-002-001.md) | 虎兽人（黑制服） | s-02 黑石·旅馆酒醉被黑石爆菊灌精 | 已死亡 |
 | [tiger-e-ss-005-001](tiger-e-ss-005-001.md) | 虎兽人（黑制服·队长） | s-05 员工的一天·被红虎一拳打死 | 已死亡 |
+| [tiger-e-yan-liang-ch-3-001](tiger-e-yan-liang-ch-3-001.md) | 虎兽人（白虎） | 炎魉篇 ch-3 会议室门口站岗被银针封穴站着被撸射而死 | 已死亡 |
+| [tiger-e-yan-liang-ch-3-002](tiger-e-yan-liang-ch-3-002.md) | 虎兽人（黑制服） | 炎魉篇 ch-3 关押室外小队遭遇战·腰上被点射精而死 | 已死亡 |
+| [黑制服虎兽人（炎魉·关押室外双杀·其二·中背）](tiger-e-yan-liang-ch-3-003.md) | 虎兽人 | 炎魉篇 ch-3 · 基地支援守卫 · 关押室外小队遭遇战（两名虎兽人中中背者） | 已死亡 |
 | [虎武斗兵（体训室·掷刀毙命·老雷篇）](tiger-e-babysitter-lei-ch-2-001.md) | 虎兽人 | 老雷篇 ch-2 体训室·咽喉被掷刀插入暗劲爆发射精 | 已死亡 |
 | [黑制服虎兽人（数据中心门口·“换去地府”·老雷篇）](tiger-e-babysitter-lei-ch-2-002.md) | 虎兽人 | 老雷篇 ch-2 数据中心门口·被“换岗”戏弄后抹喉 | 已死亡 |
 | [黑制服虎武斗兵×2（民房合围·被浪青平双杀·老雷篇）](tiger-e-babysitter-lei-ch-4-001.md) | 虎兽人（两只） | 老雷篇 ch-4 民房·颜部长使眼色后从身后扑向浪青平，被极速两刀刺穿腹部往裤裆喷精栽倒 | 已死亡 |
+| [tiger-captain-combat](tiger-captain-combat.md) | 黄皮虎兽人 | vol-1-ch-06 ~ ch-10 武斗部队队长 | 已死亡 |

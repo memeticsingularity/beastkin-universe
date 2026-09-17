@@ -44,6 +44,13 @@ beastshield-company/
 |------|------|------|
 | 有名字/编号的角色 | `name-or-id.md` | `tiger-captain-combat.md`, `ya-dong-chairman.md` |
 | 无名角色 | `species-rank-vol-ch-NNN.md` | `bear-g-vol-1-ch-09-001.md` |
+| 非兽盾阵营的无名角色 | `<篇>-ch-<N>-<NNN>.md`（放在对应阵营目录） | `others/dog-driver-babysitter-lei-ch-3.md` |
+| **正文未指明兽种/制服的无名角色** | `unknown-<篇>-ch-<N>-NNN.md` | `others/unknown-corpse-mo-quan-ch-1-001.md` |
+
+> **`unknown-` 命名规则（2026-09-17 首次启用）**：当一份档案的**正文既未给出兽种、也未给出制服等级**，
+> 因而无法套用 `species-rank-…` 时，用 `unknown-<篇>-ch-<N>-NNN.md`，归入 `others/`。
+> 档案正文必须把「兽种、毛色、制服、年龄、死因」等未指明项**逐条写「正文未指明」，不得推测或补全**。
+> 首次实例：墨犬篇 ch-1 洞穴中与主角同处一室的兽人尸体（是主角身份的唯一线索，正文只写「一具兽人尸体」）。
 
 > **“有名”的判定标准（2026-09-16 裁定）**：只认**故事正文**里出现的名字与编号。
 > 仅出现在“故事评述与感慨”“他们最后的故事”等**非正文区块**的名字**不算**——
