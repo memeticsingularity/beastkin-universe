@@ -1,7 +1,7 @@
 # 炎 / Yan
 
 > **赏金猎人 · 灼流暗劲使用者**
-> *"你少插嘴，我这是在顺便练功，通过他们坚持的秒数就能看出我功力的进步。"*
+> *“你少插嘴，我这是在顺便练功，通过他们坚持的秒数就能看出我功力的进步。”*
 
 ---
 
@@ -33,12 +33,12 @@
 
 ### 3.1 基础外观
 
-炎的种族已确认为**虎兽人**，毛色为**橙色**。该设定与他的名字"炎"、火焰意象，以及灼流暗劲传承体系中的红虎兽人**老雷（雷炎寰）**形成呼应。在潜入任务后期，炎从黑制服熊守卫身上剥下制服并换上，橙毛被黑制服暂时遮盖。
+炎的种族已确认为**虎兽人**，毛色为**橙色**。该设定与他的名字“炎”、火焰意象，以及灼流暗劲传承体系中的红虎兽人**老雷（雷炎寰）**形成呼应。在潜入任务后期，炎从黑制服熊守卫身上剥下制服并换上，橙毛被黑制服暂时遮盖。
 
 ### 3.2 标志性着装
 
 - **便装/初始**：未明确描写（行动开始时穿自身衣物）
-- **黑制服（换装后）**：在[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)中从黑制服熊守卫身上剥下并换上——"工作哪有那么多挑剔的"，穿上后魉评价"你穿上还挺帅"
+- **黑制服（换装后）**：在[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)中从黑制服熊守卫身上剥下并换上——“工作哪有那么多挑剔的”，穿上后魉评价“你穿上还挺帅”
 
 ---
 
@@ -48,8 +48,8 @@
 
 - **冷酷高效**：对猎物毫不留情，杀人如日常工作——面无表情地看着目标射精而死（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
 - **追求效率**：能用一招绝不用两招，速战速决是首要原则（[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
-- **实战练功者**：通过猎物坚持的秒数衡量自己功力的进步——"能撑过我一分钟的人已经屈指可数了"（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
-- **职业原则清晰**：不抢别人杀的猎物/"坏规矩"——"这样无异于虎口夺食"（[ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)）
+- **实战练功者**：通过猎物坚持的秒数衡量自己功力的进步——“能撑过我一分钟的人已经屈指可数了”（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
+- **职业原则清晰**：不抢别人杀的猎物/“坏规矩”——“这样无异于虎口夺食”（[ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)）
 - **有限妥协**：被魉怒吼后会改变处决方式，在弄射猎物后撸几下让他们死前爽一把（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
 - **欺软怕硬的本能**：误以为黑制服是部长时吓得躲进死胡同，确认只是武斗兵后立刻恢复冷静（[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
 - **会因羞辱而残忍**：被虎守卫辱骂后故意用最羞辱的方式处决他（[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
@@ -60,7 +60,7 @@
 - **处决流程**：制服→握棒运功→等待射精→松手/推倒→擦手→下一目标
 - **练功习惯**：默默记录每个猎物坚持的秒数，作为功力进步的量化指标
 - **战后清洁**：会在目标身上擦手——从虎守卫胸肌上擦手（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)），在墙上擦手（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)），在另一具尸体背上擦手（[ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)）
-- **换装伪装**：不介意穿死者的制服——"工作哪有那么多挑剔的"（[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
+- **换装伪装**：不介意穿死者的制服——“工作哪有那么多挑剔的”（[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
 
 ---
 
@@ -72,16 +72,16 @@
 |------|------|------|
 | **灼流暗劲（基本）** | 握住所握肉棒后将灼热暗劲传入目标体内，使其快速达到射精高潮并死亡。炎的火候仅为皮毛，需要直接接触下体才能生效 | [ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
 | **灼流暗劲（进阶）** | 可通过揉搓套弄加速过程，双倍刺激下目标坚持时间大幅缩短（如狗守卫30秒内解决） | [ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md) |
-| **金刚护体** | 子弹击中身体全被弹开——"什么！金刚护体！"（白熊组长震惊） | [ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
+| **金刚护体** | 子弹击中身体全被弹开——“什么！金刚护体！”（白熊组长震惊） | [ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
 
 ### 5.2 能力限制
 
 | 限制 | 描述 | 出处 |
 |:----|:------|:-----|
-| **火候浅** | 熊猫评价"这火候比我那徒弟可差远咯"——与老雷相比差距明显 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
+| **火候浅** | 熊猫评价“这火候比我那徒弟可差远咯”——与老雷相比差距明显 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
 | **需要接触** | 必须直接握住目标下体才能传输灼流暗劲，无法隔空发劲 | [ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
 | **面对高阶兵种耐力下降** | 黑制服武斗兵耐力明显强于绿制服新兵，需双倍刺激或更长时间 | [ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md) |
-| **面对部长级无胜算** | 看到黑制服时本能恐惧——"他深知自己的实力根本不可能打得过部长" | [ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md) |
+| **面对部长级无胜算** | 看到黑制服时本能恐惧——“他深知自己的实力根本不可能打得过部长” | [ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md) |
 
 ### 5.3 其他能力
 
@@ -105,7 +105,7 @@
 - 狼守卫（27秒）、熊守卫（12秒）、蓝虎守卫（25秒）、犀牛守卫（直接扔给魉）
 - 首次因魉的怒火改变手法——问牛守卫敏感点，以乳头搓动使其射精
 - 此后在弄射每个猎物后都顺手撸几下，给其临终快感
-- 野猪守卫最后一只——"早知道就不来兽盾应聘了"
+- 野猪守卫最后一只——“早知道就不来兽盾应聘了”
 
 **第二阶段：深入基地**（[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
 - 看到黑制服和白制服守卫时误以为是部长，惊慌躲藏
@@ -139,7 +139,7 @@
 | 6 | 蓝虎守卫 | 虎 | 绿 | 握棒运功射精后甩给魉 | 25秒 | 哭着射精，魉帮他撸完最后几下 |
 | 7 | 犀牛守卫 | 犀牛 | 绿 | 握棒运功后扔给魉 | 未记录 | 滚地射精而死 |
 | 8 | 牛守卫 | 牛 | 绿 | 以乳头搓动运功射精 | 未记录 | 被问敏感点后以乳头处决 |
-| 9 | 野猪守卫 | 野猪 | 绿 | 运功射精至神志不清 | 未记录 | 遗言："早知道就不来兽盾应聘了" |
+| 9 | 野猪守卫 | 野猪 | 绿 | 运功射精至神志不清 | 未记录 | 遗言：“早知道就不来兽盾应聘了” |
 
 ### [ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md) 基地深入（3人）
 
@@ -176,14 +176,14 @@
 
 - 长期搭档，性格截然相反但配合默契
 - 炎负责杀人，魉负责善后和记录编号
-- 炎对魉的"人道建议"嗤之以鼻，但会在魉发火后妥协
-- 是炎唯一会在意意见的人——"他还是第一次见魉发火，一时竟不知如何是好"（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
-- 两人分工明确："不要多嘴，别忘了你只是来辅助我帮我处理善后的，杀人的步骤是我的事"（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
+- 炎对魉的“人道建议”嗤之以鼻，但会在魉发火后妥协
+- 是炎唯一会在意意见的人——“他还是第一次见魉发火，一时竟不知如何是好”（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
+- 两人分工明确：“不要多嘴，别忘了你只是来辅助我帮我处理善后的，杀人的步骤是我的事”（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
 
 ### 熊猫 / Panda
 
 - 被银狼从关押室救出的中年熊猫兽人，实力深不可测
-- 一眼看穿炎使用的灼流暗劲，评价"这火候比我那徒弟可差远咯"——暗示认识老雷（雷炎寰）
+- 一眼看穿炎使用的灼流暗劲，评价“这火候比我那徒弟可差远咯”——暗示认识老雷（雷炎寰）
 - 在炎魉面前展示了真正的顶级实力——30秒清剿一队守卫，楼梯单刷全场
 - 炎在他面前如同小学生
 
@@ -191,7 +191,7 @@
 
 - 银狼兽人，使用银针封穴术的神秘杀手
 - 提前清剿了会议室和负一层的大量兽盾军官
-- 炎称其为"竞争猎手"，不愿坏规矩抢其猎物（不记录编号）
+- 炎称其为“竞争猎手”，不愿坏规矩抢其猎物（不记录编号）
 
 ---
 
@@ -227,27 +227,27 @@
 
 ## 十一、原文引用
 
-> "你少插嘴，我这是在顺便练功，通过他们坚持的秒数就能看出我功力的进步，现在能撑过我一分钟的人已经屈指可数了。"——对魉解释为何不直接给白熊组长痛快（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
+> “你少插嘴，我这是在顺便练功，通过他们坚持的秒数就能看出我功力的进步，现在能撑过我一分钟的人已经屈指可数了。”——对魉解释为何不直接给白熊组长痛快（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
 
-> "不要多嘴，别忘了你只是来辅助我帮我处理善后的，杀人的步骤是我的事。"——对魉的分工提醒（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
+> “不要多嘴，别忘了你只是来辅助我帮我处理善后的，杀人的步骤是我的事。”——对魉的分工提醒（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
 
-> "27秒，下一个。"——处决狼守卫后冷冷记录（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
+> “27秒，下一个。”——处决狼守卫后冷冷记录（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
 
-> "12秒，真是废物，下一个。"——处决熊守卫后嫌弃道（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
+> “12秒，真是废物，下一个。”——处决熊守卫后嫌弃道（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
 
-> "这样可以了吧，真麻烦。"——在魉发火后稍微妥协，咕哝道（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
+> “这样可以了吧，真麻烦。”——在魉发火后稍微妥协，咕哝道（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
 
-> "你在说什么蠢话，这些绿制服的杂兵能值几个钱，怎么也得再狩猎几只蓝制服的再说。"——拒绝魉收手的建议（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
+> “你在说什么蠢话，这些绿制服的杂兵能值几个钱，怎么也得再狩猎几只蓝制服的再说。”——拒绝魉收手的建议（[ch-1](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)）
 
-> "工作哪有那么多挑剔的。"——穿上死者臭烘烘的制服（[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
+> “工作哪有那么多挑剔的。”——穿上死者臭烘烘的制服（[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
 
-> "啧啧啧，真骚啊，是谁设计的这种白色制服啊，该不会你就是为了穿这身白色制服才进的兽盾吧，真是个骚货！"——羞辱白制服虎守卫（[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
+> “啧啧啧，真骚啊，是谁设计的这种白色制服啊，该不会你就是为了穿这身白色制服才进的兽盾吧，真是个骚货！”——羞辱白制服虎守卫（[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
 
-> "你的同事看到的你，将会是一具虎鞭充血翘起，奶子流水不止，一脸高潮模样的尸体。"——继续羞辱虎守卫（[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
+> “你的同事看到的你，将会是一具虎鞭充血翘起，奶子流水不止，一脸高潮模样的尸体。”——继续羞辱虎守卫（[ch-2](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
 
-> "千万不要！这样无异于虎口夺食，是坏规矩的行为。"——魉想记录银的猎物编号时（[ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)）
+> “千万不要！这样无异于虎口夺食，是坏规矩的行为。”——魉想记录银的猎物编号时（[ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)）
 
-> "您就好好安息吧。"——对犀牛老兵送终前（[ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)）
+> “您就好好安息吧。”——对犀牛老兵送终前（[ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)）
 
 ---
 

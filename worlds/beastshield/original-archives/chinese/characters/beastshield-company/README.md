@@ -107,7 +107,7 @@
 > 图库总索引与命名规范见 [`original-archives/images/commission/README.md`](../../../images/commission/README.md)；
 > 档案内的写法规范见 [ARCHIVE-CONVENTIONS.md](ARCHIVE-CONVENTIONS.md) 第八节。
 
-> 每个兽种一节，条目按约稿日期排列——**标题即「作品 + 章节 + 角色」**，可直接在大纲（Outline）里跳转。
+> 每个兽种一节，条目按约稿日期排列——**标题即“作品 + 章节 + 角色”**，可直接在大纲（Outline）里跳转。
 > 尚无委托稿的兽种（[混合](mixed/README.md) / [特殊](special/README.md)）不列。
 
 ### 熊科 / Bear — 2 张（其中 1 张为同框）
@@ -210,7 +210,7 @@
 
 <a href="../../../images/commission/bs-o-cm-1-main-story-2/20260725-lion.png"><img src="../../../images/commission/thumbs/bs-o-cm-1-main-story-2/20260725-lion.jpg" width="200" alt="狮子兽人 · 催眠房里被抬起双腿后入灌精"></a>
 
-> 魔影 Ch.4 虎卫组之战（原文件名作「白之都」，经作者确认属本卷）· [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-2/README.md)
+> 魔影 Ch.4 虎卫组之战（原文件名作“白之都”，经作者确认属本卷）· [委托稿说明](../../../images/commission/bs-o-cm-1-main-story-2/README.md)
 
 ### 豹科 / Leopard — 1 张
 
@@ -252,7 +252,7 @@
 
 🔗 = 该图中作为同框角色入镜，非画面主体。
 
-> **维护规则**：新增一张委托稿时，需同步本页（[索引总览](#索引总览)的「委托图」列 + 上方图墙 + 本清单）、对应**兽种 README**、对应**等级 README**、**角色档案**的 `## 配图 / Commissioned Art`、以及**章节正文原位插图**。详见 [`images/commission/README.md`](../../../images/commission/README.md) 与 [ARCHIVE-CONVENTIONS.md](ARCHIVE-CONVENTIONS.md) 第八节。
+> **维护规则**：新增一张委托稿时，需同步本页（[索引总览](#索引总览)的“委托图”列 + 上方图墙 + 本清单）、对应**兽种 README**、对应**等级 README**、**角色档案**的 `## 配图 / Commissioned Art`、以及**章节正文原位插图**。详见 [`images/commission/README.md`](../../../images/commission/README.md) 与 [ARCHIVE-CONVENTIONS.md](ARCHIVE-CONVENTIONS.md) 第八节。
 
 ---
 

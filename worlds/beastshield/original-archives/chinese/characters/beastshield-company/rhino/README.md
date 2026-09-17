@@ -21,7 +21,7 @@
 ## 委托稿配图 / Commissioned Art
 
 > 本兽种已配 **1 张**委托稿。缩略图 480px，点击任意一张可查看原图。
-> 逐图的画面细节与「与原文的出入」见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../images/commission/GALLERY.md)。
+> 逐图的画面细节与“与原文的出入”见各作品目录的委托稿说明；全部委托稿总览见 [GALLERY.md](../../../../images/commission/GALLERY.md)。
 
 <table>
 <tr>
