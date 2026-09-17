@@ -11,9 +11,9 @@
 - [炎魉外传第一章《潜入基地》](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)
 - [炎魉外传第二章《办公室清剿》](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)
 - [炎魉外传第三章《深层对峙》](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
-- [炎角色档案](../../chinese/chaptered-stories/side/characters/yan.md)
-- [魉角色档案](../../chinese/chaptered-stories/side/characters/liang.md)
-- [黑狗（墨犬）角色档案](../../chinese/chaptered-stories/side/characters/mo-quan.md)
+- [炎角色档案](../../chinese/characters/bounty-hunters/yan.md)
+- [魉角色档案](../../chinese/characters/bounty-hunters/liang.md)
+- [黑狗（墨犬）角色档案](../../chinese/characters/others/mo-quan.md)
 
 ---
 

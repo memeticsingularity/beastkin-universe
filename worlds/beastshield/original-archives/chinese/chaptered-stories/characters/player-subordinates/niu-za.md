@@ -201,7 +201,7 @@
 
 ## 九、档案索引
 
-- 关联角色：[熊掌→熊组长](xiong-zhang.md)、[魔影](../agent-bureau/mo-ying.md)、[老雷](../agent-bureau/lao-lei.md)
+- 关联角色：[熊掌→熊组长](xiong-zhang.md)、[魔影](../../../characters/agent-bureau/mo-ying.md)、[老雷](../../../characters/agent-bureau/lao-lei.md)
 - 关联能力：憋精功、不死体质、M体质
 - 关联地点：十三层刑房（兽盾公司审讯/惩罚场所）
 

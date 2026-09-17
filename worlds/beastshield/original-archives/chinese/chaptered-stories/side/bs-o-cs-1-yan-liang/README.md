@@ -69,8 +69,8 @@
 
 ## 主要角色 / Main Characters
 
-- **[炎 (Yan)](../characters/yan.md)**: 赏金猎人，灼流暗劲使用者，性格冷酷无情，追求效率
-- **[魉 (Liang)](../characters/liang.md)**: 赏金猎人，变色龙兽人，拥有先天隐身天赋，性格温和，对猎物抱有怜悯
+- **[炎 (Yan)](../../../characters/bounty-hunters/yan.md)**: 赏金猎人，灼流暗劲使用者，性格冷酷无情，追求效率
+- **[魉 (Liang)](../../../characters/bounty-hunters/liang.md)**: 赏金猎人，变色龙兽人，拥有先天隐身天赋，性格温和，对猎物抱有怜悯
 - **熊猫 (Panda)**: 中年熊猫兽人，实力深不可测，疑似特工局成员
 - **银 (Yin)**: 灰毛狼兽人，特工局刺客，擅长银针封穴
 

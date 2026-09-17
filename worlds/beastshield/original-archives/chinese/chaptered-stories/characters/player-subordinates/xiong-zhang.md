@@ -184,7 +184,7 @@
 
 ## 九、档案索引
 
-- 关联角色：[牛杂→冥府牛头](niu-za.md)、[魔影](../agent-bureau/mo-ying.md)、[老雷](../agent-bureau/lao-lei.md)
+- 关联角色：[牛杂→冥府牛头](niu-za.md)、[魔影](../../../characters/agent-bureau/mo-ying.md)、[老雷](../../../characters/agent-bureau/lao-lei.md)
 - 关联能力：金钟罩（罩门足底）
 - 关联地点：十一层炼药房（兽盾公司春药生产线）
 
