@@ -19,23 +19,27 @@
 
 ## 总览
 
-| 角色 | 等级 | 身份 | 登场 | 状态 |
-|------|------|------|------|------|
+| [⭐ 仓库角落的兽人尸体群](g/mixed-g-vol-1-ch-01-corpses.md) | — | 玩家所扮演角色的“同事”（由熊兽人之口点明），即被剿灭的某团伙成员 | — | 待补充 |
+| [⭐ 仓库绿制服杂兵群](g/mixed-g-vol-1-ch-02-warehouse-massacre.md) | G级 | — | — | 待补充 |
 | [⭐ 后街垃圾桶无名杂兵](g/mixed-g-vol-1-ch-05-trash-bin.md) | G级⭐ | 两只无名兽盾杂兵 | vol-1-ch-05 垃圾桶无名杂兵 | 已死亡 |
+| [⭐ 牙董办公室（训练房）绿制服守卫群](g/mixed-g-vol-1-ch-10-massacre.md) | G级 | — | — | 待补充 |
 | [⭐ 解锁封印之战·满屋武斗兵尸体](e/mixed-e-vol-1-ch-13-massacre.md) | E级⭐ | 满屋黑制服尸体 | vol-1-ch-13 满屋尸体 | 已死亡 |
 | [⭐ 更衣室无名守卫群](g/mixed-g-vol-2-ch-01-massacre.md) | G级⭐ | 12名换岗守卫 | vol-2-ch-01 更衣室无名守卫群 | 已死亡 |
-| [⭐ 十楼满屋高层守卫尸体](o/mixed-o-vol-2-ch-05-massacre.md) | O级⭐ | 满屋高层守卫尸体 | vol-2-ch-05 十楼满屋高层守卫尸体 | 已死亡 |
 | [寿司厨师](g/mixed-g-vol-2-ch-05-sushi-chef.md) | G级 | 寿司处刑执行者 | vol-2-ch-05 寿司处刑厨师 | 存活 |
+| [⭐ 十楼满屋高层守卫尸体](o/mixed-o-vol-2-ch-05-massacre.md) | O级⭐ | 满屋高层守卫尸体 | vol-2-ch-05 十楼满屋高层守卫尸体 | 已死亡 |
 | [⭐ 一层第一波无名守卫](g/mixed-g-vol-2-ch-06-unnamed-soldiers.md) | G级⭐ | 两个无名兽人 | vol-2-ch-06 第一波两个无名守卫 | 已死亡 |
 | [⭐ 一楼走廊快速毙命三人组](g/mixed-g-vol-2-ch-09-first-floor-squad.md) | G级⭐ | 野猪/犀牛/狮子 | vol-2-ch-09 一楼走廊快速毙命三人组 | 已死亡 |
+| [⭐ 一楼走廊厕所守卫尸山](g/mixed-g-vol-2-ch-09-toilet-pile.md) | 多数为G级军绿色制服；里面不乏穿着蓝制服的高级守卫（白袜粗腿，袜色统一为白） | — | — | 已全部死亡 |
 | [⭐ 十三层大厅蓝药之战牛守卫群](o/mixed-o-vol-2-ch-11-massacre.md) | O级⭐ | 数十名牛兽人守卫 | vol-2-ch-11 十三层大厅蓝药之战 | 已死亡 |
 | [⭐ 蟒蛇岛春药弹狙击无名巡逻守卫](g/mixed-g-vol-2-ch-13-sniped-patrol.md) | G级⭐ | 四名被狙击巡逻兵 | vol-2-ch-13 蟒蛇岛·春药弹狙击 | 已死亡 |
+| [⭐ 蟒蛇岛广场站岗守卫群](g/mixed-g-vol-2-ch-13-square-guards.md) | G级 | — | — | 待补充 |
 | [⭐ 草丛巡逻无名守卫群](g/mixed-g-vol-2-ch-15-patrol.md) | G级⭐ | 多名巡逻兵被魔影逐个暗杀 | vol-2-ch-15 草丛巡逻·魔影逐个暗杀 | 已死亡 |
-| [蓝制服红光工作人员](g/mixed-g-vol-3-ch-01-staff.md) | G级 | 提拔测试·尸体搬运工·瞳孔红光 | vol-3-ch-01 提拔测试·蓝制服红光工作人员 | 存活 |
+| [⭐ 蟒蛇岛广场蓝制服守卫群](o/mixed-o-vol-2-ch-15-square-guards.md) | O级 | — | — | 待补充 |
 | [⭐ 提拔测试尸山无名死者群](g/mixed-g-vol-3-ch-01-corpse-mountain.md) | G级⭐ | 大批提拔测试失败者的尸体 | vol-3-ch-01 提拔测试·尸山无名死者群 | 已死亡 |
+| [蓝制服红光工作人员](g/mixed-g-vol-3-ch-01-staff.md) | G级 | 提拔测试·尸体搬运工·瞳孔红光 | vol-3-ch-01 提拔测试·蓝制服红光工作人员 | 存活 |
 | [⭐ 门外袭击白虎弟子绿影蓝影](g/mixed-g-vol-3-ch-02-door-attackers.md) | G级⭐ | 武馆·两名无名袭击者 | vol-3-ch-02 武馆·门外袭击白虎弟子的绿影蓝影 | 已死亡 |
-| [挥铁棍兽人（仓储部·一拳呕食射精）](g/mixed-g-vol-3-ch-03-iron-rod-guard.md) | G级 | 仓储部员工·挥铁棍攻击老雷被一拳击中肚子呕食射精而死 | vol-3-ch-03 仓储部·挥铁棍被一拳呕食射精 | 已死亡 |
 | [⭐ 仓储部笛声集体受害者群](g/mixed-g-vol-3-ch-03-flute-massacre.md) | G级⭐ | 仓储部守卫·被曲先生夏日灼魂歌波及集体喷精而死 | vol-3-ch-03 仓储部·笛声集体受害者群 | 已死亡 |
+| [挥铁棍兽人（仓储部·一拳呕食射精）](g/mixed-g-vol-3-ch-03-iron-rod-guard.md) | G级 | 仓储部员工·挥铁棍攻击老雷被一拳击中肚子呕食射精而死 | vol-3-ch-03 仓储部·挥铁棍被一拳呕食射精 | 已死亡 |
 | [⭐ 竹林点穴修行受害者群](g/mixed-g-vol-3-ch-06-bamboo-corpse.md) | G级⭐ | 五竹峰·被熊猫点穴后被老雷用作修炼材料 | vol-3-ch-06 五竹峰·竹林被点穴后老雷修炼材料 | 已死亡 |
 | [⭐ 浮岛救援燃死兽人群](g/mixed-g-vol-3-ch-09-burned-rescuers.md) | G级⭐ | 浮岛·寻龙小队上前救援被藤蔓捆缚同伴时被邪火点燃烧死 | vol-3-ch-09 浮岛·被邪火点燃烧死 | 已死亡 |
 | [⭐ 方阵八人穿脑牺牲者](g/mixed-g-vol-3-ch-13-formation-massacre.md) | G级⭐ | 浮岛·列阵时被龙武神水滴串糖葫芦般连穿八人脑门而死 | vol-3-ch-13 浮岛·被龙武神水滴串糖葫芦穿脑而死 | 已死亡 |

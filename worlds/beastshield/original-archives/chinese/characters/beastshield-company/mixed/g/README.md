@@ -7,18 +7,23 @@
 
 | 档案 | 种族 | 登场 | 状态 |
 |------|------|------|------|
+| [⭐ 仓库角落的兽人尸体群](mixed-g-vol-1-ch-01-corpses.md) | — | 玩家所扮演角色的“同事”（由熊兽人之口点明），即被剿灭的某团伙成员 | 待补充 |
+| [⭐ 仓库绿制服杂兵群](mixed-g-vol-1-ch-02-warehouse-massacre.md) | — | 待补充 | 待补充 |
 | [⭐ mixed-g-vol-1-ch-05-trash-bin](mixed-g-vol-1-ch-05-trash-bin.md) | 多种（不明） | vol-1-ch-05 垃圾桶无名杂兵 | 已死亡 |
+| [⭐ 牙董办公室（训练房）绿制服守卫群](mixed-g-vol-1-ch-10-massacre.md) | — | 待补充 | 待补充 |
 | [⭐ mixed-g-vol-2-ch-01-massacre](mixed-g-vol-2-ch-01-massacre.md) | 多种（不明） | vol-2-ch-01 更衣室无名守卫群 | 已死亡 |
 | [mixed-g-vol-2-ch-05-sushi-chef](mixed-g-vol-2-ch-05-sushi-chef.md) | 不明 | vol-2-ch-05 寿司处刑厨师 | 存活 |
 | [⭐ mixed-g-vol-2-ch-06-unnamed-soldiers](mixed-g-vol-2-ch-06-unnamed-soldiers.md) | 不明 | vol-2-ch-06 第一波两个无名守卫 | 已死亡 |
 | [⭐ mixed-g-vol-2-ch-09-first-floor-squad](mixed-g-vol-2-ch-09-first-floor-squad.md) | 野猪/犀牛/狮子 | vol-2-ch-09 一楼走廊快速毙命三人组 | 已死亡 |
+| [⭐ 一楼走廊厕所守卫尸山](mixed-g-vol-2-ch-09-toilet-pile.md) | — | 待补充 | 已全部死亡 |
 | [⭐ mixed-g-vol-2-ch-13-sniped-patrol](mixed-g-vol-2-ch-13-sniped-patrol.md) | 不明（四名） | vol-2-ch-13 蟒蛇岛·春药弹狙击 | 已死亡 |
+| [⭐ 蟒蛇岛广场站岗守卫群](mixed-g-vol-2-ch-13-square-guards.md) | — | 待补充 | 待补充 |
 | [⭐ mixed-g-vol-2-ch-15-patrol](mixed-g-vol-2-ch-15-patrol.md) | 不明（多名） | vol-2-ch-15 草丛巡逻·魔影逐个暗杀 | 已死亡 |
-| [mixed-g-vol-3-ch-01-staff](mixed-g-vol-3-ch-01-staff.md) | 不明 | vol-3-ch-01 提拔测试·蓝制服红光工作人员 | 存活 |
 | [⭐ mixed-g-vol-3-ch-01-corpse-mountain](mixed-g-vol-3-ch-01-corpse-mountain.md) | 多种 | vol-3-ch-01 提拔测试·尸山无名死者群 | 已死亡 |
+| [mixed-g-vol-3-ch-01-staff](mixed-g-vol-3-ch-01-staff.md) | 不明 | vol-3-ch-01 提拔测试·蓝制服红光工作人员 | 存活 |
 | [⭐ mixed-g-vol-3-ch-02-door-attackers](mixed-g-vol-3-ch-02-door-attackers.md) | 不明 | vol-3-ch-02 武馆·门外袭击白虎弟子的绿影蓝影 | 已死亡 |
-| [mixed-g-vol-3-ch-03-iron-rod-guard](mixed-g-vol-3-ch-03-iron-rod-guard.md) | 不明 | vol-3-ch-03 仓储部·挥铁棍一拳呕食射精 | 已死亡 |
 | [⭐ mixed-g-vol-3-ch-03-flute-massacre](mixed-g-vol-3-ch-03-flute-massacre.md) | 多种 | vol-3-ch-03 仓储部·笛声集体射精群亡 | 已死亡 |
+| [mixed-g-vol-3-ch-03-iron-rod-guard](mixed-g-vol-3-ch-03-iron-rod-guard.md) | 不明 | vol-3-ch-03 仓储部·挥铁棍一拳呕食射精 | 已死亡 |
 | [⭐ mixed-g-vol-3-ch-06-bamboo-corpse](mixed-g-vol-3-ch-06-bamboo-corpse.md) | 多种（不明） | vol-3-ch-06 五竹峰·竹林被点穴后老雷修炼材料 | 已死亡 |
 | [⭐ mixed-g-vol-3-ch-09-burned-rescuers](mixed-g-vol-3-ch-09-burned-rescuers.md) | 多种（约3-4名） | vol-3-ch-09 浮岛·被邪火点燃烧死 | 已死亡 |
 | [⭐ mixed-g-vol-3-ch-13-formation-massacre](mixed-g-vol-3-ch-13-formation-massacre.md) | 多种（八名） | vol-3-ch-13 浮岛·被龙武神水滴串糖葫芦穿脑而死 | 已死亡 |

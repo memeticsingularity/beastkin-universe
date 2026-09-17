@@ -8,5 +8,6 @@
 |------|------|------|------|
 | [⭐ mixed-o-vol-2-ch-05-massacre](mixed-o-vol-2-ch-05-massacre.md) | 多种 | vol-2-ch-05 十楼满屋高层守卫尸体 | 已死亡 |
 | [⭐ mixed-o-vol-2-ch-11-massacre](mixed-o-vol-2-ch-11-massacre.md) | 牛兽人（数十名） | vol-2-ch-11 十三层大厅蓝药之战 | 已死亡 |
+| [⭐ 蟒蛇岛广场蓝制服守卫群](mixed-o-vol-2-ch-15-square-guards.md) | — | 待补充 | 待补充 |
 | [⭐ 蓝制服嗜精兽群（曲声全灭）](mixed-o-vol-3-ch-17-music-death.md) | 红牛/虎/狼/熊/豹等多兽种 | vol-3-ch-17 浮岛·被曲先生夏日灼魂歌逐个射精而死 | 已死亡（红牛被俘） |
 
