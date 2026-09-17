@@ -75,7 +75,7 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 - **[老雷 / Lao Lei](../../../characters/agent-bureau/lao-lei.md)**: 特工局精英特工，虎兽人，灼流暗劲高手，隐居带娃
 - **小雷 / Xiaolei**: 老雷之子，八岁白虎，把处决当成"放烟花"
 - **[颜部长 / Minister Yan](../../../characters/beastshield-company/special/minister-yan.md)**: 兽盾情报部长，狐狸兽人，以手指功法处决值守兵
-- **[浪青平 / Luo Qingping](../../../characters/beastshield-company/special/luo-qingping.md)**: 自称「暗室三座」的灰毛狼兽人，善使唐刀，剑法凌厉，与老雷争夺情报资料
+- **[浪青平 / Luo Qingping](../../../characters/others/luo-qingping.md)**: 自称「暗室三座」的灰毛狼兽人，善使唐刀，剑法凌厉，与老雷争夺情报资料
 
 ## 章节列表 / Chapter List
 

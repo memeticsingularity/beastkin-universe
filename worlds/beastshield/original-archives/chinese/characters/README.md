@@ -40,8 +40,8 @@
 | 牙董 / Chairman Ya | 兽盾董事长 | 存活 |
 | 岚董 / Chairman Lan | 三董事之一，禁咒大师 | 存活 |
 | 辉董 / Chairman Hui | 三董事之一，光照会教主 | 已死亡 |
-| [颜部长 / Minister Yan](beastshield-company/special/minister-yan.md) | 兽盾情报部长 | — |
-| [浪青平 / Luo Qingping](beastshield-company/special/luo-qingping.md) | 暗室三座·唐刀狼兽人 | — |
+| [颜部长 / Minister Yan](beastshield-company/special/minister-yan.md) | 兽盾情报部长，手指功法处决者 | 存活 |
+| [红狼人 / Red Wolf](beastshield-company/special/hong-lang.md) | 旅馆赌局庄家（编制存疑：正文未写制服等级） | 存活 |
 | 阿宝 / A Bao | 仓储部部长 | 已死亡 |
 | 熊部长 / Bear Minister | 黑制服部长级 | 已死亡 |
 | 大楼总头目 / 嗜精兽 | — | — |
@@ -83,6 +83,7 @@
 | 角色 | 种族 | 身份 | 状态 | 首次登场 |
 |------|------|------|------|---------|
 | [黑狗 / 墨犬 / Mo Quan](others/mo-quan.md) | 黑色犬科 | 失忆的神秘武者，寸止功法觉醒者 | 存活 | 墨犬 Ch.1 |
+| [浪青平 / Luo Qingping](others/luo-qingping.md) | 灰毛狼 | **暗室**三座·唐刀杀手（非兽盾编制） | 存活（重伤） | 老雷突袭情报局 ch-4 |
 | 墩常 / Dunchang | 水牛 | 夔牛弓传人 | 存活 | 第三卷·第9章 |
 | 大奔 / Da Ben | 未确认 | 先贤卑豕甲持有者 | 存活 | 第三卷·第10章 |
 | 曲先生 / Mr. Qu | 兽人 | 天籁·四季神曲传承者 | 存活 | 第三卷·第21章 |
@@ -102,14 +103,22 @@
 | 情况 | 格式 | 示例 |
 |------|------|------|
 | 兽盾公司无名角色 | `<兽种>-<等级>-<作品>-<章>-<序号>.md` | `bear-g-vol-1-ch-09-001.md`、`bull-e-ss-003-001.md` |
-| 有名 / 有编号的角色 | `<name-or-id>.md` | `tu-za.md`、`G-533.md` |
+| 有名 / 有编号的角色 | `<name-or-id>.md` | `niu-za.md` |
 | 非公司阵营角色 | `<拼音小写连字符>.md` | `lao-lei.md`、`yan.md` |
+
+> **「有名」怎么判定**：只认**故事正文**里出现的名字与编号。
+> 仅见于「故事评述与感慨」等非正文区块的名字（如 SS-007 的 G-533~G-538、牛大壮等）**不算**——
+> **原故事没有名字就是没有名字**，一律沿用无名式命名。此条用于消解「§2.1 要求有名字者用 name-or-id」
+> 与「§4 Step 1 要求忽略评述区」之间的冲突。
 
 ---
 
 ## 七、待办 / Open Items
 
-- ⚠️ **`chaptered-stories/characters/player-subordinates/` 仍留有 2 个文件**（牛杂、熊掌）。二者**均为兽盾员工**，在 `beastshield-company/` 内已有对应档案（`bull/g/bull-g-vol-1-ch-07-niuza.md`、`bear/g/bear-g-vol-1-ch-07-xiongzhang.md`），且旧版本更长（211 行 vs 179 行）。**待裁定合并口径后择一保留。**
+- ✅ **`chaptered-stories/characters/player-subordinates/` 的 2 个文件（牛杂、熊掌）确认保留现状**——二人虽在 `beastshield-company/` 内另有档案，但因其早期是**玩家的下属**、具有特殊性，两处并存。
+- ⚠️ **`beastshield-company` 的等级索引不完整**：13 个等级 README（`bear/e`、`bear/g`、`boar/g`、`bull/e`、`bull/g`、`dog/e`、`dog/g`、`leopard/g`、`lion/o`、`rhino/r`、`tiger/g`、`tiger/r`、`wolf/g`）目前**只有委托稿图墙、没有档案表**，其下约 251 个档案在等级层不可见。三级索引的中间层待补。
+- ⚠️ **「登场原文」删节**：短篇集经逐篇审计发现普遍存在删节（最严重者 75 段正文只引 24 段）。规范要求见 `beastshield-company/README.md` 第 94–100 行「登场原文规范」，含「完整引用 / 过渡标注 / 原始格式」三条。修复中。
+- **暗室**（杀手组织）目前只有浪青平 1 名成员，暂并入 `others/`；若成员增多应独立为 `hidden-chamber/`。
 - 本库目前只覆盖 `original-archives` 的原作角色。改编作品的角色档案仍在各自的 `adaptation-works/` 内。
 
 ---
