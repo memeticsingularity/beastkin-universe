@@ -5,7 +5,7 @@
 ![Contribution](https://img.shields.io/badge/Contributions-Welcome-orange)
 ![Worlds](https://img.shields.io/badge/Worlds-8%20Unique%20Settings-purple)
 
-**版本 3.2 · 最后更新：2026年6月8日 · 规范体系：[docs/spec/](docs/spec/) · 重构记录：[project-docs/restructure-2026/](project-docs/restructure-2026/) · 贡献指南：[CONTRIBUTING.md](CONTRIBUTING.md)**
+**版本 3.3 · 最后更新：2026年9月17日 · 规范体系：[docs/spec/](docs/spec/) · 校验工具：[scripts/qa/](scripts/qa/) · 重构记录：[project-docs/restructure-2026/](project-docs/restructure-2026/) · 贡献指南：[CONTRIBUTING.md](CONTRIBUTING.md)**
 
 ---
 
@@ -214,7 +214,9 @@ All works in this universe use a unified content rating system, assessing intens
 
 ```txt
 beastkin-universe/
+├── AGENTS.md                # 项目指令：AI 协作约定与强制规范入口
 ├── docs/spec/               # 规范文档（v3.0+ 体系）
+├── scripts/qa/              # 一致性校验工具（格式 / 索引 / 链接 / 引用）
 ├── templates/               # 创作模板
 ├── worlds/                  # 全部世界观
 │   ├── beastshield/         # 兽盾 — 黑暗企业帝国
@@ -229,6 +231,10 @@ beastkin-universe/
 ├── README.md
 └── CONTRIBUTING.md
 ```
+
+> **改动故事文件或角色档案前**：先读 [`AGENTS.md`](AGENTS.md)（AI 协作约定）与
+> [`docs/spec/11-story-format.md`](docs/spec/11-story-format.md)（故事格式规范）。
+> 提交前跑一遍 [`scripts/qa/`](scripts/qa/) 的校验脚本，见 [贡献指南 §5.4](CONTRIBUTING.md)。
 
 ---
 
@@ -386,7 +392,7 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 
 ## 十一、快速链接 / Quick Links
 
-- 📖 [贡献指南](CONTRIBUTING.md) | Contribution Guide (v3.0)
+- 📖 [贡献指南](CONTRIBUTING.md) | Contribution Guide (v3.1)
 - ⚖️ [行为准则](CODE_OF_CONDUCT.md) | Code of Conduct
 - 🏗️ [项目结构规范](docs/spec/01-project-structure.md) | Project Structure Spec
 - 🏷️ [作品编码规范](docs/spec/02-work-coding.md) | Work Coding Spec
@@ -402,6 +408,18 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 ---
 
 ## 十二、更新记录 / Update History
+
+- **2026-09-17 v3.3**：接入一致性校验工具，并把强制规范接入必经路径
+    - 新增 `scripts/qa/`：7 个校验与索引维护脚本（格式 / 索引 / 链接 / 引用来源 / 档案计数 / 标点扫描 / 表格同步），
+      只读为默认、写入需显式 `--write`、退出码可用于门禁
+    - 项目指令文件改用 **DSH 原生 `AGENTS.md`**（原 `CLAUDE.md` 此前被 `.gitignore` 忽略、未纳入版本控制，
+      即项目规范只存在于本机；改名后随仓库共享）
+    - `worlds/beastshield/AGENTS.md` 新增「故事文件格式（强制）」「角色档案体系（强制）」两章，
+      含**禁止的旧写法对照表**（防止已废弃的章节写法回潮）
+    - `docs/spec/11-story-format.md` 接入必经路径 —— 该规范此前只被其它世界观引用，
+      内容最多的 beastshield 原作反而没有引用它
+    - 按该规范统一 beastshield 原作 59 个分章文件与 7 篇短篇的 H1 与结束标记
+    - 贡献指南新增 §5.4 校验工具
 
 - **2026-06-08 v3.2**：全面跃迁内容分级与标签体系，覆盖 27+ 个 README
     - 引入四维分级矩阵（🔞性内容 / 💀暴力死亡 / 🧠心理黑暗 / ⚡特殊触发），Lv.0–5 标准

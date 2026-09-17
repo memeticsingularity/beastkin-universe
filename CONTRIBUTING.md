@@ -1,6 +1,6 @@
-# Beastkin Universe 贡献指南 v3.0 / Contributing Guide for Beastkin Universe v3.0
+# Beastkin Universe 贡献指南 v3.1 / Contributing Guide for Beastkin Universe v3.1
 
-**版本 3.0 · 最后更新：2026年5月7日 · 规范体系：[docs/spec/](docs/spec/)**
+**版本 3.1 · 最后更新：2026年9月17日 · 规范体系：[docs/spec/](docs/spec/) · 校验工具：[scripts/qa/](scripts/qa/)**
 
 ---
 
@@ -592,6 +592,57 @@ All submitted works should meet the following requirements:
 
 ---
 
+### 5.4 校验工具 / Verification Tooling
+
+仓库自带一组一致性校验脚本，位于 [`scripts/qa/`](scripts/qa/)。**它们不替代人工审阅，但能挡住绝大多数低级错误**，
+尤其是当改动涉及批量文件（一次录入多章、批量建档）时。
+
+提交前建议依次运行（全部为只读，退出码 `0` = 通过、`1` = 有问题）：
+
+```bash
+node scripts/qa/check-format.js <世界观目录>        # 故事文件是否符合 docs/spec/11-story-format.md
+node scripts/qa/check-index.js  <characters 目录>   # 三级索引的表行数是否等于档案文件数
+node scripts/qa/check-links.js  <目录>              # Markdown 相对链接是否可解析
+node scripts/qa/check-quotes.js <characters 目录> <chaptered-stories 目录>   # 档案引用是否真的来自正文
+```
+
+用法、参数与注意事项详见 [`scripts/qa/README.md`](scripts/qa/README.md)。
+
+**两点务必注意：**
+
+- `scan-punctuation.js` 的结果**不能直接拿来改**。本仓库的正文本身就使用半角冒号，
+  档案引用块内的半角标点多为**忠实转录**，改成全角反而破坏原文保真。只有**档案自撰**部分才适用
+  「中文标点用中文」。
+- 档案的「登场原文」要求**逐字引用正文，包括正文自身的错别字与标点**。发现正文有误时，
+  不要「顺手改正」引用，应保留原样并另加备注说明。
+
+---
+
+The repository ships a set of consistency-checking scripts under [`scripts/qa/`](scripts/qa/).
+They do not replace human review, but they catch the vast majority of low-level mistakes — especially
+when a change touches many files at once.
+
+Run them before submitting (all read-only; exit code `0` = pass, `1` = problems found):
+
+```bash
+node scripts/qa/check-format.js <world dir>
+node scripts/qa/check-index.js  <characters dir>
+node scripts/qa/check-links.js  <dir>
+node scripts/qa/check-quotes.js <characters dir> <chaptered-stories dir>
+```
+
+See [`scripts/qa/README.md`](scripts/qa/README.md) for usage and caveats.
+
+**Two important notes:**
+
+- Do **not** act directly on the output of `scan-punctuation.js`. The original prose in this repository
+  itself uses half-width colons, so half-width punctuation inside quoted blocks is usually a faithful
+  transcription; converting it would break fidelity to the source text.
+- Character archives must quote the original text **verbatim, including its own typos and punctuation**.
+  If you spot an error in the source, do not silently "fix" the quotation — keep it and add a note.
+
+---
+
 ## 6. 审核流程 / Review Process
 
 ### 6.1 自动检查 / Automatic Checks
@@ -921,6 +972,16 @@ We especially thank:
 ---
 
 ## 更新记录 / Update History
+
+> **关于版本号**：`README.md`、`CONTRIBUTING.md`、`CODE_OF_CONDUCT.md` 的版本号**各自独立演进**——
+> 只在该文档自身发生变更时递增，不与其它文档互相看齐。
+> （v3.0 时曾约定三者统一版本号，但实践中各文档的更新节奏不同，此后不再强行对齐。）
+> 因此本指南是 v3.1，而项目 README 可能是 v3.3 或更高，两者不一致是正常的。
+
+- **2026-09-17 v3.1**：新增校验工具章节
+    - 新增 §5.4 校验工具：说明 `scripts/qa/` 下的四项提交前检查（格式 / 索引 / 链接 / 引用来源）
+    - 明确两点易错事项：引用块内的半角标点是**正文原样**不可擅改；
+      正文自身的错别字也须**逐字照录**，不得"顺手修正"
 
 - **2026-05-07 v3.0**：规范体系全面重构
     - 更新版本号为 v3.0，引用新的 `docs/spec/` 分层规范体系

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // check-links.js — 检查 Markdown 相对链接是否可解析
 //
-// 用法: node scripts/qa/check-links.js <目录> [...更多目录]
+// 用法: node scripts/qa/check-links.js <目录或 .md 文件> [...更多路径]
 //
 // 跳过: 外部 URL、纯锚点 (#foo)、围栏代码块、行内代码、含 <...> 或 … 的模板占位符
 // 退出码: 0 = 全部可解析；1 = 存在失效链接
@@ -65,7 +65,22 @@ function scan(file) {
   });
 }
 
-for (const r of roots) walk(r);
+// 参数既可以是目录，也可以是单个 .md 文件。
+// 路径不存在时必须显式报错——否则会「扫了 0 个文件 -> 失效 0」，
+// 给出静默的假阴性，比直接报错更危险。
+let badPath = 0;
+for (const r of roots) {
+  let st;
+  try { st = fs.statSync(r); } catch {
+    console.error('路径不存在: ' + r);
+    badPath++;
+    continue;
+  }
+  if (st.isDirectory()) walk(r);
+  else if (r.toLowerCase().endsWith('.md')) scan(r);
+  else { console.error('既不是目录也不是 .md 文件: ' + r); badPath++; }
+}
+if (badPath) process.exit(2);
 
 console.log('扫描 Markdown 文件: ' + filesScanned);
 console.log('解析到链接: ' + parsed + ' | 已跳过(外部/锚点/模板): ' + skipped + ' | 实际校验: ' + checked);
