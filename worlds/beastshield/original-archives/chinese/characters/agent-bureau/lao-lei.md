@@ -30,7 +30,8 @@
 |:----:|:-----|:----:|:-----|
 | ch-5 | [`厨房与致命午餐`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-5-kitchen-and-lunch.md)（被提及） | ch-10 | [`十三层潜入`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-10-thirteenth-floor-infiltration.md) |
 | ch-6 | [`老雷登场`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-6-lei-lei-arrival.md) | ch-11 | [`冥府牛头之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-11-hell-bull-battle.md) |
-| ch-9 | [`走廊清理`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-9-corridor-cleanup.md) | ch-12 | [`教学篇`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-12-training-session.md)（被提及） |
+| ch-8 | [`炼药房之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-8-alchemy-room-battle.md)（被提及+登场） | ch-9 | [`走廊清理`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-9-corridor-cleanup.md) |
+| ch-12 | [`教学篇`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-12-training-session.md)（被提及） | | |
 
 **第一卷《兽游世界》**（`main/bs-o-cm-1-main-story-1/`）
 | 章节 | 文件 |
