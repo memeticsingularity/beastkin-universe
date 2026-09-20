@@ -23,7 +23,7 @@ Original archives for Paradise Kik Soldiers, containing main story chapters and 
 
 | 编码 | 中文标题 | 英文标题 | 标签 | 链接 |
 |------|---------|---------|------|------|
-| `pks-o-cm-1-main-story-1` | 奇克兽士乐园 主线 | Paradise Kik Soldiers Main Story | `daily-life`, `dog`, `friendship` | [目录](chaptered-stories/main/pks-o-cm-1-main-story-1/README.md) |
+| `pks-o-cm-1-main-story-1` | 奇克兽士乐园 主线 | Paradise Kik Soldiers Main Story | `daily-life`, `dog`, `friendship` | [ch-1](ch-1-feng-and-shuoshi.md) · [ch-2](ch-2-snowy-watchtower.md) · [ch-3](ch-3/) |
 
 ### 短篇 / Short Stories
 
@@ -41,7 +41,7 @@ Original archives for Paradise Kik Soldiers, containing main story chapters and 
 
 | Code | Title | Tags | Link |
 |------|-------|------|------|
-| `pks-o-cm-1-main-story-1` | Paradise Kik Soldiers Main Story | `daily-life`, `dog`, `friendship` | [Directory](chaptered-stories/main/pks-o-cm-1-main-story-1/README.md) |
+| `pks-o-cm-1-main-story-1` | Paradise Kik Soldiers Main Story | `daily-life`, `dog`, `friendship` | [ch-1](ch-1-feng-and-shuoshi.md) · [ch-2](ch-2-snowy-watchtower.md) · [ch-3](ch-3/) |
 
 ### Short Stories
 
@@ -59,15 +59,15 @@ Original archives for Paradise Kik Soldiers, containing main story chapters and 
 
 | 标签 | 作品 |
 |------|------|
-| `daily-life` | [主线](chaptered-stories/main/pks-o-cm-1-main-story-1/) |
-| `dog` | [主线](chaptered-stories/main/pks-o-cm-1-main-story-1/) |
-| `friendship` | [主线](chaptered-stories/main/pks-o-cm-1-main-story-1/) |
+| `daily-life` | [主线](ch-1-feng-and-shuoshi.md) |
+| `dog` | [主线](ch-1-feng-and-shuoshi.md) |
+| `friendship` | [主线](ch-1-feng-and-shuoshi.md) |
 
 ### 按兽人类型 / By Species
 
 | 类型 | 作品 |
 |------|------|
-| 犬 / Dog | [主线](chaptered-stories/main/pks-o-cm-1-main-story-1/) |
+| 犬 / Dog | [主线](ch-1-feng-and-shuoshi.md) |
 
 ---
 
@@ -77,16 +77,16 @@ Original archives for Paradise Kik Soldiers, containing main story chapters and 
 
 | Tag | Works |
 |-----|-------|
-| `daily-life` | [Main Story](chaptered-stories/main/pks-o-cm-1-main-story-1/) |
-| `dog` | [Main Story](chaptered-stories/main/pks-o-cm-1-main-story-1/) |
-| `friendship` | [Main Story](chaptered-stories/main/pks-o-cm-1-main-story-1/) |
+| `daily-life` | [Main Story](ch-1-feng-and-shuoshi.md) |
+| `dog` | [Main Story](ch-1-feng-and-shuoshi.md) |
+| `friendship` | [Main Story](ch-1-feng-and-shuoshi.md) |
 
 ### By Species
 
 | Species | Works |
 |---------|-------|
-| Dog | [Main Story](chaptered-stories/main/pks-o-cm-1-main-story-1/) |
+| Dog | [Main Story](ch-1-feng-and-shuoshi.md) |
 
 ---
 
-*最后更新：2026-05-16 · Last updated: 2026-05-16*
+*最后更新：2026-09-17 · Last updated: 2026-09-17*

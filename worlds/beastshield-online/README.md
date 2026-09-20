@@ -88,7 +88,7 @@ For detailed settings, see: [settings/](settings/)
 
 | 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
 |------|--------|--------|:--:|:--:|:--:|:--:|------|
-| `bso-o-cm-1-first-volume` | 兽游世界OL 第一卷 | Beastshield Online Vol.1 | Lv.4 | Lv.4 | Lv.2 | `未完待续` `VR网游` | [目录](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/README.md) |
+| `bso-o-cm-1-first-volume` | 兽游世界OL 第一卷 | Beastshield Online Vol.1 | Lv.4 | Lv.4 | Lv.2 | `未完待续` `VR网游` | [目录](original-archives/chinese/chaptered-stories/main/) |
 
 ### 4.2 改编作品 / Adaptation Works
 
@@ -104,7 +104,7 @@ For detailed settings, see: [settings/](settings/)
 
 | Code | Title | Tags | Link |
 |------|-------|------|------|
-| `bso-o-cm-1-first-volume` | Beastshield Online Vol.1 | `vr-game`, `combat`, `dog` | [Directory](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/README.md) |
+| `bso-o-cm-1-first-volume` | Beastshield Online Vol.1 | `vr-game`, `combat`, `dog` | [Directory](original-archives/chinese/chaptered-stories/main/) |
 
 ### Adaptation Works
 
@@ -120,16 +120,16 @@ For detailed settings, see: [settings/](settings/)
 
 | 类型 | 作品 |
 |------|------|
-| 犬 / Dog | [第一卷](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
-| 虎 / Tiger | [第一卷](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
-| 狼 / Wolf | [第一卷](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+| 犬 / Dog | [第一卷](original-archives/chinese/chaptered-stories/main/) |
+| 虎 / Tiger | [第一卷](original-archives/chinese/chaptered-stories/main/) |
+| 狼 / Wolf | [第一卷](original-archives/chinese/chaptered-stories/main/) |
 
 ### 按内容标签 / By Tags
 
 | 标签 | 作品 |
 |------|------|
-| `vr-game` | [第一卷](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) · [续写](adaptation-works/chaptered-stories/bso-a-cs-1-sequel/) |
-| `combat` | [第一卷](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+| `vr-game` | [第一卷](original-archives/chinese/chaptered-stories/main/) · [续写](adaptation-works/chaptered-stories/bso-a-cs-1-sequel/) |
+| `combat` | [第一卷](original-archives/chinese/chaptered-stories/main/) |
 
 ---
 
@@ -139,16 +139,16 @@ For detailed settings, see: [settings/](settings/)
 
 | Species | Works |
 |---------|-------|
-| Dog | [Vol.1](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
-| Tiger | [Vol.1](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
-| Wolf | [Vol.1](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+| Dog | [Vol.1](original-archives/chinese/chaptered-stories/main/) |
+| Tiger | [Vol.1](original-archives/chinese/chaptered-stories/main/) |
+| Wolf | [Vol.1](original-archives/chinese/chaptered-stories/main/) |
 
 ### By Tags
 
 | Tag | Works |
 |-----|-------|
-| `vr-game` | [Vol.1](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) · [Sequel](adaptation-works/chaptered-stories/bso-a-cs-1-sequel/) |
-| `combat` | [Vol.1](original-archives/chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+| `vr-game` | [Vol.1](original-archives/chinese/chaptered-stories/main/) · [Sequel](adaptation-works/chaptered-stories/bso-a-cs-1-sequel/) |
+| `combat` | [Vol.1](original-archives/chinese/chaptered-stories/main/) |
 
 ---
 
@@ -192,4 +192,4 @@ For detailed settings, see: [settings/](settings/)
 
 ---
 
-*最后更新：2026-05-16 · Last updated: 2026-05-16*
+*最后更新：2026-09-17 · Last updated: 2026-09-17*

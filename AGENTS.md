@@ -13,3 +13,7 @@
 
 ## 子项目索引
 - [Beastshield](worlds/beastshield/AGENTS.md) — 兽盾世界观项目（墨犬续写/短篇等）
+- [Series 4 Fetish Sessions](worlds/beastshield/adaptation-works/short-stories/series-4-fetish-sessions/AGENTS.md) — 兽盾改编短篇系列专属规范
+
+## 校验工具
+- 提交前运行 [`scripts/qa/`](scripts/qa/) 校验脚本（用法见其 README 与 CONTRIBUTING §5.4）

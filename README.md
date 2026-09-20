@@ -3,7 +3,7 @@
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)
 ![Contribution](https://img.shields.io/badge/Contributions-Welcome-orange)
-![Worlds](https://img.shields.io/badge/Worlds-8%20Unique%20Settings-purple)
+![Worlds](https://img.shields.io/badge/Worlds-10%20Unique%20Settings-purple)
 
 **版本 3.3 · 最后更新：2026年9月17日 · 规范体系：[docs/spec/](docs/spec/) · 校验工具：[scripts/qa/](scripts/qa/) · 重构记录：[project-docs/restructure-2026/](project-docs/restructure-2026/) · 贡献指南：[CONTRIBUTING.md](CONTRIBUTING.md)**
 
@@ -89,6 +89,7 @@ All works in this universe use a unified content rating system, assessing intens
 | 熊 / Bear | [兽盾](worlds/beastshield/) · [兽盾天堂](worlds/beastshield-paradise/) |
 | 兔 / Rabbit | [兽盾](worlds/beastshield/) |
 | 羊 / Sheep | [兽盾](worlds/beastshield/) |
+| 其他物种 / Other Species | [杂项合集](worlds/random/) · [兽人原型](worlds/beastman-prototype/) |
 
 ### 按内容标签 / By Tags
 
@@ -180,6 +181,22 @@ All works in this universe use a unified content rating system, assessing intens
 
 - [世界观主页](worlds/worldstrider-infinity/)
 
+### 3.9 Beastman Prototype (兽人原型)
+
+**兽盾的前身原型**
+
+lanse 创作生涯中最早的兽人世界观原型，后演变为兽盾世界观。共享核心机制（生殖器弱点、强制射精致死），但无兽盾公司的制服体系与职级制度，背景为山寨聚落。
+
+- [世界观主页](worlds/beastman-prototype/)
+
+### 3.10 Random (杂项)
+
+**不归属任何世界观的杂项故事合集**
+
+早期试写、翻译练笔、独立短篇与跨世界观实验性文本。部分作品与兽盾共享情色设定体系，但在称谓、制服体系、角色身份等方面与主世界观不兼容。
+
+- [世界观主页](worlds/random/)
+
 ---
 
 ## 四、快速访问原作 / Quick Access to Original Works
@@ -195,6 +212,8 @@ All works in this universe use a unified content rating system, assessing intens
 | **帝国犬兵** | 主线 | [帝国犬兵主线](worlds/empire-kik-soldiers/original-archives/chinese/chaptered-stories/main/README.md) |
 | **万兽盟** | 主线 | [万兽盟主线](worlds/united-beasts-alliance/original-archives/chinese/chaptered-stories/main/uba-o-cm-1-main-story-1/README.md) |
 | **万界行者** | 主线 | [万界行者主线](worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/README.md) |
+| **兽人原型** | 主线 | [黄坡山寨](worlds/beastman-prototype/original-archives/chaptered-stories/bo-c-1-yellow-slope-stronghold/README.md) |
+| **杂项** | 短篇 | [杂项故事合集](worlds/random/README.md) |
 
 ### English Originals
 
@@ -207,6 +226,8 @@ All works in this universe use a unified content rating system, assessing intens
 | **Empire Kik Soldiers** | Main Story | [Empire Kik Soldiers Main Story](worlds/empire-kik-soldiers/original-archives/english/chaptered-stories/main/README.md) |
 | **United Beasts Alliance** | Main Story | [United Beasts Alliance Main Story](worlds/united-beasts-alliance/original-archives/english/chaptered-stories/main/uba-o-cm-1-main-story-1/README.md) |
 | **Worldstrider Infinity** | Main Story | [Worldstrider Infinity Main Story](worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/README.md) |
+| **Beastman Prototype** | Main Story | [Yellow Slope Stronghold](worlds/beastman-prototype/original-archives/chaptered-stories/bo-c-1-yellow-slope-stronghold/README.md) |
+| **Random** | Short Stories | [Miscellaneous Collection](worlds/random/README.md) |
 
 ---
 
@@ -216,20 +237,26 @@ All works in this universe use a unified content rating system, assessing intens
 beastkin-universe/
 ├── AGENTS.md                # 项目指令：AI 协作约定与强制规范入口
 ├── docs/spec/               # 规范文档（v3.0+ 体系）
-├── scripts/qa/              # 一致性校验工具（格式 / 索引 / 链接 / 引用）
+├── project-docs/            # 项目级文档（如 restructure-2026 重构记录）
+├── author/                  # 作者风格分析与写作技能库
+├── structure/               # 结构生成产物
+├── scripts/                 # 维护脚本（含 qa/ 一致性校验工具）
 ├── templates/               # 创作模板
 ├── worlds/                  # 全部世界观
 │   ├── beastshield/         # 兽盾 — 黑暗企业帝国
 │   ├── beastshield-online/  # 兽游世界 — VR 网游
 │   ├── beastshield-paradise/# 兽盾天堂 — 温暖重构
 │   ├── beastshield-reforged/# 兽盾重铸 — 末日重生
+│   ├── beastman-prototype/  # 兽人原型 — lanse 最早原型，兽盾前身
 │   ├── empire-kik-soldiers/ # 帝国万岁 — 星际科幻
 │   ├── paradise-kik-soldiers/ # 奇克乐园 — 温暖日常
+│   ├── random/              # 杂项 — 不归属任何世界观的独立短篇
 │   ├── united-beasts-alliance/ # 万兽联盟 — 跨种族同盟
 │   └── worldstrider-infinity/  # 万界巡行 — VR 沙盒平台
 ├── LICENSE.md
 ├── README.md
-└── CONTRIBUTING.md
+├── CONTRIBUTING.md
+└── CODE_OF_CONDUCT.md
 ```
 
 > **改动故事文件或角色档案前**：先读 [`AGENTS.md`](AGENTS.md)（AI 协作约定）与
@@ -462,5 +489,5 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 
 ---
 
-*最后更新：2026年6月8日 · 文档版本：3.2*  
-*Last updated: May 16, 2026 · Document Version: 3.1*
+*最后更新：2026年9月17日 · 文档版本：3.3*  
+*Last updated: September 17, 2026 · Document Version: 3.3*

@@ -9,16 +9,20 @@
 ```
 beastkin-universe/
 ├── .schemas/               # JSON Schema 等校验定义
-├── .scripts/               # 项目维护脚本（原 scripts/）
+├── scripts/                # 项目维护脚本（含 qa/ 一致性校验工具）
 ├── docs/
-│   ├── spec/               # 规范文档（本文档所在目录）
-│   └── restructure-20YY/   # 重构规划与审计记录
+│   └── spec/               # 规范文档（本文档所在目录）
+├── project-docs/           # 项目级文档（如 restructure-2026 重构记录）
+├── author/                 # 作者风格分析与写作技能库
+├── structure/              # 结构生成产物
 ├── templates/              # 纯净模板
-├── worlds/                 # 全部世界观
+├── worlds/                 # 全部世界观（各世界观可自带 AGENTS.md）
 ├── .gitignore
+├── AGENTS.md               # 项目指令（AI 协作约定）
 ├── LICENSE.md
 ├── README.md
-└── CONTRIBUTING.md
+├── CONTRIBUTING.md
+└── CODE_OF_CONDUCT.md
 ```
 
 ---
@@ -73,8 +77,8 @@ worlds/{world}/
 {完整作品编码}/
 ├── README.md
 ├── metadata.yaml
-├── ch-001-{标题简写}.md
 ├── ch-2-{标题简写}.md
+├── ch-3-{标题简写}.md
 └── .process/               # 创作过程隔离（详见 03-intermediate-documents.md）
 ```
 
@@ -100,11 +104,11 @@ worlds/{world}/
 bs-a-cs-1-shorts/
 ├── README.md
 ├── metadata.yaml
-├── ch-001-birthday-cake.md      # 中文
-├── ch-002-snoring-too-loud.md
+├── ch-2-birthday-cake.md      # 中文
+├── ch-3-snoring-too-loud.md
 └── en/
-    ├── ch-001-birthday-cake.md  # 英文
-    └── ch-002-snoring-too-loud.md
+    ├── ch-2-birthday-cake.md  # 英文
+    └── ch-3-snoring-too-loud.md
 ```
 
 ---

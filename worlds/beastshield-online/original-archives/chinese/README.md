@@ -25,7 +25,7 @@ Chinese version archives for *Beastshield Online* original works, including main
 
 | 编码 | 标题 | 状态 | 链接 |
 |------|------|------|------|
-| `bso-o-cm-1-first-volume` | 兽游世界OL 第一卷 | 连载中 | [目录](chaptered-stories/main/bso-o-cm-1-first-volume/README.md) |
+| `bso-o-cm-1-first-volume` | 兽游世界OL 第一卷 | 连载中 | [目录](chaptered-stories/main/) |
 
 #### 支线 / Side
 
@@ -45,7 +45,7 @@ Chinese version archives for *Beastshield Online* original works, including main
 
 | Code | Title | Status | Link |
 |------|-------|--------|------|
-| `bso-o-cm-1-first-volume` | Beastshield Online Vol.1 | Ongoing | [Directory](chaptered-stories/main/bso-o-cm-1-first-volume/README.md) |
+| `bso-o-cm-1-first-volume` | Beastshield Online Vol.1 | Ongoing | [Directory](chaptered-stories/main/) |
 
 #### Side
 

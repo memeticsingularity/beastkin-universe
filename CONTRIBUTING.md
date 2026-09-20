@@ -34,8 +34,11 @@ worlds/                          # 所有世界观目录
 │   └── settings/                # 设定参考库
 ├── beastshield-paradise/        # 兽盾乐园世界观
 ├── beastshield-reforged/        # 兽盾新纪元世界观
+├── beastshield-online/          # 兽游世界（VR 网游）世界观
+├── beastman-prototype/          # 兽人原型世界观（兽盾前身）
 ├── empire-kik-soldiers/         # 帝国万岁世界观
 ├── paradise-kik-soldiers/       # 乐园基尅兵世界观
+├── random/                      # 杂项故事合集（不归属任何世界观）
 ├── united-beasts-alliance/      # 万兽盟世界观
 └── worldstrider-infinity/       # 世界行者世界观
 ```
@@ -54,8 +57,11 @@ worlds/                          # All world directories
 │   └── settings/                # Settings library
 ├── beastshield-paradise/        # Beastshield Paradise world
 ├── beastshield-reforged/        # Beastshield Reforged world
+├── beastshield-online/          # Beastshield Online (VR game) world
+├── beastman-prototype/          # Beastman Prototype world (predecessor of Beastshield)
 ├── empire-kik-soldiers/         # Empire KIK Soldiers world
 ├── paradise-kik-soldiers/       # Paradise KIK Soldiers world
+├── random/                      # Miscellaneous stories (not tied to any world)
 ├── united-beasts-alliance/      # United Beasts Alliance world
 └── worldstrider-infinity/       # Worldstrider Infinity world
 ```
@@ -463,8 +469,11 @@ git commit -m "Add English translation for Silent Night Watch story"
 - [ ] beastshield
 - [ ] beastshield-paradise
 - [ ] beastshield-reforged
+- [ ] beastshield-online
+- [ ] beastman-prototype
 - [ ] empire-kik-soldiers
 - [ ] paradise-kik-soldiers
+- [ ] random
 - [ ] united-beasts-alliance
 - [ ] worldstrider-infinity
 
@@ -509,8 +518,11 @@ Please fill in the Pull Request description according to the following template:
 - [ ] beastshield
 - [ ] beastshield-paradise
 - [ ] beastshield-reforged
+- [ ] beastshield-online
+- [ ] beastman-prototype
 - [ ] empire-kik-soldiers
 - [ ] paradise-kik-soldiers
+- [ ] random
 - [ ] united-beasts-alliance
 - [ ] worldstrider-infinity
 
@@ -604,6 +616,9 @@ node scripts/qa/check-format.js <世界观目录>        # 故事文件是否符
 node scripts/qa/check-index.js  <characters 目录>   # 三级索引的表行数是否等于档案文件数
 node scripts/qa/check-links.js  <目录>              # Markdown 相对链接是否可解析
 node scripts/qa/check-quotes.js <characters 目录> <chaptered-stories 目录>   # 档案引用是否真的来自正文
+node scripts/qa/count-archives.js <characters 目录> # 统计各兽种/等级档案数，供校对总索引计数
+node scripts/qa/scan-punctuation.js <目录>          # 扫描汉字后的半角标点（区分引用块 / 自撰）
+node scripts/qa/sync-tables.js <beastshield-company 目录> [--write]   # 把未挂进索引的档案补进等级表 / 兽种表
 ```
 
 用法、参数与注意事项详见 [`scripts/qa/README.md`](scripts/qa/README.md)。
@@ -629,6 +644,9 @@ node scripts/qa/check-format.js <world dir>
 node scripts/qa/check-index.js  <characters dir>
 node scripts/qa/check-links.js  <dir>
 node scripts/qa/check-quotes.js <characters dir> <chaptered-stories dir>
+node scripts/qa/count-archives.js <characters dir>
+node scripts/qa/scan-punctuation.js <dir>
+node scripts/qa/sync-tables.js <beastshield-company dir> [--write]
 ```
 
 See [`scripts/qa/README.md`](scripts/qa/README.md) for usage and caveats.
@@ -1012,5 +1030,5 @@ We especially thank:
 
 ---
 
-*本文档最后更新于：2026年5月7日 · 文档版本：3.0*  
+*本文档最后更新于：2026年9月17日 · 文档版本：3.1*  
 *Last updated: May 7, 2026 · Document Version: 3.0*

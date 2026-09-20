@@ -80,6 +80,8 @@ For detailed settings, see: [settings/](settings/)
 | `bsp-o-cs-7-yanliang` | 炎魉：新兵基地的幽灵 | Yan & Liang: Ghosts of the Recruit Base | Lv.3 | Lv.3 | Lv.2 | `赏金猎杀` | [目录](original-archives/chinese/chaptered-stories/side/bsp-o-cs-7-yanliang/README.md) |
 | `6-r-302-wolve` | R-302：灰狼狙击手 | R-302: Gray Wolf Sniper | Lv.3 | Lv.2 | Lv.3 | `HE` `救赎` | [目录](original-archives/chinese/chaptered-stories/side/6-r-302-wolve/README.md) |
 | `7-e-419-bear` | E-419：笨重的珍宝 | E-419: The Cumbersome Treasure | Lv.2 | Lv.1 | Lv.2 | `HE` `救赎` | [目录](original-archives/chinese/chaptered-stories/side/7-e-419-bear/README.md) |
+| `bsp-o-s-1` | 他们成为我的家人（魔改版） | They Become My Family (Modded) | — | — | — | `HE` `温馨` | [阅读](original-archives/chinese/short-stories/bsp-o-s-1-they-become-my-family-modded.md) |
+| `bsp-o-s-2` | 他们成为我的家人（温柔重置版） | They Become My Family (Gentle Reset) | — | — | — | `HE` `温馨` | [阅读](original-archives/chinese/short-stories/bsp-o-s-2-they-become-my-family-gentle-reset.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 
@@ -92,7 +94,6 @@ No adaptation works yet. Creators are welcome to create adaptations based on thi
 ## 5. 快速链接 / Quick Links
 
 - 原作存档：[original-archives/](original-archives/)
-- 改编作品：[adaptation-works/](adaptation-works/)
 - 设定库：[settings/](settings/)
 - 核心宣言：[settings/a-players-warm-heart-chinese.md](settings/a-players-warm-heart-chinese.md)
 

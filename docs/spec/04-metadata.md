@@ -40,7 +40,7 @@ work:
 
 creation:
   last_update: ""       # YYYY-MM-DD
-  universe_based_on: "" # beastshield | beastshield-online | beastshield-reforged | beastshield-paradise | empire-kik-soldiers | paradise-kik-soldiers | united-beasts-alliance | worldstrider-infinity | mixed
+  universe_based_on: "" # beastshield | beastshield-online | beastshield-reforged | beastshield-paradise | beastman-prototype | empire-kik-soldiers | paradise-kik-soldiers | random | united-beasts-alliance | worldstrider-infinity | mixed
 ```
 
 ## 4. 条件必填字段

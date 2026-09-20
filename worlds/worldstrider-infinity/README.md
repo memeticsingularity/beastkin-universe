@@ -170,6 +170,7 @@ For detailed settings, see: [settings/](settings/)
 
 - **v1（老赵版）**：同事为"老赵"（退休老兵，平辈战友）
 - **v2（壹安版）**：同事为"壹安"（伯恩山犬，46岁，岩参后辈，蓝制服）
+- **情人节特典（branches/valentine-special/）**：节日特别篇分支
 
 ### 原作回响 · 治愈线 (`echoes-healing/`)
 

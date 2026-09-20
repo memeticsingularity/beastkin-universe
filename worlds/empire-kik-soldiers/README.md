@@ -86,6 +86,10 @@ Extra-exclusive settings: [Extra-001](settings/2-supplemental-settings/extra-001
 | 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
 |------|--------|--------|:--:|:--:|:--:|:--:|------|
 | `eks-o-cm-1-long-live-the-empire` | 帝国万岁 | Long Live the Empire | Lv.4 | Lv.5 | Lv.4 | `帝国胜利` `文明终结` | [目录](original-archives/chinese/chaptered-stories/main/README.md) |
+| `eks-o-cs-1-lurking` | 潜伏 | Lurking | — | — | — | `支线` | [目录](original-archives/chinese/chaptered-stories/side/eks-o-cs-1-lurking/README.md) |
+| `eks-o-e-001` | 番外 001 | Extra 001 | — | — | — | `番外` | [目录](original-archives/chinese/chaptered-stories/extras/extra-001/README.md) |
+| `eks-o-e-002` | 番外 002 | Extra 002 | — | — | — | `番外` | [目录](original-archives/chinese/chaptered-stories/extras/extra-002/README.md) |
+| `eks-o-e-003` | 番外 003 | Extra 003 | — | — | — | `番外` | [目录](original-archives/chinese/chaptered-stories/extras/extra-003/README.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 
@@ -95,6 +99,7 @@ Extra-exclusive settings: [Extra-001](settings/2-supplemental-settings/extra-001
 | `eks-o-cm-001-recall-protocol` | 召回协议 | Recall Protocol | Lv.3 | Lv.3 | Lv.4 | `开放式` `反乌托邦` | [目录](adaptation-works/chaptered-stories/eks-o-cm-001-recall-protocol/README.md) |
 | `eks-o-cm-002-dog-soldier-dreams` | 狗兵梦想 | Dog Soldier Dreams | Lv.3 | Lv.3 | Lv.4 | `已完成` `记忆与现实的和解` | [目录](adaptation-works/chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
 | `eks-o-cm-003-black-sock-cycle` | 黑袜轮回 | Black Sock Cycle | Lv.4 | Lv.5 | Lv.4 | `单元悲剧` `身体工具化` | [目录](adaptation-works/chaptered-stories/eks-o-cm-003-black-sock-cycle/README.md) |
+| `eks-a-s-001-final-thirty-days` | 最后三十天 | Final Thirty Days | — | — | — | `短篇` | [阅读](adaptation-works/short-stories/s-001-final-thirty-days.md) |
 
 ---
 

@@ -72,7 +72,7 @@ For detailed settings, see: [settings/](settings/)
 
 | 编码 | 中文名 | 英文名 | 标签 | 链接 |
 |------|--------|--------|------|------|
-| `pks-o-cm-1-main-story-1` | 奇克兽士乐园 主线 | Paradise Kik Soldiers Main Story | `daily-life`, `dog` | [目录](original-archives/chaptered-stories/main/pks-o-cm-1-main-story-1/README.md) |
+| `pks-o-cm-1-main-story-1` | 奇克兽士乐园 主线 | Paradise Kik Soldiers Main Story | `daily-life`, `dog` | [ch-1](original-archives/ch-1-feng-and-shuoshi.md) · [ch-2](original-archives/ch-2-snowy-watchtower.md) · [ch-3](original-archives/ch-3/) |
 
 ---
 
@@ -82,7 +82,7 @@ For detailed settings, see: [settings/](settings/)
 
 | Code | Title | Tags | Link |
 |------|-------|------|------|
-| `pks-o-cm-1-main-story-1` | Paradise Kik Soldiers Main Story | `daily-life`, `dog` | [Directory](original-archives/chaptered-stories/main/pks-o-cm-1-main-story-1/README.md) |
+| `pks-o-cm-1-main-story-1` | Paradise Kik Soldiers Main Story | `daily-life`, `dog` | [ch-1](original-archives/ch-1-feng-and-shuoshi.md) · [ch-2](original-archives/ch-2-snowy-watchtower.md) · [ch-3](original-archives/ch-3/) |
 
 ---
 
@@ -92,8 +92,8 @@ For detailed settings, see: [settings/](settings/)
 
 | 标签 | 作品 |
 |------|------|
-| `daily-life` | [主线](original-archives/chaptered-stories/main/pks-o-cm-1-main-story-1/) |
-| `dog` | [主线](original-archives/chaptered-stories/main/pks-o-cm-1-main-story-1/) |
+| `daily-life` | [主线](original-archives/ch-1-feng-and-shuoshi.md) |
+| `dog` | [主线](original-archives/ch-1-feng-and-shuoshi.md) |
 
 ---
 
@@ -103,8 +103,8 @@ For detailed settings, see: [settings/](settings/)
 
 | Tag | Works |
 |-----|-------|
-| `daily-life` | [Main Story](original-archives/chaptered-stories/main/pks-o-cm-1-main-story-1/) |
-| `dog` | [Main Story](original-archives/chaptered-stories/main/pks-o-cm-1-main-story-1/) |
+| `daily-life` | [Main Story](original-archives/ch-1-feng-and-shuoshi.md) |
+| `dog` | [Main Story](original-archives/ch-1-feng-and-shuoshi.md) |
 
 ---
 
@@ -123,4 +123,4 @@ For detailed settings, see: [settings/](settings/)
 
 ---
 
-*最后更新：2026-05-16 · Last updated: 2026-05-16*
+*最后更新：2026-09-17 · Last updated: 2026-09-17*

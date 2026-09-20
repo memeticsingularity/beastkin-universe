@@ -112,6 +112,15 @@ For detailed settings, see: [settings/](settings/)
 | `bs-a-cs-9-songguo-story` | 松果的领养日记 | Songguo's Adoption Diary | Lv.1 | Lv.1 | Lv.2 | `HE` `温馨治愈` | [目录](adaptation-works/chaptered-stories/bs-a-cs-9-songguo-story/README.md) |
 | `bs-a-cs-10-leishan-resurrection` | 雷山复活 | Leishan Resurrection | Lv.4 | Lv.4 | Lv.4 | `开放式` `生存继续` | [目录](adaptation-works/chaptered-stories/bs-a-cs-10-leishan-resurrection/README.md) |
 | `bs-a-cs-11-daily` | 日常 | Daily | Lv.0 | Lv.1 | Lv.2 | `日常继续` `微小光芒` | [目录](adaptation-works/chaptered-stories/bs-a-cs-11-daily/README.md) |
+| `bs-a-cs-12-mo-quan` | 墨犬（续写） | Ink Hound (Continuation) | — | — | — | `连载中` `武侠功夫` | [目录](adaptation-works/chaptered-stories/bs-a-cs-12-mo-quan/README.md) |
+| `bs-a-cs-13-farmhouse` | 兽盾农家乐（续写） | Beastshield Farmhouse (Continuation) | Lv.5 | Lv.4 | Lv.4 | `连载中` `经营与归属` | [目录](adaptation-works/chaptered-stories/bs-a-cs-13-farmhouse/README.md) |
+| `bs-a-cs-14-save-us` | Save Us Then Load World | Save Us Then Load World | Lv.3 | Lv.3 | Lv.4 | `时间循环` `拯救` | [目录](adaptation-works/chaptered-stories/bs-a-cs-14-save-us/README.md) |
+| `bs-a-cs-15-hell-bull` | 冥府牛头 | Hell Bull | — | — | — | `企划` `原作回响` | [目录](adaptation-works/chaptered-stories/bs-a-cs-15-hell-bull/README.md) |
+| `bs-a-cs-16-bear-captain` | 熊组长 | Bear Captain | — | — | — | `企划` `原作回响` | [目录](adaptation-works/chaptered-stories/bs-a-cs-16-bear-captain/README.md) |
+| `bs-a-cs-17-moying` | 魔影（彧骕版） | Moying (Yuhe Edition) | Lv.5 | Lv.5 | Lv.5 | `猎杀` `无人生还` | [目录](adaptation-works/chaptered-stories/bs-a-cs-17-moying/README.md) |
+| `bs-a-cs-18-yuwen` | 余温（炎魉·彧骕版） | Residual Warmth | Lv.5 | Lv.5 | Lv.4 | `猎杀` `战后余烬` | [目录](adaptation-works/chaptered-stories/bs-a-cs-18-yuwen/README.md) |
+| `bs-a-cs-19-lao-lei-pov` | 这一夜 | This Night (Lao Lei POV) | Lv.4 | Lv.4 | Lv.3 | `企划` `主视角扩写` | [目录](adaptation-works/chaptered-stories/bs-a-cs-19-lao-lei-pov/README.md) |
+| `bs-a-cs-20-yan-pov` | 效率 | Efficiency (Yan POV) | Lv.4 | Lv.4 | Lv.3 | `企划` `主视角扩写` | [目录](adaptation-works/chaptered-stories/bs-a-cs-20-yan-pov/README.md) |
 
 #### 短篇 / Short Stories
 
@@ -120,7 +129,10 @@ For detailed settings, see: [settings/](settings/)
 | `bs-a-s-1-sentry-elimination` | 哨兵清除系列 | Sentry Elimination | Lv.4 | Lv.4 | Lv.2 | `任务完成` `赏金获取` | [目录](adaptation-works/short-stories/series-1-sentry-elimination/README.md) |
 | `bs-a-s-2-daily-hunt` | 日常猎杀系列 | Daily Hunt | Lv.4 | Lv.4 | Lv.2 | `搜刮战利品` `升级` | [目录](adaptation-works/short-stories/series-2-daily-hunt/README.md) |
 | `bs-a-s-3-massacre-cleanup` | 屠杀与善后 | Massacre & Cleanup | Lv.4 | Lv.5 | Lv.3 | `赏金获取` `尸体垃圾处理` | [目录](adaptation-works/short-stories/series-3-massacre-cleanup/README.md) |
+| `bs-a-s-4-fetish-sessions` | 竹子的变态之日 | Fetish Sessions | Lv.5 | Lv.5 | Lv.4 | `玩家驱动` `调教` | [目录](adaptation-works/short-stories/series-4-fetish-sessions/README.md) |
 | `bs-a-s-5-original-echoes` | 原作回响系列 | Original Echoes | Lv.3–4 | Lv.4 | Lv.3 | `悲剧死亡` `治愈救赎(分支)` | [目录](adaptation-works/short-stories/series-5-original-echoes/README.md) |
+| `bs-a-s-6-deepseek-collection` | DeepSeek 短篇故事集 | DeepSeek Short Story Collection | Lv.3 | Lv.4 | Lv.4 | `实验性` `血肉改造` | [目录](adaptation-works/short-stories/bs-a-s-6-deepseek-collection/README.md) |
+| `bs-a-s-7-stall-door` | 隔间 | The Stall | Lv.0–4 | Lv.1–4 | Lv.3 | `单元剧` `制度性去人格` | [目录](adaptation-works/short-stories/bs-a-s-7-stall-door/README.md) |
 
 ---
 

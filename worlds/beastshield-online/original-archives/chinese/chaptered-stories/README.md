@@ -52,9 +52,9 @@ No side stories yet.
 
 | 标签 | 作品 |
 |------|------|
-| `vr-game` | [第一卷](main/bso-o-cm-1-first-volume/) |
-| `combat` | [第一卷](main/bso-o-cm-1-first-volume/) |
-| `dog` | [第一卷](main/bso-o-cm-1-first-volume/) |
+| `vr-game` | [第一卷](main/) |
+| `combat` | [第一卷](main/) |
+| `dog` | [第一卷](main/) |
 
 ---
 
@@ -64,9 +64,9 @@ No side stories yet.
 
 | Tag | Works |
 |-----|-------|
-| `vr-game` | [Vol.1](main/bso-o-cm-1-first-volume/) |
-| `combat` | [Vol.1](main/bso-o-cm-1-first-volume/) |
-| `dog` | [Vol.1](main/bso-o-cm-1-first-volume/) |
+| `vr-game` | [Vol.1](main/) |
+| `combat` | [Vol.1](main/) |
+| `dog` | [Vol.1](main/) |
 
 ---
 

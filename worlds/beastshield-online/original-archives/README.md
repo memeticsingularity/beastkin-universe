@@ -23,7 +23,7 @@ Original archives for *Beastshield Online*, storing original author-provided set
 
 | 编码 | 中文标题 | 英文标题 | 标签 | 链接 |
 |------|---------|---------|------|------|
-| `bso-o-cm-1-first-volume` | 兽游世界OL 第一卷 | Beastshield Online Vol.1 | `vr-game`, `combat`, `dog` | [目录](chinese/chaptered-stories/main/bso-o-cm-1-first-volume/README.md) |
+| `bso-o-cm-1-first-volume` | 兽游世界OL 第一卷 | Beastshield Online Vol.1 | `vr-game`, `combat`, `dog` | [目录](chinese/chaptered-stories/main/) |
 
 ### 短篇 / Short Stories
 
@@ -37,7 +37,7 @@ Original archives for *Beastshield Online*, storing original author-provided set
 
 | Code | Title | Tags | Link |
 |------|-------|------|------|
-| `bso-o-cm-1-first-volume` | Beastshield Online Vol.1 | `vr-game`, `combat`, `dog` | [Directory](chinese/chaptered-stories/main/bso-o-cm-1-first-volume/README.md) |
+| `bso-o-cm-1-first-volume` | Beastshield Online Vol.1 | `vr-game`, `combat`, `dog` | [Directory](chinese/chaptered-stories/main/) |
 
 ### Short Stories
 
@@ -51,9 +51,9 @@ No short stories yet.
 
 | 标签 | 作品 |
 |------|------|
-| `vr-game` | [第一卷](chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
-| `combat` | [第一卷](chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
-| `dog` | [第一卷](chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+| `vr-game` | [第一卷](chinese/chaptered-stories/main/) |
+| `combat` | [第一卷](chinese/chaptered-stories/main/) |
+| `dog` | [第一卷](chinese/chaptered-stories/main/) |
 
 ### 按语言
 
@@ -70,9 +70,9 @@ No short stories yet.
 
 | Tag | Works |
 |-----|-------|
-| `vr-game` | [Vol.1](chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
-| `combat` | [Vol.1](chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
-| `dog` | [Vol.1](chinese/chaptered-stories/main/bso-o-cm-1-first-volume/) |
+| `vr-game` | [Vol.1](chinese/chaptered-stories/main/) |
+| `combat` | [Vol.1](chinese/chaptered-stories/main/) |
+| `dog` | [Vol.1](chinese/chaptered-stories/main/) |
 
 ### By Language
 
