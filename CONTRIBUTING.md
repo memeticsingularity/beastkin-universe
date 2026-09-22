@@ -82,7 +82,7 @@ For detailed structure, see: [Project Structure Spec](docs/spec/01-project-struc
 - [作品编码规范](docs/spec/02-work-coding.md) - 掌握作品编码语法
 - [中间文档规范](docs/spec/03-intermediate-documents.md) - 了解 README、.process/、CHANGELOG 等交付物要求
 - [元数据规范](docs/spec/04-metadata.md) - 了解元数据字段与校验规则
-- [故事格式规范](docs/spec/11-story-format.md) - 了解 Scene 分幕与导航栏语法
+- [故事格式规范](docs/spec/11-story-format.md) - 了解正文骨架：H1、分幕（`## 第N幕`）、卷首/卷尾、结束标记、故事评述区
 - [内容指南](docs/spec/12-content-guidelines.md) - 了解世界观一致性要求
 
 ---
@@ -101,7 +101,7 @@ Please be sure to read the following guides:
 - [Intermediate Documents Spec](docs/spec/03-intermediate-documents.md) - README, .process/,
   CHANGELOG requirements
 - [Metadata Spec](docs/spec/04-metadata.md) - Metadata fields and validation rules
-- [Story Format Spec](docs/spec/11-story-format.md) - Scene structure and navigation bar syntax
+- [Story Format Spec](docs/spec/11-story-format.md) - Body skeleton: H1, act headings (`## Act N`), volume head/tail, end marker, commentary section
 - [Content Guidelines](docs/spec/12-content-guidelines.md) - Worldview consistency requirements
 
 ---

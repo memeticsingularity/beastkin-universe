@@ -51,7 +51,10 @@ worlds/<world>/
 
 - 分章正文**只放** `<作品目录>/chapters/`（分卷时 `chapters/volume-N/`）
 - 文件名 `ch-{三位数字}-<slug>.md`，序号全作品连续（第二卷接着往下编）
-- H1 与结束标记按 `docs/spec/11-story-format.md`：`# Chapter N 标题` + `**Chapter N END**`
+- 正文骨架按 `docs/spec/11-story-format.md`（**v4.0**）：`# Chapter N 标题` + `## 第N幕 标题`（或省略幕标题）
+  + 卷尾语 → `**Chapter N END**` + `## 故事评述与感慨`（含三个 `###` 子块）；骨架文件见
+  `templates/world-template/work-template/forms/{chaptered,short}/chapters/`
+- 每一块写什么见 skill `story-craft`；写完照 `story-format-guard` 自检、跑 `node scripts/qa/check-format.js <作品目录>`
 - 上一章/下一章导航要同时更新前后两章
 
 ## 三、绝不允许

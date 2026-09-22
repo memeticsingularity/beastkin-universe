@@ -24,7 +24,11 @@ templates/
 │   ├── adaptation-works/
 │   └── work-template/            # ★ 作品骨架（new-work.js 复制它；不随世界观复制）
 │       ├── common/               #   README / metadata / chapters 索引 / images / .process 全套
-│       └── forms/{chaptered,short}/chapters/   #   分章 ch-001-template.md / 短篇 {作品编码}.md
+│       └── forms/                #   ★ 正文骨架 v4.0（spec/11 v4.0）
+│           ├── README.md         #     块顺序、英文写法、版本记录
+│           ├── chaptered/chapters/ch-001-template.md          # 分章·有幕
+│           ├── chaptered/chapters/ch-001-template-no-acts.md  # 分章·无幕
+│           └── short/chapters/{作品编码}.md                   # 短篇
 └── repo-root-README.md           # 仓库根 README 骨架（唯一非世界观模板）
 ```
 
@@ -49,3 +53,6 @@ node scripts/new-work.js  --world <world> --form <cm|cs|s> --code <编码> --tit
   `project-docs/archive/templates-legacy-2026-09/`（归档目录不参与链接校验）。
 - 同日：设定层定为三层 `0/1/2`——`0` 故事原版设定 · `1` 整理/修复后推荐设定 · `2` 故事独有设定
   （原 `2-story-variants` 与变体层语义重复，已合并进第 2 层）。
+- 同日：正文骨架升级 **v4.0**（`forms/` + `docs/spec/11-story-format.md`）——分幕改为
+  `## 第{N}幕 {标题}`、明确无幕形态合法、卷尾语移到 END 之前、评述区三个 `###` 子块固定；
+  存量正文迁移欠债见 `project-docs/story-format-todo.md` §零。

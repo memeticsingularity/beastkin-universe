@@ -7,4 +7,6 @@
 | 短篇（单篇） | `{作品编码}.md` |
 | 短篇集 | `ch-{三位数字}-<slug>.md` |
 
-格式（H1 / 结束标记 / 评述区）见 [docs/spec/11-story-format.md](../../../docs/spec/11-story-format.md)。
+正文骨架（H1 / 分幕 / 卷首尾 / 结束标记 / 评述区）见
+[docs/spec/11-story-format.md](../../../../../docs/spec/11-story-format.md)（**v4.0**）；
+可复制模板见 [`forms/`](../../forms/README.md)（分章有幕/无幕、短篇）。

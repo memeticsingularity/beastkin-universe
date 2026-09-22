@@ -10,11 +10,14 @@
 
 ## ⚠️ 新增或修改短篇前必读
 
-短篇文件格式以 [`docs/spec/11-story-format.md`](../../../../../docs/spec/11-story-format.md)（故事格式规范 v3.0 **§2 短篇故事格式**）为**唯一权威源**。
+短篇文件格式以 [`docs/spec/11-story-format.md`](../../../../../docs/spec/11-story-format.md)（故事格式规范 **v4.0 §2 短篇故事格式**）为**唯一权威源**。
 
 - **H1**：`# Story {中文标题}`
-- **结束标记**：`**Story END**`，**恰好一次**
-- **不要照抄既有文件的写法**——历史遗留里存在 `# SS-00N: 标题` 与 `**完**` 等已废弃形式。详见 [`worlds/beastshield/AGENTS.md`](../../../AGENTS.md) 的「故事文件格式（强制）」。
+- **分幕**：`## 第{N}幕 {幕标题}`（H2；也可用无幕形态）
+- **结束标记**：`**Story END**`，**恰好一次**，位于卷尾语之后、评述区之前
+- **评述区**：`## 故事评述与感慨` + `###` 子块（可省空子块，至少留 `### 故事感慨`）
+- 骨架可直接复制：`templates/world-template/work-template/forms/short/chapters/`
+- **不要照抄既有文件的写法**——历史遗留里存在 `# SS-00N: 标题`、`**完**` 与加粗 `**Scene-N**` 等已废弃形式。详见 [`worlds/beastshield/AGENTS.md`](../../../AGENTS.md) 的「故事文件格式（强制）」。
 
 ---
 

@@ -23,7 +23,7 @@
 | `check-structure.js` | 作品目录结构是否符合 `docs/spec/14-work-structure.md` | ✅ |
 | `check-index.js` | 三级索引的表行数是否等于档案文件数 | ✅ |
 | `check-quotes.js` | 「登场原文」的引用是否真的来自正文（而非评述区） | ✅ |
-| `check-format.js` | 故事文件是否符合 `docs/spec/11-story-format.md` | ✅ |
+| `check-format.js` | 故事文件是否符合 `docs/spec/11-story-format.md` v4.0（H1/分幕/结束标记位置/评述区）+ 参照模板自检；末尾输出「v4.0 迁移欠债」统计（不阻断） | ✅ |
 | `count-archives.js` | 统计各兽种/等级档案数，供校对总索引计数 | ✅ |
 | `scan-punctuation.js` | 扫描汉字后的半角标点（区分引用块 / 自撰） | ✅ |
 | `sync-tables.js` | 把新增但未挂进索引的档案补进等级表 / 兽种表 | 需 `--write` |

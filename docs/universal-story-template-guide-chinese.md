@@ -1,4 +1,4 @@
-> **Deprecated**: 本文档已被 v3.0 规范替代。故事格式见 `docs/spec/11-story-format.md`；
+> **Deprecated**: 本文档已被 v4.0 规范替代。故事格式见 `docs/spec/11-story-format.md`；
 > 骨架见 `templates/world-template/work-template/`；怎么写见 skill `.dsh/skills/story-craft`
 > （其 `references/` 保留了本文档的现行版本）。本文档保留 6 个月作为过渡期兼容。
 
