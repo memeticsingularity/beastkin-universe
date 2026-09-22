@@ -298,3 +298,8 @@ He almost had no personal belongings. The half roll of mint candy in his pocket 
 Tonight, dense fog was like a cage. As usual, he dragged his steps toward that familiar "nest," mind only filled with desire for a cigarette and a moment of sitting rest. When shadow "stood up" from beside the cushion he considered safest, his brain went blank. Sharp pain exploded from abdomen, suffocation gripped throat, world instantly overturned. While being pressed on the dirty cushion and interrogated, snot, tears, urine all失控, dignity shattered to the ground. When that cold hand, through his soaked shorts,死死 grasped the most vulnerable organ in his crotch, and slowly, irresistibly tightened, he experienced terror beyond pain. That was an extreme experience of whole body being violated, controlled, pushed to collapse edge. Body in extreme oppression and fear, shamefully produced reactions, swelling, until reaching limit in that iron-pincer-like hand, exploding internally and喷射. He died naked (psychologically),狼狈, filthy, right at his self-chosen, self-deceptive "resting spot." The last thing reflected in hollow pupils was not hometown, not dreams, just a beam of cold flashlight light, and endless, gray-white fog.
 
 Dunzi's "disappearance" will be as inconspicuous as when he was alive. The corpse was roughly disguised as a sleeping slacker, perhaps able to fool the morning thin fog. But sooner or later will be discovered, then treated as "sudden illness death during duty" or "encountered unknown attack."
+
+
+---
+
+**Story END**

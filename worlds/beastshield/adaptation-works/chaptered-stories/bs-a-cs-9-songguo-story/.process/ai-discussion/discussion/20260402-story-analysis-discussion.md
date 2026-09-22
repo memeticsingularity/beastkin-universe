@@ -1,8 +1,8 @@
 # Q 01
 
-你对这个[故事](../../../../../original-archives/images/songguo/readme.md)
+你对这个[故事](../../../../../../original-archives/images/songguo/readme.md)
 
-怎么看？你自己的分析，不要看[讨论记录](../../.process/ai-discussion/2026-04-02-discussion-format.md)。
+怎么看？你自己的分析，不要看[讨论记录](../2026-04-02-discussion-format.md)。
 
 ## 已思考
 

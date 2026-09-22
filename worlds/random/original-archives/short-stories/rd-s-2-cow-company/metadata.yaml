@@ -29,3 +29,7 @@ language:
   - "zh"
   - "en"
 notes: "lanse 的独立短篇，非兽盾世界观作品。"
+
+work:
+  code: "rd-s-2-cow-company"
+  form_type: "s"

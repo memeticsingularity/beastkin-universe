@@ -628,3 +628,8 @@ Writing his story, I seem to be able to touch his rough, thick, still-warm skin,
 Perhaps, when sinking into the viscous, cold darkness of the industrial waste pool, his body gradually being wrapped by silt, will one last time dream of the new grass of spring on the yellow earth slope, dream of himself freely running (even if only in dreams), dream of mother's warm call. There, no numbers, no green uniforms, no foot blisters, only boundless land where he can walk steadily.
 
 And morning light still illuminates the city, the old factory district continues rusting in dawn light, as if nothing happened last night. Only those taken socks, and that body slowly being decomposed by chemicals and microorganisms at the bottom of the deep pool, once named Huang Shuo, still remember in this rusty corridor, how a life from the yellow earth slope once existed, then completely extinguished.
+
+
+---
+
+**Story END**

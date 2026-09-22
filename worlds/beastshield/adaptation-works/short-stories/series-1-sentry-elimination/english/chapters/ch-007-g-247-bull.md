@@ -485,3 +485,8 @@ Ah Li's tears failed to move the hunter; his family ties failed to win mercy; hi
 After reading, what lingers in the heart is not hatred for the hunter, but a deep powerlessness and sorrow. For Ah Li, and for countless others like him, carrying tiny dreams yet quietly extinguished in the huge city shadow — the "G-247"s. Their stories are recorded by no one, their sweat dries with the wind, their warm bodies finally become as cold as that night's concrete ground.
 
 And the city, still operates. The hunter's account will have 100 more Rub-Coins. That's all.
+
+
+---
+
+**Story END**

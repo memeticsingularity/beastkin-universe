@@ -716,3 +716,8 @@ Finally, quoting a sentence Heishi might say (though he would never say it): "I'
 That's how this world operates.
 
 Cruel, but real.
+
+
+---
+
+**Story END**

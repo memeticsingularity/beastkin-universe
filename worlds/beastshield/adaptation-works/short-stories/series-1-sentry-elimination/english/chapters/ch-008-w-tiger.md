@@ -556,3 +556,8 @@ Writing his story, I seem to be able to see his muscle-bulging silhouette under 
 Perhaps, in the instant before consciousness completely dissipated, his final perception was not fear or pain, but in a trance returning to that simple rural courtyard where his father taught him his first takedown move, afternoon sunlight warmly shining on his young, not-yet-scar-covered tiger skin, father's rough palm patting his back, saying: "Shanhu, steady your stance, use strength at the right point."
 
 And the ring lights will eventually shine again, cheering for new "Mad Tigers" or "Raging Bears." The medical room trash bin will be emptied, disinfectant smell will cover everything. Only those taken socks printed with "W-7," and some rising smoke from an incinerator, will remember that in the underground fighting arena there was once a tiger named Biao Zhua, how he roared, and how he extinguished.
+
+
+---
+
+**Story END**

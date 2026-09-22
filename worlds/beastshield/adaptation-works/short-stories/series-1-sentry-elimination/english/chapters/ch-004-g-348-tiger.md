@@ -395,3 +395,8 @@ However, Ban's final awareness of his bare foot's touch is like a tiny grain of 
 Erosion's emptiness is perhaps the inevitable mental state resulting from long-term execution of this "erasure" work. He engages in the most bloody and flesh-contact interactions, yet maintains absolute detachment. He may understand the prey's physiological mechanisms to the extreme, yet can never (and is unwilling to) understand the inner storms of those "Bans" he erases. He is the perfect tool cultivated by this twisted world — efficient, calm, indispensable, but the tool itself has no temperature.
 
 The darkness of the abandoned industrial park swallowed Ban; White Capital's neon still flickers. The bounty hunter's account number increased, the black market sample library gained another source of goods. Everything as usual. Only, another young and restless gaze was forever extinguished. In the wind, that roar mixed with pain and release seems to still leave a trace of无人听见的, lingering echo among the rusted steel skeletons.
+
+
+---
+
+**Story END**

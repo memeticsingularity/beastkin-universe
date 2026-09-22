@@ -398,3 +398,8 @@ Only, when Chains sat on the bench, calmly smoking, watching the bounty arrival 
 Perhaps not. Because in this city, dreams and temperature are the first things to be cooled and forgotten.
 
 The wind continued blowing through the dead end, fluttering the edge of the tarpaulin covering the corpse. In the distance, the "Mole's" neon sign still tirelessly flickered with its迷离 and cheap light, attracting the next lonely soul seeking stimulation and longing to forget.
+
+
+---
+
+**Story END**

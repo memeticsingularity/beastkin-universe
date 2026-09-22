@@ -1,4 +1,4 @@
-# 好奇心害死虎 · H
+# Story 好奇心害死虎 · H
 
 > 原作回响系列第四篇 · 幸存者分支
 > 基于支线 bs-o-cs-3《带娃的老雷》
@@ -335,3 +335,8 @@
 
 *[返回系列目录](../README.md)*
 *[对应悲剧线：4-g-tiger-driver.md](ch-004-g-tiger-driver.md)*
+
+
+---
+
+**Story END**

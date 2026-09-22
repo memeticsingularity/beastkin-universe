@@ -616,3 +616,8 @@ Writing his story, I seem to be able to smell that complex scent mixed with swea
 Perhaps, when sinking into the endless darkness of the deep sea, his gradually cooling body will one last time dream of the foot of Gray Rock Mountain, that缕 truly belonging to him, warm cooking smoke. There, no numbers, no green uniforms, only mother calling: "A Tu, come home for dinner."
 
 And dawn will eventually descend upon the port, fog dispersing, everything as usual. As if nothing happened last night. Only the deep sea knows, there is one more nameless grizzly bear skeleton there.
+
+
+---
+
+**Story END**

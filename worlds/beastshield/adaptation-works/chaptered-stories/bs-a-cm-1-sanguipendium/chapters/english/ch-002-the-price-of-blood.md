@@ -255,7 +255,7 @@ He was a man who had no choice but to fight.
 **Chapter Version**: 6.0
 **Last Updated**: 2026-03-18
 **Word Count**: Approximately 18,000 characters
-**Previous Version**: [v5.0 (55,000 characters)](../../.process/history/ch-002-the-price-of-blood-v5.0-55000words.md)
+**Previous Version**: [v5.0 (55,000 characters)](../../.process/history/ch-002-the-price-of-blood-v5-0-55000words.md)
 
 ### Version Update Log
 
