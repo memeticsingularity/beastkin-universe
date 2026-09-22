@@ -227,9 +227,13 @@ ch-{三位数字}[-{英文标题简写}].md
 |---|---|---|
 | 规范 | 本文档 | 块的定义、顺序、标题写法（强制） |
 | 骨架 | `templates/world-template/work-template/forms/` | 可复制的完整空骨架 |
-| 写法 | `.dsh/skills/story-craft` | 每一块写什么、节奏与风格 |
+| 写法 | `.dsh/skills/story-craft`（含 `references/` 各 guide） | 每一块写什么、节奏与风格 |
 | 自检 | `.dsh/skills/story-format-guard` | 提交前的逐项检查清单 |
 | 校验 | `node scripts/qa/check-format.js .` | 机器判定 §1–§7 |
+
+**版本同步（强制）**：`templates/.../forms/` 与 `.dsh/skills/story-craft/references/` 的每个文件
+都必须在文末声明 `骨架版本：v{X.Y}`。校验器会读本文档末尾的 `*版本: …*` 并逐个比对——
+本文档升版而它们没跟着改，`check-format` 直接 FAIL。同时它们不得出现 §6 的合并写法。
 
 ---
 

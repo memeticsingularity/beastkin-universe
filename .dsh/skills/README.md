@@ -61,6 +61,10 @@
 
 - 新增 skill：建 `.dsh/skills/<kebab-name>/SKILL.md`，frontmatter 必须有 `name`（kebab-case）与
   `description`（一句说清「做什么 + 什么时候用」），并**在本 README 路由表加一行**。
-- 规范版本升级（如 spec/11 v3.0→v4.0）时，同步检查：`story-craft`（含 `references/`）、
-  `story-format-guard`、`work-scaffold`、`qa-runner` 四处引用。
+- **规范升版时必须同步四处**（漏一处 `check-format` 会 FAIL）：
+  `story-craft/references/*`、`story-format-guard`、`work-scaffold`、`qa-runner`。
+- `templates/world-template/work-template/forms/` 与 `.dsh/skills/story-craft/references/` 的每个文件
+  都必须在文末带 `> **骨架版本**：v{X.Y}`，且与 `docs/spec/11-story-format.md` 末尾的版本号一致；
+  校验器逐个比对，**版本没迭代就会报错**。
+- 这两类文件也不得出现 §6 的合并写法（`---` 紧贴正文、标签行紧贴评述、标题后紧跟内容）。
 - 不要把规范条文抄进 skill；改成「见 spec §X」+ 只留可执行步骤。

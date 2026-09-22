@@ -64,3 +64,7 @@ node scripts/new-work.js --world <world> --form <cm|cs|s> --code <编码> --titl
 > 以上 references 由原 `templates/*.md` 迁移而来（原文件已归档到
 > `project-docs/archive/templates-legacy-2026-09/`）。世界专属写法仍以各世界
 > `AGENTS.md` 与 `worlds/<world>/skills/` 为准（如兽盾的 `lanse-write`）。
+>
+> **版本纪律**：每个 reference 文末都标了 `骨架版本：v4.0`，与 `docs/spec/11-story-format.md`
+> 末尾的版本号一致。规范升版时**必须同步这些 guide 的写法并升版**——
+> `node scripts/qa/check-format.js .` 会逐个比对，没迭代就直接 FAIL。

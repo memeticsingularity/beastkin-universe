@@ -1,4 +1,4 @@
-# 《Empire Forever》 Story Template v1.0 (English Version)
+# 《Empire Forever》 Story Template v1.1 (Aligned with spec/11 v4.0)
 
 ---
 
@@ -189,10 +189,12 @@ mourning the freedom, emotions, and future he never had. Emphasize his essence a
 beneath that essence, the faint,未能完全熄灭的 aura of life.)
 
 【Alive→Dead-B-11407-Wolf Beastman-Deputy Leader】
+
 [//]: # (Please write the complete life story of B-11407 here, following the guide above. Ensure
 detailed描写 of body, clothing, and senses. The story should be感性 and血肉.)
 
 【Alive→Dead-B-20389-Wolf Beastman-Soldier】
+
 [//]: # (Please write the complete life story of B-20389 here, following the guide above. He might
 be the soldier who stepped on a trap and was executed by Tiger Fierce.)
 
@@ -222,18 +224,21 @@ carried out the execution, did his status in Tiger Fierce's eyes rise? And did t
 soldiers look at Snow Leopard and Tiger Fierce with deeper fear?)
 
 【Alive→Alive-G-56005-Tiger Beastman-Tiger Fierce】
+
 [//]: # （Please write about Hu Meng's psychological state and changes after this chapter. Describe
 his dual identity as a slave and an officer, his ambitions, fears, and complex feelings about the
 black metal ring. Emphasize how the sense of physical power and the humiliation of being dominated
 intertwine.）
 
 【Alive→Alive-W-00127-Wolf Beastman-White Wolf Officer】
+
 [//]: # （Please write about the psychological activities of the White Wolf Officer. Is he satisfied
 with Hu Meng's performance? Is he annoyed or excited about the activity of the resistance
 organization? How does he view the possible gaze of the emperor? Describe his dignity as a senior
 officer and the deep-seated unwillingness of being exiled in his heart.）
 
 【Alive→Alive-G-43011-Snow Leopard Beastman-Squad Leader】
+
 [//]: # (Please write about Snow Leopard Squad Leader's心理. He executed the sentence with unique
 skill. Does he feel professional satisfaction, or was he momentarily dazed by the凄厉 wolf howl? How
 does he view his own position in this帝国 game?)
@@ -271,12 +276,19 @@ protest by understanding each character?）
 
 ## Version Information
 
-**Template Version**: 1.0  
+**Template Version**: 1.1 (aligned with spec/11 v4.0)  
 **Last Updated**: 2025-12-19  
 **Adapted Worldview**: 《Empire Forever》 Complete Setting Collection (Chapters 1-41 + Additional
 Settings, Worldview Code: eks)
 
 ### Version Update Record
+
+- **2026-09-22 v1.1 Skeleton alignment** (skeleton governed by `docs/spec/11-story-format.md` v4.0)
+    - Act headings are now `## Act {N} {Title}`; a no-act continuous-prose form is equally valid.
+    - The chapter closing quote now comes **before** the end marker.
+    - A blank line is required between a commentary tag line and its commentary (otherwise they merge
+      into one paragraph in preview).
+    - The commentary section is fixed as `## Story Commentary and Reflections` plus three `###` blocks.
 
 - **2025-12-19 v1.0**: Official Version of the 《Empire Forever》 Specialized Template
     - Worldview Code confirmed as `eks`.
@@ -311,3 +323,9 @@ Settings, Worldview Code: eks)
    aesthetics of the worldview.
 
 ---
+
+---
+
+> **骨架版本**：v4.0（[`docs/spec/11-story-format.md`](../../../../docs/spec/11-story-format.md)）
+> **文档版本**：v1.0 · 2026-09-22
+> 骨架（块与顺序）以规范为准；本文件只描述这一份 guide 覆盖的写法。

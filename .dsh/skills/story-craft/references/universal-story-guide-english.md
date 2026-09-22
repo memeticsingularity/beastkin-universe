@@ -1,8 +1,8 @@
-# Universal Story Template v5.0 (New Naming System Fully Adapted)
+# Universal Story Template v6.0 (Aligned with docs/spec/11-story-format.md v4.0)
 
 [//]: # (=== Template Version Information ===)
 
-[//]: # (Version: 5.0)
+[//]: # (Version: 6.0)
 
 [//]: # (Last Updated: 2025-12-15)
 
@@ -189,6 +189,7 @@ inner world.*
 [//]: # (Fit male beastmen worldbuilding: emphasize dual sexual characteristics, male-male relationships)
 
 【living→dead-E-533-Ox Beastman-Jù Lì】
+
 He was called Jù Lì, code E-533. The name was given by the physical test instructor during
 enlistment, and he grinned
 foolishly, adopting it as his name. This black ox had the typical fat-wrapped muscle physique, with
@@ -304,6 +305,7 @@ and then nothing."
 ---
 
 【living→dead-G-1-Bear Beastman-Xióng Hè Shèng】
+
 (Commentary content: Complete life journey from living to dead, imagining his life, dreams, regrets.
 Enhance physical
 description: typical bear beastman heavy fat layers, thick limbs, rounded chest and abdomen.
@@ -327,6 +329,7 @@ building a family in this male-male world.)
 [//]: # (Commentary requirements: Not just describing actions, but exploring psychological trauma, moral dilemmas, future shadows. Enhance physical and olfactory descriptions.)
 
 【living→alive-Player-Lǐ Yóu】
+
 (Commentary content: Psychological changes and future impacts after this chapter. Describe his
 physical characteristics
 as a beastmen enthusiast, perhaps not very strong but with his own charm. His desires, confusions,
@@ -349,11 +352,17 @@ male-male world.)
 
 ## Version Information
 
-**Template Version**: 5.0  
+**Template Version**: 6.0  
 **Last Updated**: 2025-12-15  
 **Adapted Naming System**: 2.3.0
 
 ### Version Update History
+
+- **2026-09-22 v6.0 Skeleton alignment** (skeleton governed by `docs/spec/11-story-format.md` v4.0)
+    - Act headings are now `## Act {N} {Title}`; a no-act continuous-prose form is equally valid.
+    - The chapter/story closing words now come **before** the end marker.
+    - A blank line is required between a commentary tag line and its commentary.
+    - The commentary section is fixed as `## Story Commentary and Reflections` plus three `###` blocks.
 
 - **2025-12-15 v5.0**: Comprehensive commentary system upgrade, integrated troop tag system
     - Title simplification: Chaptered stories unified as `Chapter {natural number} {title}`, short
@@ -432,3 +441,9 @@ male-male world.)
 [//]: # (Adaptation short story: worlds/{{World Code}}/adaptation-works/short-stories/{{Complete Work Code}}/)
 
 [//]: # (Adaptation chaptered story: worlds/{{World Code}}/adaptation-works/chaptered-stories/{{Complete Work Code}}/)
+
+---
+
+> **骨架版本**：v4.0（[`docs/spec/11-story-format.md`](../../../../docs/spec/11-story-format.md)）
+> **文档版本**：v1.0 · 2026-09-22
+> 骨架（块与顺序）以规范为准；本文件只描述这一份 guide 覆盖的写法。

@@ -221,12 +221,44 @@ function scanTemplates(d) {
 }
 if (fs.existsSync(tplRoot)) scanTemplates(tplRoot);
 
+// ---- 写法指南自检：skill 的 references 也在教骨架，必须与规范同步 ----
+//   ① 不得出现 §6 的合并写法  ② 必须声明与 spec/11 一致的「骨架版本」
+const refDir = path.resolve('.dsh/skills/story-craft/references');
+let refFiles = 0;
+const refProblems = [];
+// 从规范自身读取当前版本（*版本: 4.0*）
+let specVer = '4.0';
+try {
+  const specTxt = fs.readFileSync(path.resolve('docs/spec/11-story-format.md'), 'utf8');
+  const m = specTxt.match(/^\*版本:\s*([0-9.]+)\*/m);
+  if (m) specVer = m[1];
+} catch { }
+if (fs.existsSync(refDir)) {
+  for (const f of fs.readdirSync(refDir).filter(x => x.endsWith('.md'))) {
+    const p = path.join(refDir, f);
+    refFiles++;
+    const raw = fs.readFileSync(p, 'utf8').replace(/^\uFEFF/, '');
+    const probs = [];
+    const bl = blankLineIssues(raw.split(/\r?\n/), []);
+    if (bl.setext) probs.push('§6 有 `---` 紧贴正文');
+    if (bl.tagNoBlank) probs.push('§6 有 ' + bl.tagNoBlank + ' 处评述标签紧贴下一行');
+    if (bl.headNoBlank) probs.push('§6 有 ' + bl.headNoBlank + ' 处标题后紧跟内容');
+    if (!/骨架版本/.test(raw)) probs.push('缺「骨架版本」标记（版本迭代未同步）');
+    else if (!new RegExp('骨架版本[^\\n]*v' + specVer.replace('.', '\\.')).test(raw)) probs.push('「骨架版本」与 spec/11 v' + specVer + ' 不一致');
+    if (probs.length) refProblems.push('  ' + path.relative(process.cwd(), p) + '\n      ' + probs.join('\n      '));
+  }
+}
+
 console.log('受检故事文件: ' + files + ' | 硬性不合规: ' + bad);
 if (issues.length) { console.log('\n=== 明细（必须修）==='); issues.forEach(i => console.log(i)); }
 else console.log('全部符合 docs/spec/11-story-format.md §1–§7（硬性项）');
 if (tplFiles) {
   if (tplProblems.length) { bad += tplProblems.length; console.log('\n=== 参照骨架不合规（模板无效，必须修）==='); tplProblems.forEach(i => console.log(i)); }
-  else console.log('参照骨架自检: ' + tplFiles + ' 个模板文件全部符合 v4.0（含 §6 空行）');
+  else console.log('参照骨架自检: ' + tplFiles + ' 个模板文件全部符合 v' + specVer + '（含 §6 空行）');
+}
+if (refFiles) {
+  if (refProblems.length) { bad += refProblems.length; console.log('\n=== 写法指南不合规（references 必须与规范同步）==='); refProblems.forEach(i => console.log(i)); }
+  else console.log('写法指南自检: ' + refFiles + ' 个 reference 与 spec/11 v' + specVer + ' 同步（含 §6 空行）');
 }
 const debtTotal = debt.noReview.length + debt.legacyScene.length + debt.tailAfterEnd.length + debt.h3AsAct.length
   + debt.noneAtAll.length + debt.tagNoBlank.length + debt.headNoBlank.length;
