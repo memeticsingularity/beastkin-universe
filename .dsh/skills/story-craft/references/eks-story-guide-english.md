@@ -1,4 +1,4 @@
-# 《Empire Forever》 Story Template v1.1 (Aligned with spec/11 v4.0)
+# 《Empire Forever》 Story Template v1.2 (Aligned with spec/11 v4.0)
 
 ---
 
@@ -55,14 +55,6 @@ Select based on chapter position:
 
 [//]: # (The chapter opening quote should be concise and powerful, setting the tone for the chapter. It can be a brief description of a key scene, a fragment of a character's internal monologue, or an imperial regulation. Avoid being overly long; 3-5 lines is ideal.)
 
-[//]: # (Example style:)
-
-[//]: # (> *The mountain wind always carries the scent of blood.*)
-
-[//]: # (> *Here, the weak have no right to survive; a mistake means death.*)
-
-[//]: # (> *Tiger Fierce looked at the wounded soldier before him, a flicker of cold calculation deep within his chip.*)
-
 > *{{Chapter Opening Quote Content}}*
 
 ---
@@ -109,14 +101,6 @@ Oppressive and torturous scenes can slow down, using details to build a sense of
 
 [//]: # (Note: the closing quote goes BEFORE the end marker.)
 
-[//]: # (Example style:)
-
-[//]: # (> *Snow Leopard shook the viscous fluid from his tail and left without looking back.*)
-
-[//]: # (> *Only the pungent混合气味 of blood and semen remained in the dormitory, along with nine pairs of terrified eyes.*)
-
-[//]: # (> *The Empire's rules were once again written in blood.*)
-
 > *{{Chapter Closing Quote Content}}*
 
 **Chapter {{Chapter Number}} END**
@@ -140,7 +124,7 @@ each character.*
 [//]: # (  - Appearance State: The state of the character when first appearing in this chapter (
 Alive/Corpse).)
 [//]: # (  - Rank Code: B=Black Socks, G=Green Socks, L=Blue Socks, W=White Socks, GR=Gray Socks.)
-[//]: # (  - Five-Digit ID: Example B-11407, G-20331, L-05012. The ID should reflect uniqueness.)
+[//]: # (  - Five-Digit ID: `{Rank Code}{5-digit number}`. The ID should reflect uniqueness.)
 [//]: # (  - Race: Use the原文 if explicitly mentioned, otherwise推断 reasonably (wolf, tiger,
 leopard, bear, cattle, dog, etc.).)
 [//]: # (  - Position: Squad Leader, Deputy Leader,普通 Soldier, Fire Control Operator, etc.)
@@ -188,15 +172,14 @@ is彻底抹去.)
 mourning the freedom, emotions, and future he never had. Emphasize his essence as a "tool," and
 beneath that essence, the faint,未能完全熄灭的 aura of life.)
 
-【Alive→Dead-B-11407-Wolf Beastman-Deputy Leader】
+【{Appearance State}→dead-{Rank Code}{ID}-{Race}-{Position}】
 
-[//]: # (Please write the complete life story of B-11407 here, following the guide above. Ensure
+[//]: # (Please write the complete life story for the character of the tag above, following the guide above. Ensure
 detailed描写 of body, clothing, and senses. The story should be感性 and血肉.)
 
-【Alive→Dead-B-20389-Wolf Beastman-Soldier】
+【{Appearance State}→dead-{Rank Code}{ID}-{Race}-{Position}】
 
-[//]: # (Please write the complete life story of B-20389 here, following the guide above. He might
-be the soldier who stepped on a trap and was executed by Tiger Fierce.)
+[//]: # (Please add one such tag block per deceased character, following the guide above.)
 
 [//]: # (... Write commentary for every Kiké Soldier who dies in this chapter ...)
 
@@ -223,21 +206,21 @@ comrades subtly changed due to this chapter's events? For example, after Snow Le
 carried out the execution, did his status in Tiger Fierce's eyes rise? And did the other Black Socks
 soldiers look at Snow Leopard and Tiger Fierce with deeper fear?)
 
-【Alive→Alive-G-56005-Tiger Beastman-Tiger Fierce】
+【{Appearance State}→alive-{Rank Code}{ID}-{Race}-{Position}】
 
 [//]: # （Please write about Hu Meng's psychological state and changes after this chapter. Describe
 his dual identity as a slave and an officer, his ambitions, fears, and complex feelings about the
 black metal ring. Emphasize how the sense of physical power and the humiliation of being dominated
 intertwine.）
 
-【Alive→Alive-W-00127-Wolf Beastman-White Wolf Officer】
+【{Appearance State}→alive-{Rank Code}{ID}-{Race}-{Position}】
 
 [//]: # （Please write about the psychological activities of the White Wolf Officer. Is he satisfied
 with Hu Meng's performance? Is he annoyed or excited about the activity of the resistance
 organization? How does he view the possible gaze of the emperor? Describe his dignity as a senior
 officer and the deep-seated unwillingness of being exiled in his heart.）
 
-【Alive→Alive-G-43011-Snow Leopard Beastman-Squad Leader】
+【{Appearance State}→alive-{Rank Code}{ID}-{Race}-{Position}】
 
 [//]: # (Please write about Snow Leopard Squad Leader's心理. He executed the sentence with unique
 skill. Does he feel professional satisfaction, or was he momentarily dazed by the凄厉 wolf howl? How
@@ -276,12 +259,14 @@ protest by understanding each character?）
 
 ## Version Information
 
-**Template Version**: 1.1 (aligned with spec/11 v4.0)  
+**Template Version**: 1.2 (aligned with spec/11 v4.0)  
 **Last Updated**: 2025-12-19  
 **Adapted Worldview**: 《Empire Forever》 Complete Setting Collection (Chapters 1-41 + Additional
 Settings, Worldview Code: eks)
 
 ### Version Update Record
+
+- **2026-09-22 v1.2**: Removed ready-made example copy; only skeleton, tag format and writing requirements remain (example IDs/names replaced by placeholders)
 
 - **2026-09-22 v1.1 Skeleton alignment** (skeleton governed by `docs/spec/11-story-format.md` v4.0)
     - Act headings are now `## Act {N} {Title}`; a no-act continuous-prose form is equally valid.
@@ -292,7 +277,7 @@ Settings, Worldview Code: eks)
 
 - **2025-12-19 v1.0**: Official Version of the 《Empire Forever》 Specialized Template
     - Worldview Code confirmed as `eks`.
-    - Introduced a new numbering system: `{Rank Code}{Five-digit number/letter}`, e.g., `B-11407`.
+    - Introduced a new numbering system: `{Rank Code}{Five-digit number/letter}`.
     - Enhanced the commentary section guide, requiring the construction of a complete life story
       from birth to death for each deceased Kiké Soldier, including group portraits of his nine
       dormitory roommates and superiors.

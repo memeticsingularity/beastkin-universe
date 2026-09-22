@@ -188,131 +188,12 @@ inner world.*
 
 [//]: # (Fit male beastmen worldbuilding: emphasize dual sexual characteristics, male-male relationships)
 
-【living→dead-E-533-Ox Beastman-Jù Lì】
+【{Appearance State}→dead-{Rank Code}{ID}-{Race}-{Position}】
 
-He was called Jù Lì, code E-533. The name was given by the physical test instructor during
-enlistment, and he grinned
-foolishly, adopting it as his name. This black ox had the typical fat-wrapped muscle physique, with
-thick layers of fat
-over rock-like stacked muscle groups. His thick neck connected to broad shoulders, his chest muscles
-full and rounded,
-slightly raised due to dual sexual characteristics, clearly outlined under the black tight uniform.
-His arms were
-thicker than ordinary beastmen's thighs, with deltoids, biceps, and triceps like rolling hills, each
-exertion
-accompanied by throbbing veins and steaming sweat. He always carried a scent mixed with sweat,
-leather, and faint
-fodder—the distinctive smell of a ranch boy that couldn't be washed away even after repeated
-cleaning in the Beast
-Shield camp.
-
-Jù Lì had a simple mind with straightforward thoughts: follow orders, exert strength, eat his fill,
-send money home each
-month. His home was in the northern ranch, where his parents had raised cattle their whole lives,
-supporting his
-departure, believing joining Beast Shield was "serving as a soldier with imperial rations," bringing
-honor to the
-family. In the preparatory camp, he was known as the "human crane." When carrying ammunition boxes,
-his tensed back
-muscles spread like wings, sweat flowing down his spinal groove into his waistband, soaking the
-edges of his white long
-socks; when carrying wounded comrades, his thick chest muscles became the steadiest cushion, his
-heartbeat transmitted
-through the uniform to the wounded's ears like war drums, reassuring. But he was also lonely. He
-wasn't good with words,
-slow to react, often squatting in a corner with an oversized water bottle, taking small sips while
-his teammates chatted
-and played cards—his mother said drinking lots of water builds strength.
-
-In his locker, besides his uniform, were only three things: a photo of his parents at the ranch
-gate, with "Son, work
-hard" written on the back; a jar of homemade ranch cheese blocks, too precious to eat quickly, only
-licking a small
-piece each week; a crumpled "Strength Training Manual," with clumsy handwriting on the title page: "
-Become the strongest
-shield, protect those who need protection." He didn't know specifically "who needed protection," but
-he felt that with
-such strength, he should protect something. Perhaps someday he'd meet a partner needing his
-protection, building a warm
-home in this world of only male beastmen with his strength.
-
-Tonight, he was abruptly awakened from his dorm. "Mission at the entertainment center, short on
-manpower to move things,
-you go." Jù Lì said nothing, putting on his still-warm black uniform and leaving. On the way, he met
-the white tiger
-coroner Yīng Zuǐ, who beckoned: "You, come with me, move a few corpses." Jù Lì nodded. Moving
-things, he was good at.
-When Yīng Zuǐ's gun pointed at his forehead, Jù Lì didn't react at all. He had just steadily loaded
-two heavy corpses
-onto the vehicle, patting the dust off his hands, his thick fingers still carrying the residual
-warmth of the corpses
-and his own sweat. He felt somewhat proud: "This move... steady... didn't shake..." Then he heard
-Yīng Zuǐ say: "Good
-work." He turned, wanting to grin foolishly and say "my duty." The gun fired.
-
-In the 0.01 seconds before the bullet penetrated his skull, Jù Lì's nerve endings only had time to
-transmit one
-fragmentary thought: "...cheese... not finished yet..." It was made by his mother, who said she'd
-make more when he
-returned home. He'd never have the chance to tell her: Mom, your cheese is the sweetest thing I've
-ever tasted. He'd
-never have the chance to use this strength to embrace a "him" worthy of protection.
-
-Jù Lì's massive body collapsed like a mountain falling. Brain matter and blood flowed from the
-bullet hole in his
-forehead, mixing with the dust of the entertainment center's back alley. Those arms that could lift
-hundreds of
-kilograms lay limp, spread out, fingers still slightly curved—as if wanting to "move" something
-more. His chest muscles
-under the black uniform rose and fell one last time, then stilled, the sweat scent gradually covered
-by blood. The white
-tiger Yīng Zuǐ crouched, expertly checking and confirming death, whispering: "E-533, Jù Lì... sorry.
-You knew too much,
-and... you were too conspicuous." Too conspicuous. Too strong, too obedient, too easily remembered.
-In undercover
-operations, such traits are risks.
-
-Jù Lì's belongings were processed simply: uniform (bloodstained, directly destroyed), parents'
-photo (filed as "no
-direct relative address"), the half-eaten jar of cheese (taken as snacks by logistics soldiers), the
-manual with his
-dreams (shredded). He didn't even have a "pension recipient." In the file, the family information
-column read: "
-Parents (farming, address unknown)." The system marked his status as: "Missing in action (suspected
-desertion)." —This
-is Beast Shield's most common classification for unexplained soldier deaths.
-
-In the northern ranch, the old ox couple still awaits their son's letter. The mother makes a small
-jar of cheese each
-week, saying: "When Xiǎo Lì returns, we'll eat it together." The father always looks south at
-dusk: "Beast Shield... is
-a good unit, right? Heard they provide full meals." They don't know their son is already dead. They
-especially don't
-know that their son died and was labeled a "traitor." They'll never receive that letter of
-reassurance.
-
-This black ox never understood why he died. He only knew: The officer told me to move, so I moved.
-The officer told me
-to die... uh, the officer didn't, so I don't understand. His epitaph (if it existed) should be: "He
-was called Jù Lì,
-learning only two things in life: follow orders, exert strength." "He thought great strength could
-make a shield, but in
-the end couldn't even block a single bullet." "He died thinking of his mother's cheese, thinking of
-embracing a 'him'
-worthy of love with this strength." "He was code E-533, the 'human crane,' the 'suspected deserter,'
-and then nothing."
+{Commentary}
 
 ---
 
-【living→dead-G-1-Bear Beastman-Xióng Hè Shèng】
-
-(Commentary content: Complete life journey from living to dead, imagining his life, dreams, regrets.
-Enhance physical
-description: typical bear beastman heavy fat layers, thick limbs, rounded chest and abdomen.
-Olfactory description:
-distinctive bear musk, sweat, leather scent. Fit worldbuilding: His future aspirations might include
-finding a partner,
-building a family in this male-male world.)
 
 ### The People Still Alive
 
@@ -328,13 +209,9 @@ building a family in this male-male world.)
 
 [//]: # (Commentary requirements: Not just describing actions, but exploring psychological trauma, moral dilemmas, future shadows. Enhance physical and olfactory descriptions.)
 
-【living→alive-Player-Lǐ Yóu】
+【{Appearance State}→alive-{Rank Code}{ID}-{Race}-{Position}】
 
-(Commentary content: Psychological changes and future impacts after this chapter. Describe his
-physical characteristics
-as a beastmen enthusiast, perhaps not very strong but with his own charm. His desires, confusions,
-and choices in this
-male-male world.)
+{Commentary}
 
 ### Story Reflection
 
@@ -342,7 +219,7 @@ male-male world.)
 
 [//]: # (Share feelings sincerely in first person, from specific character fates to universal human issues. Incorporate worldbuilding: In this world of only male beastmen, how do violence and tenderness coexist? How do body and desire intertwine?)
 
-(Commentary content)
+{Commentary}
 
 ---
 
@@ -352,11 +229,13 @@ male-male world.)
 
 ## Version Information
 
-**Template Version**: 6.0  
+**Template Version**: 6.1  
 **Last Updated**: 2025-12-15  
 **Adapted Naming System**: 2.3.0
 
 ### Version Update History
+
+- **2026-09-22 v6.1**: Removed ready-made example copy; only skeleton, tag format and writing requirements remain
 
 - **2026-09-22 v6.0 Skeleton alignment** (skeleton governed by `docs/spec/11-story-format.md` v4.0)
     - Act headings are now `## Act {N} {Title}`; a no-act continuous-prose form is equally valid.
@@ -384,7 +263,7 @@ male-male world.)
     - **Adjusted default configuration**: Default work nature is adaptation (a), form is short
       story (s), language is
       English
-    - Provided deep commentary example: Black ox mover "Jù Lì" story commentary (adjusted to fit
+    - (The ready-made commentary example was removed in v6.1; only writing requirements remain; originally:
       worldbuilding)
     - Optimized navigation bar configuration, corrected file naming formats
     - Added version information section

@@ -265,6 +265,10 @@ if (fs.existsSync(refDir)) {
     if (bl.headNoBlank) probs.push('§6 有 ' + bl.headNoBlank + ' 处标题后紧跟内容');
     if (!/骨架版本/.test(raw)) probs.push('缺「骨架版本」标记（版本迭代未同步）');
     else if (!new RegExp('骨架版本[^\\n]*v' + specVer.replace('.', '\\.')).test(raw)) probs.push('「骨架版本」与 spec/11 v' + specVer + ' 不一致');
+    // 只放骨架：示例标签必须是占位符形式（含 {}），不得写死具体编号/姓名/种族
+    const concreteTag = raw.split(/\r?\n/).map(l => l.trim())
+      .filter(l => /^【.+】$/.test(l) && !/\{/.test(l));
+    if (concreteTag.length) probs.push('出现写死的示例标签（应改为 {占位符}）: ' + concreteTag.slice(0, 2).join(' / '));
     if (probs.length) refProblems.push('  ' + path.relative(process.cwd(), p) + '\n      ' + probs.join('\n      '));
   }
 }
