@@ -1,8 +1,8 @@
 # Q 01
 
-你对这个[故事](../../../../../../original-archives/images/songguo/readme.md)
+你对这个[故事](readme.md)
 
-怎么看？你自己的分析，不要看[讨论记录](../2026-04-02-discussion-format.md)。
+怎么看？你自己的分析，不要看[讨论记录](2026-04-02-discussion-format.md)。
 
 ## 已思考
 
@@ -1652,7 +1652,7 @@
 
 ## A
 
-[第一版](../group-a-hyena-dark/v1-story1-hyena-100-laps-tragedy.md)
+[第一版](group-a-hyena-dark/v1-story1-hyena-100-laps-tragedy.md)
 
 # Q 20
 
@@ -1926,7 +1926,7 @@
 
 ## A
 
-[v2](../group-a-hyena-dark/v2-story2-hyena-slow-death.md)
+[v2](group-a-hyena-dark/v2-story2-hyena-slow-death.md)
 
 # Q 23
 
@@ -2135,7 +2135,7 @@
 
 ## A
 
-[text](../group-b-aban-redemption/v3-story3-aban-20-laps-warm-rescue.md)
+[text](group-b-aban-redemption/v3-story3-aban-20-laps-warm-rescue.md)
 
 # Q 25
 
@@ -2242,7 +2242,7 @@
 
 ## A
 
-[text](../group-b-aban-redemption/v4-story4-aban-kneeling-dramatic.md)
+[text](group-b-aban-redemption/v4-story4-aban-kneeling-dramatic.md)
 
 # Q 27
 
@@ -2354,7 +2354,7 @@
 
 ## A
 
-[text](../group-b-aban-redemption/v5-story5-aban-gentle-ending.md)
+[text](group-b-aban-redemption/v5-story5-aban-gentle-ending.md)
 
 # Q 29
 
@@ -2775,7 +2775,7 @@
 
 ## A
 
-[text](../group-c-aban-bittersweet/v6-story6-aban-100-laps-hope-after-pain.md)
+[text](group-c-aban-bittersweet/v6-story6-aban-100-laps-hope-after-pain.md)
 
 # Q 33
 

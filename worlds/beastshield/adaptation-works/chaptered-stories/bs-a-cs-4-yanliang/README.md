@@ -50,36 +50,36 @@ Two adaptation versions are maintained:
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 潜入基地 | [阅读](chapters/v2-expanded/ch-001.md) |
-| Ch.2 | 名单上的名字 | [阅读](chapters/v2-expanded/ch-002.md) |
-| Ch.3 | 黑与白的制服 | [阅读](chapters/v2-expanded/ch-003.md) |
-| Ch.4 | 银针与暗劲 | [阅读](chapters/v2-expanded/ch-004.md) |
+| Ch.1 | 潜入基地 | [阅读](chapters/ch-001.md) |
+| Ch.2 | 名单上的名字 | [阅读](chapters/ch-002.md) |
+| Ch.3 | 黑与白的制服 | [阅读](chapters/ch-003.md) |
+| Ch.4 | 银针与暗劲 | [阅读](chapters/ch-004.md) |
 | Ch.5 | 楼梯与总部 | 阅读 |
 
 ### v1-20ch（旧版扩写 / Legacy Expansion）
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 无声潜入 | [阅读](chapters/v1-20ch/ch-001.md) |
-| Ch.2 | 名单上的名字 | [阅读](chapters/v1-20ch/ch-002.md) |
-| Ch.3 | 尸堆的奠基 | [阅读](chapters/v1-20ch/ch-003.md) |
-| Ch.4 | 无声的祭坛 | [阅读](chapters/v1-20ch/ch-004.md) |
-| Ch.5 | 雪影与狮鬃 | [阅读](chapters/v1-20ch/ch-005.md) |
-| Ch.6 | 地基 | [阅读](chapters/v1-20ch/ch-006.md) |
-| Ch.7 | 编号的余烬 | [阅读](chapters/v1-20ch/ch-007.md) |
-| Ch.8 | 白与黄的终末 | [阅读](chapters/v1-20ch/ch-008.md) |
-| Ch.9 | 终幕与余温 | [阅读](chapters/v1-20ch/ch-009.md) |
-| Ch.10 | 走廊上的插曲 | [阅读](chapters/v1-20ch/ch-010.md) |
-| Ch.11 | 阴影与巨壁 | [阅读](chapters/v1-20ch/ch-011.md) |
-| Ch.12 | 制服与情报 | [阅读](chapters/v1-20ch/ch-012.md) |
-| Ch.13 | 白影与门禁 | [阅读](chapters/v1-20ch/ch-013.md) |
-| Ch.14 | 杂物间的烟与柜中的尸 | [阅读](chapters/v1-20ch/ch-014.md) |
-| Ch.15 | 会议室的银针与濒死的犀牛 | [阅读](chapters/v1-20ch/ch-015.md) |
-| Ch.16 | 尸骸走廊 | [阅读](chapters/v1-20ch/ch-016.md) |
-| Ch.17 | 银针与暗劲 | [阅读](chapters/v1-20ch/ch-017.md) |
-| Ch.18 | 演示与楼梯间 | [阅读](chapters/v1-20ch/ch-018.md) |
-| Ch.19 | 回转楼梯的碾压 | [阅读](chapters/v1-20ch/ch-019.md) |
-| Ch.20 | 问责与处决 | [阅读](chapters/v1-20ch/ch-020.md) |
+| Ch.1 | 无声潜入 | [阅读](.process/history/v1-20ch/ch-001.md) |
+| Ch.2 | 名单上的名字 | [阅读](.process/history/v1-20ch/ch-002.md) |
+| Ch.3 | 尸堆的奠基 | [阅读](.process/history/v1-20ch/ch-003.md) |
+| Ch.4 | 无声的祭坛 | [阅读](.process/history/v1-20ch/ch-004.md) |
+| Ch.5 | 雪影与狮鬃 | [阅读](.process/history/v1-20ch/ch-005.md) |
+| Ch.6 | 地基 | [阅读](.process/history/v1-20ch/ch-006.md) |
+| Ch.7 | 编号的余烬 | [阅读](.process/history/v1-20ch/ch-007.md) |
+| Ch.8 | 白与黄的终末 | [阅读](.process/history/v1-20ch/ch-008.md) |
+| Ch.9 | 终幕与余温 | [阅读](.process/history/v1-20ch/ch-009.md) |
+| Ch.10 | 走廊上的插曲 | [阅读](.process/history/v1-20ch/ch-010.md) |
+| Ch.11 | 阴影与巨壁 | [阅读](.process/history/v1-20ch/ch-011.md) |
+| Ch.12 | 制服与情报 | [阅读](.process/history/v1-20ch/ch-012.md) |
+| Ch.13 | 白影与门禁 | [阅读](.process/history/v1-20ch/ch-013.md) |
+| Ch.14 | 杂物间的烟与柜中的尸 | [阅读](.process/history/v1-20ch/ch-014.md) |
+| Ch.15 | 会议室的银针与濒死的犀牛 | [阅读](.process/history/v1-20ch/ch-015.md) |
+| Ch.16 | 尸骸走廊 | [阅读](.process/history/v1-20ch/ch-016.md) |
+| Ch.17 | 银针与暗劲 | [阅读](.process/history/v1-20ch/ch-017.md) |
+| Ch.18 | 演示与楼梯间 | [阅读](.process/history/v1-20ch/ch-018.md) |
+| Ch.19 | 回转楼梯的碾压 | [阅读](.process/history/v1-20ch/ch-019.md) |
+| Ch.20 | 问责与处决 | [阅读](.process/history/v1-20ch/ch-020.md) |
 
 ---
 

@@ -33,6 +33,7 @@ const VOLUME_RE = /^volume-\d+$/;
 
 let works = 0, bad = 0;
 const issues = [];
+const noBody = [];   // 尚无已发布正文的作品（企划/未发布），只作提示
 
 function listDir(d) {
   try { return fs.readdirSync(d, { withFileTypes: true }); } catch { return []; }
@@ -88,25 +89,21 @@ function checkWork(w, problems) {
   if (formType === 's') {
     if (topChapters.length) problems.push('短篇正文应放进 chapters/（不得放在作品根）：' + topChapters.map(f => f.rel).join(', '));
     const shortMd = listDir(path.join(w, 'chapters')).filter(e => e.isFile() && e.name.endsWith('.md'));
-    if (!shortMd.length) problems.push('短篇正文缺失（应为 chapters/' + code + '.md 或 chapters/<NN>-<slug>.md）');
+    // 尚未发布正文的作品（chapters/ 为空且无正文散落）只作提示，不算结构违规
+    if (!shortMd.length) noBody.push(path.relative(process.cwd(), w).replace(/\\/g, '/'));
   } else if (formType === 'cm' || formType === 'cs') {
-    // 尚未落笔的企划（status: planning/drafting 且全作品没有任何章节文件）不视为违规
-    let anyCh = 0;
+    // 只统计「已发布正文」（chapters/ 下、非 .process/）
+    let published = 0;
     (function count(d, depth) {
       if (depth > 5) return;
       for (const e of listDir(d)) {
         const q = path.join(d, e.name);
         if (e.isDirectory()) { count(q, depth + 1); continue; }
-        if (/^ch-.*\.md$/i.test(e.name)) anyCh++;
+        if (/^ch-.*\.md$/i.test(e.name)) published++;
       }
-    })(w, 0);
-    let status = '';
-    if (fs.existsSync(meta)) status = (fs.readFileSync(meta, 'utf8').match(/^\s*status\s*:\s*"?([a-z]*)"?/m) || [])[1] || '';
-    if (!anyCh && ['planning', 'drafting', 'idea'].includes(status)) {
-      // 企划阶段：允许尚无 chapters/
-    } else if (!inChapters.length) {
-      problems.push('分章作品缺 chapters/ 下的章节文件');
-    }
+    })(path.join(w, 'chapters'), 0);
+    if (!published && !inChapters.length) noBody.push(path.relative(process.cwd(), w).replace(/\\/g, '/'));
+    else if (!inChapters.length) problems.push('分章作品缺 chapters/ 下的章节文件');
   } else {
     problems.push('metadata.yaml 缺 form_type（应为 cm/cs/s）');
   }
@@ -158,4 +155,8 @@ for (const w of found) {
 console.log('受检作品: ' + works + ' | 不合规: ' + bad);
 if (issues.length) { console.log('\n=== 明细 ==='); issues.forEach(i => console.log(i)); }
 else console.log('全部符合 docs/spec/14-work-structure.md');
+if (noBody.length) {
+  console.log('\n=== 提示：尚无已发布正文（企划/未发布），不计为结构违规 ===');
+  noBody.forEach(x => console.log('  ' + x));
+}
 process.exit(bad ? 1 : 0);

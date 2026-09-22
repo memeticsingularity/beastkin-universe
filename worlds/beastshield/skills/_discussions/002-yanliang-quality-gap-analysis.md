@@ -4,9 +4,9 @@
 > **触发问题**：原作者（lanse）非常喜欢炎魉 ch-01 的虎兽人雷爪和 ch-20 的牛兽人牛磐两段，但对其他章节反馈一般。
 > **核心问题**：为什么 20 章那么多角色，就一头一尾让原作者非常喜欢？如何将其他部分优化到同等质量？
 > **基于以下故事的分析**（可点击跳转原文）：
-> - [bs-a-cs-4-yanliang ch-01](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-001.md)（虎雷爪 + 狗阿黄 + 白熊厚朴）
-> - [bs-a-cs-4-yanliang ch-20](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-020.md)（牛磐自裁）
-> - [bs-a-cs-4-yanliang ch-02~19](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/)（中间章节对比）
+> - [bs-a-cs-4-yanliang ch-01](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/.process/history/v1-20ch/ch-001.md)（虎雷爪 + 狗阿黄 + 白熊厚朴）
+> - [bs-a-cs-4-yanliang ch-20](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/.process/history/v1-20ch/ch-020.md)（牛磐自裁）
+> - [bs-a-cs-4-yanliang ch-02~19](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/.process/history/v1-20ch/)（中间章节对比）
 > - [bs-o-s-1-farm-inn](../../original-archives/chinese/short-stories/bs-o-s-1-farm-inn/chapters/bs-o-s-1-farm-inn.md)（原作风格基准）
 > - [bs-o-s-2-blackstone](../../original-archives/chinese/short-stories/bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md)（原作风格基准）
 > - [bs-o-s-6-night-raid](../../original-archives/chinese/short-stories/bs-o-s-6-night-raid/chapters/bs-o-s-6-night-raid.md)（原作风格基准）
@@ -25,7 +25,7 @@
 
 ## 一、观察：质量分布的三层结构
 
-基于对 [ch-01](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-001.md)、[ch-20](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-020.md) 与 [ch-02~09](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-002.md) 等的对比阅读，质量分布并非均匀递减，而是呈现三层结构：
+基于对 [ch-01](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/.process/history/v1-20ch/ch-001.md)、[ch-20](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/.process/history/v1-20ch/ch-020.md) 与 [ch-02~09](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/.process/history/v1-20ch/ch-002.md) 等的对比阅读，质量分布并非均匀递减，而是呈现三层结构：
 
 | 层级 | 代表章节 | 原作者反馈 | 核心特征 |
 |------|---------|-----------|---------|
