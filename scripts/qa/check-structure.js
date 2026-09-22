@@ -124,7 +124,7 @@ function checkWork(w, problems) {
 
 function findWorks(d, out) {
   for (const e of listDir(d)) {
-    if (e.name === '.git') continue;
+    if (e.name === '.git' || e.name === 'templates' || e.name === 'node_modules') continue;
     const p = path.join(d, e.name);
     if (!e.isDirectory()) continue;
     if (fs.existsSync(path.join(p, 'metadata.yaml'))) { out.push(p); continue; }
