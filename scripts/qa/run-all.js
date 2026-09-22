@@ -18,6 +18,7 @@ const BS_CHAPTERS = 'worlds/beastshield/original-archives/chinese/chaptered-stor
 const BS_COMPANY = 'worlds/beastshield/original-archives/chinese/characters/beastshield-company';
 
 const steps = [
+  { name: 'check-structure', args: [scope] },
   { name: 'check-format', args: [scope] },
   { name: 'check-links', args: [scope] },
   { name: 'check-index', args: [BS_CHARS], optional: true },

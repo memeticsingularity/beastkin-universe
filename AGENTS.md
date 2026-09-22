@@ -4,6 +4,15 @@
 - `worlds/` — 各世界观子项目
 - 各子项目自带 `AGENTS.md` 记录该项目的专属设定与写作规范
 
+## 结构规范（强制）
+**唯一结构规范**：[`docs/spec/14-work-structure.md`](docs/spec/14-work-structure.md)。
+原创/改编、长篇/短篇**骨架完全一致**：`chapters/`（正文）、`characters/`、`images/`、
+`.process/{plans,ai-discussion,settings,history,archive}`。
+禁止自创 `notes/`、`plans/`、`draft/`、`ai-discuss/`、`chat/`、`en/` 等变体目录。
+- 新建作品：`node scripts/new-work.js --world <world> --form <cm|cs|s> --code <code> --title-zh "<标题>"`（先加 `--dry`）
+- 结构校验：`node scripts/qa/check-structure.js .`
+- 配套 skill：`.dsh/skills/work-scaffold`、`.dsh/skills/structure-guard`
+
 ## 通用规则
 - commit信息严禁暴露剧情内容、角色命运或关键转折
 - 所有代号/文件名保持英文，正文用中文

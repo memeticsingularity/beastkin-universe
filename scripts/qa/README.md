@@ -20,6 +20,7 @@
 | 脚本 | 作用 | 只读 |
 |------|------|:----:|
 | `check-links.js` | 校验 Markdown 相对链接是否可解析 | ✅ |
+| `check-structure.js` | 作品目录结构是否符合 `docs/spec/14-work-structure.md` | ✅ |
 | `check-index.js` | 三级索引的表行数是否等于档案文件数 | ✅ |
 | `check-quotes.js` | 「登场原文」的引用是否真的来自正文（而非评述区） | ✅ |
 | `check-format.js` | 故事文件是否符合 `docs/spec/11-story-format.md` | ✅ |
