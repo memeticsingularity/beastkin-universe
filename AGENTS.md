@@ -14,11 +14,14 @@
 - 配套 skill：`.dsh/skills/work-scaffold`、`.dsh/skills/structure-guard`
 
 ## 脚本执行与沙箱（DSH 会话必读）
-- 依赖 **WMI / `for /f` 子进程 / `tree`** 的脚本（如 `scripts/generate_structure.bat`）
-  在默认沙箱下**必然失败**，且会**假装成功**（打印 `✅ Done`）却只产出 0 字节垃圾文件。
-  识别与处置见 skill `.dsh/skills/structure-report`。
-- 优先让开发者在本地终端执行；只有产物确有必要、开发者不在场时，才用一次性提权跑**那一条命令**，
-  随后立即回到默认沙箱。
+- **生成目录结构快照用 Node 版**：`node scripts/qa/structure-report.js`（纯 Node，无 `wmic`/`tree`/`cmd`
+  依赖，DSH 默认沙箱下可直接运行；自动排除 `.git`/`.dsh`/`structure` 等并自检产物）。
+  详见 skill `.dsh/skills/structure-report`。
+- **旧脚本**（`scripts/generate_structure.bat` / `.sh` / `generate_structure_eks_o_cm.bat`）已由 Node 版取代，仅作兼容保留：
+  它们依赖 **WMI / `for /f` 子进程 / `tree`**，在默认沙箱下**必然失败**，且会**假装成功**（打印 `✅ Done`）
+  却只产出 0 字节垃圾文件（文件名含 `~0,8datetime`）。
+- 若确需运行旧脚本：优先让开发者在本地终端执行；只有产物确有必要、开发者不在场时，
+  才用一次性提权跑**那一条命令**，随后立即回到默认沙箱。
 - **任何脚本产出后都必须验证**：0 字节文件、文件名含 `~` 或残缺字符 = 失败，先清理再汇报。
   不要因为脚本报错就去改脚本——正常终端下它可能本来就是好的。
 - 编辑 `.bat` 必须用 **CRLF** 行尾（`.gitattributes` 的 `* text=auto eol=lf` 会把它强制成 LF，

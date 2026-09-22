@@ -28,6 +28,9 @@
 | `scan-punctuation.js` | 扫描汉字后的半角标点（区分引用块 / 自撰） | ✅ |
 | `sync-tables.js` | 把新增但未挂进索引的档案补进等级表 / 兽种表 | 需 `--write` |
 | `run-all.js` | 一键依次运行以上全部校验并汇总通过/失败 | ✅ |
+| `structure-report.js` | 生成目录结构快照到 `structure/`（替代旧 `generate_structure.bat/.sh`） | 写入 `structure/` |
+
+> `structure-report.js` 只产出**快照**，不做合规校验；要查作品结构是否合规用 `check-structure.js`。
 
 ---
 
@@ -44,6 +47,26 @@ node scripts/qa/check-format.js worlds/beastshield/original-archives/chinese
 ```
 
 四项均以退出码表示结果（`0` = 通过，`1` = 有问题），可直接用于 CI 或提交前钩子。
+
+### 结构快照（不含校验）
+
+```bash
+node scripts/qa/structure-report.js                 # 目录树 + 全量文件树 -> structure/
+node scripts/qa/structure-report.js --no-full       # 只生成目录树
+node scripts/qa/structure-report.js --depth 3       # 限制深度
+node scripts/qa/structure-report.js --prefix eks-o-cm   # 自定义标题前缀（对应旧 eks 变体）
+node scripts/qa/structure-report.js --keep-all      # 保留历史快照（默认清理同前缀旧快照）
+```
+
+- 纯 Node 实现：**不依赖 `wmic` / `tree` / `cmd` / CRLF**，因此 DSH 沙箱下不会"假成功"。
+- 默认排除 `.git .idea .vscode .claude .dsh .dsh-tmp node_modules structure __pycache__ .venv venv dist build .next .cache .pytest_cache`，
+  因此**快照不会包含历史快照自身**（旧脚本的自我膨胀问题）。
+- 写完自动自检（非 0 字节 + 结尾围栏正确），失败以退出码 `1` 报告。
+- `structure/` 已被 `.gitignore` 忽略，产物不进版本库。
+
+> 旧脚本 `scripts/generate_structure.bat` / `.sh` **已由本脚本取代**（保留仅为兼容历史习惯）。
+> 它们依赖 `wmic`+`tree`+`cmd`，在 DSH 沙箱下会打印 `✅ Done` 却留下 0 字节垃圾文件；
+> 若仍需使用，请让开发者在本机终端执行，并检查 `structure/` 是否有 0 字节或含 `~` 的文件。
 
 ### 新增档案后同步索引
 
