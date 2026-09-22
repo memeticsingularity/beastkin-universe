@@ -216,10 +216,30 @@ function scanTemplates(d) {
     if (tplBl.setext) probs.push('§6 有 `---` 紧贴正文');
     if (tplBl.tagNoBlank) probs.push('§6 有 ' + tplBl.tagNoBlank + ' 处评述标签紧贴下一行（应空一行）');
     if (tplBl.headNoBlank) probs.push('§6 有 ' + tplBl.headNoBlank + ' 处标题后紧跟内容（应空一行）');
+    // 模板只放骨架：正文块必须是 {占位符}，不得出现指令性散文
+    const prose = lines.filter(l => /^[（(].+[）)]$/.test(l));
+    if (prose.length) probs.push('出现指令性散文（应改为 {占位符}）: ' + prose.slice(0, 2).map(x => x.slice(0, 24)).join(' / '));
     if (probs.length) tplProblems.push('  ' + path.relative(process.cwd(), p) + '\n      ' + probs.join('\n      '));
   }
 }
 if (fs.existsSync(tplRoot)) scanTemplates(tplRoot);
+
+// ---- 模板只放骨架：整个 templates/ 不得出现具体世界观/作品/角色实例 ----
+const TPL_BANNED = ['beastshield', 'empire-kik', 'united-beasts', 'worldstrider', 'paradise-kik',
+  'beastman-prototype', '兽盾', '帝国万岁', '万兽联盟', '万界巡行', '奇克兽士', '墨犬', 'lanse'];
+function scanTplBanned(d) {
+  let entries; try { entries = fs.readdirSync(d, { withFileTypes: true }); } catch { return; }
+  for (const e of entries) {
+    const p = path.join(d, e.name);
+    if (e.isDirectory()) { scanTplBanned(p); continue; }
+    if (!/\.(md|ya?ml)$/.test(e.name)) continue;
+    const txt = fs.readFileSync(p, 'utf8');
+    const hit = TPL_BANNED.filter(k => txt.includes(k));
+    if (hit.length) tplProblems.push('  ' + path.relative(process.cwd(), p)
+      + '\n      模板不得出现具体实例（应改为 {占位符}）: ' + hit.join(', '));
+  }
+}
+scanTplBanned(path.resolve('templates'));
 
 // ---- 写法指南自检：skill 的 references 也在教骨架，必须与规范同步 ----
 //   ① 不得出现 §6 的合并写法  ② 必须声明与 spec/11 一致的「骨架版本」

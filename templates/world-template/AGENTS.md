@@ -9,7 +9,7 @@
 - 按场景裁剪：`settings/1-recommended-canon/`
 
 ## 本世界写作规则
-- （对话风格、术语、硬性要求…）
+- {对话风格、术语、硬性要求…}
 
 ## 角色档案
 - 世界观级档案：`original-archives/<语言层>/characters/`（必须有 README 索引）

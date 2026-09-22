@@ -43,6 +43,8 @@
 - **骨架 / 写法 / 规则三分**：可复制骨架在 `templates/world-template/work-template/forms/`；
   「每一块写什么」在 skill `.dsh/skills/story-craft`；提交前自检在 `.dsh/skills/story-format-guard`；
   机器校验 `node scripts/qa/check-format.js .`（末尾的 v4.0 迁移欠债只统计不阻断）。
+- **模板只放骨架**：`templates/` 里不得出现具体文案示例（示例世界观/作品/角色/句子）与指令性散文，
+  只用 `{占位符}`；校验器会拦截（见 [`templates/README.md`](templates/README.md) 模板铁律）。
 
 ## 子项目索引
 - [Beastshield](worlds/beastshield/AGENTS.md) — 兽盾世界观项目（墨犬续写/短篇等）
