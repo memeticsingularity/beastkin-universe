@@ -1,0 +1,33 @@
+# 编辑器统一配置（仓库根，VS Code / JetBrains / Vim 等自动读取）
+# 说明：本文件只影响编辑器行为，不改写历史文件；与 .gitattributes 的分工见文末。
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+indent_style = space
+indent_size = 2
+# ⚠️ 必须保持 false：故事正文用「行尾两个半角空格」做 Markdown 硬换行
+#    （docs/spec/11-story-format.md §6）。开启去除会把硬换行静默抹掉，
+#    预览里多行引用块又会并成一段，而 diff 里看不出来。
+trim_trailing_whitespace = false
+
+[*.md]
+trim_trailing_whitespace = false
+
+# cmd 遇到 LF-only 的 .bat 会从行首吃字符（见根 AGENTS.md）
+[*.{bat,cmd}]
+end_of_line = crlf
+
+[*.{js,json,yml,yaml}]
+indent_size = 2
+
+[Makefile]
+indent_style = tab
+
+# .gitattributes 与 .editorconfig 的分工：
+#   .gitattributes  * text=auto eol=lf  → 决定仓库里存什么（LF）
+#   .editorconfig   end_of_line = lf    → 决定编辑器写什么（LF）
+# 二者一致即可；行尾空格不属于换行规范，只能靠 trim_trailing_whitespace = false 保住。

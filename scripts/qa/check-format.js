@@ -49,13 +49,31 @@ const TAG_RE = /^【.+】\s*$/;
 const BLOCK_START_RE = /^(#{1,6}\s|>|\||-{3,}\s*$|={3,}\s*$|[-*+]\s|\d+[.)]\s|\s{2,})/;
 
 let files = 0, bad = 0;
+let engFiles = 0;
 const issues = [];
-const debt = { noReview: [], missingBlocks: [], legacyScene: [], tailAfterEnd: [], h3AsAct: [], noneAtAll: [], tagNoBlank: [], headNoBlank: [] };
+const debt = { noReview: [], missingBlocks: [], legacyScene: [], tailAfterEnd: [], h3AsAct: [], noneAtAll: [], tagNoBlank: [], headNoBlank: [], quoteNoBreak: [] };
 
 // §6 空行：行与行之间该有却没有空行的位置（排除代码围栏 / HTML 注释 / 行内折行）
-function blankLineIssues(lines, problems) {
+// ④ 另统计「引用块内该硬换行却没换」：同一块内连续两行、上一行已写完、行尾却没有两个空格
+const stripQuoteMd = (s) => s.replace(/^>\s*/, '').replace(/[\s`*]+$/, '');
+// 上一行「看起来已写完」的判据（与 2026-09-22 全库硬换行修复同一套，宁少勿多）
+// 英文正文是窄宽硬折行，碎片行也很短 → 不套用中文的「短信息行」判据，
+// 且句末标点要求下一行像「新句/新段」开头，避免把一句话劈开。
+function quoteLooksComplete(a, b, isEng) {
+  const t = stripQuoteMd(a);
+  if (/^>\s*\*(?!\*)[\s\S]*\*(?!\*)\s*$/.test(a)) return true;           // 整行斜体标题 `> *…*`
+  if (/^>\s*(\*\*|`)/.test(b)) return true;                             // 下一行是字段标签
+  if (/[。！？…”」』）】.]$/.test(t)) {                                    // 句末标点（允许尾随 ** 或 `）
+    if (isEng && !/^>\s*[\*`"'A-Z0-9(\[]/.test(b)) return false;
+    return true;
+  }
+  if (isEng) return false;
+  return t.length <= 36 && !/\*\s*$/.test(a.trim());                    // 短信息行（不以 ** 结尾＝不是被折行的句子）
+}
+
+function blankLineIssues(lines, problems, isEng) {
   let inFence = false;
-  let setext = 0, tagNoBlank = 0, headNoBlank = 0;
+  let setext = 0, tagNoBlank = 0, headNoBlank = 0, quoteNoBreak = 0;
   for (let i = 0; i < lines.length; i++) {
     const a = lines[i], b = lines[i + 1] === undefined ? '' : lines[i + 1];
     if (/^\s*```/.test(a)) { inFence = !inFence; continue; }
@@ -71,14 +89,20 @@ function blankLineIssues(lines, problems) {
     if (TAG_RE.test(at)) tagNoBlank++;
     // ③ ## / ### 标题后紧跟非标题内容 → 标题块与正文粘连
     if (/^#{2,6}\s/.test(at) && !/^#{1,6}\s/.test(bt)) headNoBlank++;
+    // ④ 引用块内连续两行、上一行已写完却未硬换行 → 预览并成一段（引用块内的表格行不适用）
+    if (/^>\s*\S/.test(a) && /^>\s*\S/.test(b)
+      && !/^>\s*\|/.test(a) && !/^>\s*\|/.test(b)
+      && !/  $/.test(a) && quoteLooksComplete(a, b, isEng)) quoteNoBreak++;
   }
-  return { setext, tagNoBlank, headNoBlank };
+  return { setext, tagNoBlank, headNoBlank, quoteNoBreak };
 }
 
 function check(file, expectStory) {
   const isChapter = !expectStory;
   const lines = fs.readFileSync(file, 'utf8').replace(/^\uFEFF/, '').split(/\r?\n/);
   files++;
+  const isEng = /[\\/]english[\\/]/i.test(file);
+  if (isEng) engFiles++;
   const problems = [];
 
   const h1 = lines.find(l => /^#\s/.test(l));
@@ -100,9 +124,10 @@ function check(file, expectStory) {
     if (/\*\*Chapter\s*\d+\s*END\*\*.*\|/.test(l)) problems.push('两个标记挤在同一行 @L' + (i + 1));
   });
 
-  const bl = blankLineIssues(lines, problems);
+  const bl = blankLineIssues(lines, problems, isEng);
   if (bl.tagNoBlank) debt.tagNoBlank.push(file + '  (' + bl.tagNoBlank + ' 处)');
   if (bl.headNoBlank) debt.headNoBlank.push(file + '  (' + bl.headNoBlank + ' 处)');
+  if (bl.quoteNoBreak) debt.quoteNoBreak.push(file + '  (' + bl.quoteNoBreak + ' 处)');
 
   if (problems.length) { bad++; issues.push('  ' + file + '\n      ' + problems.join('\n      ')); }
 
@@ -133,7 +158,7 @@ const SKIP_DIRS = new Set([
   '.process', 'ai-discuss', 'ai-discussion', 'insights', 'notes', 'plans', 'plan',
   'skills', 'reviews', 'reviews-adaptation', 'reviews-v1.1', 'history', 'draft', 'drafts',
   'discussions', 'chat', 'archive', 'visualization', 'settings', 'storyline', 'deepseek',
-  'qa-session', 'check', 'tech', 'summary', 'english',
+  'qa-session', 'check', 'tech', 'summary',
 ]);
 
 // 形态判定：按「同一作品内多数文件已有的 H1 形态」，而非文件名。
@@ -273,7 +298,7 @@ if (fs.existsSync(refDir)) {
   }
 }
 
-console.log('受检故事文件: ' + files + ' | 硬性不合规: ' + bad);
+console.log('受检故事文件: ' + files + '（中文 ' + (files - engFiles) + ' / 英文 ' + engFiles + '） | 硬性不合规: ' + bad);
 if (issues.length) { console.log('\n=== 明细（必须修）==='); issues.forEach(i => console.log(i)); }
 else console.log('全部符合 docs/spec/11-story-format.md §1–§7（硬性项）');
 if (tplFiles) {
@@ -285,15 +310,16 @@ if (refFiles) {
   else console.log('写法指南自检: ' + refFiles + ' 个 reference 与 spec/11 v' + specVer + ' 同步（含 §6 空行）');
 }
 const debtTotal = debt.noReview.length + debt.legacyScene.length + debt.tailAfterEnd.length + debt.h3AsAct.length
-  + debt.noneAtAll.length + debt.tagNoBlank.length + debt.headNoBlank.length;
+  + debt.noneAtAll.length + debt.tagNoBlank.length + debt.headNoBlank.length + debt.quoteNoBreak.length;
 if (debtTotal) {
   console.log('\n=== v4.0 迁移欠债（不计为 FAIL，见 spec §9 / project-docs/story-format-todo.md）===');
   console.log('  无评述区: ' + debt.noReview.length + ' 篇 | 缺固定子块: ' + debt.missingBlocks.length + ' 篇 | v3.0 加粗分幕: '
     + debt.legacyScene.length + ' 篇 | 卷尾语在 END 后: ' + debt.tailAfterEnd.length + ' 篇 | 正文用 ###: '
     + debt.h3AsAct.length + ' 篇 | 完全无分块: ' + debt.noneAtAll.length + ' 篇');
   console.log('  §6 空行合并风险：标签行紧贴评述 ' + debt.tagNoBlank.length + ' 篇 | 标题后紧跟正文 '
-    + debt.headNoBlank.length + ' 篇');
+    + debt.headNoBlank.length + ' 篇 | 引用块内未硬换行 ' + debt.quoteNoBreak.length + ' 篇');
   debt.tagNoBlank.slice(0, 10).forEach(x => console.log('      tag: ' + x));
   debt.headNoBlank.slice(0, 10).forEach(x => console.log('      head: ' + x));
+  debt.quoteNoBreak.slice(0, 10).forEach(x => console.log('      quote: ' + x));
 }
 process.exit(bad ? 1 : 0);

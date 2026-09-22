@@ -18,7 +18,7 @@ node scripts/qa/run-all.js <目录>        # 限定范围
 | 脚本 | 检查 | 失败怎么办 |
 |------|------|-----------|
 | `check-links.js` | Markdown 相对链接可解析 | 必须清零；模板/占位链接自动跳过 |
-| `check-format.js` | 正文骨架：H1 / 分幕 / 结束标记位置 / 评述区（`docs/spec/11-story-format.md` v4.0）+ **参照模板自检** | 硬性项按 spec 修；末尾的「v4.0 迁移欠债」只统计不阻断，按 `project-docs/story-format-todo.md` §零 分批处理 |
+| `check-format.js` | 正文骨架：H1 / 分幕 / 结束标记位置 / 评述区（`docs/spec/11-story-format.md` v4.0）+ §6 空行 + **参照模板自检** | 硬性项（含 `---` 紧贴正文）按 spec 修；末尾的「迁移欠债」与「§6 空行合并风险」（标签紧贴评述 / 标题后紧跟正文 / 引用块内未硬换行）只统计不阻断，按 `project-docs/story-format-todo.md` §零 分批处理 |
 | `check-structure.js` | 作品目录结构（`docs/spec/14-work-structure.md`） | 按结构守卫的归位对照表处理 |
 | `check-index.js` | 角色档案三级索引行数 = 档案数 | 跑 `sync-tables.js --write` |
 | `check-quotes.js` | 档案「登场原文」确实来自正文 | 逐条核对；「未定位」不是错误 |

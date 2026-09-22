@@ -32,14 +32,11 @@ for (const s of steps) {
   const t0 = Date.now();
   let code = 0;
   try {
-    const out = execFileSync(process.execPath, [path.join(QA, s.name + '.js'), ...s.args], {
-      encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'],
-    });
-    process.stdout.write(out);
+    // stdio: 'inherit' —— 不要用默认管道捕获子进程输出：
+    // DSH 等受限沙箱下子进程无法打开命名管道，pipe 模式会直接 EPERM（表现为退出码 2）。
+    execFileSync(process.execPath, [path.join(QA, s.name + '.js'), ...s.args], { stdio: 'inherit' });
   } catch (e) {
     code = typeof e.status === 'number' ? e.status : 2;
-    if (e.stdout) process.stdout.write(String(e.stdout));
-    if (e.stderr && code === 2) process.stderr.write(String(e.stderr));
   }
   const ms = Date.now() - t0;
   if (code === 0) {

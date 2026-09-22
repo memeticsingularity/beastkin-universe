@@ -14,6 +14,10 @@
 # Markdown 文件明确为文本
 *.md text eol=lf
 
+# cmd 遇到 LF-only 的 .bat 会从行首吃字符（见根 AGENTS.md）→ 批处理固定 CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
 # 其他二进制文件
 *.ico binary
 *.pdf binary
