@@ -376,14 +376,13 @@ Bounty Hunter
 
 - [兽盾世界观设定](../../../../../settings/1-recommended-canon/beastshield_setting_chinese.md)
 - [作品命名指南](../../../../../../../docs/work-naming-guide-chinese.md) (v2.3.0)
-- [通用故事模板指南](../../../../../../../docs/universal-story-template-guide-chinese.md) (v5.0)
+- [通用故事写法指南（skill）](../../../../../../../.dsh/skills/story-craft/references/universal-story-guide-chinese.md)
 
 **English**
 
 - [Beastshield Universe Settings](../../../../../settings/1-recommended-canon/beastshield_setting_chinese.md)
 - [Work Naming Guide](../../../../../../../docs/work-naming-guide-chinese.md) (v2.3.0)
-- [Universal Story Template Guide](../../../../../../../docs/universal-story-template-guide-chinese.md) (
-  v5.0)
+- [Universal story guide (skill)](../../../../../../../.dsh/skills/story-craft/references/universal-story-guide-english.md)
 
 ---
 
