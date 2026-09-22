@@ -29,6 +29,9 @@ const BANNED_DIRS = new Set(['notes', 'plan', 'plans', 'ai-discuss', 'ai-discuss
   'discussions', 'deepseek', 'chat', 'author-chat', 'insights', 'draft', 'drafts', 'en', 'chinese-copy']);
 const BANNED_DIR_RE = /(scrapped|scrap|deprecated|obsolete|_old|bak)$/i;
 const PROC_SUBDIRS = new Set(['plans', 'ai-discussion', 'author-chat', 'settings', 'history', 'archive']);
+// 仓库级非作品/非世界观目录：扫仓库根时跳过（归档区、工具区、模板骨架、快照等）
+const NON_PROJECT_DIRS = new Set(['.git', '.idea', '.vscode', '.dsh', '.dsh-tmp', 'node_modules',
+  'structure', 'templates', 'docs', 'scripts', 'project-docs', 'author']);
 const VOLUME_RE = /^volume-\d+$/;
 
 let works = 0, bad = 0;
@@ -124,7 +127,7 @@ function checkWork(w, problems) {
 
 function findWorks(d, out) {
   for (const e of listDir(d)) {
-    if (e.name === '.git' || e.name === 'templates' || e.name === 'node_modules') continue;
+    if (e.name === '.git' || NON_PROJECT_DIRS.has(e.name)) continue;
     const p = path.join(d, e.name);
     if (!e.isDirectory()) continue;
     if (fs.existsSync(path.join(p, 'metadata.yaml'))) { out.push(p); continue; }
@@ -134,7 +137,7 @@ function findWorks(d, out) {
 }
 
 // ---------- 世界观层校验（--world）：见 docs/spec/14-work-structure.md §2 ----------
-const WORLD_TOP_ALLOWED = new Set(['README.md', 'AGENTS.md', 'settings', 'images', 'skills',
+const WORLD_TOP_ALLOWED = new Set(['README.md', 'AGENTS.md', 'NEW-WORLD-CHECKLIST.md', 'settings', 'images', 'skills',
   'original-archives', 'adaptation-works', '.process', '.git', '.gitkeep']);
 const LANG_LAYER_ALLOWED = new Set(['chaptered-stories', 'short-stories', 'characters', 'images', 'README.md', '.gitkeep']);
 const ARCHIVE1_ALLOWED = new Set(['chinese', 'english', 'ai-discussion', 'characters', 'images', 'README.md', '.gitkeep']);
@@ -246,15 +249,22 @@ const WORLD_MODE = process.argv.includes('--world');
 
 if (WORLD_MODE) {
   const worldDirs = [];
+  const isWorldDir = abs => fs.existsSync(path.join(abs, 'original-archives')) ||
+    fs.existsSync(path.join(abs, 'adaptation-works')) ||
+    fs.existsSync(path.join(abs, 'settings'));
+  // 向下最多两层：传入仓库根时会先遇到 containers（如 worlds/），需要继续下钻
+  function collectWorlds(abs, depth) {
+    if (isWorldDir(abs)) { worldDirs.push(abs); return; }
+    if (depth <= 0) return;
+    for (const e of listDir(abs)) {
+      if (!e.isDirectory() || NON_PROJECT_DIRS.has(e.name)) continue;
+      collectWorlds(path.join(abs, e.name), depth - 1);
+    }
+  }
   for (const r of roots) {
     const abs = path.resolve(r);
     if (!fs.existsSync(abs)) { console.error('路径不存在: ' + r); process.exit(2); }
-    // 传入 worlds/ 或仓库根时，逐个世界观；传入单个世界观目录时只查它
-    const looksLikeWorld = fs.existsSync(path.join(abs, 'original-archives')) ||
-      fs.existsSync(path.join(abs, 'adaptation-works')) ||
-      fs.existsSync(path.join(abs, 'settings'));
-    if (looksLikeWorld) worldDirs.push(abs);
-    else for (const e of listDir(abs)) if (e.isDirectory() && e.name !== '.git') worldDirs.push(path.join(abs, e.name));
+    collectWorlds(abs, 2);
   }
 
   let wBad = 0, wTotal = 0, wWorks = 0;

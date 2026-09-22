@@ -180,7 +180,7 @@
 - `original-archives/english/short-stories/.gitkeep`
 - `settings/0-original-setting/.gitkeep`
 - `settings/1-recommended-canon/.gitkeep`
-- `settings/2-story-variants/.gitkeep`
+- `settings/3-story-variants/.gitkeep`
 
 ### united-beasts-alliance
 - `adaptation-works/chaptered-stories/.gitkeep`
@@ -189,7 +189,7 @@
 - `original-archives/english/short-stories/.gitkeep`
 - `settings/0-original-setting/.gitkeep`
 - `settings/1-recommended-canon/.gitkeep`
-- `settings/2-story-variants/.gitkeep`
+- `settings/3-story-variants/.gitkeep`
 
 ---
 

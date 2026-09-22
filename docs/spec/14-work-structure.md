@@ -41,10 +41,9 @@ worlds/<world>/
 ├── README.md                    # 必填：世界观总览 + 分级总览 + 作品索引
 ├── AGENTS.md                    # 可选：该世界专属的写作/设定规范
 ├── settings/                    # 世界观设定库
-│   ├── 0-original-setting/      # 原始设定（权威源）
-│   ├── 1-recommended-canon/     # 推荐设定（按场景裁剪）
-│   ├── 2-supplemental-settings/ # 补充设定
-│   └── 2-story-variants/        # 故事变体设定
+│   ├── 0-original-setting/          # 故事原版设定（未加工，冲突时以它为准）
+│   ├── 1-recommended-canon/         # 整理/修复后的推荐设定
+│   └── 2-story-specific-settings/   # 故事独有设定（支线/番外/变体）
 ├── images/                      # 世界观级图片（有图时含 README.md）
 ├── skills/                      # 可选：该世界专属 agent skills
 ├── original-archives/           # 原作（§2.2）
@@ -53,7 +52,7 @@ worlds/<world>/
 
 ### 2.1 顶层允许的条目（白名单）
 
-`README.md`、`AGENTS.md`、`settings/`、`images/`、`skills/`、`original-archives/`、`adaptation-works/`、`.process/`。
+`README.md`、`AGENTS.md`、`NEW-WORLD-CHECKLIST.md`（脚手架生成，可删）、`settings/`、`images/`、`skills/`、`original-archives/`、`adaptation-works/`、`.process/`。
 **其他目录名一律不合规**（尤其禁止 `templates/`、`notes/`、`docs/` 出现在世界观层——模板属于仓库根 `templates/`）。
 
 ### 2.2 `original-archives/`（原作）

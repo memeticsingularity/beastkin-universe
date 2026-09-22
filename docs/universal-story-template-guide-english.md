@@ -68,13 +68,15 @@ flowchart TD
 ```
 
 **Step 1: Select Template**
-Copy the appropriate template from the `/templates/` directory based on the language of creation:
+Run the generator, or take the skeleton by language:
+`node scripts/new-work.js --world <world> --form <cm|cs|s> --code <code> --title-zh "<Title>"` (skeleton source:
+`templates/world-template/work-template/`). Writing guidance:
 
 - For Chinese
-  creation: [universal-story-template-chinese.md](../templates/universal-story-template-chinese.md) (
+  creation: [universal-story-guide-chinese.md](../.dsh/skills/story-craft/references/universal-story-guide-chinese.md) (
   v5.0)
 - For English
-  creation: [universal-story-template-english.md](../templates/universal-story-template-english.md) (
+  creation: [universal-story-guide-english.md](../.dsh/skills/story-craft/references/universal-story-guide-english.md) (
   v5.0)
 
 **Step 2: Determine Basic Work Information**
@@ -481,10 +483,10 @@ new world module under `worlds/`.
 
 1. **Template Files**:
     - Chinese
-      Template: [universal-story-template-chinese.md](../templates/universal-story-template-chinese.md) (
+      Template: [universal-story-template-chinese.md](../.dsh/skills/story-craft/references/universal-story-guide-chinese.md) (
       v5.0)
     - English
-      Template: [universal-story-template-english.md](../templates/universal-story-template-english.md) (
+      Template: [universal-story-template-english.md](../.dsh/skills/story-craft/references/universal-story-guide-english.md) (
       v5.0)
 
 2. **Naming Guides**:

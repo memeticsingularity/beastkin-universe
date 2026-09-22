@@ -22,7 +22,7 @@ The *Beast Shield: Reforged* settings library stores core rules, background lore
 |------|------|
 | `0-original-setting/` | 原作设定：原作者提供的原始设定，具有最高权威性 |
 | `1-recommended-canon/` | 推荐正典：经整理验证、被广泛接受的扩展设定 |
-| `2-story-variants/` | 故事变体：特定作品或改编中使用的差异化设定 |
+| `2-story-specific-settings/` | 故事独有设定：仅特定作品/支线/番外使用的差异化设定 |
 
 ---
 
@@ -32,7 +32,7 @@ The *Beast Shield: Reforged* settings library stores core rules, background lore
 |-----------|-------------|
 | `0-original-setting/` | Original settings provided by the author; highest authority |
 | `1-recommended-canon/` | Verified and widely accepted expanded canon |
-| `2-story-variants/` | Differentiated settings used in specific works or adaptations |
+| `2-story-specific-settings/` | Settings used only by specific works, side stories or extras |
 
 ---
 
@@ -40,7 +40,7 @@ The *Beast Shield: Reforged* settings library stores core rules, background lore
 
 1. **优先使用原作设定**：创作时应首先参考 `0-original-setting/`
 2. **补充使用推荐正典**：原作未覆盖的内容可参考 `1-recommended-canon/`
-3. **标注变体设定**：若使用 `2-story-variants/` 中的设定，需在作品中明确标注
+3. **标注故事独有设定**：若使用 `2-story-specific-settings/` 中的设定，需在作品中明确标注
 
 ---
 
@@ -48,7 +48,7 @@ The *Beast Shield: Reforged* settings library stores core rules, background lore
 
 1. **Prioritize original settings**: Start with `0-original-setting/` for all creations
 2. **Supplement with recommended canon**: Use `1-recommended-canon/` for gaps not covered by original settings
-3. **Label variant settings**: Clearly mark when using settings from `2-story-variants/`
+3. **Label story-specific settings**: Clearly mark when using settings from `2-story-specific-settings/`
 
 ---
 

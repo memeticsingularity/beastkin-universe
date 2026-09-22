@@ -15,7 +15,8 @@ beastkin-universe/
 ├── project-docs/           # 项目级文档（如 restructure-2026 重构记录）
 ├── author/                 # 作者风格分析与写作技能库
 ├── structure/              # 结构生成产物
-├── templates/              # 纯净模板
+├── templates/              # 模板（仅骨架）：world-template/（含 work-template/）+ repo-root-README.md
+├── .dsh/skills/            # agent skills（写法/流程/校验规范，模板只给骨架）
 ├── worlds/                 # 全部世界观（各世界观可自带 AGENTS.md）
 ├── .gitignore
 ├── AGENTS.md               # 项目指令（AI 协作约定）
@@ -35,9 +36,9 @@ beastkin-universe/
 worlds/{world}/
 ├── README.md               # 世界观总览 + 作品索引入口
 ├── settings/               # 统一使用复数 settings
-│   ├── 0-original-setting/
-│   ├── 1-recommended-canon/
-│   └── 2-story-variants/
+│   ├── 0-original-setting/          # 故事原版设定（未加工，冲突时以它为准）
+│   ├── 1-recommended-canon/         # 整理/修复后的推荐设定
+│   └── 2-story-specific-settings/   # 故事独有设定（支线/番外/变体）
 ├── original-archives/
 │   ├── chinese/
 │   │   ├── chaptered-stories/

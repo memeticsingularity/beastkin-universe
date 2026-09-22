@@ -157,23 +157,38 @@ the [Story Format Spec](docs/spec/11-story-format.md).
 
 #### 3.1.3 使用模板 / Use Templates
 
-请使用我们提供的模板：
+**推荐直接用生成器**（骨架源＝`templates/world-template/work-template/`，自动落到规范路径）：
 
-- 分章故事模板：`templates/adaptation-work-template/chaptered-story/`
-- 短篇故事模板：`templates/adaptation-work-template/short-story/`
+```bash
+node scripts/new-work.js --world <world> --form <cm|cs|s> --code <作品编码> --title-zh "<中文标题>"
+```
 
-**重要提示**：请使用最新版本的模板，确保包含 `form_type` 字段（v3.0 规范必填字段）。
+手动复制时用这些路径：
+
+- 共用骨架：`templates/world-template/work-template/common/`
+- 分章故事形态：`templates/world-template/work-template/forms/chaptered/`
+- 短篇故事形态：`templates/world-template/work-template/forms/short/`
+- 故事正文怎么写（填充指导）：skill `.dsh/skills/story-craft`
+
+**重要提示**：模板只给骨架（有哪些文件、放哪里）；确保 `metadata.yaml` 含 v3.0 规范必填的 `form_type` 字段。
 
 ---
 
-Please use our provided templates:
+**Recommended: use the generator** (skeleton source = `templates/world-template/work-template/`):
 
-- Chaptered story template: `templates/adaptation-work-template/chaptered-story/`
-- Short story template: `templates/adaptation-work-template/short-story/`
+```bash
+node scripts/new-work.js --world <world> --form <cm|cs|s> --code <code> --title-zh "<Title>"
+```
 
-**Important**: Please use the latest version of templates, ensuring they include the `form_type`
-field (v3.0 spec required
-field).
+When copying manually:
+
+- Common skeleton: `templates/world-template/work-template/common/`
+- Chaptered form: `templates/world-template/work-template/forms/chaptered/`
+- Short form: `templates/world-template/work-template/forms/short/`
+- How to fill the body: skill `.dsh/skills/story-craft`
+
+**Important**: templates provide the skeleton only; make sure `metadata.yaml` includes the `form_type`
+field required by the v3.0 spec.
 
 ---
 
@@ -831,7 +846,7 @@ The only requirement is to respect the basic settings of the world.
 
 您可以通过以下方式处理设定修改：
 
-1. 在 `settings/2-story-variants/` 中记录您的特殊设定
+1. 在 `settings/2-story-specific-settings/` 中记录您的特殊设定
 2. 在作品元数据中说明设定偏离
 3. 通过 Issues 或讨论区提出设定改进建议
 
@@ -839,7 +854,7 @@ The only requirement is to respect the basic settings of the world.
 
 You can handle setting modifications in the following ways:
 
-1. Record your special settings in `settings/2-story-variants/`
+1. Record your special settings in `settings/2-story-specific-settings/`
 2. Explain setting deviations in work metadata
 3. Propose setting improvements through Issues or discussion forums
 

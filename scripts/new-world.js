@@ -54,6 +54,8 @@ function copyDir(src, dst) {
   fs.mkdirSync(dst, { recursive: true });
   dirs++;
   for (const e of fs.readdirSync(src, { withFileTypes: true })) {
+    // 作品模板只留在仓库模板里，不随世界观骨架复制
+    if (e.name === 'work-template') continue;
     const s = path.join(src, e.name), d = path.join(dst, e.name);
     if (e.isDirectory()) { copyDir(s, d); continue; }
     const ext = path.extname(e.name).toLowerCase();

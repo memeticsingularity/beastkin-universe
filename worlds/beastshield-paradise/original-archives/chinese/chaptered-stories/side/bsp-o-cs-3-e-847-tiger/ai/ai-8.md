@@ -4,7 +4,7 @@
 [ch-2.md](../ch-002-1.md)
 [ch-3.md](../ch-002-2.md)
 [ch-4.md](../ch-002-3.md)
-[universal-story-template-chinese.md](../../../../../../../../templates/universal-story-template-chinese.md)
+[universal-story-template-chinese.md](../../../../../../../../.dsh/skills/story-craft/references/universal-story-guide-chinese.md)
 [a-players-warm-heart-chinese.md](../../../../../../settings/a-players-warm-heart-chinese.md)
 [beastshield_setting_chinese.md](../../../../../../../beastshield/settings/1-recommended-canon/beastshield_setting_chinese.md)
 

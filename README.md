@@ -241,7 +241,8 @@ beastkin-universe/
 ├── author/                  # 作者风格分析与写作技能库
 ├── structure/               # 结构生成产物
 ├── scripts/                 # 维护脚本（含 qa/ 一致性校验工具）
-├── templates/               # 创作模板
+├── templates/               # 模板（仅骨架）：world-template/ + repo-root-README.md
+├── .dsh/skills/             # agent skills：story-craft / story-format-guard / work-scaffold / structure-guard 等
 ├── worlds/                  # 全部世界观
 │   ├── beastshield/         # 兽盾 — 黑暗企业帝国
 │   ├── beastshield-online/  # 兽游世界 — VR 网游

@@ -2,7 +2,7 @@
 
 [story-guide-chinese.md](../../../settings/story-guide-chinese.md)
 [a-players-warm-heart-chinese.md](../../../settings/a-players-warm-heart-chinese.md)
-[eks-story-template-chinese.md](../../../../../templates/eks-story-template-chinese.md)
+[eks-story-template-chinese.md](../../../../../.dsh/skills/story-craft/references/eks-story-guide-chinese.md)
 [s-001-final-thirty-days.md](../../../../empire-kik-soldiers/adaptation-works/short-stories/s-001-final-thirty-days.md)
 
 你应该知道，这个对话，你要创作的，是什么故事了吧？

@@ -1,4 +1,6 @@
-> **Deprecated**: 本文档已被 v3.0 规范替代。故事格式见 `docs/spec/11-story-format.md`，模板见 `templates/chapter.md` 和 `templates/short-story.md`。本文档保留 6 个月作为过渡期兼容。
+> **Deprecated**: 本文档已被 v3.0 规范替代。故事格式见 `docs/spec/11-story-format.md`；
+> 骨架见 `templates/world-template/work-template/`；怎么写见 skill `.dsh/skills/story-craft`
+> （其 `references/` 保留了本文档的现行版本）。本文档保留 6 个月作为过渡期兼容。
 
 # 通用故事模板使用指南 5.0（新命名体系完全适配版）
 
@@ -53,11 +55,13 @@ flowchart TD
 ```
 
 **第一步：选择模板**
-根据创作语言，从 `/templates/` 目录中复制对应模板：
+先跑生成器，或按创作语言取用骨架：
+`node scripts/new-work.js --world <世界> --form <cm|cs|s> --code <编码> --title-zh "<标题>"`（骨架源 `templates/world-template/work-template/`）；
+中文/英文写法指导见：
 
-- 中文创作：[universal-story-template-chinese.md](../templates/universal-story-template-chinese.md)
+- 中文创作：[universal-story-guide-chinese.md](../.dsh/skills/story-craft/references/universal-story-guide-chinese.md)
   （v5.0）
-- 英文创作：[universal-story-template-english.md](../templates/universal-story-template-english.md)
+- 英文创作：[universal-story-guide-english.md](../.dsh/skills/story-craft/references/universal-story-guide-english.md)
   （v5.0）
 
 **第二步：确定作品基础信息**
@@ -420,10 +424,10 @@ worlds/{世界观}/original-archives/{语言}/{形式}/{子类型}/
 
 1. **模板文件**：
    -
-   中文模板：[universal-story-template-chinese.md](../templates/universal-story-template-chinese.md)
+   中文模板：[universal-story-template-chinese.md](../.dsh/skills/story-craft/references/universal-story-guide-chinese.md)
    （v5.0）
     -
-   英文模板：[universal-story-template-english.md](../templates/universal-story-template-english.md)
+   英文模板：[universal-story-template-english.md](../.dsh/skills/story-craft/references/universal-story-guide-english.md)
    （v5.0）
 
 2. **命名指南**：

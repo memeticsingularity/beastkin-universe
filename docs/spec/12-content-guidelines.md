@@ -107,4 +107,4 @@
 ---
 
 *版本: 3.0*
-*替代: templates/beastshield-writing-guidelines.md（精简版）*
+*替代: worlds/beastshield/skills/lanse-write/beastshield-writing-guidelines.md（精简版）*

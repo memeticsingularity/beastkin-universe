@@ -35,6 +35,9 @@ function walk(dir) {
 function scan(file) {
   // 模板目录内的链接一律指向占位符或示例路径，不参与校验
   if (file.split(path.sep).includes('templates')) { filesScanned++; return; }
+  // 历史归档目录（被取代的旧文档/旧模板）保持原样，不参与链接校验
+  const relToCwd = path.relative(process.cwd(), file).replace(/\\/g, '/');
+  if (relToCwd.startsWith('project-docs/archive/')) { filesScanned++; return; }
   filesScanned++;
   const lines = fs.readFileSync(file, 'utf8').replace(/^\uFEFF/, '').split(/\r?\n/);
   let inFence = false;

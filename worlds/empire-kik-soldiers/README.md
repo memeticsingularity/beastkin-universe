@@ -59,8 +59,8 @@ The narrative revolves around several key threads: the rise of Black Sock soldie
 - **罐头兵**：系统bug改造的特殊黑袜兵，套着"撸杀黑袜"持续充血，是虎猛亲卫队专属兵种。【extra-003】
 - **灰袜兵与见习军袜**：灰袜兵为后勤兵种（灰色军袜，无撸杀权限），见习军袜为幼崽规训符号。【extra-001】
 
-详细设定请参阅：[settings/](settings/)（推荐从 [完整设定集](settings/1-complete-setting/empire-kik-soldiers-setting-complete.md) 开始）
-番外专有设定参见：[extra-001设定集](settings/2-supplemental-settings/extra-001-settings.md) · [extra-002设定集](settings/2-supplemental-settings/extra-002-settings.md) · [extra-003设定集](settings/2-supplemental-settings/extra-003-settings.md)
+详细设定请参阅：[settings/](settings/)（推荐从 [完整设定集](settings/1-recommended-canon/empire-kik-soldiers-setting-complete.md) 开始）
+番外专有设定参见：[extra-001设定集](settings/2-story-specific-settings/extra-001-settings.md) · [extra-002设定集](settings/2-story-specific-settings/extra-002-settings.md) · [extra-003设定集](settings/2-story-specific-settings/extra-003-settings.md)
 
 ---
 
@@ -74,8 +74,8 @@ The narrative revolves around several key threads: the rise of Black Sock soldie
 - **Canned Soldiers**: Bug-modified black-sock soldiers wearing permanent "ejaculation-kill socks," kept semi-erect at all times, exclusive to Hu Meng's personal guard. 【extra-003】
 - **Grey-Sock Soldiers & Apprentice Socks**: Grey-sock soldiers handle logistics (no execution authority); apprentice socks are cub discipline symbols. 【extra-001】
 
-For detailed settings, see: [settings/](settings/) (recommended: start with the [Complete Setting](settings/1-complete-setting/empire-kik-soldiers-setting-complete.md))
-Extra-exclusive settings: [Extra-001](settings/2-supplemental-settings/extra-001-settings.md) · [Extra-002](settings/2-supplemental-settings/extra-002-settings.md) · [Extra-003](settings/2-supplemental-settings/extra-003-settings.md)
+For detailed settings, see: [settings/](settings/) (recommended: start with the [Complete Setting](settings/1-recommended-canon/empire-kik-soldiers-setting-complete.md))
+Extra-exclusive settings: [Extra-001](settings/2-story-specific-settings/extra-001-settings.md) · [Extra-002](settings/2-story-specific-settings/extra-002-settings.md) · [Extra-003](settings/2-story-specific-settings/extra-003-settings.md)
 
 ---
 

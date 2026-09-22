@@ -356,8 +356,9 @@ This story uses the following special settings:
     - In the corresponding world's `adaptation-works/[format]/` directory
     - Create new folder using the full work code name
 
-3. **Copy Template Files**
-    - Copy corresponding template from `templates/adaptation-work-template/`
+3. **Generate the Skeleton**
+    - Recommended: `node scripts/new-work.js --world <world> --form <cm|cs|s> --code <code> --title-zh "<Title>"` (add `--dry` to preview)
+    - Manual: copy `common/` + `forms/{chaptered|short}/` from `templates/world-template/work-template/`
     - Modify folder name and internal file content
 
 4. **Modify File Content**
@@ -434,12 +435,14 @@ Check the following when creating files:
 
 ## 12. Template Locations
 
-The project provides standard templates at:
+The project keeps a single world + work skeleton under `templates/world-template/`:
 
-- Chaptered story template: `templates/adaptation-work-template/chaptered-story/`
-- Short story template: `templates/adaptation-work-template/short-story/`
+- Common work skeleton: `templates/world-template/work-template/common/`
+- Chaptered form: `templates/world-template/work-template/forms/chaptered/`
+- Short form: `templates/world-template/work-template/forms/short/`
 
-Use these templates as starting points to ensure consistent structure across all works.
+Prefer the generator: `node scripts/new-work.js --world <world> --form <cm|cs|s> --code <code> --title-zh "<Title>"`.
+How to write the body is covered by the skill `.dsh/skills/story-craft`.
 
 ---
 

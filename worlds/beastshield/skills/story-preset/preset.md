@@ -122,7 +122,7 @@
 - 允许章长为 1 个处决或 3 个处决——按"写到 high 就收"的自然节奏断，不硬凑。
 
 ### B9 感官在场（五感齐备 · 事后层）
-> 依据 `templates/beastshield-writing-guidelines.md` §2.1「极致感官体验」＋ §2.2「身体描写规范」。
+> 依据 `lanse-write/beastshield-writing-guidelines.md` §2.1「极致感官体验」＋ §2.2「身体描写规范」。
 > **不是"至少 3 种"，是五感都要有。**
 
 | 感官 | 描写重点 |
@@ -257,9 +257,9 @@
 *版本 v1.2 · 2026-09-15*
 *v1.0 → v1.1：新增**闸门 C · 设定溯源**（数值／事实不得自创）。*
 *v1.1 → v1.2：**B9 升级为五感齐备**（原为"≥3 种"），补**身体描写四件套**与**"事后层"**
-（气味留存／尸体装桶／围观者看见并议论）——依据 `templates/beastshield-writing-guidelines.md` §2.1／§2.2。
+（气味留存／尸体装桶／围观者看见并议论）——依据 `lanse-write/beastshield-writing-guidelines.md` §2.1／§2.2。
 
 起因：执行故事结尾缺精液余味、尸体处理与围观反应。*
 *来源：`lanse-write-skill.md` v1.4 · `adaptation-workflow.md` v1.0 · `lanse-style-checklist.md` v1.2 ·
-`style-guide.md` §12–§21 · `templates/beastshield-writing-guidelines.md` §2 · `settings/0-original-setting/world-setting.md` §7.2（赏金表）·
+`style-guide.md` §12–§21 · `lanse-write/beastshield-writing-guidelines.md` §2 · `settings/0-original-setting/world-setting.md` §7.2（赏金表）·
 `.process/POLISH-BENCHMARK.md`（大狗 6 射点）*

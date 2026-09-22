@@ -356,8 +356,9 @@ creation:
     - 在对应世界观的 `adaptation-works/[对应目录]/` 下创建文件夹
     - 对于分章故事，无需区分main/side目录，直接放在 `chaptered-stories/` 下
 
-3. **复制模板文件**
-    - 从 `templates/adaptation-work-template/` 复制对应模板
+3. **生成骨架**
+    - 推荐：`node scripts/new-work.js --world <世界> --form <cm|cs|s> --code <编码> --title-zh "<标题>"`（先加 `--dry` 预览）
+    - 手动：从 `templates/world-template/work-template/` 复制 `common/` + `forms/{chaptered|short}/`
     - 修改文件夹名称和内部文件内容
 
 4. **修改文件内容**
@@ -447,12 +448,14 @@ creation:
 
 ## 12. 模板位置
 
-项目提供了标准模板，位于：
+项目只保留一套世界观+作品骨架，位于 `templates/world-template/`：
 
-- 分章故事模板：`templates/adaptation-work-template/chaptered-story/`
-- 短篇故事模板：`templates/adaptation-work-template/short-story/`
+- 作品共用骨架：`templates/world-template/work-template/common/`
+- 分章故事形态：`templates/world-template/work-template/forms/chaptered/`
+- 短篇故事形态：`templates/world-template/work-template/forms/short/`
 
-请使用这些模板作为起点，确保所有作品结构一致。
+推荐直接用生成器 `node scripts/new-work.js --world <world> --form <cm|cs|s> --code <编码> --title-zh "<标题>"`
+（自动复制骨架并替换占位符）。正文怎么写由 skill `.dsh/skills/story-craft` 负责。
 
 ---
 

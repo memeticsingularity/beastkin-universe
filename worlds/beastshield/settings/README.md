@@ -11,7 +11,7 @@
 |------|------|-------------|
 | [`0-original-setting/`](0-original-setting/) | 官方原始设定 | Official original settings |
 | [`1-recommended-canon/`](1-recommended-canon/) | 推荐正典 | Recommended canon |
-| [`2-story-variants/`](2-story-variants/) | 故事变体 | Story variants |
+| [`2-story-specific-settings/`](2-story-specific-settings/) | 故事独有设定（支线/番外） | Story-specific settings |
 
 ---
 

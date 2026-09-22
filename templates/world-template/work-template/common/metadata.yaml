@@ -1,0 +1,22 @@
+# Beastkin Universe Metadata v3.0
+# 占位符：{作品编码} {中文标题} {English Title} {世界} {类型} {YYYY-MM-DD}
+work:
+  code: "{作品编码}"
+  title:
+    chinese: "{中文标题}"
+    english: "{English Title}"
+  format: "chaptered-story"     # chaptered-story | short-story
+  form_type: "{类型}"           # cm=主线分章 | cs=支线分章 | s=短篇
+  status: "drafting"            # drafting | updating | completed | abandoned
+  location: "adaptation-works"  # original-archives | adaptation-works
+  subtype: ""
+  promotion_status: "not_eligible"
+  work_type: "adaptation"       # full-original | adaptation
+  tags: []
+  content_warnings: []
+
+creation:
+  author: ""
+  start_date: "{YYYY-MM-DD}"
+  last_update: "{YYYY-MM-DD}"
+  universe_based_on: "{世界}"

@@ -38,7 +38,7 @@ v2.3.0。
 - [Project Structure Guide](../docs/project-structure-guide.md)
 - [Work Naming Guide v2.3.0](../docs/work-naming-guide-chinese.md)
 - [Universal Story Template Guide](../docs/universal-story-template-guide-chinese.md)
-- [Metadata Template v2.3.0](../templates/metadata-template.yaml)
+- [Metadata Template v2.3.0](../templates/world-template/work-template/common/metadata.yaml)
 - [Metadata Schema v2.3.0](../.schemas/metadata-schema.json)
 
 ---

@@ -30,8 +30,8 @@ The Beastshield Paradise settings library stores core worldview settings, develo
 
 | 文档 | 说明 | 链接 |
 |------|------|------|
-| DeepSeek 讨论：从不适到庇护所 | 与 DeepSeek 的创作理念讨论记录 | [development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-chinese.md](development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-chinese.md) |
-| DeepSeek 讨论：英文版 | English version of the discussion | [development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-english.md](development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-english.md) |
+| DeepSeek 讨论：从不适到庇护所 | 与 DeepSeek 的创作理念讨论记录 | [development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-chinese.md](../.process/plans/development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-chinese.md) |
+| DeepSeek 讨论：英文版 | English version of the discussion | [development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-english.md](../.process/plans/development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-english.md) |
 
 ### 临时文档 / Temporary Documents
 
@@ -53,8 +53,8 @@ The Beastshield Paradise settings library stores core worldview settings, develo
 
 | Document | Description | Link |
 |----------|-------------|------|
-| DeepSeek Discussion: From Discomfort to Sanctuary | Creative philosophy discussion with DeepSeek | [development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-chinese.md](development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-chinese.md) |
-| DeepSeek Discussion: English Version | English version of the discussion | [development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-english.md](development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-english.md) |
+| DeepSeek Discussion: From Discomfort to Sanctuary | Creative philosophy discussion with DeepSeek | [development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-chinese.md](../.process/plans/development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-chinese.md) |
+| DeepSeek Discussion: English Version | English version of the discussion | [development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-english.md](../.process/plans/development-logs/discuss-with-deepseek/2025-12-15-from-discomfort-to-sanctuary-the-gentle-revolution-english.md) |
 
 ### Temporary Documents
 
@@ -70,7 +70,7 @@ The Beastshield Paradise settings library stores core worldview settings, develo
 |------|------|
 | `核心宣言` | [玩家的暖心](a-players-warm-heart-chinese.md) |
 | `世界观基础` | [兽盾设定](beastshield_setting_chinese.md) |
-| `开发记录` | [DeepSeek 讨论](development-logs/discuss-with-deepseek/) |
+| `开发记录` | [DeepSeek 讨论](../.process/plans/development-logs/discuss-with-deepseek/) |
 | `心愿模组` | memeticsingularity核心（原 tmp/ 文档已移除） |
 
 ---
@@ -83,7 +83,7 @@ The Beastshield Paradise settings library stores core worldview settings, develo
 |-------|-----------|
 | `manifesto` | [A Player's Warm Heart](a-players-warm-heart-english.md) |
 | `worldview base` | [Beastshield Setting](beastshield_setting_chinese.md) |
-| `development logs` | [DeepSeek Discussion](development-logs/discuss-with-deepseek/) |
+| `development logs` | [DeepSeek Discussion](../.process/plans/development-logs/discuss-with-deepseek/) |
 | `wish modules` | Memetic Singularity Core (former tmp/ documents removed) |
 
 ---

@@ -21,7 +21,7 @@ node scripts/new-world.js --world <world> --title-zh "<中文名>"
 ```
 worlds/<world>/
 ├── README.md  AGENTS.md(可选)  NEW-WORLD-CHECKLIST.md
-├── settings/{0-original-setting,1-recommended-canon,2-supplemental-settings,2-story-variants}/
+├── settings/{0-original-setting,1-recommended-canon,2-story-specific-settings}/
 ├── images/README.md   skills/README.md
 ├── original-archives/{chinese/{chaptered-stories/{main,side},short-stories,characters},english/...,ai-discussion/}
 └── adaptation-works/{chaptered-stories,short-stories}/

@@ -23,7 +23,7 @@ United Beasts Alliance settings library, organized by hierarchy. Contains origin
 |------|---------|---------|------|------|
 | 0 | 原作设定 | Original Setting | 作者提供的原始设定 | [目录](0-original-setting/) |
 | 1 | 推荐正史 | Recommended Canon | 经整理的核心正史设定 | [目录](1-recommended-canon/) |
-| 2 | 故事变体 | Story Variants | 不同版本或分支设定 | [目录](2-story-variants/) |
+| 2 | 故事独有设定 | Story-Specific Settings | 仅特定作品/支线/番外使用的设定 | [目录](2-story-specific-settings/) |
 
 ---
 
@@ -33,7 +33,7 @@ United Beasts Alliance settings library, organized by hierarchy. Contains origin
 |------|-------|-------------|------|
 | 0 | Original Setting | Original settings provided by the author | [Directory](0-original-setting/) |
 | 1 | Recommended Canon | Curated core canonical settings | [Directory](1-recommended-canon/) |
-| 2 | Story Variants | Different versions or branch settings | [Directory](2-story-variants/) |
+| 2 | Story-Specific Settings | Settings used only by specific works, side stories or extras | [Directory](2-story-specific-settings/) |
 
 ---
 
@@ -45,7 +45,7 @@ United Beasts Alliance settings library, organized by hierarchy. Contains origin
 |------|------|
 | 原作 / Original | [0-original-setting/](0-original-setting/) |
 | 正史 / Canon | [1-recommended-canon/](1-recommended-canon/) |
-| 变体 / Variants | [2-story-variants/](2-story-variants/) |
+| 故事独有 / Story-Specific | [2-story-specific-settings/](2-story-specific-settings/) |
 
 ---
 
@@ -57,7 +57,7 @@ United Beasts Alliance settings library, organized by hierarchy. Contains origin
 |------|----------|
 | Original | [0-original-setting/](0-original-setting/) |
 | Canon | [1-recommended-canon/](1-recommended-canon/) |
-| Variants | [2-story-variants/](2-story-variants/) |
+| Story-Specific | [2-story-specific-settings/](2-story-specific-settings/) |
 
 ---
 

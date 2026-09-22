@@ -1,134 +1,51 @@
-# {中文标题} / {English Title}
+# 模板目录 / Templates
 
-> 状态：{updating|completed|abandoned} · 编码：`{code}` · 作者：{author} · 最后更新：{YYYY-MM-DD}
+> **一句话**：`templates/` 只提供**骨架**——有哪些文件、放在哪、叫什么。
+> "内容怎么写"归 **skills**，"规则是什么"归 **spec**。
 
----
+## 三件套分工
 
-## 一、简介 / Introduction
+| 层 | 位置 | 职责 | 何时改 |
+|---|------|------|--------|
+| **规范** | `docs/spec/`（14=结构 · 11=正文格式 · 13=分级 · 04=元数据 · 01=项目结构） | 强制规则，校验器执行 | 规则变化时 |
+| **模板** | 本目录 | 骨架：目录与文件、占位符 | 骨架变化时 |
+| **skill** | `.dsh/skills/` | 填充指导：`story-craft`（怎么写）· `story-format-guard`（格式自检）· `work-scaffold`（新建流程）· `structure-guard`（改结构）· `qa-runner` · `link-doctor` · `archive-curator` | 写法/流程变化时 |
 
-**一句话钩子**：{用一句话勾起阅读欲望，不要平铺直叙}
+## 目录
 
-{100-300字无剧透故事梗概。交代世界观背景、主角处境、核心冲突，但不泄露关键转折和结局。}
+```
+templates/
+├── README.md                     # 本文件
+├── world-template/               # 世界观骨架（唯一来源；new-world.js 复制它）
+│   ├── README.md  AGENTS.md  NEW-WORLD-CHECKLIST.md
+│   ├── settings/{0-original-setting,1-recommended-canon,2-story-specific-settings}/
+│   ├── images/  skills/
+│   ├── original-archives/{chinese,english,ai-discussion}/
+│   ├── adaptation-works/
+│   └── work-template/            # ★ 作品骨架（new-work.js 复制它；不随世界观复制）
+│       ├── common/               #   README / metadata / chapters 索引 / images / .process 全套
+│       └── forms/{chaptered,short}/chapters/   #   分章 ch-001-template.md / 短篇 {作品编码}.md
+└── repo-root-README.md           # 仓库根 README 骨架（唯一非世界观模板）
+```
 
----
+## 生成器（模板是唯一骨架源）
 
-**One-line Hook**: {One sentence that sparks curiosity}
+```bash
+node scripts/new-world.js --world <world> --title-zh "<中文名>" [--dry]
+node scripts/new-work.js  --world <world> --form <cm|cs|s> --code <编码> --title-zh "<标题>" [--dry]
+```
 
-{English introduction, 50-100 words, spoiler-free.}
+两者都**直接复制模板并替换占位符**，不在脚本里内嵌内容——改模板即改产物。
 
----
+## 占位符
 
-## 二、内容分级与警告 / Content Rating & Warnings
+`{作品编码}` `{中文标题}` `{English Title}` `{世界}` `{类型}` `{YYYY-MM-DD}` `{lang}`
 
-> **⚠️ 内容分级与警告 / Content Rating & Warnings**
->
-> **成人内容 / 18+ ONLY**
->
-> | 维度 Dimension | 级别 Level | 说明 Description |
-> |:--|:--:|:--|
-> | 🔞 性内容 / Sexual Content | **Lv.{0–5}** | {说明} |
-> | 💀 暴力与死亡 / Violence & Death | **Lv.{0–5}** | {说明} |
-> | 🧠 心理黑暗度 / Psychological Darkness | **Lv.{0–5}** | {说明} |
-> | ⚡ 特殊触发 / Specific Triggers | — | `{trigger1}` `{trigger2}` |
->
-> ⚠️ **世界观核心机制说明**：{本作品所在世界观的核心机制说明}。
->
-> **请确保您已年满18周岁 / Please ensure you are at least 18 years old.**
-> 如不适应当前内容，请立即停止阅读 / If the content makes you uncomfortable, please stop reading immediately.
+## 历史
 
----
-
-## 三、内容标签与核心元素 / Content Tags & Core Elements
-
-### 🐾 物种 / Species
-{种族列表}
-
-### 🔞 情色与身体 / Erotic & Bodily
-`{tag1}` `{tag2}`
-
-### ⚔️ 死亡与暴力 / Death & Violence
-`{tag1}` `{tag2}`
-
-### 🏛️ 权力与关系 / Power & Relations
-`{tag1}` `{tag2}`
-
-### 🎭 主题与情感 / Themes & Emotions
-`{tag1}` `{tag2}`
-
-### 🎨 叙事与风格 / Narrative & Style
-`{tag1}` `{tag2}`
-
-### 🗺️ 核心场景 / Key Settings
-`{tag1}` `{tag2}`
-
-### 🧩 世界观机制 / World Mechanics
-`{tag1}` `{tag2}`
-
-### 🎯 结局指向 / Ending Tendency
-`{tag1}` `{tag2}`
-
----
-
-## 四、主要角色 / Characters
-
-| 角色名 | 种族 | 身份/职业 | 简介（无剧透） |
-|--------|------|----------|---------------|
-| {姓名} | {种族} | {身份} | {一句话描述角色定位，不泄露命运} |
-
----
-
-## III. Characters
-
-| Name | Species | Role | Brief Description |
-|------|---------|------|-------------------|
-| {Name} | {Species} | {Role} | {One-line description, spoiler-free} |
-
----
-
-## 五、章节列表 / Chapters
-
-| 章节 | 标题 | 链接 |
-|------|------|------|
-| Ch.1 | {标题} | [阅读](chapters/ch-01.md) |
-| Ch.2 | {标题} | [阅读](chapters/ch-02.md) |
-
----
-
-## IV. Chapters
-
-| Chapter | Title | Link |
-|---------|-------|------|
-| Ch.1 | {Title} | [Read](chapters/ch-01.md) |
-| Ch.2 | {Title} | [Read](chapters/ch-02.md) |
-
----
-
-## 六、关联作品 / Related Works
-
-- 原作/改编来源：{code} — {作品名}
-- 同一世界观：{code} — {作品名}
-
----
-
-## V. Related Works
-
-- Original / Source: {code} — {Title}
-- Same Universe: {code} — {Title}
-
----
-
-## 七、创作留痕 / Creation Trail
-
-- [查看变更日志](.process/CHANGELOG.md)
-- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
-
----
-
-## VI. Creation Trail
-
-- [View Changelog](.process/CHANGELOG.md)
-- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
-
----
-
-*最后更新：YYYY-MM-DD · Last updated: YYYY-MM-DD*
+- 2026-09-22：6 份重复的作品模板（`adaptation-work-template/`、`original-work-template/`）收敛为
+  **一棵 `world-template/` 树**；原先写在模板里的写作指导迁入 skill
+  `.dsh/skills/story-craft/references/`；旧模板与旧指南归档于
+  `project-docs/archive/templates-legacy-2026-09/`（归档目录不参与链接校验）。
+- 同日：设定层定为三层 `0/1/2`——`0` 故事原版设定 · `1` 整理/修复后推荐设定 · `2` 故事独有设定
+  （原 `2-story-variants` 与变体层语义重复，已合并进第 2 层）。

@@ -59,28 +59,28 @@
 [//]: # (Please select one navigation bar configuration based on work nature and chapter position:)
 
 [//]: # (Configuration 1: Short Original Navigation)
-`[Back to Directory](../README.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`Back to Directory | [Back to World Home](../../../../README.md) | Back to Project Home`
 
 [//]: # (Configuration 2: Short Adaptation Navigation)
-`[Back to Work Directory](../README.md) | [Back to World Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`Back to Work Directory | [Back to World Home](../../../../README.md) | Back to Project Home`
 
 [//]: # (Configuration 3: Chaptered Original - First Chapter)
-`[Back to Directory](../README.md) | [Next Chapter](ch-{{next-chapter-number}}-{{next-chapter-title-short}}.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`Back to Directory | [Next Chapter](ch-{{next-chapter-number}}-{{next-chapter-title-short}}.md) | Back to World Home | Back to Project Home`
 
 [//]: # (Configuration 4: Chaptered Original - Middle Chapters)
-`[Previous Chapter](ch-{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | [Back to Directory](../README.md) | [Next Chapter](ch-{{next-chapter-number}}-{{next-chapter-title-short}}.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`[Previous Chapter](ch-{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | Back to Directory | [Next Chapter](ch-{{next-chapter-number}}-{{next-chapter-title-short}}.md) | Back to World Home | Back to Project Home`
 
 [//]: # (Configuration 5: Chaptered Original - Final Chapter)
-`[Previous Chapter](ch-{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | [Back to Directory](../README.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`[Previous Chapter](ch-{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | Back to Directory | Back to World Home | Back to Project Home`
 
 [//]: # (Configuration 6: Chaptered Adaptation - First Chapter)
-`[Back to Work Directory](../README.md) | [Next Chapter](ch-{{next-chapter-number}}-{{next-chapter-title-short}}.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`Back to Work Directory | [Next Chapter](ch-{{next-chapter-number}}-{{next-chapter-title-short}}.md) | Back to World Home | Back to Project Home`
 
 [//]: # (Configuration 7: Chaptered Adaptation - Middle Chapters)
-`[Previous Chapter](ch-{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | [Back to Work Directory](../README.md) | [Next Chapter](ch-{{next-chapter-number}}-{{next-chapter-title-short}}.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`[Previous Chapter](ch-{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | Back to Work Directory | [Next Chapter](ch-{{next-chapter-number}}-{{next-chapter-title-short}}.md) | Back to World Home | Back to Project Home`
 
 [//]: # (Configuration 8: Chaptered Adaptation - Final Chapter)
-`[Previous Chapter](ch-{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | [Back to Work Directory](../README.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`[Previous Chapter](ch-{{previous-chapter-number}}-{{previous-chapter-title-short}}.md) | Back to Work Directory | Back to World Home | Back to Project Home`
 
 ---
 

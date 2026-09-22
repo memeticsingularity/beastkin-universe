@@ -31,13 +31,13 @@
 Select based on chapter position:
 
 **Configuration 1: First Chapter of Original Work**
-`[Back to Contents](../README.md) | [Next Chapter](ch-{{Next Chapter Number}}-{{Next Chapter Title Abbreviation}}.md) | [Back to Worldview Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`Back to Contents | [Next Chapter](ch-{{Next Chapter Number}}-{{Next Chapter Title Abbreviation}}.md) | [Back to Worldview Home](../../../../README.md) | Back to Project Home`
 
 **Configuration 2: Middle Chapter of Original Work**
-`[Previous Chapter](ch-{{Previous Chapter Number}}-{{Previous Chapter Title Abbreviation}}.md) | [Back to Contents](../README.md) | [Next Chapter](ch-{{Next Chapter Number}}-{{Next Chapter Title Abbreviation}}.md) | [Back to Worldview Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`[Previous Chapter](ch-{{Previous Chapter Number}}-{{Previous Chapter Title Abbreviation}}.md) | Back to Contents | [Next Chapter](ch-{{Next Chapter Number}}-{{Next Chapter Title Abbreviation}}.md) | [Back to Worldview Home](../../../../README.md) | Back to Project Home`
 
 **Configuration 3: Final Chapter of Original Work**
-`[Previous Chapter](ch-{{Previous Chapter Number}}-{{Previous Chapter Title Abbreviation}}.md) | [Back to Contents](../README.md) | [Back to Worldview Home](../../../../README.md) | [Back to Project Home](../../../../../../../README.md)`
+`[Previous Chapter](ch-{{Previous Chapter Number}}-{{Previous Chapter Title Abbreviation}}.md) | Back to Contents | [Back to Worldview Home](../../../../README.md) | Back to Project Home`
 
 ---
 
