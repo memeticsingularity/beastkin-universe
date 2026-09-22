@@ -52,7 +52,7 @@ Two adaptation versions are maintained:
 |------|------|------|
 | Ch.1 | 潜入基地 | [阅读](chapters/ch-001.md) |
 | Ch.2 | 名单上的名字 | [阅读](chapters/ch-002.md) |
-| Ch.3 | 黑与白的制服 | [阅读](chapters/ch-003.md) |
+| Ch.3 | 黑与白的制服 | 🚧 进行中（草稿：[.process/history/ch-003-incomplete-draft.md](.process/history/ch-003-incomplete-draft.md)） |
 | Ch.4 | 银针与暗劲 | [阅读](chapters/ch-004.md) |
 | Ch.5 | 楼梯与总部 | 阅读 |
 
