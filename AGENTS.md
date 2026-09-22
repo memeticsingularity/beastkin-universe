@@ -14,7 +14,8 @@
 - 新建世界观：`node scripts/new-world.js --world <world> --title-zh "<中文名>"`（先加 `--dry`；骨架源＝`templates/world-template/`）
 - 新建作品：`node scripts/new-work.js --world <world> --form <cm|cs|s> --code <code> --title-zh "<标题>"`（先加 `--dry`）
 - 结构校验：`node scripts/qa/check-structure.js .`（作品层）· `node scripts/qa/check-structure.js --world .`（世界观层）
-- 配套 skill：`.dsh/skills/work-scaffold`、`.dsh/skills/structure-guard`
+- 配套 skill：`.dsh/skills/work-scaffold`、`.dsh/skills/structure-guard`；
+  **该用哪个 skill 见路由表 [`.dsh/skills/README.md`](.dsh/skills/README.md)**
 
 ## 脚本执行与沙箱（DSH 会话必读）
 - **生成目录结构快照用 Node 版**：`node scripts/qa/structure-report.js`（纯 Node，无 `wmic`/`tree`/`cmd`

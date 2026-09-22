@@ -3,6 +3,7 @@
 ---
 
 **[上一章](../../empire-kik-soldiers/original-archives/chinese/chaptered-stories/main/chapters/volume-3/ch-034-snow-leopard-execution.md) | [返回目录](../README.md) | [下一章](../../empire-kik-soldiers/original-archives/chinese/chaptered-stories/main/chapters/volume-3/ch-035-forest-encounter.md) | [返回世界观首页](../README.md) | [返回项目主页](../../../README.md)**
+
 ---
 
 ## **Scene-1 等待的第四天**

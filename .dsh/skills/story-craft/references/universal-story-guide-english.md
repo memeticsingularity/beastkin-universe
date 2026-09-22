@@ -130,9 +130,11 @@
 
 [//]: # (Short story: Story END)
 
-**{{End Mark}}**
+[//]: # (Note: the ending words go BEFORE the end mark)
 
 > *{{Chapter Ending Words/Story Ending Words}}*
+
+**{{End Mark}}**
 
 ---
 

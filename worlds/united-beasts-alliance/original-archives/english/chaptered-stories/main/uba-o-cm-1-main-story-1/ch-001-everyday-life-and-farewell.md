@@ -160,6 +160,7 @@ language.*
 ### Their Final Stories
 
 【**Oak** (Blue Uniform Alliance Guard)】
+
 An ordinary tiger beastman who devoted his life to his "child." He probably dreamed of seeing **Xin
 ** pass his healer exam, then proudly boasting to the neighbors about his accomplished kid. That
 morning, he must have gotten up quietly, looked at the sleeping **Xin**, and smiled with particular
@@ -171,6 +172,7 @@ breasts, those strong arms that always held **Xin**—in the end, who knows wher
 in some corner of **Wolf Wind Valley**.
 
 【**The Little White Rabbit**】
+
 A rabbit happily munching on vegetables in a **tiger beastman**'s home. It probably thought the
 world was safe because its owner was so gentle. It didn't know about the neighbor's anger, didn't
 know its death would become the final straw that broke its owner's sanity, and certainly didn't know
@@ -180,6 +182,7 @@ thinking about the taste of the next leaf.
 ### The People Still Alive
 
 【**Xin** (Healer Apprentice)】
+
 In this chapter, he's still so soft. He minds that his uncle gets into bed unwashed, feels shy about
 sharing a bed, and applies the **Bloodthread Grass Extract** with meticulous care. His heart is
 filled with love and dependence on **Uncle Oak**, and small aspirations for the future—a bed of his
@@ -189,6 +192,7 @@ the unrefined metal about to be cast into the furnace. Watching him mischievousl
 ear before sleep, thinking of the path ahead of him, one's heart feels heavy.
 
 【**Neighbor Beastman**】
+
 An irritable but perhaps not entirely bad character. He was just protective of his vegetable patch,
 maybe also disapproving of a **tiger beastman** keeping a rabbit—something that went against the
 grain. When he threw the rabbit's corpse into the yard, he probably just wanted to teach **Xin** a

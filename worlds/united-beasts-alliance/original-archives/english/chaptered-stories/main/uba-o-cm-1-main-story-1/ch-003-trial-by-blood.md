@@ -205,6 +205,7 @@ language.*
 ### Their Final Stories
 
 【None】
+
 This chapter is a brutal trial, but not a slaughter. No lives end here. Only the former self, naive
 illusions, and the so-called "rules" are utterly buried. The world of following procedures and
 believing hard work brings reward died completely with the *crack* of **Xin**'s dislocating wrists.
@@ -214,6 +215,7 @@ believing hard work brings reward died completely with the *crack* of **Xin**'s 
 ### The People Still Alive
 
 【**Xin** (The Avenging Applicant)】
+
 Three years forged hatred into muscle and bone. The **Xin** standing before **Zhan Feng** was no
 longer the boy trembling in a pool of blood, eating raw rabbit. His provocation was precise and
 lethal, his tactics cunning and ruthless—the **powder** distraction, the feint to lure, the true
@@ -226,6 +228,7 @@ raised blade. Watching him cough blood-flecked spittle, eyes burning like hot co
 Feng**, one knows—**Oak**’s vengeance now has hope.
 
 【**Zhan Feng** (Black Uniform Elite Alliance Guard)】
+
 A powerful predator seeking “interesting prey.” Clad in the black uniform symbolizing elite power,
 he sat like a mountain. He was bored by ordinary applicants, his yawns dripping with the arrogance
 of the mighty. But when **Xin** spoke of “revenge” and challenged him directly, he awoke. The trial
@@ -239,6 +242,7 @@ dangerously potential piece of jade needing “polishing.” The days ahead for 
 both hell and the best training ground.
 
 【**Wolf Guard** (Blue Uniform Interviewer)】
+
 An ordinary functionary caught between rules and the unexpected. He followed procedure, writing
 “Unqualified,” asking rote questions. **Xin**’s “revenge” declaration froze his pen mid-stroke,
 forcing him to seek his superior. Those two subtle steps backward were filled with an instinct to
@@ -246,6 +250,7 @@ avoid trouble and fear of a stronger presence. When he finally recorded the pass
 order, he was probably thinking: *What a shift this turned out to be.*
 
 【**Boar Beastman & the Spectators**】
+
 They are the ordinary background noise of this world. The **boar beastman** spouted insincere
 platitudes for better benefits. The spectators began as detached onlookers, gleefully mocking and
 following the crowd. But when **Xin** performed that series of extraordinary acts, especially the

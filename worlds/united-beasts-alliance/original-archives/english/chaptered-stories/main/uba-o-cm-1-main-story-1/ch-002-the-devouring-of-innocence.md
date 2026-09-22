@@ -139,6 +139,7 @@ language.*
 ### Their Final Stories
 
 【**Oak (Only the head remains)**】
+
 All that finally returned to **Xin** was a head. That tiger head still bore the mark of *
 *Bloodthread Grass Extract** **Xin** had lovingly applied—a tender, cruel irony. His half-open eyes
 likely last saw the flash of the **bandits**' blades, or perhaps the sky over **Wolf Wind Valley**,
@@ -149,6 +150,7 @@ last moment, he probably thought about returning to build **Xin** a big bed, nev
 himself would become the heaviest piece of timber to crush **Xin**'s entire world.
 
 【**The Little White Rabbit (A second death)**】
+
 It probably never imagined its death would hold such profound "significance." The first time, thrown
 by the neighbor, it died as a "nuisance" being eliminated. The second time, skinned and eaten raw by
 its owner, it died as a "sacrifice" offered up. Its soft fur and warm flesh became the rite of
@@ -158,6 +160,7 @@ there, its small corpse completing a brutal coming-of-age ritual.
 ### The People Still Alive
 
 【**Xin (The Transformer)**】
+
 In this chapter, **Xin** is like glass shattered by a hammer blow. We watch him transform from an
 exam-bound apprentice, to an orphan receiving terrible news, to a madman clutching a head and
 mumbling incoherently, and finally into a beast kneeling in a pool of blood, consuming raw rabbit
@@ -169,6 +172,7 @@ Watching him gag and swallow, it's hard to tell whether he's swallowing rabbit f
 shredded soul.
 
 【**Blue Uniform Alliance Guards (Two)**】
+
 Two unlucky messengers of doom. They were likely just doing their duty, but they personally
 delivered the box that could destroy a world. The sorrow and hesitation on their faces might have
 held a grain of genuine sympathy, but in the face of such immense tragedy, any words are as pale as
@@ -177,6 +181,7 @@ world—tragedy happens, you're notified, you're compensated, and then... you fi
 They will never know the bloody transformation that took place behind that door after they left.
 
 【**Neighbor Beastman (Second appearance)**】
+
 This irritable neighbor, with a rabbit's corpse, delivers the "final lesson" to **Xin**. He probably
 just meant to vent his anger, but inadvertently became the last straw that broke the camel's back
 and provided the cruel textbook for "regaining wildness." He will never know that with one careless

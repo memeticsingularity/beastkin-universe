@@ -103,11 +103,11 @@ Oppressive and torturous scenes can slow down, using details to build a sense of
 
 ---
 
-**Chapter {{Chapter Number}} END**
-
 [//]: # (=== Chapter Closing Quote Writing Guide ===)
 
 [//]: # (The chapter closing quote should echo the opening, concluding the chapter's emotional tone or leaving悬念. It can be a sigh for a character's fate, a summary of a cruel ritual, or another manifestation of the Empire's cold rules.同样保持简洁，2-4行为佳.)
+
+[//]: # (Note: the closing quote goes BEFORE the end marker.)
 
 [//]: # (Example style:)
 
@@ -118,6 +118,8 @@ Oppressive and torturous scenes can slow down, using details to build a sense of
 [//]: # (> *The Empire's rules were once again written in blood.*)
 
 > *{{Chapter Closing Quote Content}}*
+
+**Chapter {{Chapter Number}} END**
 
 ---
 

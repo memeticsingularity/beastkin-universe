@@ -298,18 +298,21 @@ Not so bad after all…
 ### Their Final Stories
 
 【**Green Uniform Wild Bull Guard**】  
+
 That wild bull on sentry duty at the camp entrance was probably thinking about where to grab a drink
 after his shift. As soon as the **Red Tiger** showed up, he was punched in the crotch before he
 could even finish speaking, semen trapped in his pants, dying from being suffocated. He died the
 fastest and most inexplicably, without even seeing his opponent’s face.
 
 【**Green Uniform Wild Boar Guard**】  
+
 The wild boar on sentry duty with the wild bull, probably lazy even on normal days, chose this time
 to slack off—right into the grim reaper's hands. Like the wild bull, he was knocked down by the **Red Tiger** with one punch, clutching his crotch and writhing on the ground, semen seeping through
 his tights. He twitched a few times, then fell still. His pair of boar breasts was never touched
 before death.
 
 【**Green Uniform Water Buffalo Beastman (Brother Bull)**】  
+
 This water buffalo was the strongest in the whole squad, with chest muscles as thick as two walls.
 He usually spoke in a rough voice but was fairly kind to us new recruits. He charged first but was
 punched in the kidney by the **Red Tiger** and sent flying, landing right on top of me. Before
@@ -319,12 +322,14 @@ against mine, his breathing growing weaker. His muscular bull breasts rose and f
 then slowly stopped.
 
 【**Green Uniform White Tiger Guard**】  
+
 This white tiger was the nice guy in the squad, always helping everyone fix their gear. He was the
 last to fall. Before dying, he begged for mercy, but the **Red Tiger** ignored him. His white tiger
 stripes stood out clearly under his green uniform. When he died, his **white socks** were stained
 with his own and others’ semen, his tail lying limp on the ground.
 
 【**Green Uniform Brown Bear Guard**】  
+
 This brown bear was the brother I found who still had a breath left. To survive, he had desperately
 held back his ejaculation, but most of his semen had still leaked out, leaving his crotch a sticky
 mess. When I helped him find release, his frown tightened, and his brown bear breasts trembled with
@@ -332,6 +337,7 @@ each of my strokes. Finally, he shot a few remaining spurts of semen and died pe
 like a little thief who had stolen milk. I smeared the semen on his face—it looked quite cute.
 
 【**Black Uniform Tiger Squad Leader**】  
+
 Our squad leader, a **Black Uniform Combat Soldier**, with muscles sculpted like a statue. Usually
 strict with us, but I knew he meant well. He was punched in the stomach by the **Red Tiger**, pinned
 against a tree, and beaten to death. When he died, his face was filled with unwillingness. His thick
@@ -341,6 +347,7 @@ and use his **black sock** to bring myself to climax. His tiger breasts remained
 death. It’s a shame I’ll never have the chance to tell him how I felt.
 
 【**Green Uniform White Bear Beastman (Me)**】  
+
 I am this white bear, the narrator of the story. I escaped the **Red Tiger** but couldn’t escape the
 **Red Tiger**'s accomplice. I thought I was clever, playing dead to survive, even fooling around
 with my crush’s body among the corpses. Then I was grabbed from behind by another attacker. He used
@@ -353,12 +360,14 @@ guy looked like.
 ### The People Still Alive
 
 【**Red Tiger Beastman (Old Lei?)**】  
+
 This shirtless red tiger was terrifyingly strong. One punch per opponent, wiping out our entire
 squad. The way he stepped on my balls while smoking was both arrogant and sexy. He was probably an
 assassin from the **Special Agent Bureau** or some other organization. He seemed to have an
 accomplice—they divided the work clearly, one clearing the field, the other mopping up.
 
 【**Unknown Attacker**】  
+
 The **Red Tiger**'s accomplice, probably observing from the shadows the whole time. His technique
 was skilled. He knew exactly how to use the **Tiger Squad Leader**'s **black sock** to stimulate me,
 bringing me to climax in just a few strokes. His voice was mocking, probably a pervert who enjoyed

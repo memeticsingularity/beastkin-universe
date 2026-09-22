@@ -26,8 +26,10 @@ whenToUse: check-links 报出断链、移动/重命名目录之后、或需要�
 
 - 模板占位符（`{code}`、`ch-xxx`、`{中文标题}`）——`check-links.js` 已跳过
 - 相对层级算错：`../` 数量与目标层级不匹配（最常见）
-- 目录迁移后引用方未同步：`notes/`→`.process/plans/`、`author-chat/`→`.process/ai-discussion/`、
+- 目录迁移后引用方未同步：`notes/`→`.process/plans/`、`draft/`→`.process/history/`、
   `en/`→`english/`、旧编码目录→散装章节
+- **`author-chat/` 是「与作者本人」的交流，归 `.process/author-chat/`**（不要并进
+  `.process/ai-discussion/`，那是「与 AI」的讨论）
 
 ## 收尾
 

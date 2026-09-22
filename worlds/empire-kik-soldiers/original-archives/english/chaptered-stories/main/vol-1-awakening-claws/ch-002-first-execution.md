@@ -93,12 +93,15 @@ The large bulge at his **crotch** was exposed, plump and very tempting!
 ### Those Still Living
 
 【Living→Alive-B-56005-Tiger Beastkin-New Recruit/j56005】
+
 This is a new recruit's first direct confrontation with death — the death of another, and the fear of his own possible death. He fully executed the entire process from corpse disposal to capturing a colleague. The **chip** suppressed his physiological desires, but could not completely eliminate that instinctual restlessness toward the smell of **semen** and the hazy perception of the power of **milking**. In the recycling room, his brief caress of the tiger beastkin compatriot's corpse was a tiny ripple of that permitted 15% self-awareness in the silence. He learned efficiency and coldness, and also experienced for the first time that in the Empire, to live meant having to become a kind of "gear," and the first step to avoid being crushed was to learn to crush others.
 
 【Living→Alive-L-08031-Bear Beastkin-Blue Socks Executioner】
+
 He is **blue socks**, the direct executor of death within the base. He enjoys the pleasure of domination and explanation, teaching the new recruit about the collection of **semen** and the significance of **military socks** as lessons. That step on j56005's stomach was both a reward and a mark — marking this new recruit as worth "cultivating." At this moment, he is preparing to enjoy his captured prey, venting power and desire in the most direct way. For him, this is just another ordinary night of "entertainment," one of the few forms of entertainment in his border exile life that he can completely control.
 
 【Living→Alive-B-33017-Wolf Beastkin-Slacking Soldier】
+
 He is an unfortunate, ordinary **black socks soldier** who let his guard down at the wrong time. Captured in his sleep, the despair of his whole body going weak when his **crotch** was controlled, and the fearful pleas upon waking before the **blue socks officer**, constitute his entire world at this moment. He has not yet been **milk-executed**, but his fate is no longer in his own hands. His existence, at this moment, exists solely to satisfy his superior's "entertainment" needs — a vivid, trembling footnote under Imperial rules.
 
 ### Story Reflections
