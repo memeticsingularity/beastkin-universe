@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 11: All Mine*
+> *Ink Hound - Chapter 11: All Mine*  
 > 营地只剩黑狗和满地的尸体。他先"清理"了G级的配菜，然后走向主菜——那个跪在地上的黑制服E级。没有心跳，没有呼吸，但还温着。。。
 
 ---

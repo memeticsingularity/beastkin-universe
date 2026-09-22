@@ -1,3 +1,5 @@
+# Chapter 40 Townsfolk Assembly
+
 "You restless civilians! The Empire protects you, gives you work, and yet you dare to oppose the Empire! A Kik soldier just died, and it was definitely done by one of you! Now I'm counting to three. If no one confesses, I'll kill you all! Shooters, prepare to fire!" the squad leader shouted through the vehicle's loudspeaker.
 
 At the same time, his subordinates also activated their weapons, the muzzles glowing blue. The vehicle's fire control system also aimed the vehicle's weapons at those townsfolk.
@@ -59,3 +61,5 @@ There was still blood on the town square. The members of the resistance organiza
 It's just that he hadn't had time to tell them before being captured. Perhaps the leader had written this news down somewhere. So they searched his house, and after finding nothing, they discussed rescuing the leader!
 
 In the watchtower cell, two black-socked soldiers stood outside the door. They had no keys or authentication cards. To open the cell, they had to find the correct position. As long as the friend-or-foe identification on the socks passed, the cell would open.
+
+**Chapter 40 END**

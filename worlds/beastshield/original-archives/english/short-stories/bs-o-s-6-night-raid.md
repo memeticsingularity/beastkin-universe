@@ -1,4 +1,4 @@
-# SS-006: Night Raid
+# Story Night Raid
 
 ---
 
@@ -187,3 +187,5 @@ escape one final climax. How pitiful and absurd.*
 ---
 
 [Return to Directory](README.md) | [Return to Project Home](../../../../../README.md)
+
+**Story END**

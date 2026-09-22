@@ -1,4 +1,4 @@
-# Chapter 45 resistance plan
+# Chapter 45 Resistance Plan
 
 ---
 

@@ -1,3 +1,5 @@
+# Chapter 82 Hero Infiltration
+
 Kaka City was dead silent at night. Only the towering city walls and the weapons on top of them remained. There were many patrolling Kik soldiers in the city. All the Empire's military facilities were isolated separately.
 
 The residents who chose to submit to the Empire were not persecuted, because they were obedient civilians! The guards at the cultivation center were the strictest! This was the Empire's lifeline, guarded by layer upon layer!
@@ -59,3 +61,5 @@ Thinking of this, he grabbed the crotch of this panicked Black Socks soldier. He
 He returned the way he came to the warehouse. The spatial crack he had come through had already closed! Helpless, he could only take off this set of clothes. Finally, he threw those worn-out socks hard on the ground!
 
 Just at this time, the alarm sounded! He had probably been discovered! So he looked at the wall before him, used all his strength, and jumped onto it. His toes lightly tapped the wall, and he flipped over it.
+
+**Chapter 82 END**

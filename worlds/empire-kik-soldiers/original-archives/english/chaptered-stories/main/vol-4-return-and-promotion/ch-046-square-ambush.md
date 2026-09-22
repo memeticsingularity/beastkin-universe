@@ -1,3 +1,5 @@
+# Chapter 46 Square Ambush
+
 "Big guy! Do you know how to use a gun?" A leopard beastkin patted the big guy on the shoulder and asked.
 
 "No, at the mine we weren't allowed to get close to them," the big guy replied.
@@ -59,3 +61,5 @@ The sensation caused him to lose his balance and fall out of the vehicle. The fo
 Hu Meng went up and struck his face with a gunstock. Another scream! Then he stomped on his stomach. The fox beastkin leader also fell along with him. His head got caught between the bear beastkin squad leader's legs.
 
 That stench made him dry heave. As Hu Meng beat him, the squad leader squeezed his legs tighter, nearly suffocating him! It was his companions who pulled him out!
+
+**Chapter 46 END**

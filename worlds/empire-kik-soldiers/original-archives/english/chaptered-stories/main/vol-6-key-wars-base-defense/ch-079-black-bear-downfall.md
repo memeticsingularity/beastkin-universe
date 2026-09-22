@@ -1,3 +1,5 @@
+# Chapter 79 Black Bear Downfall
+
 Black Bear stopped on the steps, feeling something was wrong! He couldn't concentrate. He watched his white socks stepping on the submerged steps in a trance. He just stared straight at the reflection in the pool.
 
 Suddenly, the chip in his brain issued an alarm, and Commander Black Bear woke up from between the watery reflections. The sensation coming from his crotch made him afraid. It was as if countless hands were caressing his bear cock!
@@ -55,3 +57,5 @@ He clearly could have just had them put on diving equipment. It seemed some Whit
 At the same time, his body came to the pool water, sensing the key's location. The bottom of the pool began to resonate. The pool of spring water also began to drop and evaporate. Soon, His Majesty was standing at the bottom of the pool.
 
 He smelled that the water here was indeed different. It contained a large amount of carbonated bubbles! This was why the Kik soldiers would ejaculate and die in the pool! The stimulation of the carbonated bubbles would make them ejaculate to death! And the components in the water would make the penis several times more sensitive!
+
+**Chapter 79 END**

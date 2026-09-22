@@ -1,4 +1,4 @@
-# Chapter 9: The Divine Bow Hunter
+# Chapter 9 The Divine Bow Hunter
 
 "Come take a look, come take a look~ Our shop's new pomelo tea, cool and refreshing for the whole summer~" At a milk tea shop in the center of the White Capital, a server was shouting enthusiastically.
 
@@ -609,3 +609,5 @@ Mr. Qu, seeing the Commander suddenly ask this, thought for a moment and said: "
 "Is he... really that strong?" Mr. Qu still asked somewhat unwillingly.
 
 "Emmm... Let's put it this way. He only needs to use a single drop of water to easily kill us."
+
+**Chapter 9 END**

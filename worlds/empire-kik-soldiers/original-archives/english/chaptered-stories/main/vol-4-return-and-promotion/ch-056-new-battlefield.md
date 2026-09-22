@@ -1,3 +1,5 @@
+# Chapter 56 New Battlefield
+
 "Master? A new battlefield?" Hu Meng reluctantly licked his tongue. Looking at his master's white-socked foot claws, he asked.
 
 "Yes! A new battlefield. This planet no longer has any value! By then, all bases will enter sleep mode! Including all the Kik soldiers inside. They will only be reawakened when His Majesty needs them!" Commander White Wolf said excitedly.
@@ -45,3 +47,5 @@ Inserting the key into the slot, the cultivation pod opened. Hu Meng was complet
 They began injecting drugs for enhancement. At the same time, the chip was also being modified and upgraded. This was a white-sock soldier-exclusive cultivation pod. The chip in Hu Meng's brain began writing information about the next battlefield. The structure and functions of his own starship, as well as the permissions to command these Kik soldiers.
 
 In His Majesty's bedroom, White Wolf had been completely drained by His Majesty. Now he was being used as his cushion.
+
+**Chapter 56 END**

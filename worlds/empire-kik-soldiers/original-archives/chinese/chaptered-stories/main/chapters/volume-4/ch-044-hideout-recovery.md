@@ -1,4 +1,4 @@
-# Chapter 44 hideout recovery
+# Chapter 44 Hideout Recovery
 
 ---
 

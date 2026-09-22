@@ -1,4 +1,4 @@
-# Chapter 8: Indiscriminate Slaughter
+# Chapter 8 Indiscriminate Slaughter
 
 ---
 
@@ -343,3 +343,5 @@ little tune.
 ---
 
 [Chap7](ch-007-assassins-gambit.md) | [Back to Index](README.md) | [Chap9](ch-009-secret-of-the-beast-god.md)
+
+**Chapter 8 END**

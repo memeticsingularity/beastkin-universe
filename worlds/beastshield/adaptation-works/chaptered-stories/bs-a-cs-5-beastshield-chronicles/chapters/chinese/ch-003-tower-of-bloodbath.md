@@ -1,4 +1,4 @@
-# Chapter 3 tower of bloodbath
+# Chapter 3 Tower of Bloodbath
 
 ---
 

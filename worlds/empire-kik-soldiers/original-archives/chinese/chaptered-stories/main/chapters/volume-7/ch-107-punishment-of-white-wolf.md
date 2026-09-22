@@ -1,4 +1,4 @@
-# Chapter 107 punishment of white wolf
+# Chapter 107 Punishment of White Wolf
 
 ---
 

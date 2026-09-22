@@ -1,3 +1,5 @@
+# Chapter 77 White Wolf Retrieves Key
+
 Passing through the spatial crack, he discovered he had arrived above the valley. The vibration of the object in his arms also stopped. After circling around, he found the camp's location and flew over.
 
 Two Black Socks soldiers chatting on the defensive fortifications didn't notice the situation in the sky. It wasn't until Commander White Wolf landed that they ran over in panic to salute.
@@ -55,3 +57,5 @@ This time, a black bear White Socks soldier was sent there. His forte was heavy 
 Hu Meng's attention was really not bad. Those postnatally modified Kik soldiers in that village were the best arrangement! Their genes were very powerful. The Kik soldiers cultivated from their semen were indeed not bad! So he would order Hu Meng to capture some more of the local beastmen, use them as wetware for cultivating Kik soldiers, and then gradually replace the existing Kik soldiers!
 
 When this plan showed results, he would prepare to let Hu Meng have a good time! Thinking of this, His Majesty was especially happy. So he immediately notified the black bear White Socks soldier to get the key at all costs!
+
+**Chapter 77 END**

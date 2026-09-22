@@ -1,4 +1,4 @@
-# Chapter 4: The First Night in the Corpse Pile
+# Chapter 4 The First Night in the Corpse Pile
 
 ---
 

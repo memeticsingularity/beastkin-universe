@@ -1,4 +1,4 @@
-# Chapter 36 emperor branding
+# Chapter 36 Emperor Branding
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 17 decoy mission
+# Chapter 17 Decoy Mission
 
 ---
 

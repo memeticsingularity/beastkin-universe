@@ -103,3 +103,5 @@ In the rental apartment, he boiled the Chinese medicine according to the dosage 
 Then the Samoyed opened his wardrobe, changed into the gray-black short-sleeved shorts he wore during previous operations, put on a baseball cap, and quietly waited for nightfall.
 
 "Beep beep beep." The alarm on his paw phone rang, signaling that the time had come. Xu Yi turned it off, tossed it on the bed, and headed to the rooftop to leap and sprint at full speed toward Beastshield across the building rooftops.
+
+**Chapter 2 END**

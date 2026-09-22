@@ -6,7 +6,7 @@
 
 ---
 
-> *Beastshield Main Story Volume 1: Beast World - Chapter 1 Entering the Game*
+> *Beastshield Main Story Volume 1: Beast World - Chapter 1 Entering the Game*  
 > **The Player** enters the VR game *Beast World* for the first time and learns its core
 > mechanic—all damage converts to Lust Value, and ejaculation means death. Through trial and error,
 > he
@@ -271,3 +271,5 @@ most memorable—lesson about *Beast World*.
 ---
 
 [Back to Directory](../README.md) | [Next Chapter](ch-002-escape-warehouse.md) | [Back to World Home](../../../../../README.md) | [Back to Project Home](../../../../../../../README.md)
+
+**Chapter 1 END**

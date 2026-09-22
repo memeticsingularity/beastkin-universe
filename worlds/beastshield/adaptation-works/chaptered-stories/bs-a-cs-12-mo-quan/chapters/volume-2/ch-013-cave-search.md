@@ -1,4 +1,4 @@
-# Chapter 13 cave search
+# Chapter 13 Cave Search
 
 ## 第二卷 第十三章：兽盾训练场
 

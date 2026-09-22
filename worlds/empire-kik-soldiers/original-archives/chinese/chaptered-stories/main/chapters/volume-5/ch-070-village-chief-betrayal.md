@@ -1,4 +1,4 @@
-# Chapter 70 village chief betrayal
+# Chapter 70 Village Chief Betrayal
 
 ---
 

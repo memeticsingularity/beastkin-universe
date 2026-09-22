@@ -6,7 +6,7 @@
 
 ---
 
-> *Lust Black Ginseng*
+> *Lust Black Ginseng*  
 > 古博士带来欲望黑参种子，需要大量精液，小谷带着跟班主动出击捕获三只兽盾员工。
 
 ---

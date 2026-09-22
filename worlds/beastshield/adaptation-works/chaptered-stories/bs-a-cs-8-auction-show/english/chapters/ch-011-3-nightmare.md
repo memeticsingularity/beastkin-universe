@@ -507,6 +507,7 @@ In some room of that underground auction house, the fox host was preparing for t
 *Ten people, thought they had escaped hell, never knowing they had walked into another abyss. That mysterious buyer was not a savior, but another demon. He bought them at the price of 1 RUB, then personally ended their lives. They died in that enclosed room, died in that madman's hands, died under that irresistible stimulation. Finally, they became a pile of meat on a garbage truck, sent to an unknown destination. This is their ending. No salvation, no hope, only death.*
 
 ---
+**Chapter 11 END**
 
 ## Story Commentary and Reflections
 
@@ -581,4 +582,3 @@ Not death itself, but the process of hope shattering.
 
 ---
 
-**Chapter 11 END**

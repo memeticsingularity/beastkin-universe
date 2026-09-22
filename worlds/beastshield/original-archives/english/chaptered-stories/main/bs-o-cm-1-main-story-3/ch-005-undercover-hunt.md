@@ -1,4 +1,4 @@
-# Chapter 5: Undercover Hunt
+# Chapter 5 Undercover Hunt
 
 In the low-level employee dormitory of the Beastshield Organization, a wild boar beastman was dozing off to rest. Although his limbs were as thick as other beastmen, his belly was round and his stature was short. He seemed out of place in this dormitory full of burly beasts.
 
@@ -357,3 +357,5 @@ After speaking, Xiao Hao lifted his legs and placed them on his shoulders. He pu
 "Mmphaaah! ~" A comfortable moan was heard. Xiao Hao raised his head, thrusting his lower body to insert his dick into the deepest part of the wolf hole. His balls jumped and poured his seed into the wolf hole. After ejaculating, Xiao Hao took off the wolf beastman's white socks and wiped clean the semen on his dick. Then he stuffed the semen-stained white socks into the already dead wolf beastman's mouth and whispered:
 
 "This is the consequence of eavesdropping on other people's secrets." After speaking, he patted the still-flowing穴口翘臀, put down the wolf beastman's legs, and walked toward the door. When passing by the bathroom door, he didn't forget to grab one of the black bear beastman's meaty feet, take off his shoe, and scratch the sole of his foot a few times. After confirming he was completely dead, he threw down the meaty leg and walked away swaggeringly.
+
+**Chapter 5 END**

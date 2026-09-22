@@ -1,4 +1,4 @@
-# Chapter 10 gate charge
+# Chapter 10 Gate Charge
 
 ## 第二卷 第十章：城门冲撞
 

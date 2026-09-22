@@ -1,4 +1,4 @@
-# Chapter 3: The Tiger's Den
+# Chapter 3 The Tiger's Den
 
 ---
 

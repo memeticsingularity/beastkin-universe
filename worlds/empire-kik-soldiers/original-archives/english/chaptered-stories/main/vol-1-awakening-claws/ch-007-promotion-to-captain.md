@@ -1,3 +1,5 @@
+# Chapter 7 Promotion to Captain
+
 After becoming a squad leader, he possessed partial authority and could manage any black socks soldier of lower rank than himself. With this authority, he could also milk-execute them at will, provided he had a suitable reason.
 
 Sitting on the bed, he also unlocked a function: he no longer needed to use a serial number. However, officers could still call him by his serial number. The system gave him a name: Hu Meng.
@@ -61,3 +63,5 @@ However, this type of soldier was very difficult to cultivate; the cultivation c
 "Transmit my orders! The nearby watchtower strongholds are to cease operations! Except for daily patrols, no one is to be deployed!" the wolf beastkin officer said.
 
 That canine beastkin soldier saluted and went to transmit the orders; the message was quickly sent out. The Kik Soldiers on duty in the town square received the message and returned to the watchtower base at the fastest speed.
+
+**Chapter 7 END**

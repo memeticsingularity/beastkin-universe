@@ -1,4 +1,4 @@
-# Chapter 90 second declaration of war
+# Chapter 90 Second Declaration of War
 
 ---
 

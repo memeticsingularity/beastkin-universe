@@ -1,4 +1,4 @@
-# Chapter 85 key resonance
+# Chapter 85 Key Resonance
 
 ---
 

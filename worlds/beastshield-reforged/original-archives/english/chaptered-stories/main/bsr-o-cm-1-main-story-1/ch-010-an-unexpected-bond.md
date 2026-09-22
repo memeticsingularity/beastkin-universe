@@ -1,4 +1,4 @@
-# Chapter 10: An Unexpected Bond
+# Chapter 10 An Unexpected Bond
 
 ---
 
@@ -274,3 +274,5 @@ from the *
 ---
 
 [Chap9](ch-009-secret-of-the-beast-god.md) | [Back to Index](README.md) | [Chap11](ch-011-a-perverse-friendship.md)
+
+**Chapter 10 END**

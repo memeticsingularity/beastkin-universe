@@ -1,4 +1,4 @@
-# Chapter 12 emperor secret order
+# Chapter 12 Emperor Secret Order
 
 ---
 

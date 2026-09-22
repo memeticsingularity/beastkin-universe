@@ -1,4 +1,4 @@
-# Story: Hunting the Bull
+# Story Hunting the Bull
 
 > In the shadows of the city, some encounters are destined to end only in death. The end of one life is often the continuation of another's survival. And on this night, the boundary between hunter and prey was drawn by a steel wire.
 

@@ -1,3 +1,5 @@
+# Chapter 22 Mutual Execution
+
 All of this was also recorded by the white wolf officer's personal guard. During the second report, he told this esteemed one, and his ears heard this esteemed one's laughter. He was also ordered to protect this slave! After receiving the order, the personal guard came to the hibernation pod where the fighter jet pilot was.
 
 This place was rarely approached even by Kik Soldiers. He entered the password and opened the door of the hibernation pod. This blue socks soldier was freshly matured and very safe. Looking at his sleeping appearance, he took out the semen extractor from the pocket of his tactical vest.
@@ -59,3 +61,5 @@ Two blobs of semen splattered against the glass with two "splat" sounds; that wh
 This was the first time Hu Meng had received such a reward. Feeling his master's caress, he emitted whimpering sounds and enjoyed it. Then he dismissed Hu Meng and told him to take a good bath. He picked up the blue socks on the table and began analyzing them. He placed these socks on a special device and began analyzing the information in the socks!
 
 Before long, there was an answer. They were born in an Imperial base very far from here! The officer of that base was someone he didn't know at all; he should have been framed! So those guys would still have follow-up actions. He had to obtain key evidence to make them receive punishment! When the time came, he would personally pull off their inner socks! Let them die in pain!
+
+**Chapter 22 END**

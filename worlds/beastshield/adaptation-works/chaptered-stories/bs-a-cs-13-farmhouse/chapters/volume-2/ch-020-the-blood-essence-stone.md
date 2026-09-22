@@ -6,7 +6,7 @@
 
 ---
 
-> *The Blood Essence Stone*
+> *The Blood Essence Stone*  
 > 古博士以"血精石改良版"为饵诱骗老周，小谷被送入玻璃舱进行噬精兽转化。当老周发现被骗时，一切已无法挽回。
 
 ---

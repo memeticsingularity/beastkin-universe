@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 8: Qingshi Town*
+> *Ink Hound - Chapter 8: Qingshi Town*  
 > 黑狗混入青石镇，在巷子里撞见褐鹿与黑獒。一场意外的"服务"演变成双人濒死危机，黑狗第一次用寸止救人——虽然他自己也不太明白发生了什么。
 
 ---

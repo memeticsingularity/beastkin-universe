@@ -1,3 +1,5 @@
+# Chapter 102 Dinosaur Guard Falls
+
 That Blue Socks soldier fell to the ground unwillingly. That wolf cock also tilted to the side, pressed under his body. The bright red glans opened, and a tiny bit of residual semen squeezed out from the urethral opening.
 
 And after Hu Meng executed his disobedient subordinate, he continued to leave wounds on the hero's body! He completely forgot His Majesty's orders. The most important thing was that the semen had already been absorbed! The shackles on his hands had loosened. As long as this little black tiger continued to attack him crazily, he could find an opportunity!
@@ -47,3 +49,5 @@ The power left by the Demon King was neutralized by a part of the power in Hu Me
 At this time, the dinosaur guard who had been ordered to run an errand returned! Seeing this state, he rushed into the cell regardless of everything. The hero couldn't move because he was in the process of unsealing! And this dinosaur guard also lost the best opportunity to defeat the hero! At this time, a light punch would cause the hero to be blown to pieces by the two powers in his own body!
 
 But his underlying logic was to protect Hu Meng. He directly carried Hu Meng's body out of the cage! Then carefully placed him on the ground to one side. He also smelled Hu Meng's crotch. Finding that he hadn't been jerked off to death, he breathed a sigh of relief! At the same time, he took out his weapon, a long-handled axe, preparing to chop off the hero's head!
+
+**Chapter 102 END**

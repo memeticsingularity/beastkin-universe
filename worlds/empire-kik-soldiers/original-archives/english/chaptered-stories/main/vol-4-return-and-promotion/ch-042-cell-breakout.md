@@ -1,3 +1,5 @@
+# Chapter 42 Cell Breakout
+
 The fox beastkin's eyes were wide, staring hollowly at the door. The black tiger beastkin had told him everything he knew, and only then did the fox realize that the despicable Kik soldiers' weakness truly was their crotch! He also learned what "milking-kill" (撸杀) was. By now, the wounds on the big guy's body had stopped bleeding.
 
 Hearing these things shocked him, but he had only managed to eavesdrop on this much before being discovered. He had fled for his life without any food along the way. By the time he reached the edge of the town, he was exhausted and fainted. Those black-socked soldiers had injected him with nutrient solution to extract what he knew, which was the only reason he hadn't died!
@@ -63,3 +65,5 @@ There was movement outside the door. One black-sock soldier got up to go to the 
 The black-sock soldier at the door was sleeping soundly and was woken from a good dream. Angrily, he slammed the gate! He stood up impatiently and yelled: "Hmph! You only figured it out now! I'm opening the door! If you're lying, I'll blow your brains out immediately!"
 
 Then the door lock opened. The black-sock soldier was a wolf beastkin, his tail wagging irritably!
+
+**Chapter 42 END**

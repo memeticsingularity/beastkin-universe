@@ -1,4 +1,4 @@
-# Chapter 1: Breathing in the Trash Can
+# Chapter 1 Breathing in the Trash Can
 
 ---
 
@@ -265,3 +265,5 @@ Then, he took the first step.
 *He was no longer that simple, martial-arts-hall-dreaming recruit Leizhao. He was someone who had died once, a ghost who had crawled back from the edge of hell.*
 
 *And all of this was only the beginning.*
+
+**Chapter 1 END**

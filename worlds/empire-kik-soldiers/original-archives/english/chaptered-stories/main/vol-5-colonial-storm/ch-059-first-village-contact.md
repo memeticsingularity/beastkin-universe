@@ -1,3 +1,5 @@
+# Chapter 59 First Village Contact
+
 In the blink of an eye, another day passed. Hu Meng sat in a corner of the training room, with two subordinates standing straight beside him. The snow leopard deputy was patrolling the training ground, where the subordinates were divided into groups for training. There was physical training, combat training, and shooting training.
 
 Hu looked at the data on the computer. After an hour, he picked out those who ranked last in each training session. If they failed, they would become food for the beast! Thinking of his master's order, he didn't dare to jerk them off casually.
@@ -57,3 +59,5 @@ They landed at the foot of a distant mountain. Their pure black appearance gave 
 The armor plates on the starship retracted, sunlight shone in, and the red emergency lights stopped flashing. All the cultivation chambers lit up, and the doors opened one by one. The Kik soldiers who had taken refuge woke up and walked out.
 
 Some physically weaker Black Socks soldiers directly knelt on the floor, retching! Hu Meng was just a little dizzy. He twisted his neck and moved all his joints. Then he shouted at the top of his lungs, "All of you stand at attention! We have reached our destination. His Majesty the Emperor will issue orders shortly! Don't all look like you've been jerked off! Look alive!"
+
+**Chapter 59 END**

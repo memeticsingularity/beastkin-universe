@@ -1,4 +1,4 @@
-# Chapter 4: Uncontrolled Desire
+# Chapter 4 Uncontrolled Desire
 
 ---
 
@@ -406,3 +406,5 @@ being discharged from the hospital."**
 ---
 
 [Chap3](ch-003-brutal-training-ground.md) | [Back to Index](README.md) | [Chap5](ch-005-birth-of-the-hunting-spear.md)
+
+**Chapter 4 END**

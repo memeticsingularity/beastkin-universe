@@ -1,4 +1,4 @@
-# Chapter 6 corpse corridor
+# Chapter 6 Corpse Corridor
 
 ---
 

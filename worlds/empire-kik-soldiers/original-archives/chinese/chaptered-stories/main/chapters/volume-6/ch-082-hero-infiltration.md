@@ -1,4 +1,4 @@
-# Chapter 82 hero infiltration
+# Chapter 82 Hero Infiltration
 
 ---
 

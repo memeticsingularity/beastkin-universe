@@ -1,3 +1,5 @@
+# Chapter 80 Emperor Personal Expedition
+
     With a glance from His Majesty, all the water in the pool was instantly evaporated.   It's a pity these Black Socks soldiers didn't have a smart officer leading them! The white stone ground caught his attention. The key was below!
 
     This spring was truly bizarre. It seemed to be a backup measure left by the hero! This was also a good thing for him. At least he knew the hero's layout was still stuck 300,000 years ago. Besides the other two keys, he still had to find the ruins left by the previous civilization.
@@ -57,3 +59,5 @@
     The two tiger beastman Black Socks soldiers at the door watched the officer leave and then quickly went to collect the corpse. They discovered the bizarre corpse, pulled the bear's foot out of his mouth. They put his legs together, stuffed the softened penis back into his crotch, and carried him to the recycling room, one in front and one behind. And the bed Commander Hu Meng had just been lying on was this Black Socks bear's.
 
     His Majesty the Emperor encountered a storm on his way home. The spherical defense around him directly carved a path through the clouds. At this time, he had already issued an order to the base! Select a squad of strong Kik soldiers to verify his idea!
+
+**Chapter 80 END**

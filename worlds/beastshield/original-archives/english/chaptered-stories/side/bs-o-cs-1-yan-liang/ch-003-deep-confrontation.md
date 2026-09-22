@@ -1,4 +1,4 @@
-# MS-001: Flame Wraith - Chapter 3: Fierce Battle in the Depths of the Base
+# Chapter 3 Flame Wraith - Chapter 3: Fierce Battle in the Depths of the Base
 
 ---
 
@@ -9,7 +9,7 @@
 > *Flame Wraith - Chapter 3: Deep Confrontation*  
 > **Yan** and **Liao** venture into the core area of the **Beast Shield Base**, encountering a
 > mysterious **Panda Beastman** and hidden masters. A fierce battle erupts within the confined
-> space.
+> space.  
 > Ultimately, who will bear the brunt of **President Ya**'s wrath...?
 
 ---
@@ -425,3 +425,5 @@ I just wonder who will be the next to fall at the staircase landing, with semen 
 ---
 
 | [Previous Chapter](ch-002-office-clearance.md) | [Return to Directory](../../../short-stories/README.md) |
+
+**Chapter 3 END**

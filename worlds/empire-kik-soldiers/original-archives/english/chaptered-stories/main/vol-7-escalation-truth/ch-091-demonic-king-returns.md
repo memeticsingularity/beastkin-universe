@@ -1,3 +1,5 @@
+# Chapter 91 Demonic King Returns
+
 But his alertness was enough; it was just his strength that was lacking! The hero raised his hand and fired a special bullet that hit that Green Socks squad leader's crotch! The drug took effect quickly. Before his hands could pinch his life root to stop ejaculation, he died.
 
 The ejaculation was too fast. The hero quickly ran over, supported the corpse, and skillfully changed into his socks. Then he disguised the scene. The original Green Socks squad leader was put on black socks. He knelt there with his head pressed tightly against the Green Socks bear's crotch. He pried open the bear's mouth and made him hold his subordinate's bear cock in his mouth!
@@ -63,3 +65,5 @@ Before they could finish reporting the situation, they were grabbed by the crotc
 It's just that it was too late to run, so he shouted for help loudly. As a result, he was punched in the abdomen and couldn't shout. The hero pressed him to the ground and jerked off the military socks on his feet. The immense pain made him let out an "uh ah." Semen uncontrollably filled the gaps in his tight underwear.
 
 It was finally all dealt with! He had achieved his goal and it was time to leave! So with one hand holding the battery, he opened the portal and left elegantly! This commotion could be considered the second declaration of war to the demon king!
+
+**Chapter 91 END**

@@ -1,4 +1,4 @@
-# Chapter 10 operating table
+# Chapter 10 Operating Table
 
 ---
 

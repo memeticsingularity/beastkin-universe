@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 14: Foiiow Me*
+> *Ink Hound - Chapter 14: Foiiow Me*  
 > 黑狗安顿灰牛后独自外出，威胁偷懒绿制服重新装车。搬尸过程中发现黄豹尚存一息，开车途中又救起老灰。到达小巷，褐鹿与黑獒从阴影中走出。。。
 
 ---

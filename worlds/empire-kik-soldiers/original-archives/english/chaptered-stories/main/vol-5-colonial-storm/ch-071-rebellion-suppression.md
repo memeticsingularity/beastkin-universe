@@ -1,3 +1,5 @@
+# Chapter 71 Rebellion Suppression
+
 It was night. Outside Hu Meng's house, two Black Socks soldiers were standing guard. They were chatting quietly, their bodies motionless and their eyes looking forward. They were talking about the duel during the day and also about the loser.
 
 At this moment, a figure gradually approached. One of the Black Socks soldiers quickly raised his gun and said: "Who! Don't move! Or I'll shoot!"
@@ -63,3 +65,5 @@ As he spoke, Hu Meng drew his gun. A beam of light passed through his temple. Wi
 Then he slowly walked to the side of the Gray Socks wolf, grabbed his ankle, and pulled off one of his military socks. He immediately struggled. That bare foot felt as if it was soaked in sulfuric acid. Seizing the opportunity, he stuffed that gray sock into his wolf mouth and pinched his muzzle!
 
 His other hand grabbed his remaining sock and pulled it off too. He watched as his crotch bulged, and the smell of semen came through... He twitched a few times and died too!
+
+**Chapter 71 END**

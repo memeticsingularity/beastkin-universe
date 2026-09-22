@@ -1,3 +1,5 @@
+# Chapter 89 Power Core Infiltration
+
 The hero looked at the corpses all over the ground with satisfaction. It's just that falling like this was too unsightly. He spent some time arranging them into the Empire's characters. On this big communal bed, he arranged a humiliating word.
 
 He also deliberately pulled out their softened meat sticks. The already somewhat dark red glans were adjusted to prominent positions. He also took off a sock and put it on! He remembered that the demon king's subordinates from before had been played with by him like this.
@@ -59,3 +61,5 @@ The tiger beastman squad leader looked at their posture. It very much looked lik
 Before the squad leader could finish speaking, it was already too late. The hero on the console closed the door to the power room and slowly said: "I hope you can like the gift I prepared for you."
 
 The corpse lying on top was flipped over. There was a metal ring on his glans. With the movement, the switch connected to the metal ring was opened, and a cylindrical container fell. A colorless and odorless agent was rapidly released, and a hissing sound could still be heard...
+
+**Chapter 89 END**

@@ -1,3 +1,5 @@
+# Chapter 100 Island Mystery
+
 His Majesty the Emperor's interest was piqued again. He walked to the hero's side, raised his foot, and doodled randomly on his body with his fingers. This ticklish sensation made the hero's head spin. It's just that with his power sealed, he had no time to research a way to break it.
 
 Now his mind was full of that craving for primitive instinct. His legs twitched, but he just wouldn't open his eyes. His Majesty the Emperor suddenly straightened up, and an energy whip appeared in his hand. He whipped the hero fiercely!
@@ -53,3 +55,5 @@ His Majesty the King had already arrived at the starship in orbit. Those Kik sol
 He went straight to the hangar on the starship and boarded a shuttle, flying straight toward that small island on the planet. Passing through the atmosphere, adjusting attitude and direction, skimming over the ocean, he arrived near the small island.
 
 Lush vegetation covered it; it looked like a perfect place for seclusion! The island had fresh water and no large beasts; it was simply perfect! The nearby whirlpool could prevent many ships from coming! After landing on the beach, His Majesty the Emperor floated five centimeters above the ground. He floated toward the center of the island...
+
+**Chapter 100 END**

@@ -1,4 +1,4 @@
-# Chapter 40 townsfolk assembly
+# Chapter 40 Townsfolk Assembly
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 19 inner circle patrol
+# Chapter 19 Inner Circle Patrol
 
 ---
 

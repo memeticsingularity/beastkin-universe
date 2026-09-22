@@ -1,4 +1,4 @@
-# Story: Wolf Smoke and Coins
+# Story Wolf Smoke and Coins
 
 > A gambler always believes the next round will turn the tables, just as prey always believes the darkness is only temporary. But in the folds of the White Capital, the next round is often the final one, and darkness sometimes embraces you in the gentlest way possible.
 

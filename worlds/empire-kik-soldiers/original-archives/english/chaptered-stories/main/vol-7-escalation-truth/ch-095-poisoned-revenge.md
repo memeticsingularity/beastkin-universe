@@ -1,3 +1,5 @@
+# Chapter 95 Poisoned Revenge
+
 Hu Meng woke up once again, still being carried out of the cultivation chamber by someone else. He only remembered obeying His Majesty's orders, and then he fell asleep again...
 
 The dinosaur guard also escaped death under the hero's attack. Due to his special body structure, he wasn't jerked off by the hero. It's just that a scar was left on his chest. Now they were helping Hu Meng get dressed. Carefully, they put on his underwear, the blue military socks with three bars, the frog-suit set, and so on.
@@ -57,3 +59,5 @@ Tell him about his own experiences and hope to follow him in eradicating these h
 Just at this time, he sensed something touching his foot! So he got up and turned around. Seeing that Black Socks bear wolf beastman, he thought, is this guy here to accept his punishment? But the order he had given him was that if he couldn't catch a lazy Black Socks soldier, he should jerk himself off to atone. It looked like he had caught one. So he kicked him, signaling him to lead the way.
 
 The Black Socks bear led the officer all the way to the place where the battle vehicles were parked. He saw a wild boar Black Socks soldier sleeping against the vehicle. The wolf beastman squad leader nodded in satisfaction. He ordered the Black Socks bear to pull off this wild boar Black Socks soldier's military socks and stuff them into his mouth!
+
+**Chapter 95 END**

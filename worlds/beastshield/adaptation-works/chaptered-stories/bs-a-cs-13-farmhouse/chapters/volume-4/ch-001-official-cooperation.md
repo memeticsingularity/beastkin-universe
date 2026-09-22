@@ -6,7 +6,7 @@
 
 ---
 
-> *Official Cooperation*
+> *Official Cooperation*  
 > 北泽警官正式邀请谷之家与市警局特别行动组合作，共同应对噬精兽问题。老周与雷克斯官复原职，谷之家众人热热闹闹地迎接新阶段。
 
 ---

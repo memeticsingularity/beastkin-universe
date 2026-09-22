@@ -1,4 +1,4 @@
-# Chapter 51 gas trap
+# Chapter 51 Gas Trap
 
 ---
 

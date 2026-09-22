@@ -1,4 +1,4 @@
-# Chapter 102 dinosaur guard falls
+# Chapter 102 Dinosaur Guard Falls
 
 ---
 

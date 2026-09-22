@@ -1,4 +1,4 @@
-# Chapter 1 list of names
+# Chapter 1 List of Names
 
 ---
 

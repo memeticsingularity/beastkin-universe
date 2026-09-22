@@ -1,3 +1,5 @@
+# Chapter 41 Undercover Disguise
+
 Bai Lang still felt this plan wouldn't work! Defensive measures were necessary. The Empire had done this before. It's just that back then, the chips didn't match the body, and the self-destruct mechanism and loyalty mechanism would interfere with each other. Certain sensitive words being triggered would cause interference, making those informants die on the spot!
 
 Hu Meng's idea still left Bai Lang dissatisfied. Fortunately, the current chip parasitism methods were much gentler. Becoming an acquired Kik soldier wouldn't result in such extreme behavior! The self-destruct mode was also changed to simply blowing up the brain.
@@ -55,3 +57,5 @@ Every kick shook him left and right, saliva flying. At this moment, the alarm we
 "Help... help me..." the big guy said weakly.
 
 Only then did the fox beastkin walk over, wanting to let him lean against the wall and sit down. But he simply didn't have the strength. He could only tear off his sleeve and try to bandage his palm...
+
+**Chapter 41 END**

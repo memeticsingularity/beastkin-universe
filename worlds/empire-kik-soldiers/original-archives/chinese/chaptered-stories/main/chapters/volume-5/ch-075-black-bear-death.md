@@ -1,4 +1,4 @@
-# Chapter 75 black bear death
+# Chapter 75 Black Bear Death
 
 ---
 

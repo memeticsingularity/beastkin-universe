@@ -1,4 +1,4 @@
-# Chapter 11 three months later
+# Chapter 11 Three Months Later
 
 ---
 

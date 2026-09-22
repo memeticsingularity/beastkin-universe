@@ -67,3 +67,5 @@ After the examiner finished counting the list and confirmed this was the last ba
 "Sigh, the yield rate is too low. But once it succeeds, it's worth the cost. Oh right, after that driver finishes his work, remember to dispose of him as well."
 
 "Understood." The staff member bowed to receive the order, the corner of his mouth rising, and a strange red light flashed in his pupils.
+
+**Chapter 1 END**

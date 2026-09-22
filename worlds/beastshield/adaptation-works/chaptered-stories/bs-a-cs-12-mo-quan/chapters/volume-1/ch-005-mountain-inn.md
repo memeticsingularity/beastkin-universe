@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 5: The Lean Leopard's Trial*
+> *Ink Hound - Chapter 5: The Lean Leopard's Trial*  
 > 黑狗穿着偷来的蓝制服摸进一间废弃客栈。角落里，一只瘦瘦的黄豹兽人正把他当成O级长官。。。
 
 ---

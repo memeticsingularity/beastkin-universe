@@ -1,4 +1,4 @@
-# Chapter 19: Origin Revelation
+# Chapter 19 Origin Revelation
 
 As soon as the Heavenly Prison was opened, Director Lan discovered the human inside and said to Da Ben: "It's too dangerous here. We need to transfer the human to a safe place."
 
@@ -51,3 +51,5 @@ Director Hui said, ignoring Director Ya's obstruction, and prepared to pull out 
 Director Hui saw the situation was bad and intended to forcibly pull out the spear of light. But before he could exert force, a black-red flame ignited from his neck, instantly burning his entire body. He only had time to let out a miserable scream before being directly burned into a charred corpse. The semen that flowed out was also instantly evaporated.
 
 "Alright, it's time to clean up the remaining Divine Weapon pests." The Dragon God... No, the person who should now be called the Blood King, shook off Director Hui's corpse. His hands behind his back, he floated into the air and flew toward the battlefield.
+
+**Chapter 19 END**

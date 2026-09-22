@@ -1,3 +1,5 @@
+# Chapter 21 Mining Proxy
+
 After becoming the acting officer, Hu Meng carried out rectification of the mine! Those miner slaves were each starved for two days! During this period, he also had the black socks soldiers beat them, and the inhibitor collars were upgraded and modified. Control-type drugs were added to their food!
 
 At the same time, he also tested the data of all the black socks soldiers; those who didn't meet the standards were made to intensify their training. Those with excessively poor data were milk-executed on the spot! After all, there were still injuries and deaths when they suppressed the riot! This was a scandal for the Empire!
@@ -55,3 +57,5 @@ Hu Meng laughed a few times and extended his foot for this black socks wolf to l
 "Understood, then go execute it! During this period, I will conduct inspections at irregular intervals! Hurry up and clean up the corpses of these useless trash! Don't let those miner slaves know! Now get out!"
 
 Then Hu Meng lay down on the bed and fell asleep. The two green socks subordinates gently closed the door and continued standing guard at the entrance.
+
+**Chapter 21 END**

@@ -1,3 +1,5 @@
+# Chapter 52 Mission Accomplished
+
 Commander White Wolf also watched all of this. So what if the operating equipment was destroyed? All Imperial facilities had a backup system. Seeing that everyone had gathered, it was time to close the net! He activated the chips in Hu Meng and that fox beastkin. He was waiting for the most beautiful outcome!
 
 He had only lost some black-sock soldiers. The Empire had plenty of such tools!
@@ -63,3 +65,5 @@ The damaged console disconnected all connections. They just had to wait for the 
 He thought that his master must have promoted him. He skillfully put on those military socks. He put on his clothes and gear, adjusted his groin guard, put on his ankle guards, adjusted them properly, and then walked out.
 
 It felt so good to be a Kik soldier again! He came to the control room again, looked at those corpses, and ordered: "Have the commander here clean up later! Throw these corpses into the town square!"
+
+**Chapter 52 END**

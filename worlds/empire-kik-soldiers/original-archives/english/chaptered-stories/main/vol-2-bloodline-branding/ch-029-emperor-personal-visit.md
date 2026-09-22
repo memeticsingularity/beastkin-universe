@@ -1,3 +1,5 @@
+# Chapter 29 Emperor Personal Visit
+
 Baiwa Hu returned to his own resting room, found a safe corner, and hid. Just now, when His Majesty the Emperor had questioned him like that, had His Majesty noticed something?
 
 Could it be that His Majesty knew about all his affairs? That was absolutely impossible! He had evaded the Empire's systems, evaded the Empire's network. He had even successfully recruited those resistance organizations!
@@ -59,3 +61,5 @@ But he was tied up in a spread-eagle position and could only take the beating. T
 After saying this, the black-socked soldiers beside the One-Eyed Tiger clearly panicked! If their officer said such words, he would definitely be subjected to extreme punishment! Then, having heard this, would they...
 
 Before they could react, two black-socked soldiers clutched their crotches in pain and died. Having heard these words, it was impossible for them to live! But he had brought two squads of subordinates! He wasn't afraid of this kind of consumption at all!
+
+**Chapter 29 END**

@@ -9,7 +9,7 @@
 > *Trial by Blood*  
 > Three years can change many things. **Xin** transformed from the boy who ate rabbit raw into a
 > relentless avenger seeking entry into the **Alliance Fortress**. At the **Beast Alliance City**'s
-> guard recruitment, he must face a brutal trial against the **Elite Alliance Guard Zhan Feng**.
+> guard recruitment, he must face a brutal trial against the **Elite Alliance Guard Zhan Feng**.  
 > This
 > is not a fair contest—it's a demonstration of will, cunning, and savage instinct.
 
@@ -294,3 +294,5 @@ handed to the one most skilled at wielding it. The road ahead will only be blood
 [Previous Chapter](ch-002-the-devouring-of-innocence.md) | [Return to Directory](README.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
+
+**Chapter 3 END**

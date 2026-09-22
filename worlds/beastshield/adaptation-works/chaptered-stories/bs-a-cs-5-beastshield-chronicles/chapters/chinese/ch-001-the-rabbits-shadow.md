@@ -1,4 +1,4 @@
-# Chapter 1 the rabbits shadow
+# Chapter 1 The Rabbits Shadow
 
 ---
 

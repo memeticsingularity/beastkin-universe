@@ -1,4 +1,4 @@
-# MS-001: Flame Wraith - Chapter 2: Office Clearance
+# Chapter 2 Flame Wraith - Chapter 2: Office Clearance
 
 ---
 
@@ -7,7 +7,7 @@
 ---
 
 > *Flame Wraith - Chapter 2: Office Clearance*  
-> **Yan** and **Liang** leave the office, delving deeper into the **Beast Shield Training Base**.
+> **Yan** and **Liang** leave the office, delving deeper into the **Beast Shield Training Base**.  
 > The new guard system with **Black** and **White** uniforms, mysterious intruders, mountains of
 > corpses... The hunt continues.
 
@@ -428,3 +428,5 @@ cicada, unaware of the oriole behind. The night is still deep, and the hunt is f
 ---
 
 | [Previous Chapter](ch-001-infiltration.md) | [Return to Directory](../../../short-stories/README.md) | [Next Chapter](ch-003-deep-confrontation.md) |
+
+**Chapter 2 END**

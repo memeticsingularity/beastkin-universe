@@ -6,8 +6,8 @@
 
 ---
 
-> *The wind of the snowy mountains always carries the scent of blood.*
-> *Here, the weak have no right to survive; a mistake means death.*
+> *The wind of the snowy mountains always carries the scent of blood.*  
+> *Here, the weak have no right to survive; a mistake means death.*  
 > *Hu Meng looked at the wounded soldier before him, a flash of cold calculation deep in his chip.*
 
 ---
@@ -112,8 +112,8 @@ His own tail couldn't accomplish that kind of movement, and he was very envious,
 
 **Chapter 33 END**
 
-> *The snow leopard flicked the turbid liquid off his tail and left without looking back.*
-> *Only the pungent smell of blood mixed with semen remained in the dormitory, along with nine pairs of terrified eyes.*
+> *The snow leopard flicked the turbid liquid off his tail and left without looking back.*  
+> *Only the pungent smell of blood mixed with semen remained in the dormitory, along with nine pairs of terrified eyes.*  
 > *The Empire's rules were once again written in blood.*
 
 ---

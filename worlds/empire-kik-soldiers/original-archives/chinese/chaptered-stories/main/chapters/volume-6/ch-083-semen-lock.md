@@ -1,4 +1,4 @@
-# Chapter 83 semen lock
+# Chapter 83 Semen Lock
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 10 watchtower six inspection
+# Chapter 10 Watchtower Six Inspection
 
 ---
 

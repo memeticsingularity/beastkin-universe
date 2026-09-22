@@ -1,4 +1,4 @@
-# Chapter 57 beast corps formation
+# Chapter 57 Beast Corps Formation
 
 ---
 

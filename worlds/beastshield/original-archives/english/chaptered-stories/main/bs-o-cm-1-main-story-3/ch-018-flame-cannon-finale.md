@@ -1,4 +1,4 @@
-# Chapter 18: Flame Cannon Finale
+# Chapter 18 Flame Cannon Finale
 
 The Commander's furious roar resounded through the clouds. Moying was stunned by this rebuke. He had never seen the Commander so enraged. For a moment, he was like a child who had done something wrong, standing frozen in place, not knowing what to do. The Semen-Eater Beast whose ox cock he was grasping could only awkwardly stand there with him.
 
@@ -73,3 +73,5 @@ The black ball repeatedly contracted violently for three rounds, then shrank int
 "So this is your true form, an ugly catfish?" Qin Chuan said speechlessly. "Shut... Shut up, just you wait until next time I don't..."
 
 With a splat, Qin Chuan crushed the catfish in his hand into minced meat, bursting apart. "There is no next time. Death penalty, carried out immediately."
+
+**Chapter 18 END**

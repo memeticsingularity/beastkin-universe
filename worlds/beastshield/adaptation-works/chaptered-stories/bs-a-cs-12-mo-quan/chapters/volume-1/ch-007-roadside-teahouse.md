@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 7: Roadside Teahouse*
+> *Ink Hound - Chapter 7: Roadside Teahouse*  
 > 废弃茶棚里，黑狗遭遇鬣狗与野猪的埋伏，却意外获得手枪与春药弹。还没来得及得意，两个更危险的身影从雾气中浮现——武林的人，也在找他。
 
 ---

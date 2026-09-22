@@ -1,4 +1,4 @@
-# Chapter 10: Before Dreams
+# Chapter 10 Before Dreams
 
 ---
 

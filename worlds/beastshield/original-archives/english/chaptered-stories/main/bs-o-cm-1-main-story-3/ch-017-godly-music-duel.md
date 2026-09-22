@@ -1,4 +1,4 @@
-# Chapter 17: Godly Music Duel
+# Chapter 17 Godly Music Duel
 
 The current battle situation: agents and directors were fighting fiercely, and the Dragon God was battling the three directors without a clear winner. The situation seemed balanced, but in reality, the Dragon God relied on the advantage of the Five Elements' continuous flow, with his energy constantly replenishing. The three directors, on the other hand, were continuously expending their own physical strength to maintain the situation. Unbeknownst to outsiders, they were painfully aware that if this continued, defeat was inevitable.
 
@@ -65,3 +65,5 @@ The Commander, who had been paying attention to the battle, instantly turned pal
 "Why did you bring that thing here—"
 
 "What—are—you—doing!!!"
+
+**Chapter 17 END**

@@ -1,4 +1,4 @@
-# Chapter 5: The Hound's Pack
+# Chapter 5 The Hound's Pack
 
 ---
 

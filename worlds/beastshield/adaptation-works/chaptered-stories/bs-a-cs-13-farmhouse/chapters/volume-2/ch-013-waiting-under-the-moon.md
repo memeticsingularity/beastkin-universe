@@ -6,7 +6,7 @@
 
 ---
 
-> *Waiting Under the Moon*
+> *Waiting Under the Moon*  
 > 老周深夜向小谷袒露心底埋藏的秘密——他一直在寻找某个已逝之人的影子。
 
 ---

@@ -1,4 +1,4 @@
-# Chapter 63 psychic shockwave
+# Chapter 63 Psychic Shockwave
 
 ---
 

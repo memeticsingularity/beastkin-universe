@@ -1,4 +1,4 @@
-# Chapter 28 mass execution
+# Chapter 28 Mass Execution
 
 ---
 

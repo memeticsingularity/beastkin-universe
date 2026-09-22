@@ -1,3 +1,5 @@
+# Chapter 87 Head on Clash
+
 The hatch opened. The hero took out a cylindrical container from his waist, pressed it, and threw it out. That container landed and opened, releasing a colorless and odorless gas. The hero then used the torpedo vehicle as a foothold to launch himself!
 
 The Green Socks soldier squad leader in the control room and the three people with Hu Meng's guard immediately rushed down. The remaining two teams of Black Socks soldiers also rushed over. Two of the Black Socks soldiers on duty had already died.
@@ -53,3 +55,5 @@ Fortunately, there was a backup device that could be used. He connected to the m
 Hu Meng sat on the ground. He had already lost his mission as a Kik soldier! Thinking of jerking himself off to atone for his crime, just as he was about to unfasten his pants, the chip in his brain activated and forcibly shut Hu Meng down!
 
 His Majesty the Emperor, who was going all out to crack the seal, already knew about this matter! He had seen the identity of that enemy from Hu Meng's brain! He confirmed it was the hero who had sealed him 300,000 years ago!
+
+**Chapter 87 END**

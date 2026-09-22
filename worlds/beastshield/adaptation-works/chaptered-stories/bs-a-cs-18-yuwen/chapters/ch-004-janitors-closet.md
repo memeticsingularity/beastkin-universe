@@ -1,4 +1,4 @@
-# Chapter 4 janitors closet
+# Chapter 4 Janitors Closet
 
 ---
 

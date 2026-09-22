@@ -1,4 +1,4 @@
-# Chapter 15: Encounter at Oasis Town
+# Chapter 15 Encounter at Oasis Town
 
 ---
 
@@ -288,3 +288,5 @@ Yunfeng** straightened the massive member under his crotch and stated matter-of-
 ---
 
 [Chap14](ch-014-the-sperm-devourers-feast.md) | [Back to Index](README.md)
+
+**Chapter 15 END**

@@ -1,4 +1,4 @@
-# Chapter 89 power core infiltration
+# Chapter 89 Power Core Infiltration
 
 ---
 

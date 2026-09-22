@@ -1,4 +1,4 @@
-# Story: Tiger Spots and Rusty Blade
+# Story Tiger Spots and Rusty Blade
 
 > Some scents are destined to dissipate in the wind, just as some lives are destined to dissolve in darkness. Hunting is never killing, but cleaning up the metabolites this city refuses to acknowledge.
 

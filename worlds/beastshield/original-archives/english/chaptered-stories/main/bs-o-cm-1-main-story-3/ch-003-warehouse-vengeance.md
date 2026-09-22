@@ -199,3 +199,5 @@ Lao Lei then discovered that his dick had unknowingly gone soft. He asked curiou
 Lao Lei wasn't angry either. He stood up, grabbed his soft dick and stroked it a couple of times, then stuffed it back into his pants. He said thanks and walked away with a swagger, which instead made Mr. Qu blush watching him, secretly cursing:
 
 "Shameless!"
+
+**Chapter 3 END**

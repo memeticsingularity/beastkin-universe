@@ -6,7 +6,7 @@
 
 ---
 
-> *Snow Leopard Assassin*
+> *Snow Leopard Assassin*  
 > 雪豹刺客扮成食客潜入，被虎彻用变态辣炒肉和下药啤酒放倒。大木的旧识小竹登场。
 
 ---

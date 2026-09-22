@@ -1,3 +1,5 @@
+# Chapter 105 White Bear Ambush
+
 The ground shook slightly, and the hangar stopped. The Blue Socks soldier mechanically reported to the hero: "Master! The latest order requires all Kik soldiers in this flying vehicle to assemble in Zone S6!"
 
 The hero sighed. What other miscellaneous soldiers were there! They had all been eaten by him. Anyway, he would figure out this place sooner or later. He could also see what the Demon King was up to!
@@ -51,3 +53,5 @@ Because that mountain, if he wanted, could be easily leveled! As for that small 
 At this time, the base was already in a state of emergency. A few days ago, the Blue Socks soldier responsible for changing shifts came to take over. After walking into the core area of the prison, he sounded the alarm! Officer Hu Meng's limbs were broken, and there was an obvious knife wound on his chest.
 
 The other Kik soldiers had already been jerked off to death. Those Blue Socks soldiers in the cage seemed to be controlled! They clearly looked like they had jerked themselves off to death to atone for their crimes.
+
+**Chapter 105 END**

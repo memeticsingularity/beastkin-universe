@@ -2,7 +2,7 @@
 
 ---
 
-> *Night Hunt at the Motor Pool*
+> *Night Hunt at the Motor Pool*  
 > 灰狼赏金猎人夜袭兽盾车辆调配场。六名夜班兽盾兵，六种死法，一个文件夹。
 
 ---

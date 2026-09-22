@@ -1,4 +1,4 @@
-# Chapter 7: Police Station Invasion
+# Chapter 7 Police Station Invasion
 
 At one o'clock in the morning, in the office of the White Capital Police Bureau Chief, a broad-shouldered, thickset gray-blue water buffalo beastman sat in the chief's chair, bent over and struggling to revise documents on the computer. Due to his massive frame, normal-sized keyboards and mice were clearly unsuitable for him. The buffalo beastman's thick fingers frequently hit the wrong keys on the keyboard, constantly undoing his mistakes, making him so frustrated he cried out in complaint.
 
@@ -169,3 +169,5 @@ Qin Chuan wiped the semen on his hands onto the rhino's fur, straightened his cl
 "Don't go! ... Ugh cough... Let me go! ... Help..." Seeing the boar die horribly, the rhino's psychological defense finally collapsed. He began to scream for help frantically. But Qin Chuan acted as if he saw nothing, walked out the door, and politely turned off the light.
 
 "Cough... Ahh... Ahh! ... Ugh!" In the pitch-black room filled with the fishy smell of semen, the rhino endured the torment of suffocation for a full five minutes before semen finally shot out from his hard cock. Freed from the pain, the rhino beastman stuck out his tongue, his eyes vacant. His body hung in the air like a puppet. His two white-socked thick legs lost the support of their strength, hanging in mid-air in a pigeon-toed position. Ox semen dripped from his sock legs onto the ground. The rhino beastman, who had thought he was just carrying out a search mission and could kill a couple of civilians for fun along the way, never imagined that he would become the hunted.
+
+**Chapter 7 END**

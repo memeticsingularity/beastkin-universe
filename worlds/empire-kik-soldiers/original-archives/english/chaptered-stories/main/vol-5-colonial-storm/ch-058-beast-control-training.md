@@ -1,3 +1,5 @@
+# Chapter 58 Beast Control Training
+
 Seeing that his subordinates were highly motivated, Hu Meng turned to the snow leopard deputy and said, "Continue training them! I'm going to check on the beast!" After speaking, he headed toward the elevator. The snow leopard deputy immediately called over two Black Socks soldiers to follow the officer and await orders...
 
 He arrived at the beast's room all the way. The Black Socks soldier at the door saluted and opened the door. Hu Meng followed his two subordinates inside. The beast opened its eyes, smelled the scent of the Black Socks soldiers, and was about to extend its tentacles to devour their semen.
@@ -55,3 +57,5 @@ A few hours later, Hu Meng left his master's room, speechless, and returned to h
 He wanted to vent his frustration on them but wouldn't jerk them off! So he ordered them to lie on the ground and stuffed his feet into their mouths! Unexpectedly, the two of them got excited directly, diligently licking Hu Meng's socks. They kept expressing their loyalty to him as their officer!
 
 This feeling was really comfortable! These two subordinates had some skills! He might as well not jerk them off in the future. He slapped his thigh, had them stand up, and rewarded each of them with a kick before sending them out to stand guard.
+
+**Chapter 58 END**

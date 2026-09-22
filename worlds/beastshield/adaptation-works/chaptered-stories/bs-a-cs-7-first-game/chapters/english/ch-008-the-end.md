@@ -1,4 +1,4 @@
-# Chapter 8: The End
+# Chapter 8 The End
 
 ---
 

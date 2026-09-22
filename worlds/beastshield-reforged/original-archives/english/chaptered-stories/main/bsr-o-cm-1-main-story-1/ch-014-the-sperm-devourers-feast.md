@@ -1,4 +1,4 @@
-# Chapter 14: The Sperm Devourer's Feast
+# Chapter 14 The Sperm Devourer's Feast
 
 ---
 
@@ -270,3 +270,5 @@ since childhood.
 ---
 
 [Chap13](ch-013-the-barren-spine-plains.md) | [Back to Index](README.md) | [Chap15](ch-015-encounter-at-oasis-town.md)
+
+**Chapter 14 END**

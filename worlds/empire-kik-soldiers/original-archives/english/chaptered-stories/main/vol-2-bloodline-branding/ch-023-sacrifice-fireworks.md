@@ -1,3 +1,5 @@
+# Chapter 23 Sacrifice Fireworks
+
 This scene shocked Hu Meng speechless. The white wolf officer laughed heartily. This kind of sacrifice was naturally unknown to this rookie who had only matured a little over a month ago. In the Imperial capital, this kind of thing was very common. If His Majesty the Emperor took a liking to someone, he would grant him a special pardon!
 
 Just like himself, becoming His Majesty the Emperor's slave, receiving a promotion, and also gaining the qualification to entertain His Majesty the Emperor specifically. The milking execution mechanism would be removed, becoming a truly perfect combat tool!
@@ -41,3 +43,5 @@ That dark red tentacle was tightly sucking on the black socks soldier's dick. It
 That wolf beastkin black socks soldier let out a miserable scream and died. It turned out that the fleshy lump had forcibly absorbed all his semen clean. After receiving the semen, the fleshy lump's volume grew from the size of a basketball to the size of a water vat. Then it was motionless again, as if asleep. After finishing the records, he ordered the soldiers at the room entrance to dispose of the corpse!
 
 Then he reported this situation to the supervising officer. After the supervisor recorded it, he transmitted this report to the capital. At the same time, reports from several other bases were also transmitted over. This was His Majesty the Emperor's new experiment. What His Majesty the Emperor's goal was, these tools did not dare to guess randomly. They could only carry out the experiment according to His Majesty's orders...
+
+**Chapter 23 END**

@@ -6,7 +6,7 @@
 
 ---
 
-> *Farewell and Warning*
+> *Farewell and Warning*  
 > 大木临别前向小谷发出警告，小谷当面质问雷克斯，两人坦诚相见达成和解。
 
 ---

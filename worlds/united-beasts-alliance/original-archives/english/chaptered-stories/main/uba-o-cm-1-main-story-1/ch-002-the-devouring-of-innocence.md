@@ -223,3 +223,5 @@ walk it.
 [Previous Chapter](ch-001-everyday-life-and-farewell.md) | [Return to Directory](README.md) | [Next Chapter](ch-003-trial-by-blood.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
+
+**Chapter 2 END**

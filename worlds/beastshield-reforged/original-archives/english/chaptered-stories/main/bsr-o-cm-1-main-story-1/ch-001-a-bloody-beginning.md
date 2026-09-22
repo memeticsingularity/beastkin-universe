@@ -1,4 +1,4 @@
-# Chapter 1: A Bloody Beginning
+# Chapter 1 A Bloody Beginning
 
 ---
 
@@ -348,3 +348,5 @@ white sock, where "001" was printed, looking like a serial number.
 ---
 
 | [Back to Index](README.md) | [Chap2](ch-002-the-iron-fist-of-discipline.md)
+
+**Chapter 1 END**

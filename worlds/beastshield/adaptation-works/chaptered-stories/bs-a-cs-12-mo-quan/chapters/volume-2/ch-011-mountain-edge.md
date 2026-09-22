@@ -1,4 +1,4 @@
-# Chapter 11 mountain edge
+# Chapter 11 Mountain Edge
 
 ## 第二卷 第十一章：青石镇酒馆
 

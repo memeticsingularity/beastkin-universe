@@ -1,4 +1,4 @@
-# Chapter 20: Identity Merge
+# Chapter 20 Identity Merge
 
 The floating island war was nearing its end. The island was littered with corpses. Of the more than three hundred grunts Director Ya had brought, only a few dozen remained alive. Most of the survivors were also injured and retreating. Now, only two people were still fighting desperately on the field.
 
@@ -61,3 +61,5 @@ The wild boar beastman clearly sensed a killing intent. The will to survive made
 "Mmm, that's right. The slogan is indeed shouted like this. But you saw my secret, so your life can't be kept. And, what you said is an incomplete version of the slogan," The white dragon's five fingers further pinched the wild boar beastman's two fat-to-the-point-of-ridiculous balls, hurting him so much that his two thick legs involuntarily clamped inward. "The complete version should be: You believe in the Light, only I gain eternal life!" With that, the white dragon's five fingers twisted hard!
 
 The wild boar beastman's balls were instantly crushed. Accompanied by a tragic pig cry, a mess of white fluid, yellow juice, and red paste immediately splattered all over the room.
+
+**Chapter 20 END**

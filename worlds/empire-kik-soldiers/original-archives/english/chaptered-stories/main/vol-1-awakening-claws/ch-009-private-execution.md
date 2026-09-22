@@ -1,3 +1,5 @@
+# Chapter 9 Private Execution
+
 "Sir! Spare me! I won't dare again!" That black socks soldier pleaded painfully. Blood was spitting out of his mouth; his teeth had also been broken by Hu Meng's foot. But Hu Meng was still not satisfied! He used his palm to pinch his neck, then turned around and sat his big butt on his face.
 
 His tail wrapped around his neck to prevent him from moving around. With both hands, he quickly unfastened his fly. He took out the electric baton he carried with him and aimed it at the bulge — one zap!
@@ -75,3 +77,5 @@ This couldn't be helped; after all, it was very common for soldiers of his type,
 After saying this, Hu Meng lay down on the bed and fell asleep...
 
 On the day of departure, the leopard beastkin subordinate woke him up. Hu Meng and the others finished preparations, formed ranks, and came to the garage. They found the ready vehicle; the subordinates opened the rear door and filed in. Hu Meng sat in the passenger seat. A wolf beastkin soldier was responsible for driving. After inserting the storage drive, the vehicle started!
+
+**Chapter 9 END**

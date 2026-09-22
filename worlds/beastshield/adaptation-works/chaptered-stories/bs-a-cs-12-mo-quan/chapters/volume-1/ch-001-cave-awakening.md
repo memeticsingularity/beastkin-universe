@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 1: Cave Awakening*
+> *Ink Hound - Chapter 1: Cave Awakening*  
 > 失忆的**黑狗**在洞穴中醒来，身旁是一具兽人尸体。随后一名**熊兽人**闯入，本应救援却奉命灭口。生死关头，**黑狗**体内神秘力量觉醒……
 
 ---

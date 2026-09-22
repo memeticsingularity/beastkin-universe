@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 3: Hillside Ambush*
+> *Ink Hound - Chapter 3: Hillside Ambush*  
 > 下山途中，黑狗遭遇上山增援的搜捕小队。面对两只壮硕的G级杂兵，他首次以一敌二——杀掉不可爱的，留下还有用的。
 
 ---

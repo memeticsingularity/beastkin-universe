@@ -1,4 +1,4 @@
-# Chapter 2 intel and wardrobe
+# Chapter 2 Intel and Wardrobe
 
 ---
 

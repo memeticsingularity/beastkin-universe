@@ -1,3 +1,5 @@
+# Chapter 65 City Lord Corruption
+
 Hu Meng watched as that Black Socks soldier was torn into pieces, his blood turning into a blood mist. This method of attack was unheard of. The White Socks officers in the base were also stunned. They couldn't help but imagine what it would be like if it hit them!
 
 However, as White Socks soldiers, they had armor inside their bodies, so it would only hurt a little! Hu Meng ordered the battle vehicles behind him to open fire. Dozens of missiles flew out of their bays. The city lord immediately ordered crossbow arrows to intercept.
@@ -57,3 +59,5 @@ The city lord let out a painful scream. That giant object stretched him so much 
 As thick semen was injected into the city lord's body, the city lord felt as if sulfuric acid was invading him. Slowly corroding his body and will, he was gradually corrupted by this golden tiger beastman king. His painful struggles turned into enjoyment. What came out of his mouth was no longer painful roars but hymns praising the Empire and His Majesty the Emperor.
 
 But His Majesty kicked him away just as he was about to reach his climax. He saw his penis erect, semen spraying out continuously. He lay on the ground with empty eyes. At this time, His Majesty had already picked up a white cloth and wiped his tiger cock clean. He sat back down in his seat...
+
+**Chapter 65 END**

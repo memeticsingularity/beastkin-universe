@@ -1,4 +1,4 @@
-# Chapter 76 semen staircase
+# Chapter 76 Semen Staircase
 
 ---
 

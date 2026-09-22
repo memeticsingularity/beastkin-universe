@@ -1,3 +1,5 @@
+# Chapter 112 Truth and End
+
     "Doctor! The commander sent me to ask about the condition of this test subject." A dog beastman soldier in a gray combat suit walked over and inquired of the golden tiger scholar.
     "The research still lacks some data. Currently, the test subject's growth is very stable. Before long, we beastmen will have a new evolution!" Doctor Golden Tiger turned around and said to this soldier.
 
@@ -36,3 +38,5 @@ His Majesty the Emperor put his hands together. The entire metal planet began to
 
 His Majesty the Emperor ordered the six starships to enter the new warship. The huge planet-level spacecraft was activated by His Majesty the Emperor! The sun in the galaxy was bound by the starship's huge force field and began to strip the sun's power to recharge itself.
 The huge energy formed a spectacular sight like a tornado, absorbed by the star-level starship. The entire sun dimmed considerably. After one day, it turned into a white dwarf. Even the sun in its prime was conquered by His Majesty the Emperor. In a few more tens of thousands of years, this white dwarf would completely go out!
+
+**Chapter 112 END**

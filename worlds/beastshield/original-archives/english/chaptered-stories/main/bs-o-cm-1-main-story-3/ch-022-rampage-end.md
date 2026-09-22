@@ -1,4 +1,4 @@
-# Chapter 22: Rampage End
+# Chapter 22 Rampage End
 
 Because most of the employees had been sent to participate in the floating island battle, there were only a few people still on duty at Beastshield headquarters.
 
@@ -49,3 +49,5 @@ As soon as these words came out, the original Xue Ding's entire body shuddered. 
 After the strong vibration, the secret room returned to calm. Xue Ding walked out from the door, squatted down, and stroked a handful of semen from the dead rhino beastman's cock, stuffing it into his mouth and swallowing it. He instantly recovered his physical strength.
 
 "Truly as cunning... as me." Xue Ding wiped the semen off his broken tooth and walked toward the chairman's office.
+
+**Chapter 22 END**

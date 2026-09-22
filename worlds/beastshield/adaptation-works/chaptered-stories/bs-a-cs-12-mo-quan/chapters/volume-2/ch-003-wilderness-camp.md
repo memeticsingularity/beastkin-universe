@@ -1,4 +1,4 @@
-# Chapter 3 wilderness camp
+# Chapter 3 Wilderness Camp
 
 ## 第二卷 第三章：荒野争锋
 

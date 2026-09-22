@@ -1,3 +1,5 @@
+# Chapter 69 Beastman Duel
+
     His Majesty sat on the ground, still unsatisfied. His legs were spread apart, and both hands supported him on the ground. He looked up at the ceiling, his tail swinging back and forth behind him! Just now, he still couldn't fully satisfy himself!
 
      But looking at Hu Meng, who was already lying on the ground foaming at the mouth, he felt a little heartache! If he couldn't hold back and shot inside, this little guy would be done for!
@@ -59,3 +61,5 @@
     "That's perfect! See that Black Socks soldier next to you? How should dereliction of duty be handled!" Hu Meng looked at the Gray Socks soldier and said.
 
     "Of course, by jerking off! Sir, can you let me execute it?" The Gray Socks soldier said excitedly, wagging his tail.
+
+**Chapter 69 END**

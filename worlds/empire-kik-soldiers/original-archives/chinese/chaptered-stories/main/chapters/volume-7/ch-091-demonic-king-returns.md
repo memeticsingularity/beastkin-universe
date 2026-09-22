@@ -1,4 +1,4 @@
-# Chapter 91 demonic king returns
+# Chapter 91 Demonic King Returns
 
 ---
 

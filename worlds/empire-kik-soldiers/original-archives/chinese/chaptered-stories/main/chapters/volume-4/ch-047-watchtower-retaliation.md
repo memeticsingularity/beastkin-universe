@@ -1,4 +1,4 @@
-# Chapter 47 watchtower retaliation
+# Chapter 47 Watchtower Retaliation
 
 ---
 

@@ -1,3 +1,5 @@
+# Chapter 68 Bodyguard Arrival
+
 The current City Lord Kaka had already become His Majesty's avatar. He walked into the ruined city to gather the survivors, have them treat the wounded and bury the dead in batches. He also sent his subordinates to gather the people at the city lord's mansion. Two days had passed by this time.
 
 Finally, he explained the benefits of the Empire to the survivors. Those willing to stay would become honorary subjects of the Empire. He also told everyone about what he had seen in that village. Some of the survivors began to be moved, while some of the younger adult survivors immediately got up and left!
@@ -57,3 +59,5 @@ His Majesty the Emperor was even happier. He let go of the hand holding his wais
 With this signal, Hu Meng let out a loud cry. His lower body finally burst through his underwear and shot a large pool of cloudy, fishy-smelling tiger semen at the ground. His entire body went limp and collapsed directly onto that pool of semen.
 
 His Majesty also pulled out of Hu Meng's body. He didn't want to shoot inside! Because his power had increased! Shooting inside would turn Hu Meng directly into his puppet! That would be a huge loss! He would be sad for a long time. Although he could clone another Hu Meng. His Majesty still liked the original!
+
+**Chapter 68 END**

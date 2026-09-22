@@ -1,4 +1,4 @@
-# Chapter 22 mutual execution
+# Chapter 22 Mutual Execution
 
 ---
 

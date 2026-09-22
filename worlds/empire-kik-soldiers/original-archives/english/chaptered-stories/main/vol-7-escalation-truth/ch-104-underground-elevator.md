@@ -1,3 +1,5 @@
+# Chapter 104 Underground Elevator
+
 On the flying vehicle, the hero kept a very low profile. The Blue Socks soldier beside him put on the sensor without a good mood. His feet were fixed in a special area. At the same time, he shouted into the microphone: "You guys sitting in the back! All of you, look alive later, or I'll jerk you all off to death!"
 
 Then the flying vehicle slowly lifted off, flew away from the base, and headed toward the mountain peak next to the base. This made the hero very uneasy. If he was leaving the base, he could hide for a while. That mountain peak wasn't anything special. Why did the Blue Socks soldier beside him look so panicked!
@@ -53,3 +55,5 @@ Then, moans rose and fell. The Black Socks soldiers in their sleep kicked their 
 The containers on the extractors gradually swelled. White semen was forcibly extracted. Those Black Socks soldiers never woke up in the end because the extraction speed was turned to the fastest. They quickly turned into corpses. The Blue Socks soldier picked up the containers holding their essence and delivered them to the hero!
 
 The hero, who was like drinking alcohol, quickly ate all that essence clean. He even used his tongue to lick the residual white fluid in the containers. The energy in his body recovered a tiny bit. He threw away the last container and waited for the hangar to move to the correct position!
+
+**Chapter 104 END**

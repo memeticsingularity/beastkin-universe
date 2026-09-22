@@ -1,3 +1,5 @@
+# Chapter 62 Public Execution
+
 Commander White Wolf naturally knew what Hu Meng had done. These days, he had finally gotten his fill of jerking off. He had also used the most humiliating method to execute his subordinates. He had really been holding back! Fortunately, the tasks His Majesty had given him were all completed.
 
 In a few days, it would be time to set out again. To reward his tiger cub, he let him have a good time! Hu Meng arrived at the ship trembling with fear. He walked into his master's room and saw three Black Socks soldiers standing inside.
@@ -49,3 +51,5 @@ The students were stunned. They also deeply understood the method of jerking off
 The children cheered and shouted "Long live the Empire." Hu Meng picked up those two pairs of military socks. The Green Socks soldier received the order and ran over. Hu Meng handed him the military socks and had him give them to the two students with the highest grades.
 
 After it was over, those children, stimulated by the experience, became the Empire's most loyal Kik soldiers! They also became a new type of soldier. This kind of postnatally modified Kik soldier had finally been successfully tested! The Kik soldiers cultivated from their semen also increased the colors of the military socks!
+
+**Chapter 62 END**

@@ -1,4 +1,4 @@
-# Chapter 94 hero vs white sock commander
+# Chapter 94 Hero vs White Sock Commander
 
 ---
 

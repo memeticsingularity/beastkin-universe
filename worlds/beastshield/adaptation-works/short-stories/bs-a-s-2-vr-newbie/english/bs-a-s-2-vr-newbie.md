@@ -6,7 +6,7 @@
 
 ---
 
-> *The First Game*
+> *The First Game*  
 > When he first put on the VR headset, he thought this was just an ordinary game. But when that warm, fishy liquid splashed onto his face, he understood—this isn't a game, this is another real world.
 
 ---

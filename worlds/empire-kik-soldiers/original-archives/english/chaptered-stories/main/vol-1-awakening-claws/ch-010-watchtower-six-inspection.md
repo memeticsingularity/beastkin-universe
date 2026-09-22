@@ -1,3 +1,5 @@
+# Chapter 10 Watchtower Six Inspection
+
 A characteristic of all Kik Empire vehicles was that the driver's socks had to be secured in a dedicated position for the vehicle to start. This was to prevent enemies from using their vehicles. As the leading Kik Soldier, he also had to fit a special sensor onto his own crotch. Only when both of these safety measures were satisfied could the vehicle start!
 
 Hu Meng took a flexible tube and pressed its triangular connector against his underwear. The probe tightened, firmly securing itself to his crotch, and began navigation according to the destination set by the storage drive.
@@ -55,3 +57,5 @@ The extraction device activated; a canister of semen was quickly extracted. Howe
 Looking at those dripping drops of semen, Hu Meng took out the electric baton again and placed it beneath the testicles. He turned the power to the minimum! He wanted this bold black socks soldier to suffer!
 
 Under the stimulation of the electric current, the last bit of semen also sprayed out. That bear beastkin was completely dead!
+
+**Chapter 10 END**

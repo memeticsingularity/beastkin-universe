@@ -1,4 +1,4 @@
-# Chapter 7 riverside
+# Chapter 7 Riverside
 
 ## 第二卷 第七章：青石镇外河流
 

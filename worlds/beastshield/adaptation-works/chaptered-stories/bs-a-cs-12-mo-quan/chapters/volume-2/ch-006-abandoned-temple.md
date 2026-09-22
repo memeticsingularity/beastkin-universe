@@ -1,4 +1,4 @@
-# Chapter 6 abandoned temple
+# Chapter 6 Abandoned Temple
 
 ## 第二卷 第六章：废弃寺庙
 

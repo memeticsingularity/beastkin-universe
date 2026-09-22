@@ -1,5 +1,9 @@
+# Chapter 113 Epilogue Eternal Empire
+
 In the central area of the starship, there was a super city. Inside was a complete ecological circle. His Majesty the Emperor was in the tallest building in this city.
 In the magnificent room, Hu Meng knelt before His Majesty the Emperor. The majestic Golden Tiger His Majesty sat on the throne. He crossed his legs and looked at Hu Meng. Just now, he had announced that Hu Meng had received his special pardon! He was also the new successor. From now on, those Kik soldiers would all address Hu Meng as Young Master!
 
 Other facilities in the city included farms, Kik soldier cultivation centers, barracks, and so on. The streets were filled with patrolling and standing guard Black Sock soldiers. Those beastmen who chose to submit to the Empire before the planet's destruction were also transferred here.
 They would provide high-quality genes for the Empire. They would also produce and serve the Empire's Emperor, Young Master, and those White Sock soldier commanders! Then conquer one new planet after another...
+
+**Chapter 113 END**

@@ -1,4 +1,4 @@
-# Chapter 15: The Final Battle
+# Chapter 15 The Final Battle
 
 At Director Ya's command, the great battle erupted. Director Bao charged at the forefront of the crowd, reaching the Dragon Divine Weapon first. "Take my punch!" Director Bao excitedly threw a punch charged with full force toward the Dragon God.
 
@@ -99,3 +99,5 @@ Hearing his complaints, a wave of inexplicable anger welled up in Xiao Hao's hea
 "Sigh," Xiao Hao sighed, got up, and said: "Let's go, I'll treat you." "No, I'll only borrow it. I'll definitely pay you back later!" "What's the point of paying back such a small amount of money!" "No way! My master said..."
 
 "Shut up!" "..."
+
+**Chapter 15 END**

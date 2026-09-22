@@ -1,4 +1,4 @@
-# Chapter 3: Meeting in the Corpse Pile
+# Chapter 3 Meeting in the Corpse Pile
 
 ---
 

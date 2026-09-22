@@ -1,4 +1,4 @@
-# Chapter 2 stranger in folded time
+# Chapter 2 Stranger in Folded Time
 
 ---
 

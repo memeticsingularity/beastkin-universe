@@ -1,4 +1,4 @@
-# Chapter 41 undercover disguise
+# Chapter 41 Undercover Disguise
 
 ---
 

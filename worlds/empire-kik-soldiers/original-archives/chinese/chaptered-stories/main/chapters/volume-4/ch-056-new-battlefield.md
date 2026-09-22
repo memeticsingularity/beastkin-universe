@@ -1,4 +1,4 @@
-# Chapter 56 new battlefield
+# Chapter 56 New Battlefield
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 5: The Eve of War
+# Chapter 5 The Eve of War
 
 ---
 

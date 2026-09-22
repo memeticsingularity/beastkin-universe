@@ -1,3 +1,5 @@
+# Chapter 31 Desperate Escape
+
     Before he died, he watched Hu Meng unwillingly grab at something with his other hand, only to realize he would never reach it! Hu Meng watched the green-sock soldier turn to dust, struggled to his feet, and untied the ropes on his legs. Carefully putting his pants back on, he rewrapped his cock with his clothes. He rummaged through the green-sock soldier's tactical vest and pulled out the standard semen extraction device, enhancement drugs, and wound-recovery accelerants.
      He gulped down the life-saving drugs; the taste was fishy, yet strangely familiar. A few minutes later, the wound on his chest healed, and the pain in his lower body disappeared. Leaning against the wall, he walked out of the cell.
     Looking at the one-eyed tiger sitting there unconscious, thinking of everything he had done to him, rage surged in his heart! He kicked his crotch several times with all his might! Until his crotch gradually grew damp before he left.
@@ -32,3 +34,5 @@ Then he took out the drugs from his pocket and forced them down his throat. The 
 
 His body hit the ground violently. Noah vomited a large mouthful of blood, and his limbs lay casually on the ground. White Wolf squatted down, regained his elegance, and pulled off the thin socks from his feet, stuffing them into his mouth and watching the blood stain those noble socks.
 He grabbed his tiger cock and stroked it, occasionally changing his technique. The tips of his claws stimulated various parts of the tiger cock from time to time...
+
+**Chapter 31 END**

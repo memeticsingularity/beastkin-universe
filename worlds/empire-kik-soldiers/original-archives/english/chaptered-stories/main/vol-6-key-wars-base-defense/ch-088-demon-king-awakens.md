@@ -1,3 +1,5 @@
+# Chapter 88 Demon King Awakens
+
 Thinking of this, His Majesty the Emperor's psychic power began to become unstable. The entire room was filled with violent psychic power. If a Blue Socks soldier walked in at this time, the consequence would be being torn to shreds! At the same time, the seal on the key's outer shell also broke open a crack. This was considered an unexpected gain...
 
 The floating box fell to the ground. His Majesty the Emperor's dedicated cultivation chamber opened. His Majesty woke up. The door to the room opened. The Blue Socks soldier responsible outside knelt and awaited orders. At the same time, the entire base knew that His Majesty had woken up. Those White Socks soldiers were also on their way.
@@ -47,3 +49,5 @@ That Black Socks soldier closed the door, and the hero made his move. The soles 
 A few minutes later, the hero walked into the dormitory wearing the Black Socks soldier's uniform. That wild boar Black Socks soldier squad leader was on the bed with his arms crossed. The Black Socks soldiers next to him stood in a row, trembling. Seeing the hero enter, he was just about to speak when he saw a white light glowing on the hero's hand. White arcs accurately hit all the Black Socks soldiers in the dormitory.
 
 After a series of "uh ah" murmurs, they all fell to the ground. The hero also didn't idle. Because he was going to eat. He had to maintain his best condition at all times! After all, the supplies at this time were still warm!
+
+**Chapter 88 END**

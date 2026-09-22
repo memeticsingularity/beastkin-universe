@@ -6,7 +6,7 @@
 
 ---
 
-> *Lao Lei Raids the Intelligence Department - Chapter 2: Intelligence Department*
+> *Lao Lei Raids the Intelligence Department - Chapter 2: Intelligence Department*  
 > 老雷顺着司机留下的线索主动出击，端掉兽盾情报部门窝点。
 
 ---

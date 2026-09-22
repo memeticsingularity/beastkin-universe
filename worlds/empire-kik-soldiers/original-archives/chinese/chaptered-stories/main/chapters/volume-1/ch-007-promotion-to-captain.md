@@ -1,4 +1,4 @@
-# Chapter 7 promotion to captain
+# Chapter 7 Promotion to Captain
 
 ---
 

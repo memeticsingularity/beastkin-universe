@@ -1,4 +1,4 @@
-# Chapter 79 black bear downfall
+# Chapter 79 Black Bear Downfall
 
 ---
 

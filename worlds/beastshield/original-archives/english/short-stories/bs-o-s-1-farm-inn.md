@@ -1,4 +1,4 @@
-# SS-001: Beast Shield Farmhouse
+# Story Beast Shield Farmhouse
 
 ---
 
@@ -199,3 +199,5 @@ own to decide.
 ---
 
 [Return to Directory](README.md) | [Return to Project Home](../../../../../README.md)
+
+**Story END**

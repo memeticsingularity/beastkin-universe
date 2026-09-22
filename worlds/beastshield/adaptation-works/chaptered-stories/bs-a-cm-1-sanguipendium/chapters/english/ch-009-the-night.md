@@ -1,4 +1,4 @@
-# Chapter 9: Deep Night
+# Chapter 9 Deep Night
 
 ---
 

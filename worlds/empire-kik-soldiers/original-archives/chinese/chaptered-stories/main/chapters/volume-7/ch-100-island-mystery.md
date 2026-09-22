@@ -1,4 +1,4 @@
-# Chapter 100 island mystery
+# Chapter 100 Island Mystery
 
 ---
 

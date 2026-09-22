@@ -1,4 +1,4 @@
-# Chapter 21: Divine Battle
+# Chapter 21 Divine Battle
 
 The great battle came to a temporary close. Both sides had paid a painful price in this war. Director Ya, who was heavily injured, was taken away from the floating island by surviving Beastshield employees on a plane. The Agent Bureau side also suffered more than half casualties. The remaining personnel all gathered around the Commander.
 
@@ -73,3 +73,5 @@ As the last note ended, Mr. Qu put down Tian Lai. "Finished playing?" The Blood 
 The Blood King unhesitatingly sent out a wave of evil fire, burning Mr. Qu to ashes. Then he went all the way,牵引 the evil fire to ignite Lao Lei, lead it to Qin Chuan, burn past the Commander, and catch up to the fleeing Moying. He burned everyone into charred corpses. For a moment, miserable howls rose and fell continuously, and the floating island instantly became a living hell.
 
 After burning everyone to death, the Blood King jumped off the edge of the floating island, treading on waves and going far away.
+
+**Chapter 21 END**

@@ -1,3 +1,5 @@
+# Chapter 94 Hero vs White Sock Commander
+
 It seemed this energy was specifically designed to counter his armor's defense! But he couldn't retreat! His Majesty's orders were everything! So he activated all the power of his White Socks soldier form! 
 
 Sharp claws extended from his arms, flashing with cold light. A pair of mechanical wings grew from his back! His speed increased as he charged at the hero again. His Majesty had told them that it was this bear beastman before them who had attacked the base! Causing the Empire to lose quite a few tools! 
@@ -63,3 +65,5 @@ High-quality Kik soldier semen could also repair his injuries! Subsequently, tha
 The huge sphere of semen was slowly absorbed by the armor, and the cracks on it were also healing. Now he also had to rest for a long time! The energy of the fourth key was used up! But now his recovery speed was very fast. He would be fully recovered in just a few days! 
 
 As for the remaining keys, he could only wait until he flattened the Wolflav palace! 
+
+**Chapter 94 END**

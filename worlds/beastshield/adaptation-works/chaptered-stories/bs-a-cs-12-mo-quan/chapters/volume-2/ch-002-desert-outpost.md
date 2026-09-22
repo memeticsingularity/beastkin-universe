@@ -1,4 +1,4 @@
-# Chapter 2 desert outpost
+# Chapter 2 Desert Outpost
 
 ## 第二卷 第二章：沙漠毒影
 

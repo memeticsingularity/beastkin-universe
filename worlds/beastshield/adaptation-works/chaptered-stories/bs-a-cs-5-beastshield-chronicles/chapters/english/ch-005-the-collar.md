@@ -91,3 +91,5 @@ The Samoyed, whose body had been penetrated by electric current to the point of 
 Damn! Why does everyone call me little doggy? And this one even put a collar on me. Do they all like playing master-servant service?
 
 Mo Wu appreciated Xu Yi's backbone, but the other's attitude indeed made him unhappy. So he solidly rewarded Xu Yi with a punch, knocking him out for a while. He himself then used some authority to tamper with the branch's Beastshield personnel list, having Xu Yi replace the original Beastshield Soldier No. 16.
+
+**Chapter 5 END**

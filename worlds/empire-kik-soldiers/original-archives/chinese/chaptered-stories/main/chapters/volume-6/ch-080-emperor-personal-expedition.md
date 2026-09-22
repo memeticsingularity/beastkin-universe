@@ -1,4 +1,4 @@
-# Chapter 80 emperor personal expedition
+# Chapter 80 Emperor Personal Expedition
 
 ---
 

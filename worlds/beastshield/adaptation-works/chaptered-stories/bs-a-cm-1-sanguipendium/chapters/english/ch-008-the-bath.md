@@ -1,4 +1,4 @@
-# Chapter 8: The Bath
+# Chapter 8 The Bath
 
 ---
 

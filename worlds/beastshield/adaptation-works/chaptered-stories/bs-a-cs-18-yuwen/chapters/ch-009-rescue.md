@@ -1,4 +1,4 @@
-# Chapter 9 rescue
+# Chapter 9 Rescue
 
 ---
 

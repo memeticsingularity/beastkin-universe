@@ -1,3 +1,5 @@
+# Chapter 11 Electrocution Experiment
+
 "So after electrocution, more semen can be extracted, and the Kik Soldier suffers even more pain! I should record this!" Hu Meng muttered to himself.
 
 He pulled out the socks stuffed in the bear beastkin's mouth, looking at the saliva on them with disdain. He clutched those socks in his hand and wiped them against his crotch a few times.
@@ -53,3 +55,5 @@ That blue socks soldier knew that the moment the officer let go, he would die. A
 After saying this, the white socks officer simultaneously let go. The accumulated semen was completely released. The crotch instantly swelled; the sound of thick semen flowing in the narrow space seemed audible! Then it was slowly soaked through by semen. That blue socks soldier also grabbed his crotch with both hands, rolled his eyes, and fell down unwillingly...
 
 "Do you know why your military uniforms are black? Because His Majesty the Emperor wants you to recognize yourselves clearly! Hahahaha!" The white socks officer said with his hands behind his back, as if speaking to the corpse of that blue socks soldier. However, he could no longer hear it.
+
+**Chapter 11 END**

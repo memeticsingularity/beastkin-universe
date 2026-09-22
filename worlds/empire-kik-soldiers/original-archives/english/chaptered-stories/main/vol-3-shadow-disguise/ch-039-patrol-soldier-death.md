@@ -1,3 +1,5 @@
+# Chapter 39 Patrol Soldier Death
+
 Enduring the pain of his arm being crushed, he continued to persist. As the struggling and convulsions gradually weakened, after half a minute, that black-socked soldier murmured "Long live the Empire" and stopped moving. A moment earlier, his legs had struggled violently and kicked the fox beastkin in the chest, sending him flying.
 
 This caused him to not hear that sentence clearly. At the same time, there was something warm in his hand. When he got up, he realized there was a large pool of semen in his hand!
@@ -49,3 +51,5 @@ The remaining Kik soldiers stood at attention and answered: "Understood!"
 After waiting for the officer to leave, they cleaned up the corpse on the ground and threw it into the recycling room for disposal! Watchtower 6 deployed all weapons, missile covers slid open, and the entire town was within firing range. The alarm sounded, and two armored vehicles rushed out of the base to the town square!
 
 Those Kik soldiers got out of the vehicles and drove the residents out of their houses one by one. They were concentrated in the square. The members of the resistance organization didn't know what was happening. They looked at each other in the crowd, until the leader was also dragged out of his home and thrown heavily to the ground. Only then did a few of them gather together...
+
+**Chapter 39 END**

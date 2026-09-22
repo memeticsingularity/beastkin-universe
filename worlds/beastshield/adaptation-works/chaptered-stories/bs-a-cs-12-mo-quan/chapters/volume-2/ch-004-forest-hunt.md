@@ -1,4 +1,4 @@
-# Chapter 4 forest hunt
+# Chapter 4 Forest Hunt
 
 ## 第二卷 第四章：密林猎场
 

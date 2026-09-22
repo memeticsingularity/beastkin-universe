@@ -1,4 +1,4 @@
-# Chapter 65 city lord corruption
+# Chapter 65 City Lord Corruption
 
 ---
 

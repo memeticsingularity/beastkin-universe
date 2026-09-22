@@ -1,3 +1,5 @@
+# Chapter 20 Mining Area Crackdown
+
 "Sir! A riot just broke out at the mine! Sixteen Kik Soldiers stationed there were lost, and the slave miners have already been suppressed! The person in charge there is requesting reinforcements."
 
 The white wolf officer, who was eating breakfast, frowned upon hearing his subordinate's report. Although they were black socks soldiers stationed there, it was unexpected to have so many casualties! The miners there wore inhibitor collars around their necks; without his authorization, they couldn't be removed at all!
@@ -51,3 +53,5 @@ Then the screen was covered in white. At this moment, the camera switched to the
 "You black socks trash! This is the fate of those who cause losses to the Empire! For the next period of time, I am the acting officer here! If I catch anyone slacking again, the consequences will be even worse than this!"
 
 After Hu Meng finished speaking, he turned off the broadcast. The black socks soldiers watching all felt phantom pain in their crotches! This officer was too terrifying!
+
+**Chapter 20 END**

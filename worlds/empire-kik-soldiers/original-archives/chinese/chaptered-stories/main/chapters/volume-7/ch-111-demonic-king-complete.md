@@ -1,4 +1,4 @@
-# Chapter 111 demonic king complete
+# Chapter 111 Demonic King Complete
 
 ---
 

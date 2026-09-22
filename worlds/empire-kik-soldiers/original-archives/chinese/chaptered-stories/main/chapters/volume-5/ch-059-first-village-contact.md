@@ -1,4 +1,4 @@
-# Chapter 59 first village contact
+# Chapter 59 First Village Contact
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 88 demon king awakens
+# Chapter 88 Demon King Awakens
 
 ---
 

@@ -8,11 +8,11 @@
 
 > *Preface*
 >
-> *"In the darkness, he learned to dance with monsters.*
-> *But the most dangerous thing is not the enemy, but—he may be becoming one of them.*
-> *When his fingertips touched that experimental record, he could feel the texture of the paper,*
-> *could feel the roughness of ink permeating the fibers, could feel the weight of lives behind those numbers.*
-> *This is the seventh day. He has grown accustomed to those screams, accustomed to those desperate eyes,*
+> *"In the darkness, he learned to dance with monsters.*  
+> *But the most dangerous thing is not the enemy, but—he may be becoming one of them.*  
+> *When his fingertips touched that experimental record, he could feel the texture of the paper,*  
+> *could feel the roughness of ink permeating the fibers, could feel the weight of lives behind those numbers.*  
+> *This is the seventh day. He has grown accustomed to those screams, accustomed to those desperate eyes,*  
 > *accustomed to witnessing the daily routine of hell in this underground world."*
 
 ---
@@ -923,13 +923,13 @@ And this, perhaps, is all we need in the darkness.
 
 > *Epilogue*
 >
-> *"Every salvation is accompanied by loss.*
-> *But it is precisely these losses that let us understand—what is truly worth guarding.*
-> *Xiao Hui used his life to light a lamp.*
-> *That light, although weak, although brief, illuminated Chen Mo's forward path.*
-> *And this light will never go out.*
-> *Because it has already merged into Chen Mo's soul, becoming his reason to fight.*
-> *For Xiao Hui. For those who cannot be saved.*
+> *"Every salvation is accompanied by loss.*  
+> *But it is precisely these losses that let us understand—what is truly worth guarding.*  
+> *Xiao Hui used his life to light a lamp.*  
+> *That light, although weak, although brief, illuminated Chen Mo's forward path.*  
+> *And this light will never go out.*  
+> *Because it has already merged into Chen Mo's soul, becoming his reason to fight.*  
+> *For Xiao Hui. For those who cannot be saved.*  
 > *For... maintaining humanity."*
 
 ---

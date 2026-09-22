@@ -1,4 +1,4 @@
-# Chapter 60 local soldier breeding
+# Chapter 60 Local Soldier Breeding
 
 ---
 

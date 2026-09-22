@@ -1,4 +1,4 @@
-# Chapter 23 sacrifice fireworks
+# Chapter 23 Sacrifice Fireworks
 
 ---
 

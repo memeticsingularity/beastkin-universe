@@ -1,4 +1,4 @@
-# Chapter 15 hillside ambush
+# Chapter 15 Hillside Ambush
 
 ## 第二卷 第十五章：青石镇暗巷
 

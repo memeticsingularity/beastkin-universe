@@ -471,6 +471,7 @@ That's all.
 > *Ten people, ten stories, ten lives abandoned by the system. At the critical moment when the countdown reached "1," a mysterious buyer bought them at the starting price of 1 RUB. Who is he? Where is he taking them? Is salvation or another nightmare waiting for them? No one knows. No one can predict. At that moment, they just went from one unknown fate to another unknown fate.*
 
 ---
+**Chapter 11 END**
 
 ## Story Commentary and Reflections
 
@@ -535,4 +536,3 @@ That's enough.
 
 ---
 
-**Chapter 11 END**

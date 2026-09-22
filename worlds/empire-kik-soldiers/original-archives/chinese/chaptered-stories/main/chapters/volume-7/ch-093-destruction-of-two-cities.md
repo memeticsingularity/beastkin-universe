@@ -1,4 +1,4 @@
-# Chapter 93 destruction of two cities
+# Chapter 93 Destruction of Two Cities
 
 ---
 

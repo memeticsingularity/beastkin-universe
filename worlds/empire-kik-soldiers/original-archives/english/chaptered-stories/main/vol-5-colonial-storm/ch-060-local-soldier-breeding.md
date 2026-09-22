@@ -1,3 +1,5 @@
+# Chapter 60 Local Soldier Breeding
+
 Those Kik soldiers immediately formed a square formation. Hu Meng and the deputy stood to the side, awaiting His Majesty the Emperor's orders. Before long, a huge projection of His Majesty appeared, his majestic appearance intimidating all the Kik soldiers on the ship. In the projection, there were also more than 20 highest-level White Socks soldiers!
 
 His Majesty's projection said excitedly, "Loyal subjects of the Empire! Now is the time to show your worth! After sunset, Hu Meng will lead the vanguard! First, take the nearby village as a starting point. The Kik soldiers on the other starships are responsible for building the base! The mountain next to it is a natural alloy material!"
@@ -53,3 +55,5 @@ He had already been punished by the squad leader. Hu Meng looked at him, tied up
 "Rest assured! I won't jerk you off for now! If there's a next time, I'll strip your military socks off!" After Hu Meng finished speaking, he kicked him out.
 
 Before long, they returned to the vicinity of the starship. The place had changed! The flat ground was like a mirror, and preliminary facilities had already been assembled. After returning to the base, Hu Meng began to report back. His Majesty's evaluation of him was very high! Because he didn't open fire right from the start!
+
+**Chapter 60 END**

@@ -1,3 +1,5 @@
+# Chapter 55 Punishment and Loyalty
+
 After gaining permissions, he sat in front of the computer and began looking at the Beast Corps' experiment and observation records. He saw its growth and worshipped His Majesty the Emperor even more. At this time, a black-sock soldier knocked on the door and came in, saying: "Commander! The items are ready..."
 
 Before he could finish, he saw the milk-killed researcher commander. For a moment, he wanted to run out! Although milk-killing was very common, in the current situation, he was in danger.
@@ -55,3 +57,5 @@ Commander White Wolf came to the prison alone. The blue-sock soldier responsible
 Smelling the familiar scent, Hu Meng woke up. He instinctively stuck out his tongue and licked it. He hugged his master's foot with both hands and sucked it in big mouthfuls, constantly saying: "Master, spare Little Tiger! Little Tiger knows he was wrong. In the future, he will definitely be loyal to the Empire and to his master!"
 
 "Today was just a small punishment for you. What needed to be punished has been punished! You also saw His Majesty's order. Soon, there will be room for you to shine! The Empire is about to open a new battlefield, and then you will be the vanguard! As for this continent, it will be abandoned!" Commander White Wolf withdrew his foot and said seriously.
+
+**Chapter 55 END**

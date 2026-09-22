@@ -1,4 +1,4 @@
-# Chapter 10: Old Friend Reunion
+# Chapter 10 Old Friend Reunion
 
 In a barren forest in the back hills behind the Beastshield employee dormitory, Da Ben stood with his arms crossed, leaning against a giant tree with his eyes closed to rest. Suddenly, an iron arrow "whooshed" and nailed itself into the ground beside his foot.
 
@@ -75,3 +75,5 @@ After shooting all his semen, the tiger beastman stopped breathing in the afterg
 "I really don't know what's so delicious about this!" After spitting, he felt a wave of relief. He had thought that after receiving the blood essence stone baptism, he would also become addicted to semen like a Semen-Eater Beast. Now it seemed he was completely unaffected.
 
 After wiping the semen on his hands onto the tiger beastman's white socks, Da Ben grabbed the tiger beastman's feet and dragged him to a concealed bush behind him to bury him before leaving.
+
+**Chapter 10 END**

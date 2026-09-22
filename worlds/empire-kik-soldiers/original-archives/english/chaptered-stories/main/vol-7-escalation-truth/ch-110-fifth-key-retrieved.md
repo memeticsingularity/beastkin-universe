@@ -1,3 +1,5 @@
+# Chapter 110 Fifth Key Retrieved
+
 "You stupid thing! Your Majesty just treats you as a toy! But you miscellaneous soldiers are all like this! You! Are very delicious!" The hero said excitedly.
 
 The white bear wanted to mobilize his power, but he found that the hero had rendered him unable to mobilize his power while speaking! His combat form was also forcibly removed by the hero! This kind of thing was absolutely impossible!
@@ -55,3 +57,5 @@ The hero tilted his head and dodged it. He caught the spear in passing and threw
 The hero's fists rained down like a storm. The Demon King's protective shield caught this wave of attacks. In terms of current strength, the Demon King was stronger than the hero. The doors in this room all closed the moment the Demon King appeared!
 
 The hero couldn't run. At the same time, the Demon King's power was also fully released. The box on one side began to vibrate. The hero cursed himself for being an idiot! He actually hadn't grabbed the key first! But now it was too late. The Demon King had already noticed the existence of the key!
+
+**Chapter 110 END**

@@ -1,4 +1,4 @@
-# Chapter 6: The War
+# Chapter 6 The War
 
 ---
 

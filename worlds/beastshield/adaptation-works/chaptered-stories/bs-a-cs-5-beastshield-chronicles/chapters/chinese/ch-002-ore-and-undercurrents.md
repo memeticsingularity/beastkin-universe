@@ -1,4 +1,4 @@
-# Chapter 2 ore and undercurrents
+# Chapter 2 Ore and Undercurrents
 
 ---
 

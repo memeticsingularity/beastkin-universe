@@ -1,3 +1,5 @@
+# Chapter 50 Restroom Kill
+
 He could only navigate based on the direction he had entered from. To minimize the sound of his crawling, he crawled barefoot. He was extremely careful the entire way. An hour later, he had already reached Hu Meng's storage room.
 
 At this time, the wolf beastkin disguised as a Kik soldier, following Hu Meng's guidance, first went to the second-floor control room to report. The commander had his feet on the console at this time and, without looking back, waved his hand to dismiss him.
@@ -63,3 +65,5 @@ The clothes on his body emitted an unpleasant odor. At this time, two black-sock
 After saying this, they left. That wolf beastkin walked in the direction they pointed. He came to the cafeteria, took out a pack of energy bars from the cabinet, opened the packaging, and ate them.
 
 They basically had no taste at all; they just filled the stomach. One of these energy bars was enough for a whole day! And there were no leftovers, nor did you need to take a dump!
+
+**Chapter 50 END**

@@ -1,4 +1,4 @@
-# Chapter 16 infinite execution
+# Chapter 16 Infinite Execution
 
 ---
 

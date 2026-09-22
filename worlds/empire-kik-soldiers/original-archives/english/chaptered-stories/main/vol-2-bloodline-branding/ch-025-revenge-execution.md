@@ -1,3 +1,5 @@
+# Chapter 25 Revenge Execution
+
 The snow leopard squad leader hurried forward to fawn upon Hu Meng when he saw him return, and also handed Hu Meng a mission. It turned out that the officer in charge of their green socks soldiers had been demoted due to unfavorable mission execution! He was now a black socks soldier, so the officer wanted to milk-execute the demoted blue socks soldier as revenge!
 
 Hu Meng understood; it was to assist the officer in milk-executing the demoted Kik Soldier! After understanding, he immediately reported to the officer. On the night of the operation, the green socks officer with three stripes on his sock cuffs brought Hu Meng to the outer perimeter base.
@@ -65,3 +67,5 @@ He hadn't expected his records to be so to his taste! He replied to the white wo
 The soldiers sent on this mission to Base No. 16 did not need to worry about being milk-executed! Because they still had to return to report; milk-executing Kik Soldiers from other bases was not permitted by the Empire! Unless it was a special circumstance. As for that white socks tiger, there was even less to worry about. Only when he is not there can you take revenge!
 
 Seeing this, the white wolf was completely relieved. He quickly ordered the subordinate at the door to call Hu Meng over!
+
+**Chapter 25 END**

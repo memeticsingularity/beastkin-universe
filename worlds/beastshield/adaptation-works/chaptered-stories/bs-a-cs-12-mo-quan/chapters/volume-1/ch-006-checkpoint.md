@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 6: Checkpoint*
+> *Ink Hound - Chapter 6: Checkpoint*  
 > 黑狗穿着偷来的蓝色O级制服摸向山脚检查哨，首次遭遇R级敌人——水牛与杜宾。春药弹、金钟罩、寸止在雾气中交织，他第一次意识到"后入不会死"的诡异规则。
 
 ---

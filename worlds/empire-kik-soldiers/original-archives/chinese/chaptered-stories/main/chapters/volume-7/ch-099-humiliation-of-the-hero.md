@@ -1,4 +1,4 @@
-# Chapter 99 humiliation of the hero
+# Chapter 99 Humiliation of the Hero
 
 ---
 

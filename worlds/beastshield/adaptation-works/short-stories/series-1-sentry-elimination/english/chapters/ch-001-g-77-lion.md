@@ -1,4 +1,4 @@
-# Story: Night Hunt G-77
+# Story Night Hunt G-77
 
 > Night is the best hunting ground, silence the most beautiful prelude to slaughter. In this city built of steel and desire, every body clad in a tight uniform is just a string of digits waiting to be cashed in.
 

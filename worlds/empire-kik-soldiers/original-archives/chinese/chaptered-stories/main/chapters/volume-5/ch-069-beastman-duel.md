@@ -1,4 +1,4 @@
-# Chapter 69 beastman duel
+# Chapter 69 Beastman Duel
 
 ---
 

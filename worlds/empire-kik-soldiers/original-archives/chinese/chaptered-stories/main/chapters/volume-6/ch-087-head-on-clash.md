@@ -1,4 +1,4 @@
-# Chapter 87 head on clash
+# Chapter 87 Head on Clash
 
 ---
 

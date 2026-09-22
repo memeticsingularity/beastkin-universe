@@ -1,3 +1,5 @@
+# Chapter 16 Infinite Execution
+
     In the main base's room, that chameleon-like synthetic beastkin was crawling on the ceiling. His neck could rotate 720 degrees; he didn't have to worry about his neck being twisted off at all!
 
     The wolf beastkin officer lay sideways on the sofa, toying with his own tail, listening to that personal guard's report.
@@ -25,3 +27,5 @@
     The sniper naturally wouldn't stay in one location for very long. Relying on his mastery of the area, he quickly moved to the next location. Two bangs, and two more Kik Soldiers were executed. The other team members flanked and threw their homemade grenades. Two thuds, and several more blue socks soldiers were blown over.
     The Kik Soldiers hiding in the vehicle, seeing this, also jumped out of the vehicle under the chip's orders. A blue socks soldier stepped on his companion's corpse, blood splattering out, but he didn't care at all. His socks had already been dyed a strange color. Now only three Kik Soldiers remained, plus one unconscious Hu Meng...
     At this moment, all the resistance organization members surrounded and took care of the remaining two blue socks soldiers as well. They looked at the corpses in confusion because they had never seen soldiers with other colored socks. Now it seemed these dark blue socks Kik Soldiers were inferior to the black socks soldiers. Therefore, they judged that these were freshly trained rookies!
+
+**Chapter 16 END**

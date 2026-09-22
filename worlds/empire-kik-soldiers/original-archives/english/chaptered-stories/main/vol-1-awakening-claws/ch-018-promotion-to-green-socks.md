@@ -1,3 +1,5 @@
+# Chapter 18 Promotion to Green Socks
+
 As soon as Hu Meng landed, he was ordered to lie in a capsule pod. That pilot also committed suicide by self-milking after setting the program; shortly after, specialized black socks soldiers would come to clean up. The capsule pod was transferred through a special passage to the white socks officer's room.
 
 The pod door opened, and Hu Meng saw his master. He quickly got up and crawled down, awaiting his master's orders. The white socks officer was very satisfied, still using his foot to step on his face to show affection. He also ordered him to take off his dirty clothes; a new frog-suit set was already beside him.
@@ -45,3 +47,5 @@ After standing at attention and saluting, that squad leader told him to go rest 
 This made it convenient for the squad leader to wake them up. Green socks soldiers were responsible for standing guard and patrolling the outer perimeter of the main buildings in the inner circle of the base. Without special orders, they were not allowed to enter the main building; occasionally, they would also go to the outer perimeter base to transmit orders and so on.
 
 So Hu Meng's work became much easier. They slept in a daze, waiting for the arrival of night.
+
+**Chapter 18 END**

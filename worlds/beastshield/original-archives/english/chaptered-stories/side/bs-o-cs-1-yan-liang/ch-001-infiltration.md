@@ -1,4 +1,4 @@
-# MS-001: Flame Wraith - Chapter 1: Infiltration
+# Chapter 1 Flame Wraith - Chapter 1: Infiltration
 
 ---
 
@@ -398,3 +398,5 @@ bodies. And **Yan** and **Liang** continue deeper into the base. The night is lo
 slaughter continues.
 
 | [Return to Directory](../../../short-stories/README.md) | [Next Chapter](ch-002-office-clearance.md) |
+
+**Chapter 1 END**

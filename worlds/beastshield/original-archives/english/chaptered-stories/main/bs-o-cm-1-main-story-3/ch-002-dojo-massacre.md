@@ -89,3 +89,5 @@ Seeing the Bear Dojo Master was dead, Captain Tiger released his legs and prepar
 "Oh right, remember to dispose of that stupid ox, that foolish dog, and those two useless lion and tiger corpses."
 
 "Yes!" The subordinates obeyed the order and threw the four colleagues' corpses one by one ruthlessly into the river beside the dojo. With four "splash" sounds, the evidence of the Beastshield Company's crime flowed straight into the sea with the river, disappearing without a trace.
+
+**Chapter 2 END**

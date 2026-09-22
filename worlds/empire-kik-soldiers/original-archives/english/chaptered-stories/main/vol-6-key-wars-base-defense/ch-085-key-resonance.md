@@ -1,3 +1,5 @@
+# Chapter 85 Key Resonance
+
 After that driver woke up, he found himself in the rear compartment. An unfamiliar bear clan beastman was looking at him. His eyes were full of greed. The memories before he fainted awakened his instinct to search for a weapon on his body.
 
 "If you don't want to be killed, do as I say honestly! I'm only leaving you, one Kik soldier! I've also eaten all their semen. If you don't behave, I'll do the same to you!" The hero patiently explained.
@@ -55,3 +57,5 @@ The satellite had already confirmed that there were ruins left by the previous c
 The hero also returned to his secret base under the palace, lay down in the shattered crystal, and began to recover his power. At the same time, he was also processing information. The demon king's methods had also evolved! The original demon king's subordinates were all beastmen with pure black fur. They were brave but not resourceful, all relying on the demon king's command. After death, they would also release poisonous gas to attack!
 
 Those infected by the poisonous gas would become new demon king subordinates. In the end, he himself had spent a great price to finally seal the demon king! So, according to the worst-case scenario, the demon king was already cracking the seal! Of the remaining two keys, one known key was the crown on the king's head!
+
+**Chapter 85 END**

@@ -1,4 +1,4 @@
-# Chapter 29 emperor personal visit
+# Chapter 29 Emperor Personal Visit
 
 ---
 

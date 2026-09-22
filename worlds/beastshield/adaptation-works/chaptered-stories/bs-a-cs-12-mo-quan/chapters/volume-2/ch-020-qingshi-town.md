@@ -1,4 +1,4 @@
-# Chapter 20 qingshi town
+# Chapter 20 Qingshi Town
 
 ## 第二卷 第二十章：废墟蜂群
 

@@ -1,3 +1,5 @@
+# Chapter 45 Resistance Plan
+
 In the underground burrow, the resistance organization leader was inspecting weapons, thinking that the big guy still didn't have a suitable weapon. There weren't many weapons either. He should have gone to their armory to loot some. Actually, the tactical vest on that set of clothes would suit him very well. Thinking this, he returned to his home.
 
 Moving stealthily inside the house, he found it had been turned upside down. It was obvious it had been searched. Outside, a group of townspeople were being inspected one by one. A loudspeaker blared some threatening words. After finding that set of gear, he quickly vanished and threw it onto the big guy's sleeping mat.
@@ -61,3 +63,5 @@ Thinking of a mark, the fox beastkin leader brought over paint and painted the t
 This plan was simultaneously transmitted to Commander White Wolf's computer. He listened to the plan and sneered. Their small stature indeed made them difficult to deal with, and they had targeted weapons and an inside man! The black-sock trash on duty were indeed going to be done for!
 
 It's just that storming the watchtower was something they couldn't do! Even if Hu Meng was well-disguised, without a chip, relying solely on military sock permissions wouldn't work! It was good that the resistance organization wasn't mobilizing in full force. Now was not a good time to wipe them out!
+
+**Chapter 45 END**

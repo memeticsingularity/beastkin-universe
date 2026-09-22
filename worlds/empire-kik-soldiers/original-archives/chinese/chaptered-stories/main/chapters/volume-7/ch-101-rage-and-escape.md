@@ -1,4 +1,4 @@
-# Chapter 101 rage and escape
+# Chapter 101 Rage and Escape
 
 ---
 

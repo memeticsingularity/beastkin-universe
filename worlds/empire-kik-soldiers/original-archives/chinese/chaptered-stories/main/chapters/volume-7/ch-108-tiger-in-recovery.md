@@ -1,4 +1,4 @@
-# Chapter 108 tiger in recovery
+# Chapter 108 Tiger in Recovery
 
 ---
 

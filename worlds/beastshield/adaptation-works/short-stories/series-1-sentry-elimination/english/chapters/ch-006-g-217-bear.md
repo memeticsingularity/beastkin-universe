@@ -1,4 +1,4 @@
-# Story: Late Night Visitor
+# Story Late Night Visitor
 
 > When the dense fog of night envelops this industrial waste port, even the streetlights become stingy. In this forgotten jungle of steel and concrete, only the footsteps of patrollers and the hoarse joint-friction sounds of distant container cranes prove that time still flows.
 

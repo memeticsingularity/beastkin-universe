@@ -6,7 +6,7 @@
 
 ---
 
-> *Vitality Purple Stem*
+> *Vitality Purple Stem*  
 > 小谷从古博士处带回新种子"活力紫茎"，农场迎来新的发展阶段。
 
 ---

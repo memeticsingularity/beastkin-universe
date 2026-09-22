@@ -1,3 +1,5 @@
+# Chapter 92 Loyalty Reward
+
 At this time, Hu Meng woke up from the cultivation chamber, supported by a Green Socks soldier as he came out. His head was still a bit dizzy. That Green Socks soldier said: "Sir, you're finally awake! His Majesty wants to see you!"
 
 Hu Meng's body trembled a bit. It looked like His Majesty the King knew about his failure! He would probably be jerked off! But he was an Empire Kik soldier. Everything was bestowed by His Majesty! At worst, it was just death! Anyway, being loyal to His Majesty was right!
@@ -53,3 +55,5 @@ A black regular octahedron item floated before him. His Majesty the Emperor open
 His Majesty's muscles and skin were like gold. A pair of ankle guards automatically appeared on his feet. A suit of armor also appeared on his chest. From time to time, cold light shot out from his eyes!
 
 A golden ring also appeared on the tip of his tail. At this time, His Majesty the Emperor was already self-sufficient! After using his abilities, he would no longer enter a dormant state! Perhaps it was because he had drunk his own blood that it allowed Hu Meng to unlock the seal of the key for him!
+
+**Chapter 92 END**

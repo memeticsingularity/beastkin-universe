@@ -1,3 +1,5 @@
+# Chapter 44 Hideout Recovery
+
 Seeing the situation turning bad, the fox beastkin quickly changed his route, heading toward their hideout. He gave up on going to the town and carefully covered the bloodstains. He came to a small river, where there was a large boulder.
 
 Beside the boulder, he opened a hidden passage and entered the hideout. After walking for several minutes, they arrived at the resting area. The big guy took off his mask and complained: "It stinks! I'm never wearing this again!"
@@ -55,3 +57,5 @@ Watchtower No. 2 welcomed a new batch of garrison soldiers. Those black-sock sol
 The team leader was a green-sock squad leader, none other than that snow leopard soldier. Following the commander's guidance, he found Hu Meng's clothes and gear. Especially those green military socks! After packing them up neatly, he gave a few instructions to the commander here and left!
 
 Watchtower No. 2 began executing its program, and a new round of searches unfolded in the town!
+
+**Chapter 44 END**

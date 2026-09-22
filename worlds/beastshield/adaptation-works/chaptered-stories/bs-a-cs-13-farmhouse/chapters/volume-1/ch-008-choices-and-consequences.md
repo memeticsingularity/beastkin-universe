@@ -6,7 +6,7 @@
 
 ---
 
-> *Choices and Consequences*
+> *Choices and Consequences*  
 > 小谷与阿铁摊牌，虎彻成为最低等的私有财产，而阿铁做出了自己的选择。
 
 ---

@@ -1,3 +1,5 @@
+# Chapter 70 Village Chief Betrayal
+
 Hu Meng nodded and watched the Gray Socks soldier walk toward him. His hand grabbed the big bulge in the Black Socks soldier's crotch. He squeezed it hard a few times. The Black Socks wolf moaned in pain. With just this one move, his crotch was already soaked with prostatic fluid.
 
 He skillfully pulled open the zipper and pulled out that already straight penis with great interest. Both hands moved back and forth, one in front and one behind. Every stroke left transparent, sticky bodily fluids on the gloves. That Black Socks soldier tilted his head back, his body gradually bending. The Gray Socks soldier promptly punched him, making him stand straight again!
@@ -53,3 +55,5 @@ Hu Meng jumped onto the stage, patted his shoulder, and gave his approval. He wa
 And this village was also under Hu Meng's jurisdiction. After watching this performance, he came to a building in the village. He ordered that Green Socks soldier who was teaching to come in. That Green Socks soldier was very flustered. After all, Hu Meng was a soldier in the Empire specifically tasked with executing jerking-off missions!
 
 Hu Meng only said a few words of commendation and let him return to his post! He was still thinking about that Kaka City. It had also become the territory of the Empire!
+
+**Chapter 70 END**

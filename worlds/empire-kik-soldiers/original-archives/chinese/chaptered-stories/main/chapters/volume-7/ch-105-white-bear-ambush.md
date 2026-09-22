@@ -1,4 +1,4 @@
-# Chapter 105 white bear ambush
+# Chapter 105 White Bear Ambush
 
 ---
 

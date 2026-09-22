@@ -1,4 +1,4 @@
-# Chapter 66 key recovery
+# Chapter 66 Key Recovery
 
 ---
 

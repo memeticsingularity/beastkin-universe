@@ -8,11 +8,11 @@
 
 > *Preface*
 >
-> *"When some power deep within consciousness is touched, he discovered—*
-> *The true potential of a descender far exceeds a mere beast's body.*
-> *But when he felt that warm flow in the darkness,*
-> *When he touched another life's pulse with his fingertips,*
-> *When he realized power itself could be both salvation and destruction—*
+> *"When some power deep within consciousness is touched, he discovered—*  
+> *The true potential of a descender far exceeds a mere beast's body.*  
+> *But when he felt that warm flow in the darkness,*  
+> *When he touched another life's pulse with his fingertips,*  
+> *When he realized power itself could be both salvation and destruction—*  
 > *He truly understood what awakening means."*
 
 ---
@@ -941,11 +941,11 @@ And this, perhaps, is all we need in the darkness.
 
 > *Epilogue*
 >
-> *"Awakening is not just gaining power, but understanding why to fight.*
-> *When Chen Mo chose to walk into hell, when he touched that contract mark with his fingertips,*
-> *he was no longer that newcomer who only knew how to vomit.*
-> *He felt the weight of responsibility—that burden heavier than a two-hundred-pound body.*
-> *But it was precisely this weight that let him truly stand firm,*
+> *"Awakening is not just gaining power, but understanding why to fight.*  
+> *When Chen Mo chose to walk into hell, when he touched that contract mark with his fingertips,*  
+> *he was no longer that newcomer who only knew how to vomit.*  
+> *He felt the weight of responsibility—that burden heavier than a two-hundred-pound body.*  
+> *But it was precisely this weight that let him truly stand firm,*  
 > *let him understand, some battles must have someone stand up."*
 
 ---

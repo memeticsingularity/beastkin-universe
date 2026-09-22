@@ -1,4 +1,4 @@
-# Chapter 58 beast control training
+# Chapter 58 Beast Control Training
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 72 revenge awakening
+# Chapter 72 Revenge Awakening
 
 ---
 

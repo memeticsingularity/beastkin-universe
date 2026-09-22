@@ -1,3 +1,5 @@
+# Chapter 49 Inside Job
+
 Hu Meng used the evening to quietly contact his companions in the storage room. They quickly formulated a plan. While the black-sock soldiers in the control room were sleeping, he ran to the small outer door of the watchtower. This door was an emergency exit; generally, no one used it.
 
 Hu Meng had found this place while idly exploring during his downtime! The fox beastkin's idea was for him to just open that door! As for the defense system, they would have to think of another way!
@@ -59,3 +61,5 @@ The accompanying wolf beastkin quickly followed the plan and undid the black-soc
 A few minutes later, that wolf beastkin changed into the clothes. The clothes were ultimately a bit too big. He was very disgusted when putting on those black socks! In the end, he dragged the wolf corpse outside the door and left him lying on the ground. Before closing the emergency door, he even stared at his perky butt for a moment.
 
 Hu Meng pointed the way for the wolf beastkin from behind. The fox beastkin had already entered the ventilation duct with their help. Although he didn't know the way, he could grab lone Kik soldiers and interrogate them! This time, he brought a spare battery, which would allow the milking-kill gloves to be used a few more times!
+
+**Chapter 49 END**

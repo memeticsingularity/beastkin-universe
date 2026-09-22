@@ -6,7 +6,7 @@
 
 ---
 
-> *One corpse is a secret.*
+> *One corpse is a secret.*  
 > *A roomful of corpses is a truth the Empire cannot hide.*
 
 It took him a while to recover. He regretted throwing away his diving equipment! Sitting on the ground, recalling what had just happened, he felt he had found the **Kik Soldiers'** weakness!
@@ -69,7 +69,7 @@ Slowly, he removed the **frog-suit** top, pressing the tip of his nose close to 
 
 **Chapter 5 END**
 
-> *The suppression continues, but the new recruit in the recycling room begins to wonder.*
+> *The suppression continues, but the new recruit in the recycling room begins to wonder.*  
 > *The fear of the superior and the questions of the subordinate collide quietly in the stench.*
 
 ---

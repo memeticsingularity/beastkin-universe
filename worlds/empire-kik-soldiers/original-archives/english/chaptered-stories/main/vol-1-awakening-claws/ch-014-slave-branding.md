@@ -1,3 +1,5 @@
+# Chapter 14 Slave Branding
+
 In the white socks officer's room, the snoring was very rhythmic. Hu Meng felt his body going stiff. This esteemed one was truly enviable! White socks were the highest level of the Empire; if only he could have such a day himself. As he thought and thought, he felt the weight on his head lighten. He saw a pair of white socks on the carpet. It turned out the officer had woken up; those white socks emitted an enticing scent. He didn't notice his own tail also beginning to sway. That white socks officer said: "Come with me! You completed your mission well! I want to give you a reward!"
 
 Hu Meng quickly got up, stood at attention, and saluted. Watching the officer walk inside, he followed. Passing through a door, they arrived at the bathroom.
@@ -45,3 +47,5 @@ Warm air blew from all directions, drying the fur on both of their bodies. Then 
 The wolf beastkin officer lay on the bed, toying with his socks. He hadn't expected his paw pads to be quite soft. He brought the tip of his nose close and sniffed; he found it not bad either! Since being exiled here by the Empire, he had truly never been this happy! This toy, Hu Meng, was really not bad!
 
 So he reactivated his chip, and Hu Meng woke up. Regarding what had just happened, he suddenly remembered. Sitting up, he looked at his own crotch. So it was a false alarm! He was still alive! But what was going on just now?
+
+**Chapter 14 END**

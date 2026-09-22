@@ -1,4 +1,4 @@
-# Chapter 6: The Enclave
+# Chapter 6 The Enclave
 
 ---
 

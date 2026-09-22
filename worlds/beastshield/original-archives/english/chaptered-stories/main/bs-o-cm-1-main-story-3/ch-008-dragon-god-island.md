@@ -1,4 +1,4 @@
-# Chapter 8: Dragon God Island
+# Chapter 8 Dragon God Island
 
 In the vast sea area far to the east of the White Capital, an island floated solitarily among the clouds by a strange power, extremely well-hidden.
 
@@ -71,3 +71,5 @@ The dragon beastman watched the departing helicopter and murmured: "Sorry, the f
 "Report to Director Ya, the Dragon Search Team has lost contact. It's estimated that they have been completely wiped out."
 
 "Is that so? That's wonderful! It seems we didn't find the wrong place!" Director Ya was not angry at all. Instead, he said excitedly: "Immediately notify the other two directors. It's time for us to set off!"
+
+**Chapter 8 END**

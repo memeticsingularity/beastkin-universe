@@ -1,4 +1,4 @@
-# Chapter 6: The Secret of the Twelve Divine Weapons
+# Chapter 6 The Secret of the Twelve Divine Weapons
 
 In the Commander-in-Chief's office at the Agent Bureau, after being frisked by two uniformed beastman soldiers at the door, Lao Lei walked in and plopped down into a chair, crossing his legs.
 
@@ -395,3 +395,5 @@ Lao Lei knew this was one of the Divine Weapons that the Beastshield Organizatio
 "Thank you, esteemed master!" With that, he turned and left, a glint of tears flashing in his eyes.
 
 The panda beastman watched Lao Lei's departing figure in the sunset, just like his former self, and couldn't help but feel a myriad of emotions. But turning back to the ground full of Beastshield member corpses, thinking about having to clean up the garbage, he sighed with a headache. Then he grabbed one robust beast's white-socked ankle with each hand and dragged their corpses toward the mountain ditch.
+
+**Chapter 6 END**

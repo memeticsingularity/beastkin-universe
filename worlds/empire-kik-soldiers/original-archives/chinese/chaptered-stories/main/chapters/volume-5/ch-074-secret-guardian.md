@@ -1,4 +1,4 @@
-# Chapter 74 secret guardian
+# Chapter 74 Secret Guardian
 
 ---
 

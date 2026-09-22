@@ -6,7 +6,7 @@
 
 ---
 
-> *Death in the Shed*
+> *Death in the Shed*  
 > 豹兽人肥料被榨死，阿铁冒险用自己的精液喂虎彻被发现，裂痕彻底暴露。
 
 ---

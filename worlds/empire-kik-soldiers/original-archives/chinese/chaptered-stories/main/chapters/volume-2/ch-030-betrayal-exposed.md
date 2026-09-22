@@ -1,4 +1,4 @@
-# Chapter 30 betrayal exposed
+# Chapter 30 Betrayal Exposed
 
 ---
 

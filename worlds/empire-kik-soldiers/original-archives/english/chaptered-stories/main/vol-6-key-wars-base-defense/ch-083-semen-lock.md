@@ -1,3 +1,5 @@
+# Chapter 83 Semen Lock
+
 The hero rested for a while, listening to the alarm in the wall. He supported himself against the wall and slowly got up, walking toward the civilian house next to him. That was a two-story house. After the Empire's transformation, it was no longer what it used to be. Due to the piercing alarm, every household had turned on their lights. Looking through the window, parents covered their children's ears, comforting them...
 
 Recalling the past, when something like this happened, the entire city would definitely be searched, and they would directly break into civilian houses! Since the civilians were not alarmed, it meant there were the demon king's mechanisms in those houses! So he found a piece of rag from a trash can and wrapped it around himself. He leaned against the corner of the wall to rest and recover his stamina...
@@ -47,3 +49,5 @@ The door opened, and the lights in the room also turned on. This door required a
 White Wolf, who had entered the room, saw His Majesty in the circular cultivation chamber. That box was quietly floating above the cultivation chamber. He knelt there, feeling very aggrieved! After all, an infiltration incident had occurred in Kaka City!
 
 And the other party seemed to know the Kik soldiers very well. The Black Socks soldier who had made a mistake had already been executed, but there was still no clue about the intruder! He really wanted His Majesty to wake up quickly and lead them!
+
+**Chapter 83 END**

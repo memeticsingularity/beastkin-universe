@@ -1,4 +1,4 @@
-# Story: Rusty Corridor
+# Story Rusty Corridor
 
 > In the deep folds of the city, there are always places forgotten by time. Warehouse No. 3 of the old textile factory is such a place. Its breath has long ceased, leaving only steel skeletons slowly rusting under moonlight, emitting a smell mixed with machine oil, dust, and damp concrete.
 

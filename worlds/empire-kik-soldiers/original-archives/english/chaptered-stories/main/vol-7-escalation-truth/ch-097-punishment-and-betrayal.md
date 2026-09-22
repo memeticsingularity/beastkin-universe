@@ -1,3 +1,5 @@
+# Chapter 97 Punishment and Betrayal
+
 The village became lively next. The wolf beastman's miserable screams attracted the surrounding Black Socks soldiers! They first saw the squad leader lying on the ground. Seeing that he had already fainted, his crotch was wet!
 
 A Hu Meng used his hand to check under his nostrils. There was still breathing. He turned to the other Black Socks soldiers and said: "First, carry the squad leader to the room! Then check the surroundings yourselves!"
@@ -53,3 +55,5 @@ That wolf beastman seized the opportunity and used all his strength to bite Hu M
 Hu Meng touched the bitten hand and said: "As expected of Empire technology! Even teeth like yours only made my flesh hurt a little! Your chip is already incomplete! Jerking off won't work on you anymore! You could have become a model for the Empire!"
 
 Hu Meng sat back in the chair, waved his hand, and signaled the guard to act. The dinosaur guard snapped the wolf beastman's neck with a crack. His body fell down powerlessly, his eyes not closed even in death...
+
+**Chapter 97 END**

@@ -1,4 +1,4 @@
-# Chapter 3 white uniform
+# Chapter 3 White Uniform
 
 ---
 

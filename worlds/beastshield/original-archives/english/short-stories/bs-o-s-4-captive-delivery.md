@@ -1,4 +1,4 @@
-# SS-004: Captive Delivery
+# Story Captive Delivery
 
 ---
 
@@ -348,3 +348,5 @@ And that self-proclaimed sprouting "seed of pity"—it never truly existed.
 ---
 
 [Back to Directory](README.md) | [Back to Project Home](../../../../../README.md)
+
+**Story END**

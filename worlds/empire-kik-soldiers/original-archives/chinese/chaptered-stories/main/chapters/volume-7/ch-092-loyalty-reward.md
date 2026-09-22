@@ -1,4 +1,4 @@
-# Chapter 92 loyalty reward
+# Chapter 92 Loyalty Reward
 
 ---
 

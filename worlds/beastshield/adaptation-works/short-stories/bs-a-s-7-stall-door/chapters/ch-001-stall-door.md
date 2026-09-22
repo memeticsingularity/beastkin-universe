@@ -1,11 +1,11 @@
 # Story 隔间
 
-> `bs-a-s-7-01-stall-door` ｜ 合集《隔间》第 1 篇
+> `bs-a-s-7-01-stall-door` ｜ 合集《隔间》第 1 篇  
 > **内容分级**：Lv.0（无性版）· 本合集为 ①③ preset 显式申报的无性版块，申报见 `../../metadata.yaml`
 
 ---
 
-> *The Stall*
+> *The Stall*  
 > 一个 G 级杂兵在早饭摊的厕所里蹲着。门外有个小孩踹门骂街。他没出声。
 
 ---

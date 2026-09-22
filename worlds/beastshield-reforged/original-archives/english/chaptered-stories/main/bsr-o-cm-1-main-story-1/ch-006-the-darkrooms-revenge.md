@@ -1,4 +1,4 @@
-# Chapter 6: The Darkroom's Revenge
+# Chapter 6 The Darkroom's Revenge
 
 ---
 
@@ -351,3 +351,5 @@ suffocation gradually blurred the **dog-bear's** consciousness...
 ---
 
 [Chap5](ch-005-birth-of-the-hunting-spear.md) | [Back to Index](README.md) | [Chap7](ch-007-assassins-gambit.md)
+
+**Chapter 6 END**

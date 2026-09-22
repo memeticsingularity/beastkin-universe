@@ -1,3 +1,5 @@
+# Chapter 8 Watchtower Raid
+
 These days, the resistance organization members had been watching that group of black socks in the square! They hated them to the bone. That day, they had suddenly appeared! Appearing outside the town accompanied by the thick smoke of explosions... Accompanied by the cries of the townspeople, the originally beautiful streets were instantly devastated.
 
 Ever since that day, their lives had changed. The elderly were wantonly killed and trampled by those black socks. People who took up arms to resist also fell one by one. In his eyes, only the red of blood and the gray sky remained.
@@ -63,3 +65,5 @@ He was immobilized, his limbs unable to move, falling to the ground, his mouth s
 He kicked his chest a few times, then pressed his large foot against that black socks soldier's face! That wasn't the end; he bent down, pulled off his mask, and stuffed his foot into his muzzle!
 
 "You slacking black socks soldier! How dare you attack a superior officer! Enjoy it while you can! I'll milk-execute you soon! According to Imperial military regulations, slacking and attacking a superior officer is punishable by milking execution! Your semen isn't even worthy of being used to cultivate new Kik Soldiers!" Hu Meng said viciously.
+
+**Chapter 8 END**

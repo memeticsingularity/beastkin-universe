@@ -1,3 +1,5 @@
+# Chapter 90 Second Declaration of War
+
 The squad leader realized he had been tricked. He ran over to jerk off that wild boar Black Socks soldier. But that Black Socks soldier was lying painfully on the corpse. Hunched over, his hands constantly rubbed his crotch, and his mouth was shouting: "Ha! Uh... uh ah! I'm going to ejaculate! Long live the Empire! Ah ha!"
 
 His body twitched like a fish. Semen instantly sprayed out, wetting his crotch. The other Black Socks soldiers also began the act of self-jerking. The squad leader kicked them one by one, knocking them to the ground, trying to stop their self-destruction.
@@ -53,3 +55,5 @@ At this time, a sound came from outside the door. A Green Socks squad leader cur
 The Green Socks soldier at the door was just about to try to explain when the squad leader's hand grabbed his crotch! At the same time, the chip transmitted the ejaculation command. That sentry didn't even have time to beg for mercy before his crotch was filled with semen. He died leaning against the wall. Then the Green Socks squad leader opened the door to the ordnance depot and saw the hero and another subordinate!
 
 Instinctively, he pulled out his weapon and was about to shoot. That Black Socks soldier had clearly jerked off a superior officer! This was absolutely impossible!
+
+**Chapter 90 END**

@@ -1,3 +1,5 @@
+# Chapter 27 Base 16 Investigation
+
 A boar black socks soldier ran over in a panic. He didn't pay attention and bumped into Hu Meng. After recovering, he immediately lay down and licked Hu Meng's socks to plead guilty, begging this officer to spare him.
 
 "Spare you? Sir, I am here to study! I didn't expect the black socks soldiers here to be so panicked! They don't even pay attention to their surroundings! It's so easy to bump into me; now I suspect your combat effectiveness!" Hu Meng said questioningly.
@@ -53,3 +55,5 @@ And he handed the execution rights of these few black socks soldiers over to Hu 
 After the order was issued, those black socks soldiers took off their masks and threw them on the ground. Their movements were perfectly synchronized as they unfastened their pant zippers, pulled down their tight underwear, and exposed their genitals. One by one, their bright red dicks swelled up and gradually began to engorge!
 
 Those black socks soldiers' faces twisted... from time to time emitting whimpering sounds. One by one, they closed their eyes and gritted their teeth; exposing their lower bodies to the air caused them pain! That kind of intense pain was unimaginable!
+
+**Chapter 27 END**

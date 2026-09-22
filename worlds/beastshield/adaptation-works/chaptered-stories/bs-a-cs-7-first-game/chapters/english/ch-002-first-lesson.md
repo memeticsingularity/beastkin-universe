@@ -8,11 +8,11 @@
 
 > *Preface*
 >
-> *"The first lesson of survival is not how to kill, but how to not become a beast.*
-> *But when the rules of this world corner you, when that uniform's green becomes your only shelter,*
-> *when captive delivery orders flash on the dark web, when a life is tagged with a price—*
-> *how much humanity can you still preserve?*
-> *This is the lesson Chen Mo must face, and it is also a choice that every being breathing in this world,*
+> *"The first lesson of survival is not how to kill, but how to not become a beast.*  
+> *But when the rules of this world corner you, when that uniform's green becomes your only shelter,*  
+> *when captive delivery orders flash on the dark web, when a life is tagged with a price—*  
+> *how much humanity can you still preserve?*  
+> *This is the lesson Chen Mo must face, and it is also a choice that every being breathing in this world,*  
 > *whether descender or native, cannot escape."*
 
 ---
@@ -1123,10 +1123,10 @@ That connection is a power stronger than any spiritual power.
 
 > *Epilogue*
 >
-> *When he carried Bai Ya on his back, what he felt was not just weight—that was a trust entrusted, a responsibility descending.*
-> *He finally understood, the first lesson was not learning to fight, but learning to bear.*
-> *Courage is not being unafraid, but still moving forward when afraid.*
-> *And on that moonlit night, a programmer tasted... the flavor of courage for the first time.*
+> *When he carried Bai Ya on his back, what he felt was not just weight—that was a trust entrusted, a responsibility descending.*  
+> *He finally understood, the first lesson was not learning to fight, but learning to bear.*  
+> *Courage is not being unafraid, but still moving forward when afraid.*  
+> *And on that moonlit night, a programmer tasted... the flavor of courage for the first time.*  
 > *Bitter, carrying the taste of blood, but real.*
 
 ---

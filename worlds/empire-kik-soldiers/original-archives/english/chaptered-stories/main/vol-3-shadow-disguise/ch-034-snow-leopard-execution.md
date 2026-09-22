@@ -6,8 +6,8 @@
 
 ---
 
-> *The snow leopard's tail traced a graceful arc in the dim dormitory.*
-> *What he performed was not an execution, but art—an Imperial art of death.*
+> *The snow leopard's tail traced a graceful arc in the dim dormitory.*  
+> *What he performed was not an execution, but art—an Imperial art of death.*  
 > *The semen still flowing on the bedsheets, mixed with blood, painted the final chapter of loyalty.*
 
 ---
@@ -46,8 +46,8 @@ Only the trembling black-sock soldiers remained in the room. The snow leopard qu
 
 **Chapter 34 END**
 
-> *The semen solidified in the cold, like white amber, sealing away a story that would never be told.*
-> *The military socks were thrown onto the face, completing the final humiliation and end.*
+> *The semen solidified in the cold, like white amber, sealing away a story that would never be told.*  
+> *The military socks were thrown onto the face, completing the final humiliation and end.*  
 > *Imperial order was once again maintained through the most intimate pain.*
 
 ---

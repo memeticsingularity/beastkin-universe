@@ -1,4 +1,4 @@
-# Chapter 95 poisoned revenge
+# Chapter 95 Poisoned Revenge
 
 ---
 

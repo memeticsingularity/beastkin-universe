@@ -1,3 +1,5 @@
+# Chapter 13 Special Forces Infiltration
+
 This team of special Kik Soldiers turned around, organized their equipment, confirmed their respective functions, and walked toward the base. The one at the back of the team didn't forget to erase traces. Their speed was not very fast. They advanced during the day and needed to hibernate at night; more importantly, they had to maintain their temperature!
 
 The claw-exposing socks, like ankle guards, would cause them to slowly lose heat. When necessary, they would drink the potions they carried. These potions would temporarily allow them to overcome these weaknesses, at the cost of consuming their lifespan.
@@ -71,3 +73,5 @@ That green socks tiger beastkin was placed on the ground. Having already fainted
 They would expand more functions on the original architecture of the chip. He was about to become a puppet, secretly providing information. After the mission was completed, he would also self-destruct; there was no need to worry at all.
 
 Half an hour later, this green socks soldier sat up from the ground, completely unable to recall what had happened. He only felt that he had successfully slacked off. He quickly picked up his weapon and ran all the way back to the duty room.
+
+**Chapter 13 END**

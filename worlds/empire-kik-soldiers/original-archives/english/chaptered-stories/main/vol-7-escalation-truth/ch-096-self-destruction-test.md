@@ -1,3 +1,5 @@
+# Chapter 96 Self Destruction Test
+
 The next morning, the villagers discovered two Black Socks soldiers dead in the square. A wild boar beastman and a bear beastman Black Socks soldier, they were grabbing each other's meat sticks. Their mouths were also each stuffed with one of the other's military socks. This incident alarmed the company commander!
 
 The two Black Socks soldiers' masks also had semen stains formed by each other's semen! Their bodies had already stiffened, standing there in bizarre poses. All of this was the masterpiece of the wolf beastman squad leader! It was to test whether the poison he had concocted was effective!
@@ -45,3 +47,5 @@ The wolf beastman squad leader twisted his neck. He had only attacked his crotch
 Before he could figure out what was going on, he was jerked off to death. Then he hoisted the Black Socks soldier's corpse and threw it onto the artillery emplacement. He also pulled down his pants and arranged him in a bizarre pose!
 
 He used a rope to strangle his neck and directly hung him on the barrel of the artillery emplacement. He also pulled off the socks on his feet, stuffing one into his mouth and putting one on his dick. He himself took a deep breath and punched his own crotch. Then he let out a miserable scream of "enemy attack" and pretended to faint! To make it realistic, he also pulled open the zipper of his own crotch!
+
+**Chapter 96 END**

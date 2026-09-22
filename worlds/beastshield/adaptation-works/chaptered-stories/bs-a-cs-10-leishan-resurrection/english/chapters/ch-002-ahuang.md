@@ -1,4 +1,4 @@
-# Chapter 2: Ahuang's Twilight
+# Chapter 2 Ahuang's Twilight
 
 ---
 
@@ -193,3 +193,5 @@ He was the ghost who had crawled out of the trash can, the survivor who had witn
 ---
 
 *He sent Ahuang into that dark space he had once escaped from. One cycle ended, another cycle began. On this night filled with death, Leizhao found the reason to continue forward — for those who could no longer continue.*
+
+**Chapter 2 END**

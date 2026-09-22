@@ -1,4 +1,4 @@
-# Chapter 15 exemption mechanism
+# Chapter 15 Exemption Mechanism
 
 ---
 

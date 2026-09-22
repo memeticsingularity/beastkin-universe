@@ -1,3 +1,5 @@
+# Chapter 48 Upgrade and Undercover
+
 A week passed before the resistance organization members gradually recovered. The red eye of the watchtower was still aimed at the town. At this time, the scout responsible for reconnaissance reported back, saying that the base had entered a state of emergency!
 
 A protective shield had risen over the base, making it impossible to see what was going on inside! At the same time, the weapons of all watchtowers were also activated! Those black-sock soldiers hadn't come out either; no one knew what they were up to!
@@ -59,3 +61,5 @@ After the powder evaporated, only the intact equipment and a large puddle of sem
 In a few more days, the green-sock soldiers' upgrade would be complete. Even Commander White Wolf couldn't resist his curiosity. During an inspection, he grabbed a black-sock soldier and milk-killed him.
 
 Watching the white powder fall to the ground, he only held a piece of clothing in his hand. Sure enough, it was no fun anymore. Not being able to play with the corpse was somewhat unaccustomed. So he cultivated a portion of version 1.0 black-sock and green-sock soldiers for his own entertainment.
+
+**Chapter 48 END**

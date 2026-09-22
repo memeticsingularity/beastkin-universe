@@ -1,3 +1,5 @@
+# Chapter 109 White Bear Devoured
+
 The hero walked out of the recycling room, still wanting more. His target was that white bear! His semen was the truly nourishing stuff! He had to eliminate his power while the Demon King was away! And that white bear seemed to be a specially cultivated subordinate!
 
 The hero sensed a huge amount of energy. So the hero concluded that eating the white bear could restore him to more than half his energy. Thinking and thinking, he walked out of the recycling room. Looking at the Black Sock soldiers running back and forth in the corridor, he was very puzzled.
@@ -63,3 +65,5 @@ The hero laughed when he saw this! The semen of the more than twenty Black Sock 
 With one punch, the white bear's helmet turned into fragments. His white fur was covered in bloodstains. Several teeth were also knocked out. Blood flowed from his nostrils and the corners of his mouth.
 
 "You... you! Uh! I am the Empire's... uh呜!" Before the white bear could finish speaking, the hero gave him another punch!
+
+**Chapter 109 END**

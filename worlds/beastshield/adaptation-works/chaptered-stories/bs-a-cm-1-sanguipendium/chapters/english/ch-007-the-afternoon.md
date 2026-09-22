@@ -1,4 +1,4 @@
-# Chapter 7: The Afternoon
+# Chapter 7 The Afternoon
 
 ---
 

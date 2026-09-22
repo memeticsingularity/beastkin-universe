@@ -1,4 +1,4 @@
-# Chapter 84 outpost devouring
+# Chapter 84 Outpost Devouring
 
 ---
 

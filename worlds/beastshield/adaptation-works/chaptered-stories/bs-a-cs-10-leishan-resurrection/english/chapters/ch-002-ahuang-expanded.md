@@ -1,4 +1,4 @@
-# Chapter 2: Ahuang's Twilight
+# Chapter 2 Ahuang's Twilight
 
 ---
 

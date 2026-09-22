@@ -1,4 +1,4 @@
-# Chapter 12: Night Raid
+# Chapter 12 Night Raid
 
 ---
 
@@ -362,3 +362,5 @@ Shield Corporation** with **Xue Han**.
 ---
 
 [Chap11](ch-011-a-perverse-friendship.md) | [Back to Index](README.md) | [Chap13](ch-013-the-barren-spine-plains.md)
+
+**Chapter 12 END**

@@ -1,4 +1,4 @@
-# Chapter 55 punishment and loyalty
+# Chapter 55 Punishment and Loyalty
 
 ---
 

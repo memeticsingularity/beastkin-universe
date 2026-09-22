@@ -6,8 +6,8 @@
 
 ---
 
-> *No orders, only waiting.*
-> *The fishy stench of liquid seeps into the **mask**, like an invisible chain.*
+> *No orders, only waiting.*  
+> *The fishy stench of liquid seeps into the **mask**, like an invisible chain.*  
 > *He suppresses the restlessness in his heart, because that would cost him his life.*
 
 Without orders, he could only wait. The fishy odor of liquid on his **mask** was unbearable. A trace of restlessness gradually sprouted in his heart, but he suppressed it! Because messing up could really cost him his life!
@@ -72,8 +72,8 @@ The large bulge at his **crotch** was exposed, plump and very tempting!
 
 **Chapter 2 END**
 
-> *Mission complete.*
-> *Outside the door, the new recruit listens to the sounds inside, the paw pads on his feet slightly cold.*
+> *Mission complete.*  
+> *Outside the door, the new recruit listens to the sounds inside, the paw pads on his feet slightly cold.*  
 > *The gears of the Empire turn once more, meshing perfectly.*
 
 ---

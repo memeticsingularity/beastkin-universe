@@ -1,3 +1,5 @@
+# Chapter 66 Key Recovery
+
 "Do you understand? Now is the time of my return!" His Majesty the Emperor muttered to himself.
 
 City Lord Kaka had not yet recovered from the extreme pleasure. That semen had completely eroded his brain, making him a new puppet of the Empire. At the same time, all his memories had been read by His Majesty the Emperor. This was one of His Majesty the Emperor's abilities! It was also a new power obtained after reclaiming the first key!
@@ -65,3 +67,5 @@ Being a tiger beastman as well, this squad leader's feet were so strong! He touc
 That Black Socks soldier also got hard under Hu Meng's playing. His tail waved around randomly, and his mouth was still begging for mercy. Hu Meng angrily slapped that Black Socks soldier's butt and cursed: "If you move around again, I'll jerk you off right now!"
 
 Immediately after, he changed his position. Facing his feet, he straddled both sides of the Black Socks soldier's body with his legs. He put his feet together and took a deep breath!
+
+**Chapter 66 END**

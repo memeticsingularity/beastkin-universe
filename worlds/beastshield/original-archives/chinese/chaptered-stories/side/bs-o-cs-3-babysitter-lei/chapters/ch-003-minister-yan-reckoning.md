@@ -6,7 +6,7 @@
 
 ---
 
-> *Lao Lei Raids the Intelligence Department - Chapter 3: Minister Yan's Reckoning and Pursuit*
+> *Lao Lei Raids the Intelligence Department - Chapter 3: Minister Yan's Reckoning and Pursuit*  
 > 情报部长颜某发现窝点被端，迁怒并处决值守兵后，下令围剿特工雷神寰；雷神寰在顺风车上遭狙击，反杀整队围剿兵，又于玉米地逐一伏击搜捕的兽盾兵。
 
 ---

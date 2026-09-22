@@ -1,3 +1,5 @@
+# Chapter 111 Demonic King Complete
+
 The Demon King's power shone like the sun. The entire room also began to distort. As if entering another space. The hero's eyes were instantly blinded. When he opened his eyes again, the Demon King had already taken the box.
 
 Like crushing a potato chip, he broke the seal and took out the key! It was a crown. The Demon King closed his eyes, took a deep breath, and said: "You really have bad taste! The fifth key actually has such a design!"
@@ -69,3 +71,5 @@ After seeing this memory, the hero shook his head vigorously. All of this was th
 "You really have a stubborn temper! There's no need to lie to you in your current state! Do you know why absorbing those miscellaneous soldiers' semen can restore your power? Hahahaha!" The Demon King said, pouring another memory into him.
 
 In a transparent cultivation pod, the hero was still a cub at this time. A golden tiger beastman wearing glasses was recording the data of this cub. This golden tiger beastman had a serious face. He looked like a scholar.
+
+**Chapter 111 END**

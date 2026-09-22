@@ -1,4 +1,4 @@
-# Chapter 50 restroom kill
+# Chapter 50 Restroom Kill
 
 ---
 

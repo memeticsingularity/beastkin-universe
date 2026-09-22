@@ -1,4 +1,4 @@
-# Chapter 11 electrocution experiment
+# Chapter 11 Electrocution Experiment
 
 ---
 

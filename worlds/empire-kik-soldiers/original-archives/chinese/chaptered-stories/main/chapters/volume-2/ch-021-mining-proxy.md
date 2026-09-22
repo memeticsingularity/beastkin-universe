@@ -1,4 +1,4 @@
-# Chapter 21 mining proxy
+# Chapter 21 Mining Proxy
 
 ---
 

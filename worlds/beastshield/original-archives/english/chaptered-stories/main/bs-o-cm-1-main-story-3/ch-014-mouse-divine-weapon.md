@@ -1,4 +1,4 @@
-# Chapter 14: The Mouse Divine Weapon
+# Chapter 14 The Mouse Divine Weapon
 
 To the southeast of the White Capital, there was a dense jungle called the Emerald Forest Ruins. Various poisonous grasses and insects grew here. These poisonous creatures constantly spewed poisonous gas, filling the jungle with a green poisonous fog. A beastman would ejaculate to death within five minutes of inhaling it. These poisonous creatures were the raw materials for the aphrodisiac bullets produced by the Beastshield Company.
 
@@ -105,3 +105,5 @@ The brown bear got the mask like a treasure. He immediately inserted the throat 
 On the plane, Moying looked at the brown bear's back and fell into deep thought: "When did it start," "When did I start to have a preference for bear beastmen,"
 
 "So many years have passed. As expected, I'm still influenced by that guy. Sigh..."
+
+**Chapter 14 END**

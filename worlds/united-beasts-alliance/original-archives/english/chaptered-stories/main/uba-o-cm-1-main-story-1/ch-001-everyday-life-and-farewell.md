@@ -226,3 +226,5 @@ know this warm dream is about to end.
 [Return to Directory](README.md) | [Next Chapter](ch-002-the-devouring-of-innocence.md) | [Return to Project Home](../../../../../../../README.md)
 
 ---
+
+**Chapter 1 END**

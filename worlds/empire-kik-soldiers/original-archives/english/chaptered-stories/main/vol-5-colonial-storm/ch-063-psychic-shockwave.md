@@ -1,3 +1,5 @@
+# Chapter 63 Psychic Shockwave
+
 After leaving the school, the deputy quickly packed up the clothes on the ground and followed the officer to his own battle vehicle. Fortunately, nothing went wrong with this matter. The deputy bent down and entered the cockpit where Hu Meng was.
 
 "Sir! You are truly amazing! I..." Before the deputy could finish, he was interrupted.
@@ -51,3 +53,5 @@ The information transmitted by the satellite showed that the city was as fragile
 When the time came, just have those Black Socks soldiers take the Berserk potion! Even in cold weapon combat, even a Blue Socks soldier like Hu Meng would be at a disadvantage. Thinking of this, he decided to use the old method. Firepower coverage to destroy the city walls!
 
 Then use missiles to carpet bomb the area, and finally send those Black Socks soldiers to clean up the scene! He believed that the Empire's messenger robots had already conveyed His Majesty's will. If they did not submit, there was only destruction!
+
+**Chapter 63 END**

@@ -1,4 +1,4 @@
-# SS-003: Blackstone 2
+# Story Blackstone 2
 
 ---
 
@@ -380,3 +380,5 @@ The night is long, and stories like this are still playing out in every corner o
 ---
 
 [Return to Directory](README.md) | [Return to Project Home](../../../../../README.md)
+
+**Story END**

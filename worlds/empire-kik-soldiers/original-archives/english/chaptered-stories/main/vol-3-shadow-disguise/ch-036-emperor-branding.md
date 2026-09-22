@@ -1,3 +1,5 @@
+# Chapter 36 Emperor Branding
+
     After doing all this, the Emperor took out the clothes from the cabinet and placed them on the stool. He took off the remaining old clothes from his body. His beautiful muscle curves were so intoxicating under the light. His golden fur made him even more majestic. After putting on his pants, robe, and other garments, his eyes were filled with an air of invincibility.
     Looking at the footprint on Hu Meng's face with satisfaction, he nodded. When needed, this brand would appear as a golden paw print in the eyes of Kik soldiers. Seeing this, any Kik soldier would unconditionally stop their actions. They would await Hu Meng's dispatch and arrangement. There was still the smell of Hu Meng's semen on his hand.
     The King, who had not masturbated anyone to death for a long time, brought his palm close to his nose and sniffed again. Indeed, it was a fine little tiger. At this moment, that white-sock bear beastman walked over. Kneeling on the ground, he said: "Your Majesty, news from the capital! The Dome Project has encountered some difficulties and requires Your Majesty to..."
@@ -31,3 +33,5 @@
     White Wolf followed His Majesty's movements and changed direction, continuing to lie prostrate. He could tell that His Majesty wasn't very angry; on the contrary, he seemed somewhat pleased. He quickly replied: "Your Majesty, all of this is Your Majesty's grace! Our lives are all bestowed by Your Majesty!"
     "It's good that you know. Noah's matter disappointed me greatly! You shouldn't learn from him! This Snow Mountain Base is one of the Empire's lifelines. Your task is arduous. You have already conveniently resolved a portion of those resistance organizations. Let that black tiger handle the rest. He has the potential to become a white-sock soldier!"
     Hearing His Majesty's praise, White Wolf also breathed a sigh of relief. After all, Hu Meng was still alive. His eyes secretly glanced at His Majesty's paw pads, and saliva secreted profusely in his mouth. His Majesty deliberately stretched his paw pads forward, which instantly perked White Wolf up!
+
+**Chapter 36 END**

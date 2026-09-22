@@ -1,4 +1,4 @@
-# Chapter 14 slave branding
+# Chapter 14 Slave Branding
 
 ---
 

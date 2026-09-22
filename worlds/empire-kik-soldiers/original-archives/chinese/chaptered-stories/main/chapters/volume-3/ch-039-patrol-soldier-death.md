@@ -1,4 +1,4 @@
-# Chapter 39 patrol soldier death
+# Chapter 39 Patrol Soldier Death
 
 ---
 

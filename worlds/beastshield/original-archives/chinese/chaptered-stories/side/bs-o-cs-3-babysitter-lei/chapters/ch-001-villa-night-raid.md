@@ -6,7 +6,7 @@
 
 ---
 
-> *Lao Lei Raids the Intelligence Department - Chapter 1: Villa Night Raid*
+> *Lao Lei Raids the Intelligence Department - Chapter 1: Villa Night Raid*  
 > 老雷的别墅深夜被兽盾武装士兵潜入，为了保护八岁的儿子小雷，这位低调的武林高手不得不在家中展开一场血腥的清理。
 
 ---

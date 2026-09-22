@@ -1,4 +1,4 @@
-# Chapter 2: The Price of Blood
+# Chapter 2 The Price of Blood
 
 ---
 

@@ -1,3 +1,5 @@
+# Chapter 76 Semen Staircase
+
 Looking at the billowing smoke before him, Commander White Wolf ordered the team to stop and rest. He returned to the camp to drive the vehicle over. So the Black Socks bear squad leader took the order and ran back to the camp. Before long, several vehicles drove over.
 
 There were still 6 kilometers to the end of the valley. Along the way, Commander White Wolf just stared at the device. The three vehicles, except for the drivers, all kept a close eye on their surroundings, because the plants would also specifically target Kik soldiers!
@@ -52,3 +54,4 @@ The corpses of the Black Socks soldiers on the stairs were also forcibly decompo
 
 He quickly withdrew and flew along the stairs to the larger space, beginning to search for a way out! The object in his arms vibrated, and a spatial crack appeared directly above him. Commander White Wolf was overjoyed in his heart and rushed over!
 
+**Chapter 76 END**

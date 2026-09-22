@@ -96,7 +96,8 @@ Demon Shadow, who had fled three miles away, suddenly heard a loud explosion fro
 
 > (To be supplemented)
 
-**Chapter 15 END** | **Volume 2 "Demon Shadow" Complete**
+**Chapter 15 END**
+**Volume 2 "Demon Shadow" Complete**
 
 ---
 

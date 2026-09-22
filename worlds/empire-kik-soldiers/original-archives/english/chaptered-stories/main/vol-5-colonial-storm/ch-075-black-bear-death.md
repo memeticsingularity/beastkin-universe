@@ -1,3 +1,5 @@
+# Chapter 75 Black Bear Death
+
 The metal ring on his back emitted light. The top of the tallest building emitted a special band of information. Invisible energy beams shot straight to the clouds and into space. They were received by satellites in orbit. At the same time, a starship on standby in orbit also entered a combat state!
 
 This starship was full of troops and various large weapons. At the same time, it was also in the process of building a large space station. The materials all came from the moon, the satellite of this planet. Various Black Socks soldiers were operating equipment and mechs with great enthusiasm...
@@ -57,3 +59,5 @@ The squad leader quickly ordered the remaining soldiers to open fire! Blow up al
 Then came two more screams! Two subordinates covered their crotches, knelt on the ground in pain, and were jerked off to death! Only then did the squad leader order a retreat!
 
 After reading the memory, Commander White Wolf fell into confusion! Why did the plants here know the Kik soldiers' weak points! And they were so fast. So he ordered the fighter jet to take off and carry out a devastating strike on the forest ahead! As the fighter jet ascended and fired beam cannons, the forest ahead turned into a sea of fire with smoke filling the sky! After the pilot confirmed the plants were destroyed, he released fire suppressant.
+
+**Chapter 75 END**

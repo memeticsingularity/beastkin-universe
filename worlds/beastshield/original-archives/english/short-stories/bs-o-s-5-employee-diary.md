@@ -1,4 +1,4 @@
-# SS-005: **Beast Shield Employee's Day**
+# Story Beast Shield Employee's Day
 
 ---
 
@@ -412,3 +412,5 @@ each other, life is like semen—once shot, it’s gone, cheap enough to make yo
 ---
 
 [Back to Directory](README.md) | [Back to Project Home](../../../../../README.md)
+
+**Story END**

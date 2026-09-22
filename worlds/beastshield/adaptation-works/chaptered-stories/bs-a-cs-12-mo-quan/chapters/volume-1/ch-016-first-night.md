@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 16: First Night*
+> *Ink Hound - Chapter 16: First Night*  
 > 九个人挤上卡车回据点，绿制服敬畏相迎。回到宿舍与灰牛碰面，十个兽人挤在一间六人宿舍里。分配床铺、尴尬共处——最终十个人在同一间屋子里度过第一夜。
 
 ---

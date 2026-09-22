@@ -1,3 +1,5 @@
+# Chapter 12 Emperor Secret Order
+
 After the officer left, the floor in the prison cell rose, and a robot emerged from the rising elevator. That robot placed the blue socks soldier's corpse into the compartment on its body. Slowly, it returned to the elevator; as the elevator restored itself, the entire prison returned to its original appearance.
 
 Returning to his own room, he walked to the computer, his feet stepping on the sensing area. The chip in his brain activated, directly transmitting the orders into his mind.
@@ -63,3 +65,5 @@ That signature massive tail was also a lethal weapon; the tip had been modified 
 Now they were conducting investigations at various bases throughout the Empire. The socks on their feet could also pass through high-level access control systems. Their only weakness was fear of cold; even with the Empire's most cutting-edge technology, this defect could not be remedied. So they chose to inspect the bases in this region first!
 
 Secondly, they had to inform that white socks officer exiled here. Tell him not to do anything unnecessary! To honestly wait for His Majesty the Emperor's orders!
+
+**Chapter 12 END**

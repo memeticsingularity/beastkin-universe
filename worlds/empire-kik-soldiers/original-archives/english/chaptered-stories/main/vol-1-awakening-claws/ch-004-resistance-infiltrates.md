@@ -6,7 +6,7 @@
 
 ---
 
-> *Shadows prowl beneath the Empire's walls.*
+> *Shadows prowl beneath the Empire's walls.*  
 > *Hatred and despair are sometimes sharper weapons than the **chip**.*
 
 The nearby towns were filled with civilians who had long been oppressed. They had obtained some weapons and equipment. Relying on their familiarity with the area, they waged struggle against various nations! The resistance members were all youths who had learned and grown much through prolonged combat. During the day, they would also enter the **base** to labor...
@@ -81,7 +81,7 @@ The fishy stench of **semen** made him suspicious. He went around from the side 
 
 **Chapter 4 END**
 
-> *Three Kik Soldiers fall silently, a secret weapon falls into enemy hands.*
+> *Three Kik Soldiers fall silently, a secret weapon falls into enemy hands.*  
 > *And beneath the snow mountain, a fatal weakness is quietly being revealed.*
 
 ---

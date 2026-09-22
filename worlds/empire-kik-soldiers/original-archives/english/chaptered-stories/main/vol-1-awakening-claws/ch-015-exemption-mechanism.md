@@ -1,3 +1,5 @@
+# Chapter 15 Exemption Mechanism
+
 At this moment, the wolf beastkin officer laughed. He pressed his large foot against Hu Meng's face. Hu Meng only felt the officer's sock was wet; the liquid seeping out gradually became scorching hot on his face.
 
 A voice sounded in his brain: "Branding complete!"
@@ -61,3 +63,5 @@ This was the most cruel infinite milking execution in the Empire. Through medici
 Hu Meng then called the subordinate at the door, telling them to bring a large container. A leopard beastkin came in and was scared stiff! This was infinite milking execution! Trembling, he assembled the container with the bear shaft, and instantly the bucket-like container was filled.
 
 A strong fishy stench made Hu Meng in the room cough violently. That black socks leopard beastkin quickly turned on the ventilation system! After doing all this, Hu Meng finally calmed down and ordered the leopard beastkin to dispose of the corpse! Only then did he walk out of the dormitory...
+
+**Chapter 15 END**

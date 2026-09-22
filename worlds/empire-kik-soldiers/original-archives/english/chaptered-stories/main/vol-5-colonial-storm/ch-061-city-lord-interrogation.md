@@ -1,3 +1,5 @@
+# Chapter 61 City Lord Interrogation
+
 "Your Majesty! I have completed the mission at the village!" Hu Meng knelt in the command room of the base under construction. He was reporting to His Majesty's projection. Hu Meng was very afraid, after all, he was reporting directly to His Majesty the Emperor.
 
 "Well done! The first village will become the cornerstone of the Empire here! It will also be a pilot project to promote the Empire! Next, that village will be handed over to you! Those children will also become a new force for the Empire! Then the next location has also been chosen. The result of not submitting is only one! Understood!" His Majesty looked down at Hu Meng on the ground and said.
@@ -53,3 +55,5 @@ The snow leopard deputy nodded: "Yes! I understand!"
 After dawn, it wasn't until noon that the collection work was completed. The precious semen was packaged well and they drove toward the base. The squad leader on the vehicle was still scolding his subordinates. The semen on that military sock had already dried. Only the semen stains remained on it, so the Black Socks soldiers were all trembling.
 
 If they made another mistake, they would become food for the beast!
+
+**Chapter 61 END**

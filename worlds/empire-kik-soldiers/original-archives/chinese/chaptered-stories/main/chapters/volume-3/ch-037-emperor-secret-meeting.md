@@ -1,4 +1,4 @@
-# Chapter 37 emperor secret meeting
+# Chapter 37 Emperor Secret Meeting
 
 ---
 

@@ -1,3 +1,5 @@
+# Chapter 98 Secret Base Discovery
+
 "Sir! How should we dispose of this trash?" the dinosaur guard asked.
 
 "Throw them into the incinerator! After all, he was once an outstanding student of the Empire. Scan everyone here again! As for those Black Socks soldiers..." Hu Meng paused here.
@@ -51,3 +53,5 @@ At this time, the black tiger in the village received an order, requiring him to
 The Empire's military socks were not invincible; their own materials also had limits. Originally, the Empire had a punishment where you pulled the sock tube upward. Until the military socks could no longer withstand the pulling, slowly tearing open from the soles. Until the soles of the feet were exposed. At the same time, the lower body would also bulge, and when the socks ruptured, all the semen in the body would be sprayed out!
 
 This was called tearing jerk-off execution! It was abolished for a period because it was too cruel. Because His Majesty the Emperor felt it wasted too much time; it was better to just jerk them off directly!
+
+**Chapter 98 END**

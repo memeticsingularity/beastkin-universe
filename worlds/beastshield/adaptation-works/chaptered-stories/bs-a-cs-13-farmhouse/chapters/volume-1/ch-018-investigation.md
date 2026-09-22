@@ -6,7 +6,7 @@
 
 ---
 
-> *The Investigation*
+> *The Investigation*  
 > 兽盾调查组盯上农家乐，外部压力与内部隐患同时爆发。
 
 ---

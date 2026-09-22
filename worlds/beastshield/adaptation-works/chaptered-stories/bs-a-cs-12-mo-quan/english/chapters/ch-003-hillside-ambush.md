@@ -1,4 +1,4 @@
-# Ink Hound - Chapter 3: Hillside Ambush
+# Chapter 3 Ink Hound - Chapter 3: Hillside Ambush
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 3: Hillside Ambush*
+> *Ink Hound - Chapter 3: Hillside Ambush*  
 > Descending the mountain, Hei Gou encounters a search-and-rescue squad heading uphill. Facing two burly G-rank grunts, he fights one against two for the first time—kill the unlovable ones, keep the useful ones.
 
 ---

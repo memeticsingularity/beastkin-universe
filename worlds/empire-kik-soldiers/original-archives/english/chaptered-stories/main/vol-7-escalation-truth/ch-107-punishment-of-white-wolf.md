@@ -1,3 +1,5 @@
+# Chapter 107 Punishment of White Wolf
+
 "Stop struggling! You fool, just ejaculate! This is the greatest mercy I give you toys! Understanding your life in excitement and pleasure! You are such male beastmen! Even in severe pain, you can enjoy this pleasure! Dying completely without pain, but your performance disappoints me!" His Majesty the Emperor kicked Hu Meng in the chest. Stepping on his crotch, he said...
 
 His foot gently moved back and forth on Hu Meng's bulging area. Hu Meng desperately endured his instinct. Now he could no longer understand the meaning of His Majesty the Emperor's words. His two legs kicked desperately like a frog...
@@ -49,3 +51,5 @@ They also pulled off his socks and used them as whips to beat the corpse. Only a
 The hero continued to wait for the right moment. Until they both bent over did he suddenly attack! With two cracking punches, he hit their crotches. The hero's special power penetrated their bodies, causing their crotches to rapidly bulge. Their penises became engorged. Their testicles became active, pumping all the semen out of their bodies!
 
 At the same time, the hero sat up and looked at the disbelief in these two fools' eyes. The two bent-over Black Socks soldiers were in extreme pain. The hero directly tore through their pants and grabbed their meat sticks with both hands. He gave them a quick death! Like milking cows, he devoured their semen, one bite on the left, one bite on the right. In no time, he had eaten it all clean.
+
+**Chapter 107 END**

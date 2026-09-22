@@ -1,3 +1,5 @@
+# Chapter 93 Destruction of Two Cities
+
 His Majesty, now completely renewed and with greatly increased strength, began to plan his revenge against the hero! Didn't he want to protect those civilians! Now, how many of those primitive-like civilians could he protect! He himself was no longer the same as he was 300,000 years ago!
 
 Then he looked at Hu Meng on the ground. A hint of pity appeared in his sharp eyes. He manipulated Hu Meng's body with his ability. His tiger cock was put back into his crotch by an invisible hand. His pants were also straightened out. He ordered the Blue Socks soldiers at the door to send Hu Meng to the cultivation chamber to recover!
@@ -51,3 +53,5 @@ At this time, the White Socks black wolf soldier who had flown down met the hero
 The hero continued to accelerate, trying to use the jerking-off glove to press his crotch. It's just that he discovered that this Kik soldier was covered in armor, and the jerking-off glove couldn't take effect!
 
 So he changed his strategy. Two swords appeared in the hero's hands. The dancing sword light spilled onto the White Socks soldier's proud armor, leaving marks. That energy carried a corrosive characteristic!
+
+**Chapter 93 END**

@@ -1,4 +1,4 @@
-# Chapter 53 promotion to blue socks
+# Chapter 53 Promotion to Blue Socks
 
 ---
 

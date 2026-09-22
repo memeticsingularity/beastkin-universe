@@ -1,4 +1,4 @@
-# Chapter 17 mountain inn
+# Chapter 17 Mountain Inn
 
 ## 第二卷 第十七章：霓虹酒吧
 

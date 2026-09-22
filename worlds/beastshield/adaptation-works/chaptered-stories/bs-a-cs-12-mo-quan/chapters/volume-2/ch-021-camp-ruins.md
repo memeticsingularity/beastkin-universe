@@ -1,4 +1,4 @@
-# Chapter 21 camp ruins
+# Chapter 21 Camp Ruins
 
 ## 第二卷 第二十一章：地下暗渠
 

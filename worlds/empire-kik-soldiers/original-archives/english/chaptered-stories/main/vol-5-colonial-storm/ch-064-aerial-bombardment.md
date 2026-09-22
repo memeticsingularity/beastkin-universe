@@ -1,3 +1,5 @@
+# Chapter 64 Aerial Bombardment
+
 Hu Meng waited for the sun to rise. All his subordinates were ready to go. His Majesty suddenly changed his mind, watching several fighter jets ascend and fly into the distance. Kik soldiers in black tight-fitting jumpsuits climbed into the cockpits. After connecting the sensors, they took off vertically...
 
 They didn't know why His Majesty the Emperor changed the plan. A major event had occurred a few days ago in the border city of the Wolflav Empire. A pitch-black icosahedron flew straight into the courtyard of the city lord.
@@ -55,3 +57,5 @@ Hu Meng was just saying this. After all, the latest order still required them to
 "Damned invaders! As a city lord, I will never surrender! You cruel fellows!" City Lord Kaka said as he swung his axe. That visible stream of air left a ditch in the ground.
 
 In the blink of an eye, it was in front of Hu Meng. With a ding, Hu Meng grabbed a Black Socks soldier and threw him over. That Black Socks soldier didn't have time to react before being torn apart by the air blast.
+
+**Chapter 64 END**

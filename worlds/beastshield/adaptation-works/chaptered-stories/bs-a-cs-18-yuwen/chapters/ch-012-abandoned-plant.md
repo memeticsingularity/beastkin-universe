@@ -1,4 +1,4 @@
-# Chapter 12 abandoned plant
+# Chapter 12 Abandoned Plant
 
 ---
 

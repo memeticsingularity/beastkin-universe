@@ -1,4 +1,4 @@
-# Chapter 11: A Perverse Friendship
+# Chapter 11 A Perverse Friendship
 
 ---
 
@@ -273,3 +273,5 @@ That night,
 ---
 
 [Chap10](ch-010-an-unexpected-bond.md) | [Back to Index](README.md) | [Chap12](ch-012-night-raid.md)
+
+**Chapter 11 END**

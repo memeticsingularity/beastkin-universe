@@ -1,4 +1,4 @@
-# Chapter 11: Light Cult Infiltration
+# Chapter 11 Light Cult Infiltration
 
 The church of the Light Cult was located in the western part of the White Capital. Most of the residents here were believers of the Light Cult. They would regularly and voluntarily offer tribute to the Light Cult to supply the church's expenses. It was said that when a Light Cult believer's degree of faith reached a certain height, a sun pattern would appear on their forehead. This was the undeniable proof of their devotion to the church and their supreme glory.
 
@@ -135,3 +135,5 @@ With that, Yin forever closed his eyes. His lowered hand gently brushed across t
 After a long silence, the Commander finally spoke: "Pass my order. All Agent Bureau members, prepare for battle. Get ready for the final showdown with Beastshield!" "Understood!"
 
 "Also, help me call Moying and Xiao Hao over. I have other missions to arrange for them."
+
+**Chapter 11 END**

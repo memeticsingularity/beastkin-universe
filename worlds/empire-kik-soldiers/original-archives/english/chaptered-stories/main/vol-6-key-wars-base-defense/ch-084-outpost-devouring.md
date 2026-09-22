@@ -1,3 +1,5 @@
+# Chapter 84 Outpost Devouring
+
     The hero stayed in Kaka City for a few days but didn't find out any useful intelligence. He could only slowly recover his power. The military district was calm, so he had to leave.
 
     He walked slowly along the road leading to the capital. When he was hungry, he hunted and fished. Along the way, he saw some Kik soldiers driving battle vehicles past. Those Black Socks soldiers seemed to be in a hurry and didn't even question him. He had to keep a low profile at this time. Although he could easily wipe out all the Black Socks soldiers on the entire battle vehicle.
@@ -57,3 +59,5 @@
     Not only that, but the semen still remaining in their bodies was also sucked out by him. In the blink of an eye, he had completely devoured all nine of these Black Socks soldiers. His power had also recovered by half. He burped and looked at the Black Socks soldiers on the ground.
 
     One by one, their pants had been pulled down. Their pubic hair was covered in his saliva. That squad leader had the most semen. And it was the most delicious! Only after doing all this did he wake up that driver...
+
+**Chapter 84 END**

@@ -1,4 +1,4 @@
-# Chapter 43 disguise passage
+# Chapter 43 Disguise Passage
 
 ---
 

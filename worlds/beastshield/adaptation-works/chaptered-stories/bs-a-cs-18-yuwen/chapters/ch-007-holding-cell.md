@@ -1,4 +1,4 @@
-# Chapter 7 holding cell
+# Chapter 7 Holding Cell
 
 ---
 

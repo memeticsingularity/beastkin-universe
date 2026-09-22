@@ -1,3 +1,5 @@
+# Chapter 108 Tiger in Recovery
+
 "Stop struggling! You stupid thing, just ejaculate! This is the greatest mercy I give you toys! Ending your life in excitement and pleasure! You are such male beastmen! Even in severe pain, you can enjoy this pleasure! Dying completely without pain, but your performance disappoints me!" His Majesty the Emperor kicked Hu Meng in the chest. Stepping on his crotch, he said...
 
 The sole of his foot gently moved back and forth on the bulging area of Hu Meng's crotch. Hu Meng desperately endured his instincts. Now, he could no longer understand the meaning of His Majesty the Emperor's words. His two legs kicked desperately like a frog...
@@ -49,3 +51,5 @@ They also pulled off his socks and used them as a whip to beat the corpse. Only 
 The hero continued to wait for the right moment. Until they both bent over, he suddenly struck! With two crackling punches, he hit their crotches. The hero's special power penetrated their bodies, causing their crotches to rapidly bulge. Their penises engorged with blood. Their testicles became active, pumping all the semen out of their bodies!
 
 At the same time, the hero sat up and looked at the disbelief in the eyes of these two wastes. The two bent-over Black Sock soldiers were in extreme pain. The hero directly tore open their crotches and grabbed their meat sticks with both hands. He gave them a quick end! Like milking a cow, he devoured their semen. One bite on the left, one bite on the right. Before long, he had eaten it all clean.
+
+**Chapter 108 END**

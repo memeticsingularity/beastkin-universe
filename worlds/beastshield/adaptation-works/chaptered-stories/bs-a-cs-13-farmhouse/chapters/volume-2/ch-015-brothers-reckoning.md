@@ -6,7 +6,7 @@
 
 ---
 
-> *Brother's Reckoning*
+> *Brother's Reckoning*  
 > 影牙压轴刘昴——老夯失散多年的弟弟——堂堂正正挑战老夯，雷克斯带队收网，兄弟生离死别。
 
 ---

@@ -1,4 +1,4 @@
-# Chapter 106 energy extraction
+# Chapter 106 Energy Extraction
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 98 secret base discovery
+# Chapter 98 Secret Base Discovery
 
 ---
 

@@ -1,3 +1,5 @@
+# Chapter 54 Beast Bonding
+
 When Hu Meng woke up, he found himself in an all-white room. There was nothing in the room. In front of him was a monster the size of an armored vehicle!
 
 It actually had four eyes on its head! Hu Meng looked at it. There were no weapons at his side! He sat on the ground and carefully moved away from it, while trying to keep his breathing as steady as possible.
@@ -65,3 +67,5 @@ After Hu Meng stood up, the researcher's edit program was activated. He recited 
 That blue-sock soldier cried out in pain. His upper body swayed in all directions, his mouth letting out wheezing sounds of "wu wu" and "si ha si ha." Since he was a logistics soldier and didn't have that strong a resistance, by the third stroke of Hu Meng's hand, bodily fluids were already flowing onto the ground.
 
 Halfway through the fourth stroke, semen gushed out from the urethra. Hu Meng moved his penis downward. That semen spurted onto the ground. That blue-sock soldier fell backward, his two legs still twitching.
+
+**Chapter 54 END**

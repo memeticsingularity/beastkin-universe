@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 15: Aii Aboard*
+> *Ink Hound - Chapter 15: Aii Aboard*  
 > 黑狗与褐鹿、黑獒在小巷中搬尸，棕虎、杜宾、鬣狗相继被发现尚有一息。七个兽人挤上卡车，驶入夜色。
 
 ---

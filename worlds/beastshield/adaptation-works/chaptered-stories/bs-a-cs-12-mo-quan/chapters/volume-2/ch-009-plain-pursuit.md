@@ -1,4 +1,4 @@
-# Chapter 9 plain pursuit
+# Chapter 9 Plain Pursuit
 
 ## 第二卷 第九章：平原追击
 

@@ -1,3 +1,5 @@
+# Chapter 47 Watchtower Retaliation
+
 His head was also covered in the prostate fluid that stinky bear had leaked! Seeing the big black guy still beating that black-sock soldier, he quickly told him to stop! If he beat him to death, how would they interrogate him!
 
 "I'm going to take a bath, ugh..." The leader said, running toward his home.
@@ -61,3 +63,5 @@ It was just a watchtower! It could be built in minutes. He also wanted to know j
 Huzi could gain His Majesty's favor so quickly! Would he also backstab him like Noah did! After thinking this, he quickly shook his head. He believed in his own judgment! The current task was to quickly let that monster complete its development. Then he could report his mission completion. It's just that if it encountered Hu Meng, would it kill him too? After all, his chip was in a dormant state and couldn't be activated without his own command!
 
 However, its maturation still needed some time. At the same time, they also needed to step up the cultivation of black-sock soldiers! Its appetite of eating four at a time was definitely not enough. Even if black-sock soldiers had plenty of semen, it might not withstand such consumption!
+
+**Chapter 47 END**

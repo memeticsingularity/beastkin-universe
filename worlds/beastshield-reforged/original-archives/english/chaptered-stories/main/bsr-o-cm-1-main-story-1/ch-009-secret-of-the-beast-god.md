@@ -1,4 +1,4 @@
-# Chapter 9: Secret of the Beast God
+# Chapter 9 Secret of the Beast God
 
 ---
 
@@ -326,3 +326,5 @@ gave one last kick, he finally breathed his last breath. **Lei Zhou** closed his
 ---
 
 [Chap8](ch-008-indiscriminate-slaughter.md) | [Back to Index](README.md) | [Chap10](ch-010-an-unexpected-bond.md)
+
+**Chapter 9 END**

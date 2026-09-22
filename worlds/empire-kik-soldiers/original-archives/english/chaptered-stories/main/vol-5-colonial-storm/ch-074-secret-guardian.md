@@ -1,3 +1,5 @@
+# Chapter 74 Secret Guardian
+
 Those Blue Socks soldiers also cursed in private. His Majesty's punishment didn't affect them! But the base patrols all fell on them. Although they had Gray Socks soldiers to assist, this still made them angry!
 
 So those Blue Socks soldiers became even stricter with the Black Socks soldiers in the future! His Majesty the Emperor was very angry. When those Blue Socks soldiers learned that His Majesty had gone out, they were on tenterhooks. Because they didn't realize His Majesty had left the ship, they were also taught a lesson by those White Socks officers.
@@ -53,3 +55,5 @@ He had already announced that Kaka City was the territory of the Empire! All civ
 His Majesty the King listened to his ministers' countermeasures in anxiety. The crown on his head had unknowingly ceased to be golden. Instead, it had become a phantom. The true crown body had already become a part of the hero-activating device when the hero was awakened.
 
 And at this time, His Majesty the Emperor was sitting on the tallest building in the base. Using himself as an energy source, he was conducting detection with the aid of equipment! The remaining four keys were of utmost importance!
+
+**Chapter 74 END**

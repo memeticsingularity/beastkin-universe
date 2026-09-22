@@ -1,4 +1,4 @@
-# Story: Night Clinic
+# Story Night Clinic
 
 >
 The revelry of the Beastshield underground fighting arena subsides at midnight, while the cleanup of pain and exhaustion has just begun. The air still carries the mixed scent of sweat, blood, and stimulants, but the spotlights have already dimmed, leaving only the faint green glow of safety exit signs illuminating the empty corridors and the various functional rooms.

@@ -6,7 +6,7 @@
 
 ---
 
-> *Execution is an art, death is a devotion.*
+> *Execution is an art, death is a devotion.*  
 > *In the Empire, not even semen goes to waste.*
 
 A massive hand toyed with that可怜的大包, occasionally flicking it. Each flick made the wretch tremble all over. Under the teasing, that thing seemed ready to burst through the clothing.
@@ -77,7 +77,7 @@ Meanwhile, the resistance organization suffering under Imperial invasion also be
 
 **Chapter 3 END**
 
-> *Semen is collected, socks are preserved.*
+> *Semen is collected, socks are preserved.*  
 > *The new recruit trembles in his dreams, while seeds of rebellion quietly sprout beneath the snow mountain.*
 
 ---

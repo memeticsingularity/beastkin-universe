@@ -1,4 +1,4 @@
-# Chapter 1: The Crimson Declaration
+# Chapter 1 The Crimson Declaration
 
 ---
 

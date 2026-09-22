@@ -1,4 +1,4 @@
-# Chapter 113 epilogue eternal empire
+# Chapter 113 Epilogue Eternal Empire
 
 ---
 

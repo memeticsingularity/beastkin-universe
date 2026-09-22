@@ -1,4 +1,4 @@
-# Chapter 109 white bear devoured
+# Chapter 109 White Bear Devoured
 
 ---
 

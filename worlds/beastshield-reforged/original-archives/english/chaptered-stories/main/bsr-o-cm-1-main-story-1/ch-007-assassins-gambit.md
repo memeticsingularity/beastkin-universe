@@ -1,4 +1,4 @@
-# Chapter 7: Assassin's Gambit
+# Chapter 7 Assassin's Gambit
 
 ---
 
@@ -304,3 +304,5 @@ from his pocket.
 ---
 
 [Chap6](ch-006-the-darkrooms-revenge.md) | [Back to Index](README.md) | [Chap8](ch-008-indiscriminate-slaughter.md)
+
+**Chapter 7 END**

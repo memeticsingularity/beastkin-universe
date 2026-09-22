@@ -1,4 +1,4 @@
-# Chapter 67 desire outburst
+# Chapter 67 Desire Outburst
 
 ---
 

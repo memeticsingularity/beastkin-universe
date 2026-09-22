@@ -1,4 +1,4 @@
-# Chapter 9 private execution
+# Chapter 9 Private Execution
 
 ---
 

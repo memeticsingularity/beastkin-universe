@@ -1,4 +1,4 @@
-# Chapter 4: Psychic Defense
+# Chapter 4 Psychic Defense
 
 In the center of White Capital, a small clinic named "Big Yellow Psychological Counseling Center" had just turned off its lights. A tired golden retriever beastman came out and walked to a small sedan. He was wearing a white shirt, black suit pants, and black leather shoes. The entire formal attire looked very handsome on him. Unfortunately, where a tie should have been, he wore a white jade necklace instead. Various colorful gems were embedded in a circular jade plate, very mismatched with the entire outfit.
 
@@ -163,3 +163,5 @@ The wolf beastman nodded dully, got up, opened the back door of the house, and w
 "Wolf milk... squeezed out. Where are my... strawberries?" Then his body swayed and fell to the ground with a thud, landing on the lion beastman's corpse, not moving at all.
 
 Looking at the mess all over the table and the rhino beastman corpse still twitching on the ground, the golden retriever let out a long sigh of relief. Then he unbuttoned his shirt and went upstairs to take a shower.
+
+**Chapter 4 END**

@@ -1,4 +1,4 @@
-# Chapter 13: Dragon God Battle
+# Chapter 13 Dragon God Battle
 
 On the floating island in the East Sea, the trees were still and the flowers and grass silent. A buzzing roar rudely broke the peace here. More than a dozen passenger helicopters bearing the Beastshield Company logo landed on the edge of the floating island. The wind and waves they raised blew nearby vegetation flying, and birds and beasts in the forest were startled into fleeing in all directions.
 
@@ -79,3 +79,5 @@ Director Ya placed one claw horizontally in front of him, channeling the power o
 Director Lan glanced at Director Ya with puzzlement. He clearly felt that Director Ya seemed a bit off. He was usually calm and wise, solving things with as little effort as possible. But today he was exceptionally irritable, directly pushing the situation to an irreversible point.
 
 But the great battle was about to begin, and Director Lan couldn't care so much anymore. He prepared to engage. He silently recited a spell, forcibly召回 the Xian Xian Bei Shi Armor he had lent to Dunchang from the void and put it on Da Ben. Da Ben once again transformed into a golden light war god. The character "Loyalty" on the armor was dazzlingly visible! Then Director Lan drew the Complete Collection of Forbidden Spells from his waist and cast a rapid pre-reading spell on himself. This way, some small spells could be instantly cast without chanting. Under the pre-reading magic power enhancement, the Complete Collection of Forbidden Spells floated in front of Director Lan, slowly opening its cover and revealing the title page with a flashing blue-purple snake emblem.
+
+**Chapter 13 END**

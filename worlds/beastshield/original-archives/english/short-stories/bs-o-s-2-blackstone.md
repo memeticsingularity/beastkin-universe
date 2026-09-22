@@ -1,4 +1,4 @@
-# SS-002: Blackstone
+# Story Blackstone
 
 ---
 
@@ -406,3 +406,5 @@ shoes and left.
 ---
 
 [Return to Directory](README.md) | [Return to Project Home](../../../../../README.md)
+
+**Story END**

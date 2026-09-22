@@ -1,4 +1,4 @@
-# Chapter 1: Breathing in the Trash Can
+# Chapter 1 Breathing in the Trash Can
 
 ---
 

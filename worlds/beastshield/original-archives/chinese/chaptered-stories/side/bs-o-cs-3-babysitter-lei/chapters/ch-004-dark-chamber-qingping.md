@@ -6,7 +6,7 @@
 
 ---
 
-> *Lao Lei Raids the Intelligence Department - Chapter 4: Qingping of the Dark Chamber*
+> *Lao Lei Raids the Intelligence Department - Chapter 4: Qingping of the Dark Chamber*  
 > 兽盾搜捕期间，自称「暗室三座」的浪青平一剑挑翻兽盾兵，又与被围困民房的老雷对峙，索取情报局资料，交易未成；颜部长率众合围，以犀牛杂兵为饵引爆背后的闪光弹重创浪青平，浪青平带伤遁入牛棚，老雷处决追兵后与他照面，两人关上杂物间商议对策。
 
 ---

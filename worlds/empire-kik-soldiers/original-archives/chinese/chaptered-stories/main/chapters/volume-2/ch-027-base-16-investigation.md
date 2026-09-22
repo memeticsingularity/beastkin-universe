@@ -1,4 +1,4 @@
-# Chapter 27 base 16 investigation
+# Chapter 27 Base 16 Investigation
 
 ---
 

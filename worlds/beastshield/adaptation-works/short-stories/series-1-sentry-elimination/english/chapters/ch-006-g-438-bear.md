@@ -1,4 +1,4 @@
-# Story: Impromptu Execution at Foggy Wharf
+# Story Impromptu Execution at Foggy Wharf
 
 > Some deaths require a carefully arranged stage, others happen outside of plans. When dense fog swallows the port's outline, time becomes viscous, and that one step of distance between hunter and prey becomes the entire gap between life and death.
 

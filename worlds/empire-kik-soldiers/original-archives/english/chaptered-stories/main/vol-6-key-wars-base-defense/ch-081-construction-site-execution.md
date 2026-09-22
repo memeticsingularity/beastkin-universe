@@ -1,3 +1,5 @@
+# Chapter 81 Construction Site Execution
+
     After two months, on the virtual sandbox in the Empire's base. More than half of the Wolflav Kingdom's territory had become the Empire's domain. All of this was due to His Majesty the Emperor's thunderous methods.
 
     Although the fourth key had not yet been unsealed, His Majesty's patience had worn out. He personally led the White Socks soldiers under his command to war. After activating combat form, he directly vaporized a city!
@@ -55,3 +57,5 @@
     The squad leader, who was already on the edge of ejaculation, still couldn't hold it in. His body fell to the ground again. His lower body twitched a few times. The black socks on his legs were pulled down somewhat by the twitching of his legs. Then semen sprayed out, and he died...
 
     Hu Meng smiled and walked over. He grabbed his foot and smelled it. The sour and foul smell mixed with the scent of dust. He seemed to be a good soldier! It's just that he was injured and could no longer serve the Empire! He kicked the corpse's butt a few times and left... Immediately after, a Black Socks soldier dragged his corpse away to be dealt with.
+
+**Chapter 81 END**

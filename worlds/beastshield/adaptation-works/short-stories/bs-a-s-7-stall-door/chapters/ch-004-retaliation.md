@@ -1,11 +1,11 @@
 # Story 还手
 
-> `bs-a-s-7-04-retaliation` ｜ 合集《隔间》第 4 篇
+> `bs-a-s-7-04-retaliation` ｜ 合集《隔间》第 4 篇  
 > **内容分级**：Lv.4（有性版）· ①③ preset 全量执行
 
 ---
 
-> *Retaliation*
+> *Retaliation*  
 > 门外的人一脚一脚踹门。这一次，门里的人没有忍。
 
 ---

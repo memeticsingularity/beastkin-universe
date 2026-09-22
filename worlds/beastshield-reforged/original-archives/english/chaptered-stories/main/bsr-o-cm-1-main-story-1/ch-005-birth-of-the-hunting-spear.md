@@ -1,4 +1,4 @@
-# Chapter 5: Birth of the Hunting Spear
+# Chapter 5 Birth of the Hunting Spear
 
 ---
 
@@ -369,3 +369,4 @@ The residual semen from **Chief Fu's** member.
 
 [Chap4](ch-004-uncontrolled-desire.md) | [Back to Index](README.md) | [Chap6](ch-006-the-darkrooms-revenge.md)
 
+**Chapter 5 END**

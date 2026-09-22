@@ -1,4 +1,4 @@
-# Chapter 14 mountain encounter
+# Chapter 14 Mountain Encounter
 
 ## 第二卷 第十四章：化工厂
 

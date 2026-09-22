@@ -155,3 +155,5 @@ The Xu Yi who had just wanted to speak discovered his tongue was still numbed by
 And these were the last words Xu Yi heard before passing out. If he still had strength remaining, Xu Yi would definitely retort and say:
 
 "We're both dogs, what big tail are you pretending to have."
+
+**Chapter 4 END**

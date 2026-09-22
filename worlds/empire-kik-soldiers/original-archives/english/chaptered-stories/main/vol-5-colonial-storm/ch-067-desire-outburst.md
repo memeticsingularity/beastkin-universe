@@ -1,3 +1,5 @@
+# Chapter 67 Desire Outburst
+
 "Ah! That's really something! You stupid Black Socks soldier! Looks like you train seriously normally!" Hu Meng continued to play with the Black Socks soldier's feet.
 
 "So, sir! Spare me, sir! I didn't see anything!" The tiger beastman Black Socks soldier tried to get the officer to let him go.
@@ -59,3 +61,5 @@ All the subordinates didn't dare to take further action. Hu Meng's chip had pinn
 The new City Lord Kaka jumped down from the fighter jet. It was also he who had knocked Hu Meng unconscious. Now he was already His Majesty the Emperor's slave, and he also had a chip in his brain! All the vanguard troops were now under his management. And Hu Meng was to return to the base for treatment!
 
 At the same time, as the city lord, he would issue a series of orders to help the Empire transform this place. This place would also become an important part of the Empire.
+
+**Chapter 67 END**

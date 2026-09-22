@@ -1,4 +1,4 @@
-# Chapter 1 mine camp
+# Chapter 1 Mine Camp
 
 ## 第二卷 第一章：矿山营地
 

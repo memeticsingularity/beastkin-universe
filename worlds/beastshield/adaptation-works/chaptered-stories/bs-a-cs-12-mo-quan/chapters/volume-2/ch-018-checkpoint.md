@@ -1,4 +1,4 @@
-# Chapter 18 checkpoint
+# Chapter 18 Checkpoint
 
 ## 第二卷 第十八章：钟楼广场
 

@@ -1,4 +1,4 @@
-# Chapter 26 dispatch mission
+# Chapter 26 Dispatch Mission
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 5 the collar
+# Chapter 5 The Collar
 
 ---
 

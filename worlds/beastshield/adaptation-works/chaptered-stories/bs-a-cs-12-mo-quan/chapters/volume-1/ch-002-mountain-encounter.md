@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 2: Mountain Encounter*
+> *Ink Hound - Chapter 2: Mountain Encounter*  
 > 下山途中，**黑狗**遭遇**棕**虎兽人****搜捕队员。在拷问与生死之间，他意外领悟了一门能令兽人**寸止**的神秘功法……
 
 ---

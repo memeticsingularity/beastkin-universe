@@ -1,4 +1,4 @@
-# Chapter 42 cell breakout
+# Chapter 42 Cell Breakout
 
 ---
 

@@ -1,3 +1,5 @@
+# Chapter 43 Disguise Passage
+
 The gate slid open sideways. The black tiger crouched on the ground, wailing "Ow, ow." The blood on the floor had already dried. The wolf beastkin black-sock soldier glanced back at his companion who had gone to the bathroom, wondering why he hadn't returned yet! According to regulations, two Kik soldiers had to be present!
 
 This glance only lasted an instant, giving them no opportunity at all. Because the explosive collars around their necks were always in an armed state. The fox beastkin hadn't thought of this!
@@ -57,3 +59,5 @@ It's just that the big guy had wounds on his feet and didn't want to wear them. 
 They made it all the way to the entrance of the watchtower, trying to find the switch. After fumbling for a while, they couldn't find it. At this moment, the big guy became impatient and started walking around. By chance, he stepped on the sensor zone, and the gate slowly opened. The two of them, one big and one small, ran out before it was fully open.
 
 They ran for a long time before reaching the town. It was now before dawn. Looking at the long-lost scenery and freedom, they were overjoyed. It's just that the big guy was too slow. His wounds reopened, and blood seeped through the socks, leaving traces...
+
+**Chapter 43 END**

@@ -1,4 +1,4 @@
-# Chapter 112 truth and end
+# Chapter 112 Truth and End
 
 ---
 

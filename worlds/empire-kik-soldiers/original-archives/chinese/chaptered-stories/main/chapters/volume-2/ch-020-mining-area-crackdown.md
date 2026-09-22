@@ -1,4 +1,4 @@
-# Chapter 20 mining area crackdown
+# Chapter 20 Mining Area Crackdown
 
 ---
 

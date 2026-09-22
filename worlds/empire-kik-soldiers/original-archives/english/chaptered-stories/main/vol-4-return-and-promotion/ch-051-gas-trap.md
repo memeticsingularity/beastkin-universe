@@ -1,3 +1,5 @@
+# Chapter 51 Gas Trap
+
 Hu Meng also crept up shortly after. The two exchanged glances, found a storage room, and exchanged intelligence. A black-sock soldier squad leader finally noticed something was wrong. After pulling open the stall door, he saw the corpse of a black-sock soldier! So he ran to the control room to report to the commander!
 
 That commander quickly got down from his chair and led his subordinates to the bathroom. Looking at the black-sock bear's corpse, it was simply a disgrace to the Empire!
@@ -55,3 +57,5 @@ They quietly got up, picked up the weapons from the two squad leaders' bodies, a
 Seeing this situation, the two of them also quickly took cover. Both sides began exchanging fire. The fox beastkin leader, on the contrary, was ignored. He picked up a black-sock soldier's weapon from the ground, quickly aimed at their heads, and took them out one by one.
 
 The black-sock soldiers, caught between two fronts, were wiped out in the blink of an eye. The few of them counted and found exactly 30 corpses! They had taken down this watchtower! After more than an hour, the remaining resistance organization members also arrived. Wolf Kai and Hu Meng took off their clothes and joined the group!
+
+**Chapter 51 END**

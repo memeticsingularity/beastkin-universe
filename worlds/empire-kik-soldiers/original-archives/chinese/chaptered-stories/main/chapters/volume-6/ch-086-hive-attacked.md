@@ -1,4 +1,4 @@
-# Chapter 86 hive attacked
+# Chapter 86 Hive Attacked
 
 ---
 

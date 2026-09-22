@@ -1,4 +1,4 @@
-# Chapter 12: Desert Ambush
+# Chapter 12 Desert Ambush
 
 "Director Lan, are we really going to the floating island in the East Sea to oppose the Dragon God?" Da Ben asked uneasily while packing his luggage.
 
@@ -141,3 +141,5 @@ There was no piercing sound, no explosion. The spin of this arrow twisted out a 
 Director Lei looked at Dunchang collapsing through the black hole in Dun Gang's back. There wasn't a trace of joy on his face. After all, at this point, he was already unable to think.
 
 A smear of brain matter slowly flowed down from the bloody hole between the ugly rat head's eyebrows, dripping onto the sandy ground. Behind Lei Jue, an arrowhead carrying brain matter was still spinning on the sandy ground.
+
+**Chapter 12 END**

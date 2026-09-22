@@ -1,3 +1,5 @@
+# Chapter 72 Revenge Awakening
+
     After doing all this, he ordered the weapons on the wall outside the village to be turned around. And he had them select a new village chief before implementing the highest level of control! After giving these instructions, Hu Meng left. There were still matters to attend to at the base!
 
     After finally catching up with the vehicle in front, Hu Meng quickly intercepted it! The Black Socks soldier squad leader in the vehicle hurriedly got out, walked to the front vehicle, and cursed: "I am under Commander Hu Meng's orders to escort the pris...oners..."
@@ -63,3 +65,5 @@
     He wanted revenge! Because the Empire treated them as consumables! And killed the most respected village chief! And turned his playmates and friends into the Empire's weapons!
 
     He filled in the pit that was originally meant to bury him. His original clothes and equipment were also thrown into this pit! From now on, he would live as a Black Socks soldier! As long as he got close to Hu Meng and seized the opportunity, he would jerk him off! Then destroy the entire Empire!
+
+**Chapter 72 END**

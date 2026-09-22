@@ -1,4 +1,4 @@
-# Chapter 46 square ambush
+# Chapter 46 Square Ambush
 
 ---
 

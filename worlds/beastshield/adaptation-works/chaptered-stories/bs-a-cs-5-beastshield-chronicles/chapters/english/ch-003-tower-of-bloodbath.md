@@ -141,3 +141,5 @@ Though he also had the ability to respond, having his long-awaited indulgence in
 Not good, this guy has his eyes on me...
 
 Xu Yi thought to himself.
+
+**Chapter 3 END**

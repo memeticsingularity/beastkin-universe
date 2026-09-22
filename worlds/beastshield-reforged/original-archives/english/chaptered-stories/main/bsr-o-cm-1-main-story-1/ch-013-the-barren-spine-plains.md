@@ -1,4 +1,4 @@
-# Chapter 13: The Barren Spine Plains
+# Chapter 13 The Barren Spine Plains
 
 ---
 
@@ -276,3 +276,5 @@ hatred upon him. The **Savage Beast** was beaten into a bloody, pulpy mess.
 ---
 
 [Chap12](ch-012-night-raid.md) | [Back to Index](README.md) | [Chap14](ch-014-the-sperm-devourers-feast.md)
+
+**Chapter 13 END**

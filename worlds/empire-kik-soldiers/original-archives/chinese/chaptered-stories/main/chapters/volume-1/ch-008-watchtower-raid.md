@@ -1,4 +1,4 @@
-# Chapter 8 watchtower raid
+# Chapter 8 Watchtower Raid
 
 ---
 

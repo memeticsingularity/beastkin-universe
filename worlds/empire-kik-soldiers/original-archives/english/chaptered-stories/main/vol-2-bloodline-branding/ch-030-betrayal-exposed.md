@@ -1,3 +1,5 @@
+# Chapter 30 Betrayal Exposed
+
 The pain in his abdomen had just subsided when the two black-socked soldiers collapsed on top of Hu Meng. The One-Eyed Tiger followed up with several more kicks! Even through the corpses, Hu Meng's internal organs were squeezed, and his constitution couldn't withstand it; blood trickled from the corners of his mouth.
 
 In no time, the two bodies vaporized, leaving only two sets of clothes. Hu Meng was still thinking about how to escape his predicament. Without the hindrance of his two subordinates, the One-Eyed Tiger became even more frenzied. Now, he was merely an empty shell of the One-Eyed Tiger!
@@ -61,3 +63,5 @@ That green-socked soldier was skeptical. After all, this was what a blue-socked 
 The order did not stop, and the green-socked soldier responsible for standing guard had already fallen to the ground. His teeth happened to bite into Hu Meng's calf! Immediately after, his eyes rolled back, and an unprecedented sense of relief occupied his final consciousness.
 
 "So... this is what being jerked to death is! Empire... Long live the Empire!" That green-socked soldier said, clutching his crotch with one hand as he fell.
+
+**Chapter 30 END**

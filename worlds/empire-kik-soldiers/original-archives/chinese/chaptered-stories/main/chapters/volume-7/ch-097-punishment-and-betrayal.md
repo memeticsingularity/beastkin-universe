@@ -1,4 +1,4 @@
-# Chapter 97 punishment and betrayal
+# Chapter 97 Punishment and Betrayal
 
 ---
 

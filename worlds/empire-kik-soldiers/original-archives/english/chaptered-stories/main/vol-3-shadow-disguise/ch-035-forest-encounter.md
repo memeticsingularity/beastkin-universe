@@ -1,3 +1,5 @@
+# Chapter 35 Forest Encounter
+
     The tiger beastman continued explaining, and during this time Hu Meng also carefully examined the clothes. There was wear and tear on them; it seemed the old man was telling the truth! However, according to military regulations, these clothes also had to be destroyed.
     So he got down from the table, knocking over the wooden tableware on it. Just as he was about to grab the old man, he found himself standing there, unable to move.
     Watching the old man gradually grow younger, his fur returning to a smooth and glossy state. His eyes changed from cloudy to clear, able to see through everything with a single glance! A sense of majesty spread out. He stepped on his right foot with his left to take off one sock. Then the other sock, tearing open the worn frog-suit on his upper body to reveal his chest. Full of power, he walked up to Hu Meng, who only felt his whole body trembling.
@@ -39,3 +41,5 @@ Actually, when the extraction device was put on, the golden tiger Emperor had al
 The Emperor muttered to himself: "A disobedient child just needs a lesson. His semen is in hand; a very precious pure-colored beastman. The odds of cultivating such a Kik soldier are very low! He executed his superior's orders quite well, at least he didn't attack me. Maybe Little White Wolf was right! My interest in you is also growing!"
 
 After saying this, he moved his body from the table to the ground. He raised his foot and stepped on him. The Emperor's brand was something not even many white-sock soldiers could receive as a reward!
+
+**Chapter 35 END**

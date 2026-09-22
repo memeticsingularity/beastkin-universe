@@ -1,4 +1,4 @@
-# Chapter 22 eyewitness
+# Chapter 22 Eyewitness
 
 ## 第二卷 第二十二章：地下隧道
 

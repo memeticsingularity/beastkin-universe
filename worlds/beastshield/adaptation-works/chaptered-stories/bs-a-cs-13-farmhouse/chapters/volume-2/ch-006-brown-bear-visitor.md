@@ -6,7 +6,7 @@
 
 ---
 
-> *Brown Bear Visitor*
+> *Brown Bear Visitor*  
 > 一只落魄的棕熊调查组成员大木意外造访，带来了兽盾内部混乱的消息。
 
 ---

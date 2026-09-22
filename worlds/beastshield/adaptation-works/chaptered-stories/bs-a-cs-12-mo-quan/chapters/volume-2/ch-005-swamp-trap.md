@@ -1,4 +1,4 @@
-# Chapter 5 swamp trap
+# Chapter 5 Swamp Trap
 
 ## 第二卷 第五章：沼泽诱杀
 

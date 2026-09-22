@@ -1,4 +1,4 @@
-# Chapter 35 forest encounter
+# Chapter 35 Forest Encounter
 
 ---
 

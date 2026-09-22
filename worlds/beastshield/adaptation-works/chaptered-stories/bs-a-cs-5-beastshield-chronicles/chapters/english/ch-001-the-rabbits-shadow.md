@@ -165,3 +165,5 @@ If we're talking about the Beastshield of the past, this would have been impossi
 After bathing and changing, Xu Yi sat on the edge of the bed, pondering whether there were connections between these matters. Unable to figure it out, Xu Yi chose to continue lurking and gathering information.
 
 Sleep first. These matters can wait until after Teacher responds.
+
+**Chapter 1 END**

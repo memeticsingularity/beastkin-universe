@@ -1,4 +1,4 @@
-# Chapter 71 rebellion suppression
+# Chapter 71 Rebellion Suppression
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 4 white shadow venomous fangs
+# Chapter 4 White Shadow Venomous Fangs
 
 ---
 

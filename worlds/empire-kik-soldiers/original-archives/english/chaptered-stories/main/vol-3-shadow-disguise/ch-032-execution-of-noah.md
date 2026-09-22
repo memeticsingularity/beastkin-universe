@@ -1,3 +1,5 @@
+# Chapter 32 Execution of Noah
+
 "You... are... ruthless!" Noah uttered his last words as a massive amount of semen gushed out. Like a white chocolate waterfall, it flowed endlessly. The smell disgusted White Wolf! A tiger beastman's own tiger cub's semen smelled so fresh, yet this guy's was so fishy and foul!
 
 After confirming he was dead, he pulled the pair of socks from his mouth, slowly unfolded them, and wiped the semen from Noah's tiger cock. Until those socks were saturated, he nodded in satisfaction, tidied them up, and put them back on Noah's tiger cock.
@@ -41,3 +43,5 @@ For this kind of superior-reward masturbation execution, Hu Meng could take the 
 
 Finally, he had the subordinates at the door come in and clean the place up before sitting in his own seat. He put his feet on the desk, looking at the ceiling with satisfaction.
 Praise and congratulations came from his master on the computer. Hu Meng was now the Kik soldier with the strongest backing at the Snow Mountain Base. Those blue-sock soldiers didn't dare speak loudly when they saw him!
+
+**Chapter 32 END**

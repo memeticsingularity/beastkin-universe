@@ -1,4 +1,4 @@
-# Chapter 24 monster experiment
+# Chapter 24 Monster Experiment
 
 ---
 

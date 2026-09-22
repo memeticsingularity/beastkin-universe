@@ -1,3 +1,5 @@
+# Chapter 37 Emperor Secret Meeting
+
     Enduring the pain of his arm being broken, he continued to persist. As the struggling and convulsing gradually weakened. After half a minute, that black-sock soldier mumbled "Long live the Empire" and stopped moving. A moment earlier, his legs had kicked violently, hitting the fox beastman in the chest and sending him flying.
     This caused him to not hear that sentence clearly. At the same time, there was something warm on his hand. When he got up, he realized his hand was covered in a large pool of semen!
     The cold weather caused the semen to gradually solidify. That fishy stench lingered around him. The fox beastman furrowed his brow, looking disgusted and nauseated. He placed his hand over the black-sock soldier's nose and mouth to confirm he was no longer breathing before feeling relieved. He also wiped the disgusting semen of the black-sock soldier onto the tactical vest. Then, after stripping him of all his weapons, he left!
@@ -24,3 +26,5 @@
     The remaining Kik soldiers stood at attention and replied: "Understood!"
     After waiting for the commander to leave, they cleaned up the body on the ground and threw it into the recycling room for processing! The entire Watchtower Six deployed all its weapons. The missile covers slid open, putting the entire town within firing range. The alarm sounded, and two battle vehicles rushed out of the base and arrived at the town square!
     Those Kik soldiers got out of the vehicles and drove the residents out of their houses one by one. They were concentrated in the square. The resistance organization members didn't know what was happening. They looked at each other in the crowd. It wasn't until their leader was also dragged out of his home and thrown harshly to the ground that they gathered together...
+
+**Chapter 37 END**

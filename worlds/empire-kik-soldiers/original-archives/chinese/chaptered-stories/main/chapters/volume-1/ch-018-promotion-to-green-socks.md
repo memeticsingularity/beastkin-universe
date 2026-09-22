@@ -1,4 +1,4 @@
-# Chapter 18 promotion to green socks
+# Chapter 18 Promotion to Green Socks
 
 ---
 

@@ -6,7 +6,7 @@
 
 ---
 
-> *Shadow Fang Night Raid*
+> *Shadow Fang Night Raid*  
 > 影牙小队双人刺客夜袭农家乐，却被老周的高压电网电得当场社死。
 
 ---

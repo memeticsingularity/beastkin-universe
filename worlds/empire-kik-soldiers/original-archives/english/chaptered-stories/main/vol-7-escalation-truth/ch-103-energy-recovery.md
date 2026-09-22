@@ -1,3 +1,5 @@
+# Chapter 103 Energy Recovery
+
 Roaring, he charged at the hero. But at this time, the hero had recovered some of his power! He kicked the dinosaur guard away with one foot! This kick also caused a fracture in his own leg bone!
 
 The dinosaur guard took a few steps back. His stomach churned, but he quickly adjusted his state and swung his weapon down again! With a ding, the hero blocked the axe with the dagger in his hand. He knew this big guy couldn't be killed with the usual jerking-off method!
@@ -51,3 +53,5 @@ Half an hour later, the hero changed into a Black Socks soldier's outfit and wal
 His own base was no longer safe, so he had to find a way to find his other shelters! It's just that the terrain here had changed too much. After hundreds of thousands of years, but it was even less safe in the base!
 
 Just at this time, a Blue Socks soldier called out to him, saying it was the officer's order! So he followed a team of Black Socks soldiers onto the flying vehicle. He was arranged in the co-pilot's seat.
+
+**Chapter 103 END**

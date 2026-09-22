@@ -1,3 +1,5 @@
+# Chapter 101 Rage and Escape
+
 In an instant, His Majesty the Emperor had actually fallen into the hero's trap! A massive torrent of information and consciousness entangled with His Majesty the Emperor's spirit! The history of hundreds of thousands of years he had missed, all kinds of data about this planet, poured into his brain in a jumbled mess.
 
 His Majesty the Emperor fell into a stalemate. He had to sort through this massive amount of information before he could break free! His Majesty the Emperor's last thought was: this is bad!
@@ -51,3 +53,5 @@ So Hu Meng turned around and emitted a powerful aura. That Blue Socks soldier in
 Hu Meng first pushed that Blue Socks soldier to the edge of the cage. He ripped off his crotch guard and reached into his pants with one hand. With the other hand, he undid his belt. His pants fell to the ground with a clatter. The wolf cock quickly became hard under Hu Meng's scratching and reached its limit!
 
 Sensing that the wolf beastman's body was about to explode! He quickly dodged. Thick wolf semen, as sticky as paste, stuck to the hero's body! That semen accelerated the prisoner's uniform's binding.
+
+**Chapter 101 END**

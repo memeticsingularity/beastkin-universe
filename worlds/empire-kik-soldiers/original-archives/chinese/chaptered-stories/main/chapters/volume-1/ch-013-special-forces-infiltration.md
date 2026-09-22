@@ -1,4 +1,4 @@
-# Chapter 13 special forces infiltration
+# Chapter 13 Special Forces Infiltration
 
 ---
 

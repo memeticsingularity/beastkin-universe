@@ -1,4 +1,4 @@
-# Chapter 54 beast bonding
+# Chapter 54 Beast Bonding
 
 ---
 

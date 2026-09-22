@@ -1,4 +1,4 @@
-# Chapter 7: Aftermath
+# Chapter 7 Aftermath
 
 ---
 

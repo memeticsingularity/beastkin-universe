@@ -8,8 +8,8 @@
 
 > *Preface*
 >
-> *"When he first put on that helmet, he thought all that awaited him was a game.*
-> *He wasn't prepared for the weight of that body—the two hundred pounds of fat and muscle, every strand of fur breathing, every inch of skin feeling.*
+> *"When he first put on that helmet, he thought all that awaited him was a game.*  
+> *He wasn't prepared for the weight of that body—the two hundred pounds of fat and muscle, every strand of fur breathing, every inch of skin feeling.*  
 > *He wasn't prepared for that smell—the damp air, mingled with rust and decay, of another world, pouring into his brand-new nasal cavity.*
 >
 > *He was even less prepared for that moment—when the warm, fishy liquid first splashed across his newborn cheeks, he finally understood: this is not a game. This is descent."*
@@ -1124,11 +1124,11 @@ Some things that let us maintain our humanity.
 > *Epilogue*
 >
 >
-> *When he first grasped Bai Ya's hand, he felt that temperature—not the plastic coolness of a game controller, but real, pulsing, belonging to another life's temperature.*
-> *He still doesn't know where this white rabbit will lead him.*
-> *He still doesn't know that in this world filled with blood and violence, "maintaining humanity" is a more difficult practice than "becoming stronger."*
-> *He only knows that from this moment on, he is no longer that programmer who only typed code in front of a computer.*
-> *He is a descender.*
+> *When he first grasped Bai Ya's hand, he felt that temperature—not the plastic coolness of a game controller, but real, pulsing, belonging to another life's temperature.*  
+> *He still doesn't know where this white rabbit will lead him.*  
+> *He still doesn't know that in this world filled with blood and violence, "maintaining humanity" is a more difficult practice than "becoming stronger."*  
+> *He only knows that from this moment on, he is no longer that programmer who only typed code in front of a computer.*  
+> *He is a descender.*  
 > *A lost one, trying to find his place on this strange land.*
 >
 > *And this, is only the beginning.*

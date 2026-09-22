@@ -1,3 +1,5 @@
+# Chapter 19 Inner Circle Patrol
+
 When night came, Hu Meng and the others were woken up by the alarm clock. They formed ranks, picked up their weapons, and began their patrol. They patrolled the outer perimeter of the main tower building; a squad consisted of ten people, including the squad leader. They patrolled in groups of five, moving clockwise and counter-clockwise. Between the inner and outer perimeter bases, there was also a high wall. Above it was a firepower net composed of automatic weapons; without the identification system on the socks, it was impossible to pass through.
 
 That gate was also guarded by two squads. Inside the inner perimeter, there were also heavy troops, but the green socks soldiers responsible for guarding were all on duty inside the buildings on the inner side of the high wall. The real living area was underground. The white socks officer had arranged Hu Meng here for convenience, keeping him far from the disturbances of the outer perimeter...
@@ -53,3 +55,5 @@ And distinguishing whether they were squad leaders, their bodies were very stron
 Thinking of this, he decided to plan something, to capture another Kik Soldier and use torture or hallucinogenic drugs to make him spill some intelligence! It's just that among the Kik Soldiers' races, there were very few fox beastkin; most were beastkin soldiers of stronger races!
 
 Thinking of this, he annoyedly grabbed his own ears, only able to vent his emotions by sulking like this!
+
+**Chapter 19 END**

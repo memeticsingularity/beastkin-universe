@@ -1,4 +1,4 @@
-# Chapter 96 self destruction test
+# Chapter 96 Self Destruction Test
 
 ---
 

@@ -1,3 +1,5 @@
+# Chapter 53 Promotion to Blue Socks
+
 Hu Meng then came to the main gate of the watchtower, opened the gate, and leaned lazily against the doorframe. He stretched and yawned from time to time. Those black-sock trash were so slow to act!
 
 He had also heard how they badmouthed the commanders in the base! Just for that, he didn't want to save a single one of them. It would be better if they were all milk-killed by the resistance organization! That way, they could at least provide some value!
@@ -61,3 +63,5 @@ Hu Meng: "...What's going on?"
 The eyes under the mask stared straight at Hu Meng. Hu Meng felt something was wrong; there was definitely a conspiracy! He wouldn't approach him for no reason! This didn't conform to Imperial military regulations!
 
 And he opened his arms and walked over to hug him! Before he could get close, Hu Meng kicked him in the crotch! He only felt his foot sink in. Hu Meng saw that blue-sock soldier turn into a puddle of liquid that enveloped him. Then he knew nothing...
+
+**Chapter 53 END**

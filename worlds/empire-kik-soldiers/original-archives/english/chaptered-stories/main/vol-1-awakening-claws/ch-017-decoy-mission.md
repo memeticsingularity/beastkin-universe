@@ -1,3 +1,5 @@
+# Chapter 17 Decoy Mission
+
 The resistance organization members piled the corpses together in a heap, and the fox beastkin leader even took a photo. Looking at those corpses, he felt truly delighted. Blood soaked the ground, emitting a corrupt stench. They didn't know that because the toxins implanted in them at the time of their deaths were also taking effect. They wouldn't give the enemy any chance to figure out the Kik Soldiers' production process...
 
 At this moment, the team members who had finished taking photos dragged Hu Meng out of the vehicle. The crotch sensor was still hanging on him; that team member yanked it off in one go. Hu Meng's pants drooped to his calves like this and he was transported to the resistance organization's temporary stronghold. The chip inside his body also began sending his location.
@@ -55,3 +57,5 @@ Their milking motions were perfectly synchronized; their glans were all position
 They knelt there, leaning against each other's shoulders, motionless. That blue socks pilot had only completed half of his mission. He walked to Hu Meng's side, took out the medicinal liquid from his pocket, and made him drink it. Before long, Hu Meng woke up. That blue socks soldier saluted and said: "Officer Hu Meng, my mission is complete! I just need to help you return to the base to report! That esteemed one instructed that you bring their socks back..."
 
 After hearing this, Hu Meng nodded. He bent down and pulled off those blue socks from the corpses' faces one by one. He also found his own mask and put it on, then followed the pilot onto the aircraft. The aircraft hovered above the wooden house for a while; the aircraft emitted a beam of energy, and that small wooden house turned to ashes...
+
+**Chapter 17 END**

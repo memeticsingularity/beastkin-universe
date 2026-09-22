@@ -1,4 +1,4 @@
-# Chapter 16: Blood King Resurrection
+# Chapter 16 Blood King Resurrection
 
 "Bao, Liu Xu, you lead the others to hold off the Agent Bureau. Leave the Dragon God to the three of us." Director Ya ordered.
 
@@ -103,3 +103,5 @@ Suddenly, several barely visible white threads flew over, blocking the shark's p
 Qin Chuan glanced at the wolf agent's corpse on the ground, frowned, and regretted coming a step too late. But the matter was already done, and there was no way to recover. Qin Chuan pulled his hands horizontally, and the threads of the Divine Weapon Yi Xian Tian instantly tightened! Liu Xu's head burst open under the pulling of the thin threads, turning into a pool of black water and flowing down. But before it hit the ground, it condensed into a new shark head at the abdomen position, grinning at Qin Chuan, very bizarre.
 
 "As expected, just like the intel said, not so easy to kill. Looks like we need to plan for the long term." Qin Chuan retracted the white threads, shook off the residual gel on them, and leaped backward, distancing himself from Liu Xu.
+
+**Chapter 16 END**

@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 10: Mutual Destruction*
+> *Ink Hound - Chapter 10: Mutual Destruction*  
 > 深夜，武林的毒雾与点穴席卷营地。黑狗蜷缩在卡车夹层里，听着上方一场E级与武林的殊死搏斗——以及木桩上四人被迫精尽而亡的惨叫。黎明爬出时，满地的尸体和精液在晨光中蒸发。
 
 ---

@@ -1,4 +1,4 @@
-# Chapter 77 white wolf retrieves key
+# Chapter 77 White Wolf Retrieves Key
 
 ---
 

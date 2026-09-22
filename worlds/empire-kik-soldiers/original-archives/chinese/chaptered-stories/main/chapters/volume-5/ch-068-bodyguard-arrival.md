@@ -1,4 +1,4 @@
-# Chapter 68 bodyguard arrival
+# Chapter 68 Bodyguard Arrival
 
 ---
 

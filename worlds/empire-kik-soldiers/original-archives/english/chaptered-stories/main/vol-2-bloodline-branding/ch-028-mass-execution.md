@@ -1,3 +1,5 @@
+# Chapter 28 Mass Execution
+
 Some had already drooled and rolled their eyes. Then they used their trembling hands to grab their own genitals and milk themselves. The more they milked, the more delirious they became, simultaneously emitting huffing and puffing sounds.
 
 Their gloves were somehow already covered with transparent, sticky bodily fluids. Those liquids dripped onto the ground and their feet, and their bodies also swayed slightly following the rhythm of the milking. Hu Meng recorded their data while turning off the purification device. He smelled the scent emanating from their lower bodies!
@@ -61,3 +63,5 @@ So he specially marked Hu Meng in the Imperial system and also sent a message to
 At the same time, he also pulled out those records of the fake rebels — they were Kik Soldiers cultivated halfway who were released to collude with the resistance organization and put on a show. However, he had indeed eradicated those resistance organizations!
 
 Regarding these matters, he decided to send the white socks tiger to the white wolf's place! Let his little white wolf punish this fellow! Carry out a live broadcast execution at all Imperial bases! Thinking of this, he immediately canceled all the white socks tiger's authority! Only retaining his qualification to wear white socks!
+
+**Chapter 28 END**

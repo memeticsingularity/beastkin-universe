@@ -1,4 +1,4 @@
-# Chapter 103 energy recovery
+# Chapter 103 Energy Recovery
 
 ---
 

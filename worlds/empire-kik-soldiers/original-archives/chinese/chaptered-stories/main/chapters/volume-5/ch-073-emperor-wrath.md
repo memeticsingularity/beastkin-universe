@@ -1,4 +1,4 @@
-# Chapter 73 emperor wrath
+# Chapter 73 Emperor Wrath
 
 ---
 

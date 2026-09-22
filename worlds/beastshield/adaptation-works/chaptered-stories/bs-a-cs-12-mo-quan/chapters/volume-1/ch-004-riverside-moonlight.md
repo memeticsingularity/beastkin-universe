@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 4: Riverside Moonlight*
+> *Ink Hound - Chapter 4: Riverside Moonlight*  
 > 绕路下山抵达河边，黑狗终于能洗个澡了。但水中的月光里，一座巨大的肉山正朝他走来。。。
 
 ---

@@ -1,3 +1,5 @@
+# Chapter 78 Carbonated Spring
+
 In a certain forest, a very large fighter jet was parked here. It had crushed all the original trees flat. Commander Black Bear sat in the fighter jet with his feet on the table. The white frog-suit and white socks formed a huge contrast with his black fur!
 
 At this time, his hand was playing with a Black Socks soldier's crotch. A huge bear paw was holding that Black Socks soldier's lower body. That Black Socks soldier clenched his fists, not daring to move a bit. Every rub and squeeze made this Black Socks soldier suffer!
@@ -55,3 +57,5 @@ Immediately after, the remaining Black Socks soldiers also ejaculated and fell t
 In the blink of an eye, they were wiped out! Commander Black Bear looked at the corpses before him and roared angrily! He was very afraid. If he didn't complete the mission, he would definitely be punished by His Majesty with infinite jerking off!
 
 He could only bite the bullet and personally enter the pool. The water soaked his pants and reached the position of his crotch. A wonderful sensation stimulated his crotch. Commander Black Bear was a White Socks soldier. By default, he could survive ejaculating once. It's just that his strength would drop significantly...
+
+**Chapter 78 END**

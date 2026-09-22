@@ -1,4 +1,4 @@
-# Chapter 4: The Bear's Lair
+# Chapter 4 The Bear's Lair
 
 ---
 

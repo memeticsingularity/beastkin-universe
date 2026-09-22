@@ -1,3 +1,5 @@
+# Chapter 24 Monster Experiment
+
 In the recycling room, the corpse of that black socks soldier had a reaction. The black socks soldier, who was already dead, began to move! He suddenly sat up, startling an unprepared black socks soldier! He was a black socks soldier responsible for recycling work and had never seen such a scene!
 
 Two tentacles extended from the corpse, piercing that black socks soldier clean through. Then the mutation began again; that corpse burst through the equipment on his body. His joints twisted, and he devoured that working black socks soldier! This scene was discovered by the Kik Soldier on duty in the control room!
@@ -69,3 +71,5 @@ The corpses of those two blue socks soldiers would just lie there in his room. T
 His entire body limp, he lay on the bed and fell asleep. The electric current punishment and the sock decomposition punishment made him sleep for several days. The matters that occurred during these days were not dealt with in time, directly leading to his removal from office by His Majesty the Emperor!
 
 He was imprisoned by His Majesty the Emperor and lost his qualification as a white socks soldier! In His Majesty's prison cell, he temporarily became the lowest-level plaything...
+
+**Chapter 24 END**

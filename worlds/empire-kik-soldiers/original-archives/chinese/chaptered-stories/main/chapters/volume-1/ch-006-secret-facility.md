@@ -1,4 +1,4 @@
-# Chapter 6 secret facility
+# Chapter 6 Secret Facility
 
 ---
 

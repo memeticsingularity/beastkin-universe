@@ -1,4 +1,4 @@
-# Chapter 38 base upgrade
+# Chapter 38 Base Upgrade
 
 ---
 

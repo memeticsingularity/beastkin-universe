@@ -1,3 +1,5 @@
+# Chapter 99 Humiliation of the Hero
+
 His Majesty the Emperor's energy replenishment was nearing its end. He slowly opened his eyes, his golden fur shining brightly, smooth and lustrous. The greatest threat to his peace of mind had been resolved. Now all that remained was the location of the other two keys.
 
 Absorbing all the keys would allow for a transformation. Then he would be able to unleash the foreshadowing he had laid 300,000 years ago! At that time, the entire planet would become his plaything!
@@ -55,3 +57,5 @@ With the order issued, other bases of the Empire sent troops to attack the remai
 There must be something important at this place! It might be the location of the fifth key! So he had to go there personally. Before leaving, he ordered the White Socks soldiers to strictly defend! The hero's seal was very secure; they absolutely couldn't let their guard down.
 
 At this time, the hero hadn't completely lost his ability to counterattack...
+
+**Chapter 99 END**

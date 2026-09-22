@@ -6,7 +6,7 @@
 
 ---
 
-> *The Infiltrator's Flame*
+> *The Infiltrator's Flame*  
 > Young agent **Lei Yanhuan** of the **Special Agent Bureau** is ordered to infiltrate a remote **Beastshield** warehouse. For this red tiger beastman who has mastered the **Scorching Flow Hidden Force**, this is not merely a mission, but a trial of power, restraint, and growth.
 
 ---

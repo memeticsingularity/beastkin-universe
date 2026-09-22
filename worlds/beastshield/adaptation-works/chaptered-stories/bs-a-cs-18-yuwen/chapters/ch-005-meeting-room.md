@@ -1,4 +1,4 @@
-# Chapter 5 meeting room
+# Chapter 5 Meeting Room
 
 ---
 

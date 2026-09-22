@@ -1,3 +1,5 @@
+# Chapter 26 Dispatch Mission
+
 Hu Meng quickly stood at attention and saluted when he saw the blue socks officer arriving. Then, under the gaze of the three-stripe green socks soldier, he was taken away. He jogged all the way to the white socks officer's office. Hu Meng didn't know what was happening. Just as he was about to lie down, the white wolf called him to his side and told him His Majesty the Emperor's orders.
 
 After hearing this, Hu Meng was at a loss. His two feet stepped on each other, and his head lowered. He hadn't expected that he would be temporarily promoted to a blue socks soldier! And he was being sent to another base to study. His master also told him that as long as he did well, he could become a blue socks soldier by exception!
@@ -49,3 +51,5 @@ Then Hu Meng asked again: "Sir! This one wants to know how to annihilate those r
 The one-eyed tiger looked at this rookie Hu Meng and immediately relaxed a lot. During the introduction earlier, their authority had already been explained, yet he still had to ask him. It seemed he really was freshly cultivated; the Snow Mountain base must have been very helpless to send him here! As expected of an exile area. Then he patted Hu Meng's shoulder and told him: "Brother, you're too polite! Within the scope of the Empire's orders, you can handle it yourself! It's all for the Empire!"
 
 Hu Meng quickly saluted and then went to the outer perimeter base. He recorded many weapons and equipment he had never seen here. Then he strolled to the garage at the outer perimeter of the base, found several vehicle models he had never seen before, and recorded them.
+
+**Chapter 26 END**

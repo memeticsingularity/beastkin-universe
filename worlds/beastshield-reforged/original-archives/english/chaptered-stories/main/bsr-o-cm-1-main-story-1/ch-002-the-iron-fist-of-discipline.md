@@ -1,4 +1,4 @@
-# Chapter 2: The Iron Fist of Discipline
+# Chapter 2 The Iron Fist of Discipline
 
 ---
 
@@ -240,3 +240,4 @@ Shield Soldiers**.
 
 [Chap1](ch-001-a-bloody-beginning.md) | [Back to Index](README.md) | [Chap3](ch-003-brutal-training-ground.md)
 
+**Chapter 2 END**

@@ -6,7 +6,7 @@
 
 ---
 
-> *Confrontation*
+> *Confrontation*  
 > 小谷与雷克斯正面对峙，用真诚赢得了喘息之机。
 
 ---

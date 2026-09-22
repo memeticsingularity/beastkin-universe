@@ -1,3 +1,5 @@
+# Chapter 6 Secret Facility
+
 The black tight undershirt was made of the same material as his own. He grabbed an arm and examined it carefully, finding nothing particularly special. Before long, he had stripped off all the upper body clothing and placed it in a special box...
 
 Looking at the robust physique, he couldn't help but lick it with his tongue. The taste in his mouth was bitter, just like the nutrient fluid he ate at the cafeteria!
@@ -45,3 +47,5 @@ When j56005 woke up, he found he could move again. He had no memory of what had 
 He looked at his feet and discovered his socks had somehow become squad leader socks. There was an extra horizontal stripe at the cuff, and the chip also needed to be upgraded to unlock some information. So not long after he woke up, he passed out again. The blue socks bear beastkin ordered other black socks soldiers to keep a good watch on their new squad leader. Then he hastily left the room...
 
 The less he knew about such matters, the better. The oppressive feeling brought by that white socks officer was too strong. There was also a secret facility underground in this base, where even more terrifying weapons were researched. The surface base was just a cover; through the tunnels of the underground facility, one could directly enter the depths of the snow mountain.
+
+**Chapter 6 END**

@@ -1,4 +1,4 @@
-# Chapter 1 seeds and fertilizer
+# Chapter 1 Seeds and Fertilizer
 
 # 第一章 种子与肥料
 
@@ -8,7 +8,7 @@
 
 ---
 
-> *Seeds and Fertilizer*
+> *Seeds and Fertilizer*  
 > 社畜牛兽人小谷继承爷爷的实验农场，发现种植蛮力萝卜需要用兽人精液施肥，地下室里还关着一只黑熊兽人。
 
 ---

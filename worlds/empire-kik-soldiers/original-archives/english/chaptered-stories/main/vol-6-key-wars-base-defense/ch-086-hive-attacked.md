@@ -1,3 +1,5 @@
+# Chapter 86 Hive Attacked
+
 Five days after the hero's successful operation, Hu Meng led his subordinates to the location of the ruins. On the surface, there was only a lonely fortress, capable of accommodating a squad's garrison. The entire black fortress was circular, 8 meters high with a diameter of 16 meters, seamless. Entry and exit were only possible via the elevator from directly above.
 
 The underground facility was the real base. In addition to the necessary facilities, it was all integrated into one. It was in the shape of a giant hive. It was excavated through an exclusive tunnel. While constructing, the excavated soil and rubble were transported to the hive. They were transformed into building materials for the hive...
@@ -53,3 +55,5 @@ So his hiding place had to be changed! At the very least, the demon king would h
 At the same time, he concentrated the energy in the vehicle at the front and the propulsion system. Even the hardness of the earth's crust couldn't stop him. The Black Socks soldiers on the very bottom level of the Hive had no idea that their lives were about to come to an end.
 
 The floor behind them began to shake, gradually producing cracks. Then a torpedo-shaped vehicle burst out in a line. The alarm in the base sounded. The stationed Black Socks soldiers quickly turned around. They saw the torpedo-shaped device was already in mid-air...
+
+**Chapter 86 END**

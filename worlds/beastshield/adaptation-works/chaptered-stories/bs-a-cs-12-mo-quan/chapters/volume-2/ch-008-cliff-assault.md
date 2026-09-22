@@ -1,4 +1,4 @@
-# Chapter 8 cliff assault
+# Chapter 8 Cliff Assault
 
 ## 第二卷 第八章：悬崖绝壁
 

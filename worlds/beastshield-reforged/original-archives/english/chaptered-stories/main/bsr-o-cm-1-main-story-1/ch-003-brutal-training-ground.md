@@ -1,4 +1,4 @@
-# Chapter 3: Brutal Training Ground
+# Chapter 3 Brutal Training Ground
 
 ---
 
@@ -276,3 +276,5 @@ waited for the new recruits to arrive to begin another day of military training.
 ---
 
 [Chap2](ch-002-the-iron-fist-of-discipline.md) | [Back to Index](README.md) | [Chap4](ch-004-uncontrolled-desire.md)
+
+**Chapter 3 END**

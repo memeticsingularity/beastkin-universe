@@ -1,4 +1,4 @@
-# Chapter 48 upgrade and undercover
+# Chapter 48 Upgrade and Undercover
 
 ---
 

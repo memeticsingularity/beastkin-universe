@@ -6,7 +6,7 @@
 
 ---
 
-> *Bonus: Arm Wrestling and Photo*
+> *Bonus: Arm Wrestling and Photo*  
 > 大木三人离开后的几天，一场掰手腕大赛让农家乐恢复了短暂的欢乐。老周修好了大木落下的相机，拍下了那个家最珍贵的合照。
 
 ---

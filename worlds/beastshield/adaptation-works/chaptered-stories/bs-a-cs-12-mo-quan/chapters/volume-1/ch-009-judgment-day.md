@@ -6,7 +6,7 @@
 
 ---
 
-> *Ink Hound - Chapter 9: Judgment Day*
+> *Ink Hound - Chapter 9: Judgment Day*  
 > 黑狗阴差阳错混入白虎的E级监察队上山，目睹了什么叫"绝对的处决"。黄豹精尽而亡，木桩上的四人等待审判——而黑狗只找到一辆卡车，和一条最危险的缝隙。
 
 ---

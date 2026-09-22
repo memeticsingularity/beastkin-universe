@@ -1,4 +1,4 @@
-# Chapter 8 hq accountability
+# Chapter 8 Hq Accountability
 
 ---
 

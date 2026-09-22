@@ -1,4 +1,4 @@
-# Chapter 64 aerial bombardment
+# Chapter 64 Aerial Bombardment
 
 ---
 

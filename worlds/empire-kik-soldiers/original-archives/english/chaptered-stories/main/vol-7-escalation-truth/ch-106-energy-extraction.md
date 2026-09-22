@@ -1,3 +1,5 @@
+# Chapter 106 Energy Extraction
+
 The scene was a mess. The prisoner had escaped. Hu Meng was severely injured. All the White Socks soldiers also ran over. The entire base was once again covered by a protective shield. His Majesty the Emperor used his authority to break through the protective shield and stopped in the base!
 
 Black snowflake-like mist emanated from his body. All the Kik soldiers in the base fell to the ground in pain, convulsing. He went all the way to the prison and saw the surveillance at that time!
@@ -59,3 +61,5 @@ So the electric currents stopped. Hu Meng directly lay on his side on the ground
 His own tiger cock was already uncontrollable! A surge of vigorous power gathered there. Weakness and torture excitement alternated. Hu Meng rolled on the ground, squirming on the ground to approach His Majesty the Emperor!
 
 Now he only used one hand to tightly pinch his tiger cock. His other hand tried to grab His Majesty the Emperor's ankle. He was kicked away when he was just a little bit away from touching it.
+
+**Chapter 106 END**

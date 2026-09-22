@@ -1,4 +1,4 @@
-# Chapter 32 execution of noah
+# Chapter 32 Execution of Noah
 
 ---
 

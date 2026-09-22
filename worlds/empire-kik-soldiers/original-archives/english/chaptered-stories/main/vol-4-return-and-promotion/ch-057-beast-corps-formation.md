@@ -1,3 +1,5 @@
+# Chapter 57 Beast Corps Formation
+
 The massive starship was docked in space. In the ship's cabin at the central position of the starship, Hu Meng was undergoing enhancement. He was preparing for promotion to white-sock soldier. White Wolf had been completely drained by His Majesty and was now serving as his cushion.
 
 A unit had also been completed for Hu Meng. They were the rations and auxiliary troops for the Beast Corps unit. The Beast Corps had also been sent aboard the ship not long ago and entered forced hibernation.
@@ -71,3 +73,5 @@ Hu Meng thanked him again and left His Majesty's office. He took the elevator to
 Hu Meng nodded, adjusted his direction, came down the stairs, and walked a circle among them. He felt that this batch of subordinates was very good. He returned to the stairs and shouted at them: "Very good! We are His Majesty's vanguard for this mission! We must achieve victory! Long live the Empire!"
 
 The Kik soldiers below also responded in unison: "Long live the Empire!"
+
+**Chapter 57 END**

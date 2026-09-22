@@ -1,3 +1,5 @@
+# Chapter 73 Emperor Wrath
+
     He straightened his mask and checked his body for any flaws. Only then did he pick up his weapon and prepare to return to the village. That Black Socks tiger beastman ran back. However, he came back holding his head. Upon careful questioning, he found out that the squad leader had beaten him up.
 
     After following him back to the team, the squad leader assigned tasks to the two of them. As soon as Commander Hu Meng returned, they were to stand guard at the door! At the same time, they were to satisfy all of the officer's requests. The Gray Socks wolf was overjoyed inside. This was exactly the opportunity he needed!
@@ -55,3 +57,5 @@
     Finally, after leaving a sentence of "ungrateful things" in their minds. The projection disappeared, replaced by a batch of Gray Socks soldiers. These Gray Socks soldiers also didn't have time to be modified. Their corpses didn't have the ability to disappear.
 
     Those Kik soldiers walked with their legs splayed one by one toward the cultivation room. His Majesty's punishment had been withdrawn, but the lingering pain was still there, which was why they were in such a sorry state!
+
+**Chapter 73 END**
