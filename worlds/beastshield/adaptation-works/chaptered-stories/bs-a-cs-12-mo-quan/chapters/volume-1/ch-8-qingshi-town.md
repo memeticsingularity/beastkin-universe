@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-7-roadside-teahouse.md) | [返回目录](README.md) | [下一章](ch-9-judgment-day.md) |
+| [上一章](ch-7-roadside-teahouse.md) | [返回目录]](../../README.md) | [下一章](ch-9-judgment-day.md) |
 
 ---
 
@@ -195,7 +195,7 @@ E组在镇上。。。档案室。。。得在他们发现那条鬣狗失踪前�
 
 ---
 
-| [上一章](ch-7-roadside-teahouse.md) | [返回目录](README.md) | [下一章](ch-9-judgment-day.md) |
+| [上一章](ch-7-roadside-teahouse.md) | [返回目录]](../../README.md) | [下一章](ch-9-judgment-day.md) |
 
 ---
 

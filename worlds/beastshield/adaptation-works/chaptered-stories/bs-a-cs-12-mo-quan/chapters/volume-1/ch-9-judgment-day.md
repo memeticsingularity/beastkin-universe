@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-8-qingshi-town.md) | [返回目录](README.md) | [下一章](ch-10-mutual-destruction.md) |
+| [上一章](ch-8-qingshi-town.md) | [返回目录]](../../README.md) | [下一章](ch-10-mutual-destruction.md) |
 
 ---
 
@@ -307,7 +307,7 @@ G级们跳下车。**黑狗**跟着人群往客栈走，脚步放得很慢。
 
 ---
 
-| [上一章](ch-8-qingshi-town.md) | [返回目录](README.md) | [下一章](ch-10-mutual-destruction.md) |
+| [上一章](ch-8-qingshi-town.md) | [返回目录]](../../README.md) | [下一章](ch-10-mutual-destruction.md) |
 
 ---
 

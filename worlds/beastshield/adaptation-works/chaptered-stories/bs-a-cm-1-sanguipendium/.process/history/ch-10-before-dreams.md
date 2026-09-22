@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](../chapters/ch-09-the-night-before.md) | [返回作品目录](../README.md) | [下一章](../chapters/ch-11-the-drawing.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+上一章 | [返回作品目录](../../README.md) | 下一章 | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -869,4 +869,4 @@ naked 的、活着的、渴望连接的身体。
 
 ---
 
-[上一章](../chapters/ch-09-the-night-before.md) | [返回作品目录](../README.md) | [下一章](../chapters/ch-11-the-drawing.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+上一章 | [返回作品目录](../../README.md) | 下一章 | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)

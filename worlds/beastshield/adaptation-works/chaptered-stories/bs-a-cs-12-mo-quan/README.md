@@ -200,7 +200,7 @@
 ## 六、创作留痕 / Creation Trail
 
 - [查看变更日志](.process/CHANGELOG.md)
-- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+- 查看 AI 讨论索引（索引尚未建立）
 - [项目协作指南](GUIDE.md)
 - [笔风指南](notes/guides/style-guide.md)
 - [世界观适配指南](notes/guides/worldview-adaptation.md)
@@ -211,7 +211,7 @@
 ## VI. Creation Trail
 
 - [View Changelog](.process/CHANGELOG.md)
-- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+- View AI Discussion Index (index not yet created)
 - [Project Collaboration Guide](GUIDE.md)
 - [Style Guide](notes/guides/style-guide.md)
 - [Worldview Adaptation Guide](notes/guides/worldview-adaptation.md)

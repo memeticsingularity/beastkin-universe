@@ -37,7 +37,7 @@
 - "为什么同一种出场公式，有的场景令人印象深刻，有的过目就忘？"
 - "有什么区别好与平的底层结构？"
 
-本补充分析基于对[炎魉全部 20 章](../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/)的对比阅读，提出了五个机制来解释好场景和平庸场景之间的结构性差异。
+本补充分析基于对[炎魉全部 20 章](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/)的对比阅读，提出了五个机制来解释好场景和平庸场景之间的结构性差异。
 
 ---
 

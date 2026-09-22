@@ -1,6 +1,6 @@
 # SS2-04 日常猎杀：便利店零时 - 分析
 
-> 对应文件：[04-convenience-night-story_v1.md](../../story/04-convenience-night-story_v1.md)
+> 对应文件：[04-convenience-night-story_v1.md](../story/history/04-convenience-night-story_v1.md)
 > 分析日期：2026-03-19
 
 ---

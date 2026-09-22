@@ -30,9 +30,9 @@
 
 | 角色 | 种族 | 毛色 | 备注 |
 |------|------|------|------|
-| [白毛青年狼](../../characters/others/wolf-white-fur-young.md) | 狼 | 白毛 | 非兽盾，特工局关联人物 |
-| [黄皮牛俘虏](../../characters/others/cow-yellow-prisoner.md) | 牛 | 黄皮 | 俘虏身份，牛科在兽盾5种内，可讨论其身份归属 |
-| [雪豹俘虏](../../characters/others/snow-leopard-prisoner.md) | 豹科 | 雪白毛 | ⚠️ 雪豹不在兽盾5种内，俘虏身份无需遵守5种限制 |
+| [白毛青年狼](../../characters/agent-bureau/wolf-white-fur-young.md) | 狼 | 白毛 | 非兽盾，特工局关联人物 |
+| [黄皮牛俘虏](../../characters/agent-bureau/cow-yellow-prisoner.md) | 牛 | 黄皮 | 俘虏身份，牛科在兽盾5种内，可讨论其身份归属 |
+| [雪豹俘虏](../../characters/agent-bureau/snow-leopard-prisoner.md) | 豹科 | 雪白毛 | ⚠️ 雪豹不在兽盾5种内，俘虏身份无需遵守5种限制 |
 
 ---
 

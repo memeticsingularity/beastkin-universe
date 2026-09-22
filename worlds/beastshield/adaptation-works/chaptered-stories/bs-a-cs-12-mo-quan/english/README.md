@@ -27,7 +27,7 @@ The amnesiac black canine beastkin **Hei Gou (Black Dog)**, bearing the mysterio
 ### Original Work References
 
 - [Original Work Directory](../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/README.md)
-- [Worldbuilding Setting Library](../../../settings/0-original-setting/)
+- [Worldbuilding Setting Library](../../../../settings/0-original-setting/)
 
 ### Project Materials
 

@@ -1,6 +1,6 @@
 # 第一章 教程关·不杀之誓
 
-[返回目录](../README.md) | [下一章](ch-02-warehouse.md)
+[返回目录](../../README.md) | [下一章](ch-02-warehouse.md)
 
 ---
 
@@ -440,4 +440,4 @@
 
 *第一章完*
 
-[返回目录](../README.md) | [下一章](ch-02-warehouse.md)
+[返回目录](../../README.md) | [下一章](ch-02-warehouse.md)

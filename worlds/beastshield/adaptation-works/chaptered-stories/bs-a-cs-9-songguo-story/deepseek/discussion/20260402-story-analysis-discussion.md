@@ -1652,7 +1652,7 @@
 
 ## A
 
-[第一版](story1.md)
+[第一版](../group-a-hyena-dark/v1-story1-hyena-100-laps-tragedy.md)
 
 # Q 20
 
@@ -1926,7 +1926,7 @@
 
 ## A
 
-[v2](story2.md)
+[v2](../group-a-hyena-dark/v2-story2-hyena-slow-death.md)
 
 # Q 23
 
@@ -2135,7 +2135,7 @@
 
 ## A
 
-[text](story3.md)
+[text](../group-b-aban-redemption/v3-story3-aban-20-laps-warm-rescue.md)
 
 # Q 25
 
@@ -2242,7 +2242,7 @@
 
 ## A
 
-[text](story4.md)
+[text](../group-b-aban-redemption/v4-story4-aban-kneeling-dramatic.md)
 
 # Q 27
 
@@ -2354,7 +2354,7 @@
 
 ## A
 
-[text](story5.md)
+[text](../group-b-aban-redemption/v5-story5-aban-gentle-ending.md)
 
 # Q 29
 
@@ -2775,7 +2775,7 @@
 
 ## A
 
-[text](story6.md)
+[text](../group-c-aban-bittersweet/v6-story6-aban-100-laps-hope-after-pain.md)
 
 # Q 33
 

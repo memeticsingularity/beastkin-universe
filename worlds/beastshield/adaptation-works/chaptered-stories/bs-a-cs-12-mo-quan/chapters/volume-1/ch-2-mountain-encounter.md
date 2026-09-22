@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-1-cave-awakening.md) | [返回目录](../../../../short-stories/README.md) |
+| [上一章((ch-1-cave-awakening.md) | [返回目录((../../../../short-stories/README.md) |
 
 ---
 
@@ -111,7 +111,7 @@
 
 ---
 
-| [上一章](ch-1-cave-awakening.md) | [返回目录](../../../../short-stories/README.md) |
+| [上一章((ch-1-cave-awakening.md) | [返回目录((../../../../short-stories/README.md) |
 
 ---
 

@@ -141,7 +141,7 @@
 
 - [笔风指南](./notes/style-guide.md) — 原作者笔风分析，续写参考
 - [世界观设定](../../../settings/0-original-setting/world-setting.md) — 基于前三章整理的世界观
-- [原作档案](../../original-archives/chinese/chaptered-stories/main/) — 原作前三章原文
+- [原作档案](../../../original-archives/chinese/chaptered-stories/main/) — 原作前三章原文
 
 ---
 

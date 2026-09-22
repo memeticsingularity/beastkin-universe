@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-16-first-night.md) | [返回目录](README.md) |
+| [上一章](ch-16-first-night.md) | [返回目录]](../../README.md) |
 
 ---
 
@@ -363,7 +363,7 @@
 
 ---
 
-| [上一章](ch-16-first-night.md) | [返回目录](README.md) |
+| [上一章](ch-16-first-night.md) | [返回目录]](../../README.md) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-3-hillside-ambush.md) | [返回目录](README.md) |
+| [上一章](ch-3-hillside-ambush.md) | [返回目录]](../../README.md) |
 
 ---
 
@@ -217,7 +217,7 @@
 
 ---
 
-| [上一章](ch-3-hillside-ambush.md) | [返回目录](README.md) |
+| [上一章](ch-3-hillside-ambush.md) | [返回目录]](../../README.md) |
 
 ---
 

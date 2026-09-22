@@ -152,25 +152,25 @@ White Capital—a city shrouded in the shadow of the Beastshield Corporation. Xu
 ## 五、关联作品 / Related Works
 
 - 原作世界观：[beastshield-original](../../../original-archives/) — 兽盾原作世界观
-- 改编故事线：[yan-sui](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) — 岩参/岩岁/壹安 改编故事线（worldstrider-infinity）
-- 改编讨论：[yan-sui-discussions](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/discussions/) — 改编版本分析/讨论
-- 角色档案：[character-archive](../../../worldstrider-infinity/original-archives/character-archive/) — 改编侧角色档案
+- 改编故事线：[yan-sui/../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) — 岩参/岩岁/壹安 改编故事线（worldstrider-infinity）
+- 改编讨论：[yan-sui-discussions/../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/discussions/) — 改编版本分析/讨论
+- 角色档案：[character-archive/../../../../../worldstrider-infinity/original-archives/character-archive/) — 改编侧角色档案
 
 ---
 
 ## V. Related Works
 
 - Original Universe: [beastshield-original](../../../original-archives/) — Beastshield Original Universe
-- Adaptation Storyline: [yan-sui](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) — Yan Can / Yan Sui / Yi An Adaptation (worldstrider-infinity)
-- Adaptation Discussions: [yan-sui-discussions](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/discussions/) — Version Analysis & Discussions
-- Character Archive: [character-archive](../../../worldstrider-infinity/original-archives/character-archive/) — Adaptation-Side Character Profiles
+- Adaptation Storyline: [yan-sui/../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) — Yan Can / Yan Sui / Yi An Adaptation (worldstrider-infinity)
+- Adaptation Discussions: [yan-sui-discussions/../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/discussions/) — Version Analysis & Discussions
+- Character Archive: [character-archive/../../../../../worldstrider-infinity/original-archives/character-archive/) — Adaptation-Side Character Profiles
 
 ---
 
 ## 六、创作留痕 / Creation Trail
 
 - [查看变更日志](.process/CHANGELOG.md)
-- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+- 查看 AI 讨论索引
 - [角色详细设定](.process/settings/characters/) — 原作角色档案
 - [原作者对话/设定来源](.process/settings/author-chat/) — 创作对话记录
 
@@ -179,7 +179,7 @@ White Capital—a city shrouded in the shadow of the Beastshield Corporation. Xu
 ## VI. Creation Trail
 
 - [View Changelog](.process/CHANGELOG.md)
-- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+- View AI Discussion Index
 - [Character Profiles](.process/settings/characters/) — Original Character Archives
 - [Author Chat / Source Material](.process/settings/author-chat/) — Creation Dialogue Records
 

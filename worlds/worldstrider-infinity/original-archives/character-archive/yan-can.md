@@ -419,7 +419,7 @@
 
 ### 改编来源（死亡线）
 
-见 [`yan-sui/branches/yan-can-canon-death/`](../../chaptered-stories/yan-sui/branches/yan-can-canon-death/)
+见 [`yan-sui/branches/yan-can-canon-death/`](../chaptered-stories/yan-sui/branches/yan-can-canon-death/)
 
 ---
 

@@ -169,7 +169,7 @@ Brown Bear `Brown Bear` · White Rabbit `White Rabbit` · Wolf `Wolf` · Boar `B
 - 原作世界观：[beastshield-original](../../../original-archives/) — 兽盾原作世界观
 - 同一世界观：[bs-a-cs-4-yanliang](../bs-a-cs-4-yanliang/README.md) — 炎魉
 - 同一世界观：[bs-a-cs-5-beastshield-chronicles](../bs-a-cs-5-beastshield-chronicles/README.md) — 兽盾编年史
-- 同一世界观：[yan-sui](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/) — 岩岁/岩参改编故事
+- 同一世界观：[yan-sui](../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/) — 岩岁/岩参改编故事
 
 ---
 
@@ -178,21 +178,21 @@ Brown Bear `Brown Bear` · White Rabbit `White Rabbit` · Wolf `Wolf` · Boar `B
 - Original Universe: [beastshield-original](../../../original-archives/) — Beastshield Original Universe
 - Same Universe: [bs-a-cs-4-yanliang](../bs-a-cs-4-yanliang/README.md) — Yanliang
 - Same Universe: [bs-a-cs-5-beastshield-chronicles](../bs-a-cs-5-beastshield-chronicles/README.md) — Beastshield Chronicles
-- Same Universe: [yan-sui](../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/) — Yan Sui / Yan Can Adaptation Stories
+- Same Universe: [yan-sui](../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/) — Yan Sui / Yan Can Adaptation Stories
 
 ---
 
 ## 六、创作留痕 / Creation Trail
 
 - [查看变更日志](.process/CHANGELOG.md)
-- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+- 查看 AI 讨论索引
 
 ---
 
 ## VI. Creation Trail
 
 - [View Changelog](.process/CHANGELOG.md)
-- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+- View AI Discussion Index
 
 ---
 

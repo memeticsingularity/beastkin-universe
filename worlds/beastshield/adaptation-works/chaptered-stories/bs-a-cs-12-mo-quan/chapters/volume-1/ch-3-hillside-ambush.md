@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-2-mountain-encounter.md) | [返回目录](README.md) |
+| [上一章](ch-2-mountain-encounter.md) | [返回目录]](../../README.md) |
 
 ---
 
@@ -309,7 +309,7 @@
 
 ---
 
-| [上一章](ch-2-mountain-encounter.md) | [返回目录](README.md) |
+| [上一章](ch-2-mountain-encounter.md) | [返回目录]](../../README.md) |
 
 ---
 

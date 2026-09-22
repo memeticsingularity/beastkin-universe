@@ -1,7 +1,7 @@
 # 《墨犬（续写）》笔风指南
 
 > 基于原作第一章、第二章分析的作者笔风特征，供本项目续写参考。
-> 原作位置：[bs-o-cs-2-mo-quan](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/)
+> 原作位置：[bs-o-cs-2-mo-quan](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/)
 
 ---
 

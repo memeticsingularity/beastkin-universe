@@ -40,4 +40,4 @@
 
 **相关文件**：
 
-- [第二章：矿石与暗流](../../chapters/chinese/ch-02-ore-and-undercurrents.md)
+- [第二章：矿石与暗流](../../../chapters/chinese/ch-02-ore-and-undercurrents.md)

@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-01-resurrection-expanded.md) | [Return to Story Directory](../README.md) | [Return to Worldview Home Page](../../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
+[Previous Chapter](ch-01-resurrection-expanded.md) | [Return to Story Directory](../README.md) | [Return to Worldview Home Page](../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
 
 ---
 
@@ -282,7 +282,7 @@ As the ghost who had crawled out of the trash can, as number G-147 the "dead per
 
 ---
 
-[Previous Chapter](ch-01-resurrection-expanded.md) | [Return to Story Directory](../README.md) | [Return to Worldview Home Page](../../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
+[Previous Chapter](ch-01-resurrection-expanded.md) | [Return to Story Directory](../README.md) | [Return to Worldview Home Page](../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
 
 ---
 
@@ -349,4 +349,4 @@ I close the "page," as if I can still smell that air mixed with semen, sweat, an
 
 ---
 
-[Previous Chapter](ch-01-resurrection-expanded.md) | [Return to Story Directory](../README.md) | [Return to Worldview Home Page](../../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
+[Previous Chapter](ch-01-resurrection-expanded.md) | [Return to Story Directory](../README.md) | [Return to Worldview Home Page](../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)

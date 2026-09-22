@@ -1,6 +1,6 @@
 # SS2-09 情侣约会 - 分析
 
-> 对应文件：[09-date-intercept-story_v1.md](../../story/09-date-intercept-story_v1.md)
+> 对应文件：[09-date-intercept-story_v1.md](../story/history/09-date-intercept-story_v1.md)
 > 分析日期：2026-03-19
 
 ---

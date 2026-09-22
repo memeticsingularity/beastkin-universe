@@ -612,6 +612,12 @@ All submitted works should meet the following requirements:
 提交前建议依次运行（全部为只读，退出码 `0` = 通过、`1` = 有问题）：
 
 ```bash
+node scripts/qa/run-all.js                   # 一键全跑（推荐；只读，逐项汇报 PASS/FAIL）
+```
+
+或单独运行（全部为只读，退出码 `0` = 通过、`1` = 有问题）：
+
+```bash
 node scripts/qa/check-format.js <世界观目录>        # 故事文件是否符合 docs/spec/11-story-format.md
 node scripts/qa/check-index.js  <characters 目录>   # 三级索引的表行数是否等于档案文件数
 node scripts/qa/check-links.js  <目录>              # Markdown 相对链接是否可解析
@@ -638,6 +644,12 @@ They do not replace human review, but they catch the vast majority of low-level 
 when a change touches many files at once.
 
 Run them before submitting (all read-only; exit code `0` = pass, `1` = problems found):
+
+```bash
+node scripts/qa/run-all.js    # all checks in one pass (recommended; read-only, reports PASS/FAIL per check)
+```
+
+Or run them individually (all read-only; exit code `0` = pass, `1` = problems found):
 
 ```bash
 node scripts/qa/check-format.js <world dir>

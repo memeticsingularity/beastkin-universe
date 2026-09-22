@@ -1,6 +1,6 @@
 # SS2-01 日常任务：废弃仓库清剿 - 分析
 
-> 对应文件：[01-warehouse-story_v1.md](../../story/01-warehouse-story_v1.md)
+> 对应文件：[01-warehouse-story_v1.md](../story/history/01-warehouse-story_v1.md)
 > 分析日期：2026-03-19
 
 ---

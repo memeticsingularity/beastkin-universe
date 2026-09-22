@@ -65,7 +65,7 @@
 | [`04-minor/011-number-two.md`](04-minor/011-number-two.md) | 2号 | 牛兽人（红眼） | 古博士制造的复制体/"完美继承者"候选（已故） | vol4-ch7 |
 | [`04-minor/012-sheng-ge.md`](04-minor/012-sheng-ge.md) | 晟哥 | 棕熊兽人 | 前Y市分部黑制服组长/地下拳赛选手 | vol4-ch14 |
 | [`04-minor/013-dun-ge.md`](04-minor/013-dun-ge.md) | 顿哥 | 牛兽人 | 前兽盾黑制服/地下拳赛选手 | vol4-ch14 |
-| [`04-minor/014-a-lan.md`](04-minor/014-a-lan.md) | 阿岚 | 牛兽人 | 老周前搭档/挚友（已死亡，外貌与小谷几乎相同） | vol2-ch18 |
+| [`04-minor/012-a-lan.md`](04-minor/012-a-lan.md) | 阿岚 | 牛兽人 | 老周前搭档/挚友（已死亡，外貌与小谷几乎相同） | vol2-ch18 |
 
 ### 兽盾势力
 

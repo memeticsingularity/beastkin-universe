@@ -18,10 +18,10 @@
 
 | 想找的内容 | 所在位置 |
 |-----------|---------|
-| **原作前两章原文** | [`../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/`](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/) |
+| **原作前两章原文** | [`../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/`](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/) |
 | **原作笔风指南** | [`../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/notes/style-guide.md`](notes/guides/style-guide.md) |
-| **原作设定** | [`../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/settings/story-setting.md`](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/settings/story-setting.md) |
-| **世界观主设定** | [`../../../settings/0-original-setting/`](../../../settings/0-original-setting/) |
+| **原作设定** | [`../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/settings/story-setting.md`](notes/setting/story-setting.md) |
+| **世界观主设定** | [`../../../settings/0-original-setting/`(../../../../settings/0-original-setting/) |
 
 **原则**：原作设定以 `original-archives/` 和 `settings/0-original-setting/` 为准，不可修改；改编侧如果发现冲突，在改编文档中标注差异即可。
 

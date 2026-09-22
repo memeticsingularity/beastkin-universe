@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-02-ahuang-expanded.md) | [Return to Story Directory](../README.md) | [Next Chapter](ch-04-the-first-night.md) | [Return to Worldview Home Page](../../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
+[Previous Chapter](ch-02-ahuang-expanded.md) | [Return to Story Directory](../README.md) | [Next Chapter](ch-04-the-first-night.md) | [Return to Worldview Home Page](../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
 
 ---
 
@@ -449,7 +449,7 @@ Just for the future.
 
 ---
 
-[Previous Chapter](ch-02-ahuang-expanded.md) | [Return to Story Directory](../README.md) | [Next Chapter](ch-04-the-first-night.md) | [Return to Worldview Home Page](../../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
+[Previous Chapter](ch-02-ahuang-expanded.md) | [Return to Story Directory](../README.md) | [Next Chapter](ch-04-the-first-night.md) | [Return to Worldview Home Page](../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
 
 ---
 
@@ -525,4 +525,4 @@ I close the "page," as if I can still smell that air mixed with corpse stench, s
 
 ---
 
-[Previous Chapter](ch-02-ahuang-expanded.md) | [Return to Story Directory](../README.md) | [Next Chapter](ch-04-the-first-night.md) | [Return to Worldview Home Page](../../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
+[Previous Chapter](ch-02-ahuang-expanded.md) | [Return to Story Directory](../README.md) | [Next Chapter](ch-04-the-first-night.md) | [Return to Worldview Home Page](../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)

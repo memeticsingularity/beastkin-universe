@@ -51,4 +51,4 @@
 
 **相关文件**：
 
-- [迎新会第二部分：筛选](../../author-chat/chapters/2026-01-09-welcome-party-2.md)
+- [迎新会第二部分：筛选](../author-chat/chapters/2026-01-09-welcome-party-2.md)

@@ -60,7 +60,7 @@
 ### 主角
 | 角色 | 档案 | 关键锚点 |
 |:--|:--|:--|
-| **老雷（雷神寰）** | [lao-lei.md](../../../../original-archives/chinese/chaptered-stories/characters/agent-bureau/lao-lei.md) | 红虎、洁癖、灼流暗劲三用法（掌贴/拳/灌刀）、处决后必善后擦拭摆正、护崽 |
+| **老雷（雷神寰）** | [lao-lei.md](../../../../original-archives/chinese/characters/agent-bureau/lao-lei.md) | 红虎、洁癖、灼流暗劲三用法（掌贴/拳/灌刀）、处决后必善后擦拭摆正、护崽 |
 
 ### 己方
 | 角色 | 登场章 | 状态 | 备注 |

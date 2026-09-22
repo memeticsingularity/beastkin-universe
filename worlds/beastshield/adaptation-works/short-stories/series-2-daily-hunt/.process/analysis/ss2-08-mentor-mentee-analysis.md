@@ -1,6 +1,6 @@
 # SS2-08 日常猎杀：师徒带新 - 分析
 
-> 对应文件：[08-mentor-mentee-story_v1.md](../../story/08-mentor-mentee-story_v1.md)
+> 对应文件：[08-mentor-mentee-story_v1.md](../story/history/08-mentor-mentee-story_v1.md)
 > 分析日期：2026-03-19
 
 ---

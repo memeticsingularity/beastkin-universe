@@ -193,15 +193,15 @@ The series adopts an AI-human co-creation model, deeply exploring daily scenes f
 
 ## 六、创作留痕 / Creation Trail
 
-- [查看变更日志](.process/CHANGELOG.md)
-- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+- 查看变更日志
+- 查看 AI 讨论索引
 
 ---
 
 ## VI. Creation Trail
 
-- [View Changelog](.process/CHANGELOG.md)
-- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+- View Changelog（暂无记录）
+- View AI Discussion Index（未建索引）
 
 ---
 

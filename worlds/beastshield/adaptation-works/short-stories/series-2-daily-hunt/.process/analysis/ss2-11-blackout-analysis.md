@@ -1,6 +1,6 @@
 # SS2-11 停电瞬间 - 分析
 
-> 对应文件：[11-blackout-story_v1.md](../../story/11-blackout-story_v1.md)
+> 对应文件：[11-blackout-story_v1.md](../story/history/11-blackout-story_v1.md)
 > 分析日期：2026-03-19
 
 ---

@@ -1,6 +1,6 @@
 # SS2-07 日常猎杀：内讧双杀 - 分析
 
-> 对应文件：[07-internal-conflict-story_v1.md](../../story/07-internal-conflict-story_v1.md)
+> 对应文件：[07-internal-conflict-story_v1.md](../story/history/07-internal-conflict-story_v1.md)
 > 分析日期：2026-03-19
 
 ---

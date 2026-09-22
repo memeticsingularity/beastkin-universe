@@ -1,6 +1,6 @@
 # SS2-03 日常猎杀：巡逻队截杀 - 分析
 
-> 对应文件：[03-patrol-intercept-story_v2.md](../../story/03-patrol-intercept-story_v2.md)
+> 对应文件：[03-patrol-intercept-story_v2.md](../story/history/03-patrol-intercept-story_v2.md)
 > 分析日期：2026-03-19
 
 ---

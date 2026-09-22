@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-10-mutual-destruction.md) | [返回目录](README.md) | [下一章](ch-12-you.md) |
+| [上一章](ch-10-mutual-destruction.md) | [返回目录]](../../README.md) | [下一章](ch-12-you.md) |
 
 ---
 
@@ -169,7 +169,7 @@
 
 ---
 
-| [上一章](ch-10-mutual-destruction.md) | [返回目录](README.md) | [下一章](ch-12-you.md) |
+| [上一章](ch-10-mutual-destruction.md) | [返回目录]](../../README.md) | [下一章](ch-12-you.md) |
 
 ---
 

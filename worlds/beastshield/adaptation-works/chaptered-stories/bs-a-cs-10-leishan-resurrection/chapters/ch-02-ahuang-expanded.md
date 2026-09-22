@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](ch-01-resurrection-expanded.md) | [返回作品目录](../README.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-01-resurrection-expanded.md) | [返回作品目录](../README.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../README.md)
 
 ---
 
@@ -301,7 +301,7 @@ survivor's guilt（幸存者愧疚）的沉重告别，也是雷爪从单纯新�
 
 ---
 
-[上一章](ch-01-resurrection-expanded.md) | [返回作品目录](../README.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-01-resurrection-expanded.md) | [返回作品目录](../README.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../README.md)
 
 ---
 
@@ -384,4 +384,4 @@ Guilt）。
 
 ---
 
-[上一章](ch-01-resurrection-expanded.md) | [返回作品目录](../README.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-01-resurrection-expanded.md) | [返回作品目录](../README.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../README.md)

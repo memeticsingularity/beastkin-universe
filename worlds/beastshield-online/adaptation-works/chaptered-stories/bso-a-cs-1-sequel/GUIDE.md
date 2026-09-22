@@ -18,7 +18,7 @@
 
 | 想找的内容 | 所在位置 |
 |-----------|---------|
-| **原作前三章原文** | [`../../original-archives/chinese/chaptered-stories/main/`](../../original-archives/chinese/chaptered-stories/main/) |
+| **原作前三章原文** | [`../../original-archives/chinese/chaptered-stories/main/`](../../../original-archives/chinese/chaptered-stories/main/) |
 | **原作世界观设定** | [`../../../settings/0-original-setting/`](../../../settings/0-original-setting/) |
 | **原作按章节提取的元设定** | [`../../../settings/0-original-setting/setting.md`](../../../settings/0-original-setting/setting.md) |
 

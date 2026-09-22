@@ -29,4 +29,4 @@
 
 **相关文件**：
 
-- [迎新会第一部分：仇染的困境](../../author-chat/chapters/2026-01-08-welcome-party-1.md)
+- [迎新会第一部分：仇染的困境](../author-chat/chapters/2026-01-08-welcome-party-1.md)

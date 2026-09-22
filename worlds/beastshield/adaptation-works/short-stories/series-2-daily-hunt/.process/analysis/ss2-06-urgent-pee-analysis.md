@@ -1,6 +1,6 @@
 # SS2-06 日常猎杀：憋尿急行者 - 分析
 
-> 对应文件：[06-urgent-pee-story_v1.md](../../story/06-urgent-pee-story_v1.md)
+> 对应文件：[06-urgent-pee-story_v1.md](../story/history/06-urgent-pee-story_v1.md)
 > 分析日期：2026-03-19
 
 ---

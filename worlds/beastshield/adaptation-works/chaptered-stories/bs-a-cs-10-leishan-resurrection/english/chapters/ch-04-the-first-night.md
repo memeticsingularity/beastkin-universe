@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-03-the-meeting.md) | [Return to Story Directory](../README.md) | [Next Chapter](ch-05-the-escape.md) | [Return to Worldview Home Page](../../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
+[Previous Chapter](ch-03-the-meeting.md) | [Return to Story Directory](../README.md) | Next Chapter | [Return to Worldview Home Page](../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
 
 ---
 
@@ -633,7 +633,7 @@ Two "dead men," began their escape.
 
 ---
 
-[Previous Chapter](ch-03-the-meeting.md) | [Return to Story Directory](../README.md) | [Next Chapter](ch-05-the-escape.md) | [Return to Worldview Home Page](../../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
+[Previous Chapter](ch-03-the-meeting.md) | [Return to Story Directory](../README.md) | Next Chapter | [Return to Worldview Home Page](../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
 
 ---
 
@@ -707,6 +707,6 @@ Even in the corpse pile, life can find a way out.
 
 ---
 
-[Previous Chapter](ch-03-the-meeting.md) | [Return to Story Directory](../README.md) | [Next Chapter](ch-05-the-escape.md) | [Return to Worldview Home Page](../../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
+[Previous Chapter](ch-03-the-meeting.md) | [Return to Story Directory](../README.md) | Next Chapter | [Return to Worldview Home Page](../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
 
 ---

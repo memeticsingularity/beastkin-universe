@@ -1,8 +1,8 @@
 # 墨犬（续写）· Lanse 风味落地指南
 
 > 本文件是 `bs-a-cs-12-mo-quan` 项目专属的 lanse 风格适配手册。
-> 母本：[lanse-style-checklist.md](../../../../author/001-lanse/style-analysis/lanse-style-checklist.md)
-> 分析基准：[lanse-writing-style-analysis.md](../../../../author/001-lanse/style-analysis/lanse-writing-style-analysis.md)
+> 母本：[lanse-style-checklist.md(../../../../../../author/001-lanse/style-analysis/lanse-style-checklist.md)
+> 分析基准：[lanse-writing-style-analysis.md(../../../../../../author/001-lanse/style-analysis/lanse-writing-style-analysis.md)
 >
 > 用途：续写时逐项自检、润色时对照修正、评审时核查偏差。
 

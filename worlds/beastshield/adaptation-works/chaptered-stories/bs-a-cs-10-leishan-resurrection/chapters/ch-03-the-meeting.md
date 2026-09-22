@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](ch-02-ahuang-expanded.md) | [返回作品目录](../README.md) | [下一章](ch-04-the-first-night.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-02-ahuang-expanded.md) | [返回作品目录](../README.md) | [下一章](ch-04-the-first-night.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../README.md)
 
 ---
 
@@ -467,7 +467,7 @@ E级。高级干部。在董事长办公室里自决。
 
 ---
 
-[上一章](ch-02-ahuang-expanded.md) | [返回作品目录](../README.md) | [下一章](ch-04-the-first-night.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-02-ahuang-expanded.md) | [返回作品目录](../README.md) | [下一章](ch-04-the-first-night.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../README.md)
 
 ---
 
@@ -552,4 +552,4 @@ E级。高级干部。在董事长办公室里自决。
 
 ---
 
-[上一章](ch-02-ahuang-expanded.md) | [返回作品目录](../README.md) | [下一章](ch-04-the-first-night.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-02-ahuang-expanded.md) | [返回作品目录](../README.md) | [下一章](ch-04-the-first-night.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../README.md)

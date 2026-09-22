@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-5-mountain-inn.md) | [返回目录](README.md) | [下一章](ch-7-roadside-teahouse.md) |
+| [上一章](ch-5-mountain-inn.md) | [返回目录]](../../README.md) | [下一章](ch-7-roadside-teahouse.md) |
 
 ---
 
@@ -237,7 +237,7 @@ E级又是什么。。。怎么越打人越多。。。
 
 ---
 
-| [上一章](ch-5-mountain-inn.md) | [返回目录](README.md) | [下一章](ch-7-roadside-teahouse.md) |
+| [上一章](ch-5-mountain-inn.md) | [返回目录]](../../README.md) | [下一章](ch-7-roadside-teahouse.md) |
 
 ---
 

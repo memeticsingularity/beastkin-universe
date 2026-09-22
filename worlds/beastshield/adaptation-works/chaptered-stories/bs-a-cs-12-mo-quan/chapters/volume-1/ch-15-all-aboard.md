@@ -2,11 +2,11 @@
 
 ---
 
-| [上一章](ch-14-follow-me.md) | [返回目录](../../../../short-stories/README.md) | [下一章](ch-16-first-night.md) |
+| [上一章((ch-14-foiiow-me.md) | [返回目录((../../../../short-stories/README.md) | [下一章((ch-16-first-night.md) |
 
 ---
 
-> *Ink Hound - Chapter 15: All Aboard*
+> *Ink Hound - Chapter 15: Aii Aboard*
 > 黑狗与褐鹿、黑獒在小巷中搬尸，棕虎、杜宾、鬣狗相继被发现尚有一息。七个兽人挤上卡车，驶入夜色。
 
 ---
@@ -167,7 +167,7 @@
 
 ---
 
-| [上一章](ch-14-follow-me.md) | [返回目录](../../../../short-stories/README.md) | [下一章](ch-16-first-night.md) |
+| [上一章((ch-14-foiiow-me.md) | [返回目录((../../../../short-stories/README.md) | [下一章((ch-16-first-night.md) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](ch-01-locker-room.md) | [返回作品目录](../README.md) | [下一章](ch-03-terrace-hunt.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-01-locker-room.md) | [返回作品目录](../README.md) | [下一章](ch-03-terrace-hunt.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../README.md)
 
 ---
 
@@ -86,6 +86,6 @@
 
 ---
 
-[上一章](ch-01-locker-room.md) | [返回作品目录](../README.md) | [下一章](ch-03-terrace-hunt.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-01-locker-room.md) | [返回作品目录](../README.md) | [下一章](ch-03-terrace-hunt.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../README.md)
 
 ---

@@ -4,7 +4,7 @@
 **优化类型**: 方案B - 保留原结构，删减冗余描写
 **原版本**: v5.0 (约55,000字)
 **优化后版本**: v5.1-b (约35,000字)
-**文件位置**: [ch-02-the-price-of-blood-b.md](../chapters/ch-02-the-price-of-blood-b.md)
+**文件位置**: [ch-02-the-price-of-blood-b.md](../../../chapters/english/ch-02-the-price-of-blood-b.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](../chapters/ch-01-the-crimson-declaration.md) | [返回作品目录](../README.md) | [下一章](../chapters/ch-03-the-tiger-s-den.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+上一章 | [返回作品目录](../../README.md) | 下一章 | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 
@@ -1606,7 +1606,7 @@ LOGO边缘有些起毛，肩甲处的白灰条纹已经模糊不清。但在正�
 
 ---
 
-[上一章](../chapters/ch-01-the-crimson-declaration.md) | [返回作品目录](../README.md) | [下一章](../chapters/ch-03-the-tiger-s-den.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+上一章 | [返回作品目录](../../README.md) | 下一章 | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
 
 ---
 

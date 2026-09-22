@@ -1,6 +1,6 @@
 # SS2-05 日常猎杀：雨中便利店 - 分析
 
-> 对应文件：[05-rainy-convenience-story_v1.md](../../story/05-rainy-convenience-story_v1.md)
+> 对应文件：[05-rainy-convenience-story_v1.md](../story/history/05-rainy-convenience-story_v1.md)
 > 分析日期：2026-03-19
 
 ---

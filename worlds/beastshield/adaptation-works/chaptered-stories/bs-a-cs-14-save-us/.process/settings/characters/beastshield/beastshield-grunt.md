@@ -175,8 +175,8 @@
 - [O-220 朱勇](l-12-beastshield-building/o-220-zhu-zong.md)——野猪，被撸射绞杀，尸体因太壮无法抛下楼，被藏于阴暗角落
 
 **关联资料**
-- [熊族领地设定](l-12-beastshield-building/_bear-barracks.md)
-- [虎族兵营设定](l-12-beastshield-building/_tiger-barracks.md)
+- [熊族领地设定](l-10-barracks-raid/_bear-barracks.md)
+- [虎族兵营设定](l-10-barracks-raid/_tiger-barracks.md)
 - [沙漠远征队守卫](l-12-beastshield-building/guards-desert-campaign.md)
 - [其他守卫](l-12-beastshield-building/guards-others.md)
 - [熊族炼药房守卫](l-12-beastshield-building/bear-alchemy-guard.md)
@@ -242,7 +242,7 @@
 - [熊铁门](l-24-beastshield-dorm-monitor-room/g-3006-xiong-tie-men.md)——宿舍区守卫，被小豪处决
 
 **L-25 警局**
-- 流墟——兽盾采购部长，暗杀傅局长，档案见 [l-08 liu-xu.md](../../../l-08-hq-assault/liu-xu.md)（待迁移）
+- 流墟——兽盾采购部长，暗杀傅局长，档案见 [l-08 liu-xu.md](l-08-hq-assault/liu-xu.md)（待迁移）
 
 **L-26 傅宅**
 - [虎悬牙](l-26-fuli-residence/g-5152-hu-xuan-ya.md)——搜索队员，被勤川一线天吊杀

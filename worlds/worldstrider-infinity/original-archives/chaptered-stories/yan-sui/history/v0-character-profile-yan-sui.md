@@ -299,24 +299,24 @@ Author老师创造了一个极具张力的角色。岩岁的悲剧性不在于�
 1. **正文
    **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/chinese/ch-1-the-rabbits-shadow.md](../../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-shorts/chapters/chinese/ch-01-birthday-cake.md)
 2. **基础设定
-   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/04-yan-sui.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/04-yan-sui.md)
+   **：`worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/04-yan-sui.md`（原文件已删除，仅存档路径）
 3. **岩岁1设定
-   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-1-1.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-1-1.md)
-   与 [05-yan-sui-1-2.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-1-2.md)
+   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-1-1.md](../../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-sui/2025-12-27-yan-sui-1-1.md)
+   与 [05-yan-sui-1-2.md](../../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-sui/2025-12-27-yan-sui-1-2.md)
 4. **岩岁2设定
-   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-2-1.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-2-1.md)
-   与 [05-yan-sui-2-2.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-2-2.md)
+   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/05-yan-sui-2-1.md](../../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-sui/2025-12-30-yan-sui-2-1.md)
+   与 [05-yan-sui-2-2.md](../../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-sui/2025-12-30-yan-sui-2-2.md)
 5. **父子回忆故事
-   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-can-yan-sui-flashback.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-can-yan-sui-flashback.md)
+   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/author-chat/characters/yan-can-yan-sui-flashback.md](../../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/2026-02-23-yan-can-yan-sui-flashback.md)
 6. **岳池设定
-   **：[worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/05-yue-chi.md](../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/05-yue-chi.md)
+   **：`worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/setting/05-yue-chi.md`（原文件已删除，仅存档路径）
 
 ### 改编来源（万界巡行：无限）
 
 1. **卷首
-   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0.md)
+   **：`worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0.md`（原文件已删除，仅存档路径）
 2. **修正/补充
-   **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0-1.md](../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0-1.md)
+   **：`worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/0-1.md`（原文件已删除，仅存档路径）
 3. **第一章（首版）
    **：[worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ch-1-1.md](../../../../../paradise-kik-soldiers/original-archives/ch-1-feng-and-shuoshi.md)
 4. **第一章（修订版）

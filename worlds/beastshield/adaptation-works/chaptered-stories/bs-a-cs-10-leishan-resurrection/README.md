@@ -163,14 +163,14 @@ Tiger `Tiger` · Bull `Bull` · Dog `Dog`
 ## 六、创作留痕 / Creation Trail
 
 - [查看变更日志](.process/CHANGELOG.md)
-- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+- 查看 AI 讨论索引（索引尚未建立）
 
 ---
 
 ## VI. Creation Trail
 
 - [View Changelog](.process/CHANGELOG.md)
-- [View AI Discussion Index](.process/ai-discussion/INDEX.md)
+- View AI Discussion Index (index not yet created)
 
 ---
 

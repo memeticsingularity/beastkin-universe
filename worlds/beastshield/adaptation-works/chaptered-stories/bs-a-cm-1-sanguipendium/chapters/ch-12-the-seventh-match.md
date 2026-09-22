@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](ch-11-the-sixth-match.md) | [返回作品目录](../README.md) | [下一章](ch-13-the-eighth-match.md)
+[上一章](ch-11-the-sixth-match.md) | [返回作品目录](../README.md) | 下一章
 
 ---
 

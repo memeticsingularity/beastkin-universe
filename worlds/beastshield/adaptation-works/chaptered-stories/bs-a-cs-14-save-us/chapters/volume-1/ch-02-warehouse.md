@@ -1,6 +1,6 @@
 # 第二章 仓库逃脱·犬齐锋
 
-[返回目录](../README.md) | [上一章](ch-01-tutorial.md) | [下一章](ch-03-orange-tiger.md)
+[返回目录](../../README.md) | [上一章](ch-01-tutorial.md) | 下一章
 
 ---
 
@@ -352,4 +352,4 @@
 
 *第二章完*
 
-[返回目录](../README.md) | [上一章](ch-01-tutorial.md) | [下一章](ch-03-orange-tiger.md)
+[返回目录](../../README.md) | [上一章](ch-01-tutorial.md) | 下一章

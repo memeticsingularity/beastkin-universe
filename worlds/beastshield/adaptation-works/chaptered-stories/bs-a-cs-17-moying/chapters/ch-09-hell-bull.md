@@ -2,7 +2,7 @@
 
 ---
 
-[上一章](ch-08-thirteenth-floor.md) | [返回作品目录](../README.md) | [下一章](ch-10-survivors.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-08-thirteenth-floor.md) | [返回作品目录](../README.md) | [下一章](ch-10-survivors.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../README.md)
 
 ---
 
@@ -182,6 +182,6 @@
 
 ---
 
-[上一章](ch-08-thirteenth-floor.md) | [返回作品目录](../README.md) | [下一章](ch-10-survivors.md) | [返回世界观首页](../../../../../README.md) | [返回项目主页](../../../../../../../README.md)
+[上一章](ch-08-thirteenth-floor.md) | [返回作品目录](../README.md) | [下一章](ch-10-survivors.md) | [返回世界观首页](../../../../README.md) | [返回项目主页](../../../../../../README.md)
 
 ---

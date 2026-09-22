@@ -1,7 +1,7 @@
 # SS2-10 工地陷阱 - 分析
 
-> 对应文件：[10-construction-site-story_v2.md](../../story/10-construction-site-story_v2.md)（主分析版本）
-> 对比文件：[10-construction-site-story_v1.md](../../story/10-construction-site-story_v1.md)
+> 对应文件：[10-construction-site-story_v2.md](../story/history/10-construction-site-story_v2.md)（主分析版本）
+> 对比文件：[10-construction-site-story_v1.md](../story/history/10-construction-site-story_v1.md)
 > 分析日期：2026-03-19
 
 ---

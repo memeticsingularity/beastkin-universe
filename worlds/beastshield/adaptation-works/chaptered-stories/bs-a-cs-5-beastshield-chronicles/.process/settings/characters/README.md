@@ -112,14 +112,14 @@
 
 | 角色 | 改编内容 | 位置 |
 |-----|---------|------|
-| **岩参** | 原作死亡线 v1/v2、版本对比分析 | [`yan-sui/branches/yan-can-canon-death/`](../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
-| **岩岁** | 原作死亡线中的岩岁视角、父子关系分析 | [`yan-sui/branches/yan-can-canon-death/`](../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
-| **壹安** | v2 设定下的四版本改编故事 | [`yan-sui/branches/yan-can-canon-death/`](../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
+| **岩参** | 原作死亡线 v1/v2、版本对比分析 | [`yan-sui/branches/yan-can-canon-death/`](../../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
+| **岩岁** | 原作死亡线中的岩岁视角、父子关系分析 | [`yan-sui/branches/yan-can-canon-death/`](../../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
+| **壹安** | v2 设定下的四版本改编故事 | [`yan-sui/branches/yan-can-canon-death/`](../../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
 
 **快速导航**：
-- 要找改编故事 → [`yan-sui/branches/yan-can-canon-death/`](../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/)
-- 要找版本分析/讨论 → [`yan-sui/discussions/`](../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/discussions/)
-- 要找 AI 讨论记录 → [`yan-sui/ai-discuss/`](../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ai-discuss/)
+- 要找改编故事 → [`yan-sui/branches/yan-can-canon-death/`](../../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/)
+- 要找版本分析/讨论 → [`yan-sui/discussions/`](../../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/discussions/)
+- 要找 AI 讨论记录 → [`yan-sui/ai-discuss/`](../../../../../../../worldstrider-infinity/original-archives/chaptered-stories/yan-sui/ai-discuss/)
 
 ---
 

@@ -1,6 +1,6 @@
 # SS2-12 深夜停车场 - 分析
 
-> 对应文件：[12-parking-lot-story_v3.md](../../story/12-parking-lot-story_v3.md)
+> 对应文件：[12-parking-lot-story_v3.md](../story/12-parking-lot-story_v3.md)
 > 分析日期：2026-03-19
 
 ---

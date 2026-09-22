@@ -100,8 +100,8 @@ Mission complete. The lights are still on.
 
 ## 五、关联作品 / Related Works
 
-- **原作世界观**：[兽盾 / Beastshield](../../original-archives/) — 兽盾公司、灼流暗劲、性欲值系统的核心设定来源
-- **参考范本**：[带娃的老雷 / Babysitter Lei](../../original-archives/chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/) — 死法多样性与写射就停节奏的直接参照
+- **原作世界观**：[兽盾 / Beastshield](../../../original-archives/) — 兽盾公司、灼流暗劲、性欲值系统的核心设定来源
+- **参考范本**：[带娃的老雷 / Babysitter Lei](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/) — 死法多样性与写射就停节奏的直接参照
 
 ---
 

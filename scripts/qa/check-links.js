@@ -33,6 +33,8 @@ function walk(dir) {
 }
 
 function scan(file) {
+  // 模板目录内的链接一律指向占位符或示例路径，不参与校验
+  if (file.split(path.sep).includes('templates')) { filesScanned++; return; }
   filesScanned++;
   const lines = fs.readFileSync(file, 'utf8').replace(/^\uFEFF/, '').split(/\r?\n/);
   let inFence = false;
@@ -48,6 +50,7 @@ function scan(file) {
       if (/^(https?:|mailto:|tel:|data:)/i.test(target)) { skipped++; continue; }
       if (target.startsWith('#')) { skipped++; continue; }
       if (/[<>]|…/.test(target)) { skipped++; continue; }   // 模板占位符
+      if (/[{}]|xxx/i.test(target)) { skipped++; continue; } // 模板占位符（{code} / ch-xxx 等）
       const hash = target.indexOf('#');
       if (hash >= 0) target = target.slice(0, hash);
       if (!target) { skipped++; continue; }

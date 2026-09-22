@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-6-checkpoint.md) | [返回目录](README.md) | [下一章](ch-8-qingshi-town.md) |
+| [上一章](ch-6-checkpoint.md) | [返回目录]](../../README.md) | [下一章](ch-8-qingshi-town.md) |
 
 ---
 
@@ -177,7 +177,7 @@
 
 ---
 
-| [上一章](ch-6-checkpoint.md) | [返回目录](README.md) | [下一章](ch-8-qingshi-town.md) |
+| [上一章](ch-6-checkpoint.md) | [返回目录]](../../README.md) | [下一章](ch-8-qingshi-town.md) |
 
 ---
 

@@ -192,4 +192,4 @@ According to the latest requirements, V2 version will follow:
 
 ---
 
-[返回万界巡行首页 / Return to Worldstrider Infinity Home](../../../../README.md) | [返回项目主页 / Return to Project Home](../../../../../../README.md)
+[返回万界巡行首页 / Return to Worldstrider Infinity Home](../../../README.md) | [返回项目主页 / Return to Project Home](../../../../../README.md)

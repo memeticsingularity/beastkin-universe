@@ -54,7 +54,7 @@ Two adaptation versions are maintained:
 | Ch.2 | 名单上的名字 | [阅读](chapters/v2-expanded/ch-02.md) |
 | Ch.3 | 黑与白的制服 | [阅读](chapters/v2-expanded/ch-03.md) |
 | Ch.4 | 银针与暗劲 | [阅读](chapters/v2-expanded/ch-04.md) |
-| Ch.5 | 楼梯与总部 | [阅读](chapters/v2-expanded/ch-05.md) |
+| Ch.5 | 楼梯与总部 | 阅读 |
 
 ### v1-20ch（旧版扩写 / Legacy Expansion）
 
@@ -160,7 +160,7 @@ Two adaptation versions are maintained:
 
 - [查看变更日志](.process/CHANGELOG.md)
 - [查看当前状态](.process/CURRENT_STATUS.md)
-- [查看 AI 讨论索引](.process/ai-discussion/INDEX.md)
+- 查看 AI 讨论索引
 - [查看 v2 重写计划](.process/plans/v2-rewrite-plan.md)
 - [作品专属设定](.process/settings/story-setting.md)
 

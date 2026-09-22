@@ -19,7 +19,7 @@
 
 - **ch-2 办公室清剿**：狗兽人被塞柜的原场景
 - **ch-3 基地深处的激战**：几卡车援兵赶到基地，楼梯熊猫屠杀（援兵存活的前提）
-- **讨论记录**：[2026-06-13-smoking-dog-reinforcement-discussion.md](../.process/discuss/2026-06-13-smoking-dog-reinforcement-discussion.md)
+- **讨论记录**：[2026-06-13-smoking-dog-reinforcement-discussion.md](../discuss/2026-06-13-smoking-dog-reinforcement-discussion.md)
 
 ---
 

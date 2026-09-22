@@ -2,7 +2,7 @@
 
 ---
 
-[Previous Chapter](ch-09-the-night.md) | [Return to Table of Contents](../README.md) | [Next Chapter](ch-11-the-drawing.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-09-the-night.md) | [Return to Table of Contents](../README.md) | Next Chapter | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
 
 ---
 
@@ -650,4 +650,4 @@ But at this moment, at this final moment, they were still in their dreams, still
 
 ---
 
-[Previous Chapter](ch-09-the-night.md) | [Return to Table of Contents](../README.md) | [Next Chapter](ch-11-the-drawing.md) | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)
+[Previous Chapter](ch-09-the-night.md) | [Return to Table of Contents](../README.md) | Next Chapter | [Return to Worldview Homepage](../../../../../README.md) | [Return to Project Homepage](../../../../../../../README.md)

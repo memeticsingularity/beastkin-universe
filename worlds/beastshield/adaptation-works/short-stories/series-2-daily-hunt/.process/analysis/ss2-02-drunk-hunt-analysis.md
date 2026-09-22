@@ -1,6 +1,6 @@
 # SS2-02 日常猎杀：醉汉猎场 - 分析
 
-> 对应文件：[02-drunk-hunt-story_v2.md](../../story/02-drunk-hunt-story_v2.md)
+> 对应文件：[02-drunk-hunt-story_v2.md](../story/history/02-drunk-hunt-story_v2.md)
 > 分析日期：2026-03-19
 
 ---

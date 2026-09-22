@@ -2,7 +2,7 @@
 
 ---
 
-| [上一章](ch-9-judgment-day.md) | [返回目录](README.md) | [下一章](ch-11-all-mine.md) |
+| [上一章](ch-9-judgment-day.md) | [返回目录]](../../README.md) | [下一章](ch-11-all-mine.md) |
 
 ---
 
@@ -125,7 +125,7 @@
 
 ---
 
-| [上一章](ch-9-judgment-day.md) | [返回目录](README.md) | [下一章](ch-11-all-mine.md) |
+| [上一章](ch-9-judgment-day.md) | [返回目录]](../../README.md) | [下一章](ch-11-all-mine.md) |
 
 ---
 

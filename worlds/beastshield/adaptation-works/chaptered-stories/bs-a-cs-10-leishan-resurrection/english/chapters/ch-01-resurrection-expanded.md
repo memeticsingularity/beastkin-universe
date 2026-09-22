@@ -2,7 +2,7 @@
 
 ---
 
-[Return to Story Directory](../README.md) | [Next Chapter](ch-02-ahuang-expanded.md) | [Return to Worldview Home Page](../../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
+[Return to Story Directory](../README.md) | [Next Chapter](ch-02-ahuang-expanded.md) | [Return to Worldview Home Page](../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
 
 ---
 
@@ -300,7 +300,7 @@ From this moment on, everything was different.
 
 ---
 
-[Return to Story Directory](../README.md) | [Next Chapter](ch-02-ahuang-expanded.md) | [Return to Worldview Home Page](../../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
+[Return to Story Directory](../README.md) | [Next Chapter](ch-02-ahuang-expanded.md) | [Return to Worldview Home Page](../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
 
 ---
 
@@ -366,4 +366,4 @@ I close the "page," as if I can still smell that air mixed with semen, sweat, an
 
 ---
 
-[Return to Story Directory](../README.md) | [Next Chapter](ch-02-ahuang-expanded.md) | [Return to Worldview Home Page](../../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)
+[Return to Story Directory](../README.md) | [Next Chapter](ch-02-ahuang-expanded.md) | [Return to Worldview Home Page](../../../../README.md) | [Return to Project Home Page](../../../../../../../README.md)

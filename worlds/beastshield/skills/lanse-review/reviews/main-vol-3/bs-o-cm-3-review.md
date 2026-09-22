@@ -3,7 +3,7 @@
 > **审阅时间**：2026-07-17
 > **审阅框架**：lanse 审阅眼 v1.0
 > **审阅方式**：卷级审阅（基于 ch-1 研读 + 全局结构分析）
-> **原始作品**：[main-vol-3](../../../original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/)
+> **原始作品**：[main-vol-3](../../../../original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/)
 
 ---
 

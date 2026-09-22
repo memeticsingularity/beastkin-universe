@@ -1,7 +1,7 @@
 # 长篇分章故事 / Chaptered Stories
 
 > 返回上级：[改编作品根](../README.md)
-> 返回世界观：[世界观根](../../../README.md)
+> 返回世界观：[世界观根](../../README.md)
 
 ---
 
