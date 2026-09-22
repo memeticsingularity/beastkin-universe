@@ -2,7 +2,7 @@
 
 > **审阅时间**：2026-07-16
 > **审阅框架**：lanse 审阅眼 v1.0
-> **原始故事**：[bs-o-s-3-blackstone-2](../../../../original-archives/chinese/short-stories/bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md)
+> **原始故事**：[bs-o-s-3-blackstone-2](../../../../original-archives/chinese/short-stories/bs-o-s-3-blackstone-2/chapters/bs-o-s-3-blackstone-2.md)
 
 ---
 

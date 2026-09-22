@@ -152,7 +152,7 @@ For detailed settings, see: [settings/](settings/)
 |-----------|---------|
 | **beastshield 原作世界观** | [`worlds/beastshield/`](../beastshield/) |
 | **原作角色设定**（岩参、岩岁、壹安等） | [`beastshield/.../.process/settings/characters/`](../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/) |
-| **原作者对话/设定来源** | [`beastshield/.../.process/settings/author-chat/`](../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/) |
+| **原作者对话/设定来源** | [`beastshield/.../.process/settings/author-chat/`](../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/author-chat) |
 | **改编故事（岩参死亡线）** | [`original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/`](./original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
 | **改编故事（原作回响 · 治愈线）** | [`original-archives/chaptered-stories/echoes-healing/`](./original-archives/chaptered-stories/echoes-healing/) |
 | **改编版本分析** | [`original-archives/chaptered-stories/yan-sui/discussions/`](./original-archives/chaptered-stories/yan-sui/discussions/) |

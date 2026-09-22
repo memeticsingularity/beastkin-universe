@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿紧身短袖+短裤 |
 | **身份** | 巡岗守卫 |
 | **状态** | 已死亡 |
-| **首次登场** | [s-06](../../../../short-stories/bs-o-s-6-night-raid/bs-o-s-6-night-raid.md) |
-| **最后登场** | [s-06](../../../../short-stories/bs-o-s-6-night-raid/bs-o-s-6-night-raid.md) |
+| **首次登场** | [s-06](../../../../short-stories/bs-o-s-6-night-raid/chapters/bs-o-s-6-night-raid.md) |
+| **最后登场** | [s-06](../../../../short-stories/bs-o-s-6-night-raid/chapters/bs-o-s-6-night-raid.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [s-06：夜袭](../../../../short-stories/bs-o-s-6-night-raid/bs-o-s-6-night-raid.md)
+### [s-06：夜袭](../../../../short-stories/bs-o-s-6-night-raid/chapters/bs-o-s-6-night-raid.md)
 
 > 午夜时分，空气微寒，巡岗了大半夜的**兽盾牛士兵**将粗壮的双臂搭在栏杆上，抽着烟偷懒小憩。
 >
@@ -102,4 +102,4 @@
 
 ---
 
-*档案来源：短篇 [s-06：夜袭](../../../../short-stories/bs-o-s-6-night-raid/bs-o-s-6-night-raid.md)*
+*档案来源：短篇 [s-06：夜袭](../../../../short-stories/bs-o-s-6-night-raid/chapters/bs-o-s-6-night-raid.md)*

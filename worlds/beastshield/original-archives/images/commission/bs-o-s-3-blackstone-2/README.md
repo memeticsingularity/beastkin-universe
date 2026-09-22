@@ -9,7 +9,7 @@
 
 | 文件 | 日期 | 兽种 | 对应场景 | 原文件名 |
 |------|------|------|----------|----------|
-| [20260604-bull.png](20260604-bull.png) | 2026-06-04 | 牛兽人（E级 · 黑制服预备兵） | [黑石2](../../../chinese/short-stories/bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md) · 黑石处置牛预备兵 | `20260604 黑石2 牛_已加水印_202609161042.png` |
+| [20260604-bull.png](20260604-bull.png) | 2026-06-04 | 牛兽人（E级 · 黑制服预备兵） | [黑石2](../../../chinese/short-stories/bs-o-s-3-blackstone-2/chapters/bs-o-s-3-blackstone-2.md) · 黑石处置牛预备兵 | `20260604 黑石2 牛_已加水印_202609161042.png` |
 
 ---
 
@@ -19,7 +19,7 @@
 
 [![20260604-bull](./20260604-bull.png)](./20260604-bull.png)
 
-**对应章节**：[黑石2](../../../chinese/short-stories/bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md) · 插图位于第 159 行之后（突破射精防线的触发点在第 155 行）
+**对应章节**：[黑石2](../../../chinese/short-stories/bs-o-s-3-blackstone-2/chapters/bs-o-s-3-blackstone-2.md) · 插图位于第 159 行之后（突破射精防线的触发点在第 155 行）
 
 **观察到的细节：**
 
@@ -34,7 +34,7 @@
 **对应原文：**
 
 > **黑石**突然捏住了**牛兽人**黑硬的乳头用力一扭！
-> —— [bs-o-s-3-blackstone-2.md](../../../chinese/short-stories/bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md) 第 155 行
+> —— [bs-o-s-3-blackstone-2.md](../../../chinese/short-stories/bs-o-s-3-blackstone-2/chapters/bs-o-s-3-blackstone-2.md) 第 155 行
 
 可用作备选的锚点：
 
@@ -44,7 +44,7 @@
 **与原文的出入（画师再创作，非设定冲突）：**
 
 1. **制服等级**：原文这只牛是「**黑制服**牛兽人」= E级预备兵，画面一致；但画中把黑袜处理成了接近全新的状态，而原文只提到「黑袜底」的汗脚气味（L174）。
-2. **袜底编号**：画中黑袜上有编号字样。权威设定中**编号印在白袜袜底**（`settings/0-original-setting/world-setting.md`），黑袜印编号与设定不一致；且本篇正文**没有**任何编号描写。编号袜换赏金的规则出自前篇 [`bs-o-s-2-blackstone`](../../../chinese/short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md)，属跨篇元素挪用。
+2. **袜底编号**：画中黑袜上有编号字样。权威设定中**编号印在白袜袜底**（`settings/0-original-setting/world-setting.md`），黑袜印编号与设定不一致；且本篇正文**没有**任何编号描写。编号袜换赏金的规则出自前篇 [`bs-o-s-2-blackstone`](../../../chinese/short-stories/bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md)，属跨篇元素挪用。
 3. **姿态**：原文是**黑石从背后勒喉**，牛的支撑物是黑石的身体，没有「被从两侧抓住大腿」和「靠墙」的动作。
 4. **乳头血痕**：原文的「扭」只写到刺激/红肿的程度，没有出血描写。
 5. **精液覆盖**：原文中牛是向马路对面**狂喷**（L159），并没有全身覆盖；画面把「穿制服被处置」与「熊尸在旁」两拍合成了一帧，而原文结尾同框时牛已经**全裸**（L182）。

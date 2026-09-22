@@ -70,4 +70,4 @@
 
 ---
 
-*档案来源：[SS-003 黑石2](../../../../short-stories/bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md)*
+*档案来源：[SS-003 黑石2](../../../../short-stories/bs-o-s-3-blackstone-2/chapters/bs-o-s-3-blackstone-2.md)*

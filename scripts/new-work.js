@@ -68,7 +68,7 @@ files['README.md'] = `# ${titleZh}${titleEn ? ' / ' + titleEn : ''}
 
 ## 三、目录 / Directory
 
-- 正文：${form === 's' ? '`' + code + '.md`' : '`chapters/`'}
+- 正文：\`chapters/\`${form === 's' ? '（短篇：`' + code + '.md`）' : ''}
 - 元数据：\`metadata.yaml\`
 - 过程文档：\`.process/\`
 
@@ -106,7 +106,7 @@ files['images/README.md'] = `# 图片 / Images
 `;
 
 if (form !== 's') files['chapters/.gitkeep'] = '';
-if (form === 's') files[code + '.md'] = `# Story ${titleZh}
+if (form === 's') files['chapters/' + code + '.md'] = `# Story ${titleZh}
 
 ---
 

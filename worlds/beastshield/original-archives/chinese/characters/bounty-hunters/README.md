@@ -19,7 +19,7 @@
 
 | 角色 | 种族 | 身份 | 状态 | 主要出处 |
 |------|------|------|------|---------|
-| 黑石 | 纯黑肤色牛兽人 | 罪犯赏金猎人，雌雄同体；以怪力勒颈 + 精准刺激为招牌手法 | 存活 | [ss-002 黑石](../../short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md)、[ss-003 黑石2](../../short-stories/bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md) |
+| 黑石 | 纯黑肤色牛兽人 | 罪犯赏金猎人，雌雄同体；以怪力勒颈 + 精准刺激为招牌手法 | 存活 | [ss-002 黑石](../../short-stories/bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md)、[ss-003 黑石2](../../short-stories/bs-o-s-3-blackstone-2/chapters/bs-o-s-3-blackstone-2.md) |
 
 > 黑石在 ss-002 与 ss-003 中均有完整戏份，且与“袜底编号”赏金机制直接相关，建议优先建档。
 
@@ -30,8 +30,8 @@
 | 作品 | 狩猎对象 | 出处 |
 |------|---------|------|
 | 炎魉篇《新兵基地的幽灵》 | 兽盾新兵基地全体守卫 | [bs-o-cs-1-yan-liang](../../chaptered-stories/side/bs-o-cs-1-yan-liang/README.md) |
-| 短篇《黑石》 | 山林旅馆的兽盾小队 | [bs-o-s-2-blackstone](../../short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md) |
-| 短篇《黑石2》 | 娱乐中心门口的高级预备兵 | [bs-o-s-3-blackstone-2](../../short-stories/bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md) |
+| 短篇《黑石》 | 山林旅馆的兽盾小队 | [bs-o-s-2-blackstone](../../short-stories/bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md) |
+| 短篇《黑石2》 | 娱乐中心门口的高级预备兵 | [bs-o-s-3-blackstone-2](../../short-stories/bs-o-s-3-blackstone-2/chapters/bs-o-s-3-blackstone-2.md) |
 
 ---
 

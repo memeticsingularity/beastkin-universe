@@ -112,4 +112,4 @@
 **相关文件**：
 
 - [第一章：白兔暗影](../../../chapters/chinese/ch-01-the-rabbits-shadow.md)
-- [岳池角色讨论](../author-chat/characters/2025-12-27-yue-chi-discussion.md)
+- [岳池角色讨论](../../author-chat/characters/2025-12-27-yue-chi-discussion.md)

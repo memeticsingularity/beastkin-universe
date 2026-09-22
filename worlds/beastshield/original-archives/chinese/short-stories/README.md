@@ -22,13 +22,13 @@
 
 | 编码 | 中文标题 | 英文标题 | 标签 | 链接 |
 |------|----------|----------|------|------|
-| `bs-o-s-1-farm-inn` | 兽盾农家乐 | Beast Shield Farmhouse | `悬疑` `黑暗` `农场` `实验` `复仇` | [阅读](bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md) |
-| `bs-o-s-2-blackstone` | 黑石 | Blackstone | `动作` `惊悚` `赏金猎人` `潜入` | [阅读](bs-o-s-2-blackstone/bs-o-s-2-blackstone.md) |
-| `bs-o-s-3-blackstone-2` | 黑石2 | Blackstone 2 | `动作` `惊悚` `夜袭` `狩猎` | [阅读](bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md) |
-| `bs-o-s-4-captive-delivery` | 俘虏快递 | Captive Delivery | `心理` `惊悚` `俘虏` `道德困境` | [阅读](bs-o-s-4-captive-delivery/bs-o-s-4-captive-delivery.md) |
-| `bs-o-s-5-employee-diary` | 兽盾员工的一天 | Beast Shield Employee's Day | `日记` `惊悚` `生存` `屠杀` | [阅读](bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md) |
-| `bs-o-s-6-night-raid` | 夜袭 | Night Raid | `惊悚` `潜入` `夜袭` `羞辱处决` | [阅读](bs-o-s-6-night-raid/bs-o-s-6-night-raid.md) |
-| `bs-o-s-7-graduation-internship` | 毕业实习 | Graduation Internship | `实习` `成长` | [阅读](bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) |
+| `bs-o-s-1-farm-inn` | 兽盾农家乐 | Beast Shield Farmhouse | `悬疑` `黑暗` `农场` `实验` `复仇` | [阅读](bs-o-s-1-farm-inn/chapters/bs-o-s-1-farm-inn.md) |
+| `bs-o-s-2-blackstone` | 黑石 | Blackstone | `动作` `惊悚` `赏金猎人` `潜入` | [阅读](bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md) |
+| `bs-o-s-3-blackstone-2` | 黑石2 | Blackstone 2 | `动作` `惊悚` `夜袭` `狩猎` | [阅读](bs-o-s-3-blackstone-2/chapters/bs-o-s-3-blackstone-2.md) |
+| `bs-o-s-4-captive-delivery` | 俘虏快递 | Captive Delivery | `心理` `惊悚` `俘虏` `道德困境` | [阅读](bs-o-s-4-captive-delivery/chapters/bs-o-s-4-captive-delivery.md) |
+| `bs-o-s-5-employee-diary` | 兽盾员工的一天 | Beast Shield Employee's Day | `日记` `惊悚` `生存` `屠杀` | [阅读](bs-o-s-5-employee-diary/chapters/bs-o-s-5-employee-diary.md) |
+| `bs-o-s-6-night-raid` | 夜袭 | Night Raid | `惊悚` `潜入` `夜袭` `羞辱处决` | [阅读](bs-o-s-6-night-raid/chapters/bs-o-s-6-night-raid.md) |
+| `bs-o-s-7-graduation-internship` | 毕业实习 | Graduation Internship | `实习` `成长` | [阅读](bs-o-s-7-graduation-internship/chapters/bs-o-s-7-graduation-internship.md) |
 
 ---
 

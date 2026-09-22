@@ -172,7 +172,7 @@ White Capital—a city shrouded in the shadow of the Beastshield Corporation. Xu
 - [查看变更日志](.process/CHANGELOG.md)
 - 查看 AI 讨论索引
 - [角色详细设定](.process/settings/characters/) — 原作角色档案
-- [原作者对话/设定来源](.process/settings/author-chat/) — 创作对话记录
+- [原作者对话/设定来源](.process/author-chat) — 创作对话记录
 
 ---
 
@@ -181,7 +181,7 @@ White Capital—a city shrouded in the shadow of the Beastshield Corporation. Xu
 - [View Changelog](.process/CHANGELOG.md)
 - View AI Discussion Index
 - [Character Profiles](.process/settings/characters/) — Original Character Archives
-- [Author Chat / Source Material](.process/settings/author-chat/) — Creation Dialogue Records
+- [Author Chat / Source Material](.process/author-chat) — Creation Dialogue Records
 
 ---
 

@@ -333,5 +333,5 @@
 
 ---
 
-*[返回系列目录](README.md)*
+*[返回系列目录](../README.md)*
 *[对应悲剧线：4-g-tiger-driver.md](4-g-tiger-driver.md)*

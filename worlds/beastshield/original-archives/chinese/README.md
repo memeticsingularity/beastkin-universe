@@ -38,13 +38,13 @@
 
 | 编码 | 标题 | 标签 | 链接 |
 |------|------|------|------|
-| `bs-o-s-1-farm-inn` | 兽盾农家乐 | `悬疑` `黑暗` `农场` | [阅读](short-stories/bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md) |
-| `bs-o-s-2-blackstone` | 黑石 | `动作` `惊悚` `赏金猎人` | [阅读](short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md) |
-| `bs-o-s-3-blackstone-2` | 黑石2 | `动作` `惊悚` `夜袭` | [阅读](short-stories/bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md) |
-| `bs-o-s-4-captive-delivery` | 俘虏快递 | `心理` `惊悚` `俘虏` | [阅读](short-stories/bs-o-s-4-captive-delivery/bs-o-s-4-captive-delivery.md) |
-| `bs-o-s-5-employee-diary` | 兽盾员工的一天 | `日记` `惊悚` `生存` | [阅读](short-stories/bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md) |
-| `bs-o-s-6-night-raid` | 夜袭 | `惊悚` `潜入` `夜袭` | [阅读](short-stories/bs-o-s-6-night-raid/bs-o-s-6-night-raid.md) |
-| `bs-o-s-7-graduation-internship` | 毕业实习 | `实习` `成长` | [阅读](short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) |
+| `bs-o-s-1-farm-inn` | 兽盾农家乐 | `悬疑` `黑暗` `农场` | [阅读](short-stories/bs-o-s-1-farm-inn/chapters/bs-o-s-1-farm-inn.md) |
+| `bs-o-s-2-blackstone` | 黑石 | `动作` `惊悚` `赏金猎人` | [阅读](short-stories/bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md) |
+| `bs-o-s-3-blackstone-2` | 黑石2 | `动作` `惊悚` `夜袭` | [阅读](short-stories/bs-o-s-3-blackstone-2/chapters/bs-o-s-3-blackstone-2.md) |
+| `bs-o-s-4-captive-delivery` | 俘虏快递 | `心理` `惊悚` `俘虏` | [阅读](short-stories/bs-o-s-4-captive-delivery/chapters/bs-o-s-4-captive-delivery.md) |
+| `bs-o-s-5-employee-diary` | 兽盾员工的一天 | `日记` `惊悚` `生存` | [阅读](short-stories/bs-o-s-5-employee-diary/chapters/bs-o-s-5-employee-diary.md) |
+| `bs-o-s-6-night-raid` | 夜袭 | `惊悚` `潜入` `夜袭` | [阅读](short-stories/bs-o-s-6-night-raid/chapters/bs-o-s-6-night-raid.md) |
+| `bs-o-s-7-graduation-internship` | 毕业实习 | `实习` `成长` | [阅读](short-stories/bs-o-s-7-graduation-internship/chapters/bs-o-s-7-graduation-internship.md) |
 
 ---
 

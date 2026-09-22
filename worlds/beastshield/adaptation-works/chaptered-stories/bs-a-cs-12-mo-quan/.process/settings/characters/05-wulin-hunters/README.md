@@ -71,6 +71,6 @@
 
 - [第二卷总体设计](../../../../notes/plans/2026-05-22-volume-2-plan.md)
 - [武林猎网角色总库](../../../../notes/plans/2026-05-22-wulin-hunters-archive.md)
-- [墨犬本体设定梳理](../../../../.process/settings/author-chat/notes/2026-05-22-mo-quan-body-origin-notes.md)
+- [墨犬本体设定梳理](../../../author-chat/notes/2026-05-22-mo-quan-body-origin-notes.md)
 - [角色命名规范](../NAMING_CONVENTION.md)
 - [角色档案模板](../_TEMPLATE.md)

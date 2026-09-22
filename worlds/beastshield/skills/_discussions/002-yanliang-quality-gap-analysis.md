@@ -7,9 +7,9 @@
 > - [bs-a-cs-4-yanliang ch-01](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-01.md)（虎雷爪 + 狗阿黄 + 白熊厚朴）
 > - [bs-a-cs-4-yanliang ch-20](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-20.md)（牛磐自裁）
 > - [bs-a-cs-4-yanliang ch-02~19](../../adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/)（中间章节对比）
-> - [bs-o-s-1-farm-inn](../../original-archives/chinese/short-stories/bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md)（原作风格基准）
-> - [bs-o-s-2-blackstone](../../original-archives/chinese/short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md)（原作风格基准）
-> - [bs-o-s-6-night-raid](../../original-archives/chinese/short-stories/bs-o-s-6-night-raid/bs-o-s-6-night-raid.md)（原作风格基准）
+> - [bs-o-s-1-farm-inn](../../original-archives/chinese/short-stories/bs-o-s-1-farm-inn/chapters/bs-o-s-1-farm-inn.md)（原作风格基准）
+> - [bs-o-s-2-blackstone](../../original-archives/chinese/short-stories/bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md)（原作风格基准）
+> - [bs-o-s-6-night-raid](../../original-archives/chinese/short-stories/bs-o-s-6-night-raid/chapters/bs-o-s-6-night-raid.md)（原作风格基准）
 
 ---
 

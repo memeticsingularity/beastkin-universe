@@ -91,5 +91,5 @@
 
 **相关文件**：
 
-- [第七章创作对话：逃离](../author-chat/chapters/2026-01-07-ch-7-2.md)
-- [牙董角色概念讨论](../author-chat/characters/2026-03-03-ya-dong-child-concept.md)
+- [第七章创作对话：逃离](../../author-chat/chapters/2026-01-07-ch-7-2.md)
+- [牙董角色概念讨论](../../author-chat/characters/2026-03-03-ya-dong-child-concept.md)

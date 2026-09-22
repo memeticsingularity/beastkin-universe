@@ -96,4 +96,4 @@
 ---
 
 **相关文件**：
-- [岩参原作死亡线设定](../author-chat/characters/2026-05-07-yan-can-original-death.md)
+- [岩参原作死亡线设定](../../author-chat/characters/2026-05-07-yan-can-original-death.md)

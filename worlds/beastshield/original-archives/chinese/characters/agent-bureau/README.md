@@ -31,7 +31,7 @@
 
 | 角色 | 种族 | 身份 | 状态 | 首次登场 | 主要出处 |
 |------|------|------|------|---------|---------|
-| 雷炎寰 | 红虎 | 不足二十岁的年轻特工，满分毕业 | 存活 | 短篇 ss-007 | [ss-007](../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) |
+| 雷炎寰 | 红虎 | 不足二十岁的年轻特工，满分毕业 | 存活 | 短篇 ss-007 | [ss-007](../../short-stories/bs-o-s-7-graduation-internship/chapters/bs-o-s-7-graduation-internship.md) |
 
 > **玩家 / 主角**已有独立档案，但按阵营归在 [`../others/player.md`](../others/player.md)（第一卷时尚未加入特工局），故不在本目录重复登记。
 

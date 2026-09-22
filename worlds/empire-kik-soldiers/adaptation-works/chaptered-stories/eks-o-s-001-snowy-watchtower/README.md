@@ -89,7 +89,7 @@ B-23107, a wolf beastkin Kiki Soldier on duty at a snowy watchtower, is caught m
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 雪夜岗哨 / Snowy Watchtower | [阅读](ch-001-snowy-watchtower.md) |
+| Ch.1 | 雪夜岗哨 / Snowy Watchtower | [阅读](chapters/ch-001-snowy-watchtower.md) |
 
 ---
 
@@ -97,7 +97,7 @@ B-23107, a wolf beastkin Kiki Soldier on duty at a snowy watchtower, is caught m
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | 雪夜岗哨 / Snowy Watchtower | [Read](ch-001-snowy-watchtower.md) |
+| Ch.1 | 雪夜岗哨 / Snowy Watchtower | [Read](chapters/ch-001-snowy-watchtower.md) |
 
 ---
 

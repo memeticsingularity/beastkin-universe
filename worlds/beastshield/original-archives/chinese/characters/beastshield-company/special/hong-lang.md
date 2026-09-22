@@ -12,8 +12,8 @@
 | **等级/制服** | **未明写**——正文无任何制服描写，故不入 `wolf/{g,e,o,r,w}/`，按规范归入 `special/` |
 | **身份** | 赌局庄家 / 主持者（**存疑**：与兽盾小队同桌赌博、发号施令被服从、负责分发赌资，同篇档案已称其为“同事”；但正文未明写其编制） |
 | **状态** | **存活** |
-| **首次登场** | [s-02：黑石](../../../short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md) |
-| **最后登场** | [s-02：黑石](../../../short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md) |
+| **首次登场** | [s-02：黑石](../../../short-stories/bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md) |
+| **最后登场** | [s-02：黑石](../../../short-stories/bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 三、登场原文
 
-### [s-02：黑石](../../../short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md)
+### [s-02：黑石](../../../short-stories/bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md)
 
 > 没过多久，旅馆另一桌突然响起一片起哄声，只见一只壮硕的绿制服**野猪兽人**被抬上了圆桌，双手双脚被其他兽人摁在桌边动弹不得。
 
@@ -84,5 +84,5 @@
 
 ---
 
-*档案来源：短篇 [s-02：黑石](../../../short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md)*
+*档案来源：短篇 [s-02：黑石](../../../short-stories/bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md)*
 *创建日期：2026-09-16*

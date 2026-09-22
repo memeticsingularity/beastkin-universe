@@ -95,4 +95,4 @@
 - [项目规则](../AGENTS.md)
 - [读者偏好参考](reader-profile.md)
 - [第一篇计划](plan/01-stronghold-cleanup-plan.md)
-- [章节索引](../stories/01/README.md)
+- [章节索引](../chapters/README.md)

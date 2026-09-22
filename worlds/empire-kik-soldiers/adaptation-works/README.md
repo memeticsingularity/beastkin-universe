@@ -31,7 +31,7 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 
 | 编码 | 中文标题 | 英文标题 | 标签 | 链接 |
 |------|---------|---------|------|------|
-| `eks-o-s-001-snowy-watchtower` | 雪夜岗哨 | Snowy Watchtower | 短篇,狼兽人,雪山 | [阅读](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
+| `eks-o-s-001-snowy-watchtower` | 雪夜岗哨 | Snowy Watchtower | 短篇,狼兽人,雪山 | [阅读](chaptered-stories/eks-o-s-001-snowy-watchtower/chapters/ch-001-snowy-watchtower.md) |
 
 ---
 
@@ -49,7 +49,7 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 
 | Code | Title | Tags | Link |
 |------|-------|------|------|
-| `eks-o-s-001-snowy-watchtower` | Snowy Watchtower | short,wolf,snow | [Read](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
+| `eks-o-s-001-snowy-watchtower` | Snowy Watchtower | short,wolf,snow | [Read](chaptered-stories/eks-o-s-001-snowy-watchtower/chapters/ch-001-snowy-watchtower.md) |
 
 ---
 
@@ -60,7 +60,7 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 | 标签 | 作品 |
 |------|------|
 | `退役` | [召回协议](chaptered-stories/eks-o-cm-001-recall-protocol/README.md)、[犬兵梦忆](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
-| `短篇` | [雪夜岗哨](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
+| `短篇` | [雪夜岗哨](chaptered-stories/eks-o-s-001-snowy-watchtower/chapters/ch-001-snowy-watchtower.md) |
 | `原创` | [召回协议](chaptered-stories/eks-o-cm-001-recall-protocol/README.md)、[犬兵梦忆](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md)、[黑袜轮回](chaptered-stories/eks-o-cm-003-black-sock-cycle/README.md) |
 
 ### 按兽人类型 / By Species
@@ -69,7 +69,7 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 |------|------|
 | `虎兽人` | [召回协议](chaptered-stories/eks-o-cm-001-recall-protocol/README.md) |
 | `犬兽人` | [犬兵梦忆](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
-| `狼兽人` | [雪夜岗哨](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md)、[黑袜轮回](chaptered-stories/eks-o-cm-003-black-sock-cycle/README.md) |
+| `狼兽人` | [雪夜岗哨](chaptered-stories/eks-o-s-001-snowy-watchtower/chapters/ch-001-snowy-watchtower.md)、[黑袜轮回](chaptered-stories/eks-o-cm-003-black-sock-cycle/README.md) |
 
 ---
 
@@ -80,7 +80,7 @@ Adaptation works for *Long Live the Empire*, housing secondary creations, deriva
 | Tag | Works |
 |-----|-------|
 | `retired` | [Recall Protocol](chaptered-stories/eks-o-cm-001-recall-protocol/README.md), [Dog Soldier Dreams](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md) |
-| `short` | [Snowy Watchtower](chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
+| `short` | [Snowy Watchtower](chaptered-stories/eks-o-s-001-snowy-watchtower/chapters/ch-001-snowy-watchtower.md) |
 | `original` | [Recall Protocol](chaptered-stories/eks-o-cm-001-recall-protocol/README.md), [Dog Soldier Dreams](chaptered-stories/eks-o-cm-002-dog-soldier-dreams/README.md), [Black Sock Cycle](chaptered-stories/eks-o-cm-003-black-sock-cycle/README.md) |
 
 ---

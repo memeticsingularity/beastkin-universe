@@ -45,4 +45,4 @@
 
 ---
 
-*档案来源：[SS-007 毕业实习](../../../../short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md)*
+*档案来源：[SS-007 毕业实习](../../../../short-stories/bs-o-s-7-graduation-internship/chapters/bs-o-s-7-graduation-internship.md)*

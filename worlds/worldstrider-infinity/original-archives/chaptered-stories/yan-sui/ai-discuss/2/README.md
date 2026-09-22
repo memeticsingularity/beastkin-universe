@@ -5,8 +5,8 @@
 [beastshield_setting_chinese.md](../../../../../../beastshield/settings/1-recommended-canon/beastshield_setting_chinese.md)
 [chinese.md](../../../../../settings/chinese.md)
 [ch-1-the-rabbits-shadow.md](../../../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-1-shorts/chapters/chinese/ch-01-birthday-cake.md)
-[05-yan-sui-1-2.md](../../../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-sui/2025-12-27-yan-sui-1-2.md)
-[05-yan-sui-2-2.md](../../../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/characters/yan-sui/2025-12-30-yan-sui-2-2.md)
+[05-yan-sui-1-2.md](../../../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/author-chat/characters/yan-sui/2025-12-27-yan-sui-1-2.md)
+[05-yan-sui-2-2.md](../../../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/author-chat/characters/yan-sui/2025-12-30-yan-sui-2-2.md)
 
 # A
 

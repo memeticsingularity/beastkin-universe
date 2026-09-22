@@ -17,12 +17,12 @@
 worlds/<world>/{original-archives|adaptation-works}/<语言层>/<作品编码>/
 ├── README.md                 # 作品总览（必填）
 ├── metadata.yaml             # 元数据（必填，见 04-metadata.md）
-├── chapters/                 # 分章正文（分章作品必填；短篇作品不建）
-│   ├── ch-001-<slug>.md      # 三位数序号，字典序 = 阅读序（见 §4）
+├── chapters/                 # 正文（**所有作品都有**，分章与短篇一致）
+│   ├── ch-001-<slug>.md      # 分章：三位数序号，字典序 = 阅读序（见 §4）
 │   ├── ch-002-<slug>.md
+│   ├── <作品编码>.md          # 短篇（单篇）：以作品编码命名，直接在 chapters/ 下
 │   └── volume-2/             # 分卷时唯一允许的卷目录名（见 §5）
 │       └── ch-030-<slug>.md
-├── <作品编码>.md              # 短篇正文（短篇作品必填，单文件直接放作品根）
 ├── characters/               # 本作品角色档案（有档案时必填，见 §6）
 │   ├── README.md             # 索引（必填）
 │   └── <等级或分类>/         # 需要时再分层
@@ -33,6 +33,10 @@ worlds/<world>/{original-archives|adaptation-works}/<语言层>/<作品编码>/
 
 **判定作品类型只看 `metadata.yaml` 的 `form_type`**，不看目录名：
 `cm` = 主线分章、`cs` = 支线分章、`s` = 短篇。
+
+> **为什么短篇也放 `chapters/`**：正文位置全库唯一，工具与 AI 只需认一个路径
+> （`<作品>/chapters/`），不必先判断作品类型再找文件。短篇与分章的唯一差别是
+> 文件命名（`<编码>.md` vs `ch-001-*.md`）与 H1 形式（`# Story` vs `# Chapter N`）。
 
 ### 语言层
 
@@ -49,9 +53,16 @@ worlds/<world>/{original-archives|adaptation-works}/<语言层>/<作品编码>/
 
 ## 2. 短篇作品的形态
 
-短篇**不分章**：正文是作品根下的单文件 `<作品编码>.md`，不建 `chapters/`。
-若一篇内有多个独立小故事（短篇集），每个小故事仍是**独立作品目录**（各自有编码与 metadata），
-而不是塞进一个目录的 `chapters/`。
+短篇同样使用 `chapters/`，只是文件命名不同：
+
+| 形态 | 正文位置 |
+|------|---------|
+| 短篇（单篇） | `chapters/<作品编码>.md` |
+| 短篇集（一个作品含多篇独立小故事） | `chapters/<NN>-<slug>.md`，按序号排序 |
+| 分章 | `chapters/ch-001-<slug>.md`（见 §4） |
+
+短篇**不再**把正文放在作品根：作品根只允许 `README.md`、`metadata.yaml`、`chapters/`、
+`characters/`、`images/`、`original-text/`、`.process/`、`english/`。
 
 ---
 
@@ -60,15 +71,20 @@ worlds/<world>/{original-archives|adaptation-works}/<语言层>/<作品编码>/
 ```
 .process/
 ├── plans/          # 章节计划、全局优化方案（<YYYY-MM-DD>-<主题>.md 或 ch-NNN-plan.md）
-├── ai-discussion/  # 与 AI 的讨论记录（<YYYY-MM-DD>-<主题>.md + INDEX.md 索引）
+├── ai-discussion/  # 与 **AI** 的讨论记录（<YYYY-MM-DD>-<主题>.md + INDEX.md 索引）
+├── author-chat/    # 与 **作者本人** 的交流记录（作者提供的设定、意见、回复、口述剧情）
 ├── settings/       # 创作期设定（characters/ scenes/ systems/ levels/ 等）
 ├── history/        # 旧版本稿（ch-0NN-<slug>-vN.md）
 └── archive/        # 已完成/废弃的计划与讨论
 ```
 
+> **`ai-discussion/` 与 `author-chat/` 不可混用**：前者是与 AI 的对话，后者是与作者的对话。
+> 作者口述的设定、审阅意见、剧情指示一律进 `author-chat/`。
+
 **禁止**在作品根下另建这些目录名：`notes/`、`plan/`、`plans/`、`ai-discuss/`、`discussions/`、
-`discussion/`、`deepseek/`、`chat/`、`author-chat/`、`insights/`、`draft/`、`drafts/`、
-`vN-scrapped/`——它们一律并入上表对应位置（`author-chat` → `.process/ai-discussion/`）。
+`discussion/`、`deepseek/`、`chat/`、`insights/`、`draft/`、`drafts/`、`vN-scrapped/`、
+`author-chat/`——它们一律并入上表对应位置（`chat/` → `.process/ai-discussion/`；
+**`author-chat/` → `.process/author-chat/`**）。
 
 ---
 

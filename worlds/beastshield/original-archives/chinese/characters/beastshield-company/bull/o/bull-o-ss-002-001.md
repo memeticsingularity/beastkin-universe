@@ -79,4 +79,4 @@
 
 ---
 
-*档案来源：[SS-002 黑石](../../../../short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md)*
+*档案来源：[SS-002 黑石](../../../../short-stories/bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md)*

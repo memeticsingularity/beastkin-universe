@@ -130,7 +130,9 @@ ch-{三位数字}[-{英文标题简写}].md
 - **英文标题简写**（可选）：`ch-001-descent.md`、`ch-002-first-lesson.md`。
 - **子章节/修订草稿**：`ch-001-1.md`、`ch-001-2.md` 表示同一章的不同修订版本。
 
-短篇故事：单文件直接以作品编码命名，如 `bs-a-s-1-agent-infiltration.md`。
+短篇故事：正文同样放在 `chapters/` 下，单篇以作品编码命名，如
+`<作品编码>/chapters/bs-a-s-1-agent-infiltration.md`；短篇集为
+`chapters/<NN>-<slug>.md`。（作品结构见 [`14-work-structure.md`](14-work-structure.md)）
 
 ---
 

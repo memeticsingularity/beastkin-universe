@@ -24,7 +24,7 @@
 | 想找的内容 | 所在位置 |
 |-----------|---------|
 | **原作角色设定**（岩参、岩岁、壹安等） | [`beastshield/.process/settings/characters/`](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/) |
-| **原作者对话** | [`beastshield/.process/settings/author-chat/`](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/) |
+| **原作者对话** | [`beastshield/.process/settings/author-chat/`](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/author-chat) |
 | **改编侧角色档案** | [`../../character-archive/`](../../character-archive/) |
 
 **原则**：原作设定以 beastshield 侧为准，不可修改；改编侧如果发现冲突，在改编文档中标注差异即可。

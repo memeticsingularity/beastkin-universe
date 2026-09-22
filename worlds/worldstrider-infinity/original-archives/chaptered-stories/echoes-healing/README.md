@@ -29,8 +29,8 @@
 
 | 编号 | 角色 | 原作出处 | 悲剧线 | 治愈线 |
 |------|------|---------|--------|--------|
-| 2 | 无名虎杂兵 + 德牧伴侣 | 第三卷第10章《故友重逢》 | [g-无名虎](../../../../beastshield/adaptation-works/short-stories/series-5-original-echoes/2-g-nameless-tiger.md) | [g-无名虎·H](2-g-nameless-tiger-h.md) |
-| 4 | 虎司机 | 支线《带娃的老雷》 | [好奇心害死虎](../../../../beastshield/adaptation-works/short-stories/series-5-original-echoes/4-g-tiger-driver.md) | [g-虎司机·H](4-g-tiger-driver-h.md) |
+| 2 | 无名虎杂兵 + 德牧伴侣 | 第三卷第10章《故友重逢》 | [g-无名虎](../../../../beastshield/adaptation-works/short-stories/series-5-original-echoes/chapters/2-g-nameless-tiger.md) | [g-无名虎·H](2-g-nameless-tiger-h.md) |
+| 4 | 虎司机 | 支线《带娃的老雷》 | [好奇心害死虎](../../../../beastshield/adaptation-works/short-stories/series-5-original-echoes/chapters/4-g-tiger-driver.md) | [g-虎司机·H](4-g-tiger-driver-h.md) |
 
 ---
 

@@ -21,7 +21,7 @@ Short stories are self-contained single pieces, concise in length, focusing on a
 
 | 编码 | 中文标题 | 英文标题 | 状态 | 标签 | 链接 |
 |------|---------|---------|------|------|------|
-| `eks-o-s-001-snowy-watchtower` | 雪夜岗哨 | Snowy Watchtower | 已完成 | 短篇,狼兽人,雪山 | [阅读](../chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
+| `eks-o-s-001-snowy-watchtower` | 雪夜岗哨 | Snowy Watchtower | 已完成 | 短篇,狼兽人,雪山 | [阅读](../chaptered-stories/eks-o-s-001-snowy-watchtower/chapters/ch-001-snowy-watchtower.md) |
 
 ---
 
@@ -29,7 +29,7 @@ Short stories are self-contained single pieces, concise in length, focusing on a
 
 | Code | Title | Status | Tags | Link |
 |------|-------|--------|------|------|
-| `eks-o-s-001-snowy-watchtower` | Snowy Watchtower | Completed | short,wolf,snow | [Read](../chaptered-stories/eks-o-s-001-snowy-watchtower/ch-001-snowy-watchtower.md) |
+| `eks-o-s-001-snowy-watchtower` | Snowy Watchtower | Completed | short,wolf,snow | [Read](../chaptered-stories/eks-o-s-001-snowy-watchtower/chapters/ch-001-snowy-watchtower.md) |
 
 ---
 

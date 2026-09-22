@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿紧身短袖+短裤 |
 | **身份** | 兽盾公司守卫（被古博士绑架作为实验材料） |
 | **状态** | 已死亡 |
-| **首次登场** | [s-01：兽盾农家乐](../../../../short-stories/bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md) |
-| **最后登场** | [s-01：兽盾农家乐](../../../../short-stories/bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md) |
+| **首次登场** | [s-01：兽盾农家乐](../../../../short-stories/bs-o-s-1-farm-inn/chapters/bs-o-s-1-farm-inn.md) |
+| **最后登场** | [s-01：兽盾农家乐](../../../../short-stories/bs-o-s-1-farm-inn/chapters/bs-o-s-1-farm-inn.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [s-01：兽盾农家乐](../../../../short-stories/bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md)
+### [s-01：兽盾农家乐](../../../../short-stories/bs-o-s-1-farm-inn/chapters/bs-o-s-1-farm-inn.md)
 
 > 暗板刚打开，里面就传来一阵呜呜呜的声音，我打开壁灯一看，里面居然侧躺着一只被绑着的**熊兽人**，他身材粗壮魁梧，眼睛蒙着黑布，身穿一身**军绿紧身衣**，衣服上的标志一看就知道是**兽盾公司**的员工，两条粗壮的小腿被绑着横在地板上，只有一只肉脚穿着长**白袜**，另一只**白袜**则被塞进他的嘴里，使他无法出声。
 
@@ -65,4 +65,4 @@
 
 ---
 
-*档案来源：短篇 [s-01：兽盾农家乐](../../../../short-stories/bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md)*
+*档案来源：短篇 [s-01：兽盾农家乐](../../../../short-stories/bs-o-s-1-farm-inn/chapters/bs-o-s-1-farm-inn.md)*

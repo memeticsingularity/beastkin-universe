@@ -180,4 +180,4 @@
 ---
 
 *[返回原作回响系列](../../../../beastshield/adaptation-works/short-stories/series-5-original-echoes/README.md)*
-*[对应悲剧线](../../../../beastshield/adaptation-works/short-stories/series-5-original-echoes/4-g-tiger-driver.md)*
+*[对应悲剧线](../../../../beastshield/adaptation-works/short-stories/series-5-original-echoes/chapters/4-g-tiger-driver.md)*

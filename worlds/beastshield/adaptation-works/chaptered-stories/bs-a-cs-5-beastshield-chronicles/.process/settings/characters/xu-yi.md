@@ -144,4 +144,4 @@
 **相关文件**：
 
 - [第一章：白兔暗影](../../../chapters/chinese/ch-01-the-rabbits-shadow.md)
-- [第六章创作对话](../author-chat/chapters/2025-12-26-ch-6-1.md)
+- [第六章创作对话](../../author-chat/chapters/2025-12-26-ch-6-1.md)

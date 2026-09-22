@@ -138,7 +138,7 @@
 即使是已死亡的角色也有完整设定：
 
 - 岩岁与岳池的背景故事
-- 猎巡与云午的完整背景故事（见[背景故事](../author-chat/storyline/2025-12-25-chronicles-backstory-leopard-and-wolf.md)）
+- 猎巡与云午的完整背景故事（见[背景故事](../../author-chat/storyline/2025-12-25-chronicles-backstory-leopard-and-wolf.md)）
 - "阴间团圆也是团圆"
 
 ---

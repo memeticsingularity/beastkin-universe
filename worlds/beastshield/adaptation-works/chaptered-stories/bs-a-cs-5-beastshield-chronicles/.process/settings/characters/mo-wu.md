@@ -129,5 +129,5 @@
 
 **相关文件**：
 
-- [第六章创作对话](../author-chat/chapters/2025-12-26-ch-6-1.md)
-- [墨武角色讨论](../author-chat/characters/2025-12-30-mo-wu-discussion.md)
+- [第六章创作对话](../../author-chat/chapters/2025-12-26-ch-6-1.md)
+- [墨武角色讨论](../../author-chat/characters/2025-12-30-mo-wu-discussion.md)

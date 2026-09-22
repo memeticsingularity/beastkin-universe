@@ -28,7 +28,7 @@ if (!roots.length) {
 const BANNED_DIRS = new Set(['notes', 'plan', 'plans', 'ai-discuss', 'ai-discussions', 'discussion',
   'discussions', 'deepseek', 'chat', 'author-chat', 'insights', 'draft', 'drafts', 'en', 'chinese-copy']);
 const BANNED_DIR_RE = /(scrapped|scrap|deprecated|obsolete|_old|bak)$/i;
-const PROC_SUBDIRS = new Set(['plans', 'ai-discussion', 'settings', 'history', 'archive']);
+const PROC_SUBDIRS = new Set(['plans', 'ai-discussion', 'author-chat', 'settings', 'history', 'archive']);
 const VOLUME_RE = /^volume-\d+$/;
 
 let works = 0, bad = 0;
@@ -83,15 +83,23 @@ function checkWork(w, problems) {
   const inChapters = chFiles.filter(f => /^chapters\//.test(f.rel) || /(^|\/)chapters\//.test(f.rel));
 
   if (formType === 's') {
-    if (topChapters.length) problems.push('短篇作品不应有章节文件：' + topChapters.map(f => f.rel).join(', '));
-    if (!fs.existsSync(path.join(w, code + '.md'))) problems.push('短篇正文缺失（应为 ' + code + '.md）');
+    if (topChapters.length) problems.push('短篇正文应放进 chapters/（不得放在作品根）：' + topChapters.map(f => f.rel).join(', '));
+    const shortMd = listDir(path.join(w, 'chapters')).filter(e => e.isFile() && e.name.endsWith('.md'));
+    if (!shortMd.length) problems.push('短篇正文缺失（应为 chapters/' + code + '.md 或 chapters/<NN>-<slug>.md）');
   } else if (formType === 'cm' || formType === 'cs') {
     if (!inChapters.length) problems.push('分章作品缺 chapters/ 下的章节文件');
   } else {
     problems.push('metadata.yaml 缺 form_type（应为 cm/cs/s）');
   }
 
-  if (topChapters.length) problems.push('章节不得散放在作品根或非 chapters/ 目录：' + topChapters.map(f => f.rel).join(', '));
+  // 作品根只允许固定条目（短篇正文也不得留在根）
+  const ALLOWED_ROOT = new Set(['README.md', 'metadata.yaml', 'chapters', 'characters', 'images',
+    'original-text', '.process', 'english', 'AGENTS.md', '.gitkeep']);
+  for (const e of listDir(w)) {
+    if (e.name === '.git' || ALLOWED_ROOT.has(e.name)) continue;
+    problems.push('作品根出现非标准条目（应移入 chapters/ 或 .process/ 等固定位置）：' + e.name);
+  }
+
   if (bannedFound.length) problems.push('禁用目录名（应按 §3 归入 .process/ 或 english/）：' + [...new Set(bannedFound)].join(', '));
   if (badVolume.length) problems.push('卷目录命名应为 volume-{数字}：' + [...new Set(badVolume)].join(', '));
   if (badChapterName.length) problems.push('章节命名应为 ch-{三位数字}[-slug].md：' + badChapterName.slice(0, 8).join(', ') + (badChapterName.length > 8 ? ' …' : ''));

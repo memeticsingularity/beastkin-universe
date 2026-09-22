@@ -102,7 +102,7 @@ yan-sui/
 | 想找的内容 / What to find | 所在位置 / Location |
 |---|---|
 | **原作角色设定**（岩参、岩岁、壹安等）/ **Original Character Profiles** (Yan Can, Yan Sui, Yi An, etc.) | [`bs-a-cs-5-beastshield-chronicles/.process/settings/characters/`](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/) |
-| **原作者对话/设定来源** / **Original Author Chat/Setting Sources** | [`bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/`](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/) |
+| **原作者对话/设定来源** / **Original Author Chat/Setting Sources** | [`bs-a-cs-5-beastshield-chronicles/.process/settings/author-chat/`](../../../../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/author-chat) |
 | **改编故事（岩参死亡线）/ Adaptation Story (Yan Can Death Line)** | [`branches/yan-can-canon-death/`](./branches/yan-can-canon-death/) |
 | **改编版本分析/对比 / Adaptation Version Analysis/Comparison** | [`discussions/`](./discussions/) |
 | **AI 创作讨论记录 / AI Creation Discussion Records** | [`ai-discuss/`](./ai-discuss/) |

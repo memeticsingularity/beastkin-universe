@@ -87,4 +87,4 @@
 **相关文件**：
 
 - [第二章：矿石与暗流](../../../chapters/chinese/ch-02-ore-and-undercurrents.md)
-- [第九章创作对话：警官对峙](../author-chat/chapters/2026-02-12-ch-9-3.md)
+- [第九章创作对话：警官对峙](../../author-chat/chapters/2026-02-12-ch-9-3.md)

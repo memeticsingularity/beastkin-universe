@@ -96,15 +96,15 @@ At midnight, a black panther agent infiltrates a remote factory guarded by an or
 
 ## 五、正文 / Story
 
-- [中文版](zh/black-panther-factory-clearing.md)
-- [English](en/black-panther-factory-clearing.md)
+- [中文版](chapters/black-panther-factory-clearing.md)
+- [English](english/chapters/black-panther-factory-clearing.md)
 
 ---
 
 ## V. Story
 
-- [Chinese](zh/black-panther-factory-clearing.md)
-- [English](en/black-panther-factory-clearing.md)
+- [Chinese](chapters/black-panther-factory-clearing.md)
+- [English](english/chapters/black-panther-factory-clearing.md)
 
 ---
 

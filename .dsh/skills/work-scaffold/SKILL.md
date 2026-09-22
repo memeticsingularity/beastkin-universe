@@ -34,7 +34,7 @@ whenToUse: 用户要求"新建作品/开一个新坑/加一章/建一个短篇"�
 
 ## 三、绝不允许
 
-- 在作品根散放章节；新建 `notes/`、`plans/`、`draft/`、`ai-discuss/`、`chat/`、`en/` 等目录
+- 在作品根散放正文；新建 `notes/`、`plans/`、`draft/`、`ai-discuss/`、`chat/`、`en/` 等目录
   （过程产物一律进 `.process/{plans,ai-discussion,settings,history,archive}/`）
-- 短篇作品建 `chapters/`（短篇正文是作品根的 `<code>.md`）
+- 把短篇正文放在作品根（**所有正文都在 `chapters/`**：短篇是 `chapters/<编码>.md`，短篇集是 `chapters/<NN>-<slug>.md`）
 - 双语用 `en/` 或 `*-en.md`（英文版放 `english/`）

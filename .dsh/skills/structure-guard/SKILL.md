@@ -23,11 +23,13 @@ node scripts/qa/check-links.js .                      # 移动后必须为 0 失
 
 | 现状 | 归入 |
 |------|------|
+| 作品根散放的短篇正文 `<编码>.md` | `chapters/<编码>.md` |
+| 作品根散放的 `ch-*.md` | `chapters/` |
 | `notes/`、`plan/`、`plans/` | `.process/plans/` |
-| `ai-discuss/`、`discussions/`、`discussion/`、`deepseek/`、`chat/`、`author-chat/`、`insights/` | `.process/ai-discussion/` |
+| `ai-discuss/`、`discussions/`、`discussion/`、`deepseek/`、`chat/`、`insights/` | `.process/ai-discussion/`（**与 AI** 的讨论） |
+| `author-chat/`（散落各处时） | `.process/author-chat/`（**与作者本人**的交流，勿与 AI 讨论混放） |
 | `draft/`、`drafts/`、`vN-scrapped/`、`history/` | `.process/history/`（废弃稿） |
 | `en/`、`*-en.md` | `english/`（分章放 `english/chapters/`） |
-| 作品根散放的 `ch-*.md` | `chapters/` |
 | `vol-1/`、`v1/`、`volume-1-xxx/` | `chapters/volume-{数字}/` |
 
 ## 移动目录的标准动作（顺序不可改）

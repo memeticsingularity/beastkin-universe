@@ -12,8 +12,8 @@
 | **等级/制服** | E级 / 黑色紧身制服 |
 | **身份** | 武斗兵小队长，小队最强成员 |
 | **状态** | 已死亡 |
-| **首次登场** | [SS-005 兽盾员工的一天](../../../../short-stories/bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md) |
-| **最后登场** | [SS-005 兽盾员工的一天](../../../../short-stories/bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md) |
+| **首次登场** | [SS-005 兽盾员工的一天](../../../../short-stories/bs-o-s-5-employee-diary/chapters/bs-o-s-5-employee-diary.md) |
+| **最后登场** | [SS-005 兽盾员工的一天](../../../../short-stories/bs-o-s-5-employee-diary/chapters/bs-o-s-5-employee-diary.md) |
 
 ## 二、外貌特征
 
@@ -95,4 +95,4 @@
 
 ---
 
-*档案来源：[SS-005 兽盾员工的一天](../../../../short-stories/bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md)*
+*档案来源：[SS-005 兽盾员工的一天](../../../../short-stories/bs-o-s-5-employee-diary/chapters/bs-o-s-5-employee-diary.md)*

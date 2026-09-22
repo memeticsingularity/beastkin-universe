@@ -80,13 +80,13 @@ For detailed settings, see: [settings/](settings/)
 
 | 编码 | 中文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
 |:--|:--|:--:|:--:|:--:|:--:|:--|
-| `bs-o-s-1-farm-inn` | 兽盾农家乐 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-1-farm-inn/bs-o-s-1-farm-inn.md) |
-| `bs-o-s-2-blackstone` | 黑石 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-2-blackstone/bs-o-s-2-blackstone.md) |
-| `bs-o-s-3-blackstone-2` | 黑石2 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-3-blackstone-2/bs-o-s-3-blackstone-2.md) |
-| `bs-o-s-4-captive-delivery` | 俘虏快递 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-4-captive-delivery/bs-o-s-4-captive-delivery.md) |
-| `bs-o-s-5-employee-diary` | 兽盾员工的一天 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-5-employee-diary/bs-o-s-5-employee-diary.md) |
-| `bs-o-s-6-night-raid` | 夜袭 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-6-night-raid/bs-o-s-6-night-raid.md) |
-| `bs-o-s-7-graduation-internship` | 毕业实习 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-7-graduation-internship/bs-o-s-7-graduation-internship.md) |
+| `bs-o-s-1-farm-inn` | 兽盾农家乐 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-1-farm-inn/chapters/bs-o-s-1-farm-inn.md) |
+| `bs-o-s-2-blackstone` | 黑石 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-2-blackstone/chapters/bs-o-s-2-blackstone.md) |
+| `bs-o-s-3-blackstone-2` | 黑石2 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-3-blackstone-2/chapters/bs-o-s-3-blackstone-2.md) |
+| `bs-o-s-4-captive-delivery` | 俘虏快递 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-4-captive-delivery/chapters/bs-o-s-4-captive-delivery.md) |
+| `bs-o-s-5-employee-diary` | 兽盾员工的一天 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-5-employee-diary/chapters/bs-o-s-5-employee-diary.md) |
+| `bs-o-s-6-night-raid` | 夜袭 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-6-night-raid/chapters/bs-o-s-6-night-raid.md) |
+| `bs-o-s-7-graduation-internship` | 毕业实习 | — | — | — | — | [阅读](original-archives/chinese/short-stories/bs-o-s-7-graduation-internship/chapters/bs-o-s-7-graduation-internship.md) |
 
 ### 4.2 改编作品 / Adaptation Works
 

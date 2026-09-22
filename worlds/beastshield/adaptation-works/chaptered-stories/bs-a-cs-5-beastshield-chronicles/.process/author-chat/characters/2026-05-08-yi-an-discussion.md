@@ -141,5 +141,5 @@
 ## 六、与现有档案的关联
 
 - [2026-05-07-yan-can-original-death.md](2026-05-07-yan-can-original-death.md)：岩参原作死亡线核心设定（壹安首次被提及）
-- [岩参角色设定](../../characters/yan-sui.md)：兽盾编年史中的岩岁V1设定
-- [壹安角色设定](../../characters/yi-an.md)：基于本次讨论整理的角色文档
+- [岩参角色设定](../../settings/characters/yan-sui.md)：兽盾编年史中的岩岁V1设定
+- [壹安角色设定](../../settings/characters/yi-an.md)：基于本次讨论整理的角色文档
