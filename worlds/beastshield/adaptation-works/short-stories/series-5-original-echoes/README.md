@@ -86,10 +86,10 @@
 
 | 编号 | 悲剧线 | 治愈线 |
 |------|--------|--------|
-| 2 | [g-无名虎](chapters/ch-002-g-nameless-tiger.md) | [g-无名虎·H](../../../../worldstrider-infinity/original-archives/chaptered-stories/echoes-healing/2-g-nameless-tiger-h.md) |
-| 4 | [好奇心害死虎](chapters/ch-004-g-tiger-driver.md) | [好奇心害死虎·H](../../../../worldstrider-infinity/original-archives/chaptered-stories/echoes-healing/4-g-tiger-driver-h.md) |
+| 2 | [g-无名虎](chapters/ch-002-g-nameless-tiger.md) | [g-无名虎·H](../../../../worldstrider-infinity/original-archives/chinese/chaptered-stories/side/echoes-healing/2-g-nameless-tiger-h.md) |
+| 4 | [好奇心害死虎](chapters/ch-004-g-tiger-driver.md) | [好奇心害死虎·H](../../../../worldstrider-infinity/original-archives/chinese/chaptered-stories/side/echoes-healing/4-g-tiger-driver-h.md) |
 
-完整治愈线目录见：[echoes-healing](../../../../worldstrider-infinity/original-archives/chaptered-stories/echoes-healing/README.md)
+完整治愈线目录见：[echoes-healing](../../../../worldstrider-infinity/original-archives/chinese/chaptered-stories/side/echoes-healing/README.md)
 
 ---
 

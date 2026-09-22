@@ -14,7 +14,7 @@
 | **状态** | **已死亡**——晋升牛组长后于vol-2-ch-10被魔影酷刑射精19次而死 |
 | **首次登场** | [vol-1-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-007-training-subordinates.md) |
 | **最后登场** | [vol-2-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)（尸体被嗜精兽头目吸收） |
-| **后续身份** | [冥府牛头→十三层守护者](../../../../chaptered-stories/characters/player-subordinates/niu-za.md)（详见player-subordinates档案） |
+| **后续身份** | [冥府牛头→十三层守护者](../../../player-subordinates/niu-za.md)（详见player-subordinates档案） |
 
 ---
 

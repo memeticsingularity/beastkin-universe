@@ -14,7 +14,7 @@
 | **状态** | **已死亡**——晋升熊组长后于vol-2-ch-08被魔影破金钟罩射精而死 |
 | **首次登场** | [vol-1-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-007-training-subordinates.md) |
 | **最后登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md) |
-| **后续身份** | [熊组长→十一层守护者](../../../../chaptered-stories/characters/player-subordinates/xiong-zhang.md)（详见player-subordinates档案） |
+| **后续身份** | [熊组长→十一层守护者](../../../player-subordinates/xiong-zhang.md)（详见player-subordinates档案） |
 
 ---
 

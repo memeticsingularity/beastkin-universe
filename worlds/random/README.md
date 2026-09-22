@@ -54,8 +54,8 @@ random/
 
 | 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 链接 |
 |------|--------|--------|:--:|:--:|:--:|------|
-| `rd-s-1` | 黑豹工厂清剿（lanse 里世界观实验作） | Black Panther Factory Clearing | Lv.4 | Lv.4 | Lv.2 | [项目目录](original-archives/short-stories/rd-s-1-black-panther-factory-clearing/README.md) |
-| `rd-s-2` | 奶牛公司（lanse 独立短篇） | Cow Company | Lv.4 | Lv.0 | Lv.1 | [项目目录](original-archives/short-stories/rd-s-2-cow-company/README.md) |
+| `rd-s-1` | 黑豹工厂清剿（lanse 里世界观实验作） | Black Panther Factory Clearing | Lv.4 | Lv.4 | Lv.2 | [项目目录](original-archives/chinese/short-stories/rd-s-1-black-panther-factory-clearing/README.md) |
+| `rd-s-2` | 奶牛公司（lanse 独立短篇） | Cow Company | Lv.4 | Lv.0 | Lv.1 | [项目目录](original-archives/chinese/short-stories/rd-s-2-cow-company/README.md) |
 
 ---
 

@@ -2340,7 +2340,7 @@
 
 #### ch-1.jpg
 
-![ch-1.jpg](./main-story/vol%201/ch-1.jpg)
+![ch-1.jpg](main-story/vol 1/ch-1.jpg)
 
 **观察到的细节：**
 
@@ -2359,7 +2359,7 @@
 
 #### ch-2.jpg
 
-![ch-2.jpg](./main-story/vol%201/ch-2.jpg)
+![ch-2.jpg](main-story/vol 1/ch-2.jpg)
 
 **观察到的细节：**
 
@@ -2376,7 +2376,7 @@
 
 #### ch-03-1.jpg
 
-![ch-03-1.jpg](main-story/vol%201/ch-3-1.jpg)
+![ch-03-1.jpg](main-story/vol 1/ch-3-1.jpg)
 
 **观察到的细节：**
 
@@ -2389,7 +2389,7 @@
 
 #### ch-03-2.jpg
 
-![ch-03-2.jpg](main-story/vol%201/ch-3-2.jpg)
+![ch-03-2.jpg](main-story/vol 1/ch-3-2.jpg)
 
 **观察到的细节：**
 
@@ -2405,7 +2405,7 @@
 
 ### 2.4 第4章
 
-![ch-03-1.jpg](main-story/vol%201/ch-3-1.jpg)
+![ch-03-1.jpg](main-story/vol 1/ch-3-1.jpg)
 
 **观察到的细节：**
 
@@ -2420,7 +2420,7 @@
 
 #### ch-4.jpg
 
-![ch-4.jpg](./main-story/vol%201/ch-4.jpg)
+![ch-4.jpg](main-story/vol 1/ch-4.jpg)
 
 **观察到的细节：**
 
@@ -2436,7 +2436,7 @@
 
 #### ch-5.jpg
 
-![ch-5.jpg](./main-story/vol%201/ch-5.jpg)
+![ch-5.jpg](main-story/vol 1/ch-5.jpg)
 
 **观察到的细节：**
 
@@ -2454,7 +2454,7 @@
 
 #### ch-6.jpg
 
-![ch-6.jpg](./main-story/vol%201/ch-6.jpg)
+![ch-6.jpg](main-story/vol 1/ch-6.jpg)
 
 **观察到的细节：**
 
@@ -2472,7 +2472,7 @@
 
 #### ch-7.jpg
 
-![ch-7.jpg](./main-story/vol%201/ch-7.jpg)
+![ch-7.jpg](main-story/vol 1/ch-7.jpg)
 
 **观察到的细节：**
 
@@ -2490,7 +2490,7 @@
 
 #### ch-8.jpg
 
-![ch-8.jpg](./main-story/vol%201/ch-8.jpg)
+![ch-8.jpg](main-story/vol 1/ch-8.jpg)
 
 **观察到的细节：**
 
@@ -2508,7 +2508,7 @@
 
 #### ch-09-1.jpg
 
-![ch-09-1.jpg](main-story/vol%201/ch-9-1.jpg)
+![ch-09-1.jpg](main-story/vol 1/ch-9-1.jpg)
 
 **观察到的细节：**
 
@@ -2523,7 +2523,7 @@
 
 #### ch-09-2.jpg
 
-![ch-09-2.jpg](main-story/vol%201/ch-9-2.jpg)
+![ch-09-2.jpg](main-story/vol 1/ch-9-2.jpg)
 
 **观察到的细节：**
 
@@ -2540,7 +2540,7 @@
 
 ### 2.8 第11章
 
-![ch-09-1.jpg](main-story/vol%201/ch-9-1.jpg)
+![ch-09-1.jpg](main-story/vol 1/ch-9-1.jpg)
 
 **观察到的细节：**
 
@@ -2557,7 +2557,7 @@
 
 #### ch-11.jpg
 
-![ch-11.jpg](main-story/vol%201/ch-11.jpg)
+![ch-11.jpg](main-story/vol 1/ch-11.jpg)
 
 **观察到的细节：**
 
@@ -2576,7 +2576,7 @@
 
 #### ch-12-1.jpg
 
-![ch-12-1.jpg](main-story/vol%201/ch-12-1.jpg)
+![ch-12-1.jpg](main-story/vol 1/ch-12-1.jpg)
 
 **观察到的细节：**
 
@@ -2591,7 +2591,7 @@
 
 #### ch-12-2.jpg
 
-![ch-12-2.jpg](main-story/vol%201/ch-12-2.jpg)
+![ch-12-2.jpg](main-story/vol 1/ch-12-2.jpg)
 
 **观察到的细节：**
 
@@ -2607,7 +2607,7 @@
 
 #### ch-12-3.jpg
 
-![ch-12-3.jpg](main-story/vol%201/ch-12-3.jpg)
+![ch-12-3.jpg](main-story/vol 1/ch-12-3.jpg)
 
 **观察到的细节：**
 
@@ -2623,7 +2623,7 @@
 
 #### ch-12-4.jpg
 
-![ch-12-4.jpg](main-story/vol%201/ch-12-4.jpg)
+![ch-12-4.jpg](main-story/vol 1/ch-12-4.jpg)
 
 **观察到的细节：**
 
@@ -2641,7 +2641,7 @@
 
 #### 20230418.jpg
 
-![20230418.jpg](./main-story/vol%202/20230418.jpg)
+![20230418.jpg](main-story/vol 2/20230418.jpg)
 
 **观察到的细节：**
 
@@ -2659,7 +2659,7 @@
 
 #### 20230419.jpg
 
-![20230419.jpg](./main-story/vol%202/20230419.jpg)
+![20230419.jpg](main-story/vol 2/20230419.jpg)
 
 **观察到的细节：**
 
@@ -2676,7 +2676,7 @@
 
 #### 20230501.jpg
 
-![20230501.jpg](./main-story/vol%202/20230501.jpg)
+![20230501.jpg](main-story/vol 2/20230501.jpg)
 
 **观察到的细节：**
 

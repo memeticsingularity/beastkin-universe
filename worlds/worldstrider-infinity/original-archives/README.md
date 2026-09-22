@@ -23,7 +23,7 @@ Original and adaptation archives for Worldstrider: Infinity, containing original
 
 | 编码 | 中文标题 | 英文标题 | 标签 | 链接 |
 |------|---------|---------|------|------|
-| `wi-o-cs-1-yan-sui` | 岩岁/岩参父子救赎故事 | Yan Sui / Yan Can Redemption Story | `redemption`, `father-son`, `dog`, `tiger` | [目录](chaptered-stories/yan-sui/README.md) |
+| `wi-o-cs-1-yan-sui` | 岩岁/岩参父子救赎故事 | Yan Sui / Yan Can Redemption Story | `redemption`, `father-son`, `dog`, `tiger` | [目录](chinese/chaptered-stories/main/yan-sui/README.md) |
 
 ### 短篇 / Short Stories
 
@@ -35,8 +35,8 @@ Original and adaptation archives for Worldstrider: Infinity, containing original
 
 | 角色 | 类型 | 链接 |
 |------|------|------|
-| 岩岁 / Yan Sui | 改编侧整理 | [阅读](character-archive/yan-sui.md) |
-| 岩参 / Yan Can | 改编侧整理 | [阅读](character-archive/yan-can.md) |
+| 岩岁 / Yan Sui | 改编侧整理 | [阅读](chinese/characters/yan-sui.md) |
+| 岩参 / Yan Can | 改编侧整理 | [阅读](chinese/characters/yan-can.md) |
 
 ---
 
@@ -46,7 +46,7 @@ Original and adaptation archives for Worldstrider: Infinity, containing original
 
 | Code | Title | Tags | Link |
 |------|-------|------|------|
-| `wi-o-cs-1-yan-sui` | Yan Sui / Yan Can Redemption Story | `redemption`, `father-son`, `dog`, `tiger` | [Directory](chaptered-stories/yan-sui/README.md) |
+| `wi-o-cs-1-yan-sui` | Yan Sui / Yan Can Redemption Story | `redemption`, `father-son`, `dog`, `tiger` | [Directory](chinese/chaptered-stories/main/yan-sui/README.md) |
 
 ### Short Stories
 
@@ -58,8 +58,8 @@ Original and adaptation archives for Worldstrider: Infinity, containing original
 
 | Character | Type | Link |
 |-----------|------|------|
-| Yan Sui | Adaptation-side archive | [Read](character-archive/yan-sui.md) |
-| Yan Can | Adaptation-side archive | [Read](character-archive/yan-can.md) |
+| Yan Sui | Adaptation-side archive | [Read](chinese/characters/yan-sui.md) |
+| Yan Can | Adaptation-side archive | [Read](chinese/characters/yan-can.md) |
 
 ---
 
@@ -69,16 +69,16 @@ Original and adaptation archives for Worldstrider: Infinity, containing original
 
 | 标签 | 作品 |
 |------|------|
-| `redemption` | [岩岁/岩参](chaptered-stories/yan-sui/) |
-| `father-son` | [岩岁/岩参](chaptered-stories/yan-sui/) |
-| `death` | [岩参死亡线](chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
+| `redemption` | [岩岁/岩参](chinese/chaptered-stories/main/yan-sui) |
+| `father-son` | [岩岁/岩参](chinese/chaptered-stories/main/yan-sui) |
+| `death` | [岩参死亡线](chinese/chaptered-stories/main/yan-sui/branches/yan-can-canon-death) |
 
 ### 按兽人类型 / By Species
 
 | 类型 | 作品 |
 |------|------|
-| 犬 / Dog | [岩参](chaptered-stories/yan-sui/) |
-| 虎 / Tiger | [岩岁](chaptered-stories/yan-sui/) |
+| 犬 / Dog | [岩参](chinese/chaptered-stories/main/yan-sui) |
+| 虎 / Tiger | [岩岁](chinese/chaptered-stories/main/yan-sui) |
 
 ---
 
@@ -88,16 +88,16 @@ Original and adaptation archives for Worldstrider: Infinity, containing original
 
 | Tag | Works |
 |-----|-------|
-| `redemption` | [Yan Sui / Yan Can](chaptered-stories/yan-sui/) |
-| `father-son` | [Yan Sui / Yan Can](chaptered-stories/yan-sui/) |
-| `death` | [Yan Can Canon Death](chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
+| `redemption` | [Yan Sui / Yan Can](chinese/chaptered-stories/main/yan-sui) |
+| `father-son` | [Yan Sui / Yan Can](chinese/chaptered-stories/main/yan-sui) |
+| `death` | [Yan Can Canon Death](chinese/chaptered-stories/main/yan-sui/branches/yan-can-canon-death) |
 
 ### By Species
 
 | Species | Works |
 |---------|-------|
-| Dog | [Yan Can](chaptered-stories/yan-sui/) |
-| Tiger | [Yan Sui](chaptered-stories/yan-sui/) |
+| Dog | [Yan Can](chinese/chaptered-stories/main/yan-sui) |
+| Tiger | [Yan Sui](chinese/chaptered-stories/main/yan-sui) |
 
 ---
 

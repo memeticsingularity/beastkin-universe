@@ -42,7 +42,7 @@ beastman-prototype/
 
 | 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 类型 | 链接 |
 |------|--------|--------|:--:|:--:|:--:|------|------|
-| `bo-c-1` | 黄坡山寨 | Yellow Slope Stronghold | Lv.4 | Lv.4 | Lv.1 | 长篇章节 | [项目目录](original-archives/chaptered-stories/bo-c-1-yellow-slope-stronghold/README.md) |
+| `bo-c-1` | 黄坡山寨 | Yellow Slope Stronghold | Lv.4 | Lv.4 | Lv.1 | 长篇章节 | [项目目录](original-archives/chinese/chaptered-stories/main/bo-c-1-yellow-slope-stronghold/README.md) |
 
 ---
 

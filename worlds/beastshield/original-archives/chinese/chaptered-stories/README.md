@@ -24,7 +24,7 @@
 |------|------|-------------|
 | [`main/`](main/) | 主线故事 | Main storyline |
 | [`side/`](side/) | 支线故事 | Side stories |
-| [`characters/`](characters/) | 角色档案 | Character archive |
+| [`characters/`](../characters/player-subordinates) | 角色档案 | Character archive |
 
 ---
 

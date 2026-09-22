@@ -133,6 +133,148 @@ function findWorks(d, out) {
   return out;
 }
 
+// ---------- 世界观层校验（--world）：见 docs/spec/14-work-structure.md §2 ----------
+const WORLD_TOP_ALLOWED = new Set(['README.md', 'AGENTS.md', 'settings', 'images', 'skills',
+  'original-archives', 'adaptation-works', '.process', '.git', '.gitkeep']);
+const LANG_LAYER_ALLOWED = new Set(['chaptered-stories', 'short-stories', 'characters', 'images', 'README.md', '.gitkeep']);
+const ARCHIVE1_ALLOWED = new Set(['chinese', 'english', 'ai-discussion', 'characters', 'images', 'README.md', '.gitkeep']);
+const FORM_GROUP_ALLOWED = new Set(['main', 'side', 'extras', '.gitkeep']);
+const WORLD_BANNED = new Set(['character-archive', 'character-archives', 'templates', 'docs', 'notes',
+  'setting', 'img', 'image', 'pics', 'skill', 'ai-discuss', 'chat', 'discusses', 'discussions']);
+const WORK_PATH_RES = [
+  /^original-archives\/(chinese|english)\/chaptered-stories\/(main|side|extras)\/[^/]+$/,
+  /^original-archives\/(chinese|english)\/short-stories\/[^/]+$/,
+  /^adaptation-works\/(chaptered-stories|short-stories)\/[^/]+$/,
+];
+
+function relOf(p) { return path.relative(process.cwd(), p).replace(/\\/g, '/'); }
+
+function checkWorld(w) {
+  const problems = [];
+  const relD = p => path.relative(w, p).replace(/\\/g, '/');
+
+  // 1) 顶层白名单 + 世界级命名
+  if (!fs.existsSync(path.join(w, 'README.md'))) problems.push('世界观根缺 README.md');
+  for (const e of listDir(w)) {
+    if (e.name === '.git') continue;
+    if (!WORLD_TOP_ALLOWED.has(e.name)) {
+      problems.push(WORLD_BANNED.has(e.name)
+        ? '禁止的世界级目录名（应为规范命名，见 spec §2.4）：' + e.name
+        : '世界观根出现非标准条目（spec §2.1 白名单之外）：' + e.name);
+    }
+  }
+
+  // 2) original-archives 第一层白名单（W1）
+  const oa = path.join(w, 'original-archives');
+  if (fs.existsSync(oa)) {
+    for (const e of listDir(oa)) {
+      if (!ARCHIVE1_ALLOWED.has(e.name)) {
+        problems.push('original-archives 第一层只允许 chinese/english/ai-discussion/characters/images/README.md，实际出现：' + e.name);
+      }
+    }
+    // 3) 语言层内部白名单（W3）+ chaptered-stories 分组（W4）
+    for (const lang of ['chinese', 'english']) {
+      const lp = path.join(oa, lang);
+      if (!fs.existsSync(lp)) continue;
+      for (const e of listDir(lp)) {
+        if (!LANG_LAYER_ALLOWED.has(e.name)) problems.push(`${lang}/ 下只允许 chaptered-stories/short-stories/characters/images/README.md，实际出现：${e.name}`);
+      }
+      const cs = path.join(lp, 'chaptered-stories');
+      if (fs.existsSync(cs)) {
+        for (const e of listDir(cs)) {
+          if (e.isFile()) {
+            if (!['README.md', '.gitkeep'].includes(e.name)) problems.push(`${lang}/chaptered-stories/ 下不得直接放文件：${e.name}`);
+            continue;
+          }
+          if (!FORM_GROUP_ALLOWED.has(e.name)) {
+            problems.push(`${lang}/chaptered-stories/ 下应分入 main|side|extras，直接出现目录：${e.name}`);
+          }
+        }
+      }
+      // 短篇层同理：只允许作品目录 + README.md
+      const ss = path.join(lp, 'short-stories');
+      if (fs.existsSync(ss)) {
+        for (const e of listDir(ss)) {
+          if (e.isFile() && !['README.md', '.gitkeep'].includes(e.name)) {
+            problems.push(`${lang}/short-stories/ 下不得直接放文件：${e.name}`);
+          }
+        }
+      }
+    }
+  }
+
+  // 4) 每个作品目录必须落在规范路径（W2/W5）
+  const worksFound = [];
+  (function scan(d) {
+    for (const e of listDir(d)) {
+      if (!e.isDirectory() || e.name === '.git') continue;
+      const p = path.join(d, e.name);
+      if (fs.existsSync(path.join(p, 'metadata.yaml'))) { worksFound.push(p); continue; }
+      scan(p);
+    }
+  })(w);
+  for (const wk of worksFound) {
+    const rel = relD(wk);
+    if (!WORK_PATH_RES.some(re => re.test(rel))) {
+      problems.push('作品目录位置不合规：' + rel + '（应为 original-archives/<lang>/{chaptered-stories/{main|side|extras}|short-stories}/<编码> 或 adaptation-works/{chaptered-stories|short-stories}/<编码>）');
+    }
+  }
+
+  // 5) 世界级散落正文（W2 的另一面）：作品目录之外不应出现 ch-*.md
+  //    跳过讨论/分析/过程类目录（其中的 ch-*-analysis.md 等不是正文）
+  const NON_STORY_DIRS = new Set(['ai-discussion', 'ai-discuss', 'insights', 'check', 'opt', 'process',
+    'qa-session', 'setting', 'settings', 'tech', '_guides', 'history', 'archive', 'notes', 'draft', 'drafts']);
+  const loose = [];
+  (function scan(d) {
+    for (const e of listDir(d)) {
+      if (e.name === '.git') continue;
+      const p = path.join(d, e.name);
+      if (e.isDirectory()) {
+        if (e.name.startsWith('.') || NON_STORY_DIRS.has(e.name)) continue;
+        if (fs.existsSync(path.join(p, 'metadata.yaml'))) continue;   // 作品内部由作品校验负责
+        scan(p);
+      } else if (/^ch-.*\.md$/i.test(e.name)) loose.push(relD(p));
+    }
+  })(w);
+  if (loose.length) problems.push('作品目录之外出现章节文件（应先建成作品）：' + loose.slice(0, 6).join(', ') + (loose.length > 6 ? ` …共 ${loose.length} 个` : ''));
+
+  return { problems, works: worksFound.length };
+}
+
+// ---------- 执行 ----------
+const WORLD_MODE = process.argv.includes('--world');
+
+if (WORLD_MODE) {
+  const worldDirs = [];
+  for (const r of roots) {
+    const abs = path.resolve(r);
+    if (!fs.existsSync(abs)) { console.error('路径不存在: ' + r); process.exit(2); }
+    // 传入 worlds/ 或仓库根时，逐个世界观；传入单个世界观目录时只查它
+    const looksLikeWorld = fs.existsSync(path.join(abs, 'original-archives')) ||
+      fs.existsSync(path.join(abs, 'adaptation-works')) ||
+      fs.existsSync(path.join(abs, 'settings'));
+    if (looksLikeWorld) worldDirs.push(abs);
+    else for (const e of listDir(abs)) if (e.isDirectory() && e.name !== '.git') worldDirs.push(path.join(abs, e.name));
+  }
+
+  let wBad = 0, wTotal = 0, wWorks = 0;
+  const wIssues = [];
+  for (const w of worldDirs) {
+    if (!fs.existsSync(path.join(w, 'README.md')) && !fs.existsSync(path.join(w, 'original-archives'))) continue;
+    wTotal++;
+    const { problems, works: n } = checkWorld(w);
+    wWorks += n;
+    if (problems.length) {
+      wBad++;
+      wIssues.push('  ' + relOf(w) + '\n      ' + problems.join('\n      '));
+    }
+  }
+  console.log('受检世界观: ' + wTotal + '（内含作品 ' + wWorks + '） | 不合规: ' + wBad);
+  if (wIssues.length) { console.log('\n=== 明细 ==='); wIssues.forEach(i => console.log(i)); }
+  else console.log('全部符合 docs/spec/14-work-structure.md §2 世界观层规则');
+  process.exit(wBad ? 1 : 0);
+}
+
 const found = [];
 for (const r of roots) {
   const abs = path.resolve(r);

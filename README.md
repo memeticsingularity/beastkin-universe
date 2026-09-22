@@ -211,8 +211,8 @@ lanse 创作生涯中最早的兽人世界观原型，后演变为兽盾世界�
 | **兽盾乐园** | 主线 | [兽盾乐园主线](worlds/beastshield-paradise/original-archives/chinese/chaptered-stories/main/README.md) |
 | **帝国犬兵** | 主线 | [帝国犬兵主线](worlds/empire-kik-soldiers/original-archives/chinese/chaptered-stories/main/README.md) |
 | **万兽盟** | 主线 | [万兽盟主线](worlds/united-beasts-alliance/original-archives/chinese/chaptered-stories/main/uba-o-cm-1-main-story-1/README.md) |
-| **万界行者** | 主线 | [万界行者主线](worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/README.md) |
-| **兽人原型** | 主线 | [黄坡山寨](worlds/beastman-prototype/original-archives/chaptered-stories/bo-c-1-yellow-slope-stronghold/README.md) |
+| **万界行者** | 主线 | [万界行者主线](worlds/worldstrider-infinity/original-archives/chinese/chaptered-stories/main/yan-sui/README.md) |
+| **兽人原型** | 主线 | [黄坡山寨](worlds/beastman-prototype/original-archives/chinese/chaptered-stories/main/bo-c-1-yellow-slope-stronghold/README.md) |
 | **杂项** | 短篇 | [杂项故事合集](worlds/random/README.md) |
 
 ### English Originals
@@ -225,8 +225,8 @@ lanse 创作生涯中最早的兽人世界观原型，后演变为兽盾世界�
 | **Beastshield Paradise** | Main Story | [Beastshield Paradise Main Story](worlds/beastshield-paradise/original-archives/english/chaptered-stories/main/README.md) |
 | **Empire Kik Soldiers** | Main Story | [Empire Kik Soldiers Main Story](worlds/empire-kik-soldiers/original-archives/english/chaptered-stories/main/README.md) |
 | **United Beasts Alliance** | Main Story | [United Beasts Alliance Main Story](worlds/united-beasts-alliance/original-archives/english/chaptered-stories/main/uba-o-cm-1-main-story-1/README.md) |
-| **Worldstrider Infinity** | Main Story | [Worldstrider Infinity Main Story](worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/README.md) |
-| **Beastman Prototype** | Main Story | [Yellow Slope Stronghold](worlds/beastman-prototype/original-archives/chaptered-stories/bo-c-1-yellow-slope-stronghold/README.md) |
+| **Worldstrider Infinity** | Main Story | [Worldstrider Infinity Main Story](worlds/worldstrider-infinity/original-archives/chinese/chaptered-stories/main/yan-sui/README.md) |
+| **Beastman Prototype** | Main Story | [Yellow Slope Stronghold](worlds/beastman-prototype/original-archives/chinese/chaptered-stories/main/bo-c-1-yellow-slope-stronghold/README.md) |
 | **Random** | Short Stories | [Miscellaneous Collection](worlds/random/README.md) |
 
 ---

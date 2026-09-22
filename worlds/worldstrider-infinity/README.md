@@ -88,8 +88,8 @@ For detailed settings, see: [settings/](settings/)
 
 | 编码 | 中文名 | 英文名 | 🔞 | 💀 | 🧠 | 🎯 | 链接 |
 |------|--------|--------|:--:|:--:|:--:|:--:|------|
-| `wi-o-cs-1-yan-sui` | 岩岁/岩参父子救赎故事 | Yan Sui / Yan Can Redemption Story | Lv.2 | Lv.2 | Lv.3 | `HE` `救赎` `家庭重建` | [目录](original-archives/chaptered-stories/yan-sui/README.md) |
-| `wi-o-cs-2-echoes-healing` | 原作回响 · 治愈线 | Original Echoes · Healing | Lv.2 | Lv.1 | Lv.2 | `HE` `治愈` `生存` | [目录](original-archives/chaptered-stories/echoes-healing/README.md) |
+| `wi-o-cs-1-yan-sui` | 岩岁/岩参父子救赎故事 | Yan Sui / Yan Can Redemption Story | Lv.2 | Lv.2 | Lv.3 | `HE` `救赎` `家庭重建` | [目录](original-archives/chinese/chaptered-stories/main/yan-sui/README.md) |
+| `wi-o-cs-2-echoes-healing` | 原作回响 · 治愈线 | Original Echoes · Healing | Lv.2 | Lv.1 | Lv.2 | `HE` `治愈` `生存` | [目录](original-archives/chinese/chaptered-stories/side/echoes-healing/README.md) |
 
 ---
 
@@ -99,8 +99,8 @@ For detailed settings, see: [settings/](settings/)
 
 | Code | Title | Tags | Link |
 |------|-------|------|------|
-| `wi-o-cs-1-yan-sui` | Yan Sui / Yan Can Redemption Story | `redemption`, `father-son`, `dog`, `tiger` | [Directory](original-archives/chaptered-stories/yan-sui/README.md) |
-| `wi-o-cs-2-echoes-healing` | Original Echoes · Healing | `healing`, `cross-world`, `dog`, `tiger`, `cow` | [Directory](original-archives/chaptered-stories/echoes-healing/README.md) |
+| `wi-o-cs-1-yan-sui` | Yan Sui / Yan Can Redemption Story | `redemption`, `father-son`, `dog`, `tiger` | [Directory](original-archives/chinese/chaptered-stories/main/yan-sui/README.md) |
+| `wi-o-cs-2-echoes-healing` | Original Echoes · Healing | `healing`, `cross-world`, `dog`, `tiger`, `cow` | [Directory](original-archives/chinese/chaptered-stories/side/echoes-healing/README.md) |
 
 ---
 
@@ -110,18 +110,18 @@ For detailed settings, see: [settings/](settings/)
 
 | 类型 | 作品 |
 |------|------|
-| 犬 / Dog | [岩参](original-archives/chaptered-stories/yan-sui/)、[治愈线](original-archives/chaptered-stories/echoes-healing/) |
-| 虎 / Tiger | [岩岁](original-archives/chaptered-stories/yan-sui/)、[治愈线](original-archives/chaptered-stories/echoes-healing/) |
-| 牛 / Cow | [治愈线](original-archives/chaptered-stories/echoes-healing/) |
+| 犬 / Dog | [岩参](original-archives/chinese/chaptered-stories/main/yan-sui)、[治愈线](original-archives/chinese/chaptered-stories/side/echoes-healing) |
+| 虎 / Tiger | [岩岁](original-archives/chinese/chaptered-stories/main/yan-sui)、[治愈线](original-archives/chinese/chaptered-stories/side/echoes-healing) |
+| 牛 / Cow | [治愈线](original-archives/chinese/chaptered-stories/side/echoes-healing) |
 
 ### 按内容标签 / By Tags
 
 | 标签 | 作品 |
 |------|------|
-| `redemption` | [岩岁/岩参](original-archives/chaptered-stories/yan-sui/) |
-| `father-son` | [岩岁/岩参](original-archives/chaptered-stories/yan-sui/) |
-| `death` | [岩参死亡线](original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
-| `healing` | [原作回响 · 治愈线](original-archives/chaptered-stories/echoes-healing/) |
+| `redemption` | [岩岁/岩参](original-archives/chinese/chaptered-stories/main/yan-sui) |
+| `father-son` | [岩岁/岩参](original-archives/chinese/chaptered-stories/main/yan-sui) |
+| `death` | [岩参死亡线](original-archives/chinese/chaptered-stories/main/yan-sui/branches/yan-can-canon-death) |
+| `healing` | [原作回响 · 治愈线](original-archives/chinese/chaptered-stories/side/echoes-healing) |
 
 ---
 
@@ -131,18 +131,18 @@ For detailed settings, see: [settings/](settings/)
 
 | Species | Works |
 |---------|-------|
-| Dog | [Yan Can](original-archives/chaptered-stories/yan-sui/)、[Healing](original-archives/chaptered-stories/echoes-healing/) |
-| Tiger | [Yan Sui](original-archives/chaptered-stories/yan-sui/)、[Healing](original-archives/chaptered-stories/echoes-healing/) |
-| Cow | [Healing](original-archives/chaptered-stories/echoes-healing/) |
+| Dog | [Yan Can](original-archives/chinese/chaptered-stories/main/yan-sui)、[Healing](original-archives/chinese/chaptered-stories/side/echoes-healing) |
+| Tiger | [Yan Sui](original-archives/chinese/chaptered-stories/main/yan-sui)、[Healing](original-archives/chinese/chaptered-stories/side/echoes-healing) |
+| Cow | [Healing](original-archives/chinese/chaptered-stories/side/echoes-healing) |
 
 ### By Tags
 
 | Tag | Works |
 |-----|-------|
-| `redemption` | [Yan Sui / Yan Can](original-archives/chaptered-stories/yan-sui/) |
-| `father-son` | [Yan Sui / Yan Can](original-archives/chaptered-stories/yan-sui/) |
-| `death` | [Yan Can Canon Death](original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
-| `healing` | [Original Echoes · Healing](original-archives/chaptered-stories/echoes-healing/) |
+| `redemption` | [Yan Sui / Yan Can](original-archives/chinese/chaptered-stories/main/yan-sui) |
+| `father-son` | [Yan Sui / Yan Can](original-archives/chinese/chaptered-stories/main/yan-sui) |
+| `death` | [Yan Can Canon Death](original-archives/chinese/chaptered-stories/main/yan-sui/branches/yan-can-canon-death) |
+| `healing` | [Original Echoes · Healing](original-archives/chinese/chaptered-stories/side/echoes-healing) |
 
 ---
 
@@ -153,10 +153,10 @@ For detailed settings, see: [settings/](settings/)
 | **beastshield 原作世界观** | [`worlds/beastshield/`](../beastshield/) |
 | **原作角色设定**（岩参、岩岁、壹安等） | [`beastshield/.../.process/settings/characters/`](../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/settings/characters/) |
 | **原作者对话/设定来源** | [`beastshield/.../.process/settings/author-chat/`](../beastshield/adaptation-works/chaptered-stories/bs-a-cs-5-beastshield-chronicles/.process/author-chat) |
-| **改编故事（岩参死亡线）** | [`original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/`](./original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/) |
-| **改编故事（原作回响 · 治愈线）** | [`original-archives/chaptered-stories/echoes-healing/`](./original-archives/chaptered-stories/echoes-healing/) |
-| **改编版本分析** | [`original-archives/chaptered-stories/yan-sui/discussions/`](./original-archives/chaptered-stories/yan-sui/discussions/) |
-| **改编侧角色档案** | [`original-archives/character-archive/`](./original-archives/character-archive/) |
+| **改编故事（岩参死亡线）** | [`original-archives/chaptered-stories/yan-sui/branches/yan-can-canon-death/`](original-archives/chinese/chaptered-stories/main/yan-sui/branches/yan-can-canon-death) |
+| **改编故事（原作回响 · 治愈线）** | [`original-archives/chaptered-stories/echoes-healing/`](original-archives/chinese/chaptered-stories/side/echoes-healing) |
+| **改编版本分析** | [`original-archives/chaptered-stories/yan-sui/discussions/`](original-archives/chinese/chaptered-stories/main/yan-sui/discussions) |
+| **改编侧角色档案** | [`original-archives/character-archive/`](original-archives/chinese/characters) |
 
 ---
 
