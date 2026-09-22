@@ -69,12 +69,12 @@
 
 | 编号 | 标题 | 视角 | 原作场景 | 链接 |
 |------|------|------|---------|------|
-| 1 | 橙虎 | 橙虎兽人（第一人称） | 主线第三卷·第4章·心灵防御 | [阅读](chapters/1-g-orange-tiger.md) |
-| 2 | 无名虎 | 矮壮虎杂兵（第一人称）+ 德牧伴侣（尾声） | 主线第三卷·第10章·故友重逢 | [阅读](chapters/2-g-nameless-tiger.md) |
-| 3 | 递烟狗🟢 | 黑制服狗兽人（第三人称） | 炎魉外传·第2章·办公室清剿 | [阅读](chapters/3-e-smoking-dog-h.md) |
-| 3续 | 递烟狗·续🟢 | 虎兽人开场→双POV | 炎魉外传·第2章+第3章援兵线 | [阅读](chapters/3-e-smoking-dog-h-continuation.md) |
-| 4 | 好奇心害死虎 | 虎司机（第一人称） | 支线《带娃的老雷》 | [阅读](chapters/4-g-tiger-driver.md) |
-| 4-h | 好奇心害死虎·H🟢 | 第三人称（虎三/小雷/老雷） | 支线《带娃的老雷》· 浴室假释后分歧 | [阅读](chapters/4-g-tiger-driver-h.md) |
+| 1 | 橙虎 | 橙虎兽人（第一人称） | 主线第三卷·第4章·心灵防御 | [阅读](chapters/ch-001-g-orange-tiger.md) |
+| 2 | 无名虎 | 矮壮虎杂兵（第一人称）+ 德牧伴侣（尾声） | 主线第三卷·第10章·故友重逢 | [阅读](chapters/ch-002-g-nameless-tiger.md) |
+| 3 | 递烟狗🟢 | 黑制服狗兽人（第三人称） | 炎魉外传·第2章·办公室清剿 | [阅读](chapters/ch-003-e-smoking-dog-h.md) |
+| 3续 | 递烟狗·续🟢 | 虎兽人开场→双POV | 炎魉外传·第2章+第3章援兵线 | [阅读](chapters/ch-003-e-smoking-dog-h-continuation.md) |
+| 4 | 好奇心害死虎 | 虎司机（第一人称） | 支线《带娃的老雷》 | [阅读](chapters/ch-004-g-tiger-driver.md) |
+| 4-h | 好奇心害死虎·H🟢 | 第三人称（虎三/小雷/老雷） | 支线《带娃的老雷》· 浴室假释后分歧 | [阅读](chapters/ch-004-g-tiger-driver-h.md) |
 
 > 🟢 = 幸存者分支（`-h`），区别于原作死亡线
 
@@ -86,8 +86,8 @@
 
 | 编号 | 悲剧线 | 治愈线 |
 |------|--------|--------|
-| 2 | [g-无名虎](chapters/2-g-nameless-tiger.md) | [g-无名虎·H](../../../../worldstrider-infinity/original-archives/chaptered-stories/echoes-healing/2-g-nameless-tiger-h.md) |
-| 4 | [好奇心害死虎](chapters/4-g-tiger-driver.md) | [好奇心害死虎·H](../../../../worldstrider-infinity/original-archives/chaptered-stories/echoes-healing/4-g-tiger-driver-h.md) |
+| 2 | [g-无名虎](chapters/ch-002-g-nameless-tiger.md) | [g-无名虎·H](../../../../worldstrider-infinity/original-archives/chaptered-stories/echoes-healing/2-g-nameless-tiger-h.md) |
+| 4 | [好奇心害死虎](chapters/ch-004-g-tiger-driver.md) | [好奇心害死虎·H](../../../../worldstrider-infinity/original-archives/chaptered-stories/echoes-healing/4-g-tiger-driver-h.md) |
 
 完整治愈线目录见：[echoes-healing](../../../../worldstrider-infinity/original-archives/chaptered-stories/echoes-healing/README.md)
 

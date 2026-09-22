@@ -78,14 +78,14 @@ Cow Company's Employee No. 2, driven by financial hardship, makes his first form
 
 ## 五、正文 / Story
 
-- [中文版](zh/cow-company.md)
+- [中文版](chapters/cow-company.md)
 - [English](english/chapters/cow-company.md)
 
 ---
 
 ## V. Story
 
-- [Chinese](zh/cow-company.md)
+- [Chinese](chapters/cow-company.md)
 - [English](english/chapters/cow-company.md)
 
 ---

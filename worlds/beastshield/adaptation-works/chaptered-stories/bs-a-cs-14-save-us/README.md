@@ -171,7 +171,7 @@ Bear `Bear` · Boar `Boar` · Bull `Bull` · Dog `Dog` · Tiger `Tiger` · Wolf 
 
 ## 六、创作留痕 / Creation Trail
 
-- [概念诞生档案](.process/discuss/2026-05-24-concept-birth.md)
+- [概念诞生档案](.process/ai-discussion/2026-05-24-concept-birth.md)
 
 ---
 

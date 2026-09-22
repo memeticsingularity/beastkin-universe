@@ -68,16 +68,16 @@
 
 | 编码 | 标题 | 猎手 | 猎物 | 链接 |
 |------|------|------|------|------|
-| G-77 | 夜狩 G-77 | 灰烬 | 狮兽人 | [阅读](chapters/1-g-77-lion.md) |
-| G-872 | 暗巷狩猎 | 灰烬 | 野猪兽人 | [阅读](chapters/2-g-872-pig.md) |
-| G-609 | 午夜犬吠 | — | 狗兽人 | [阅读](chapters/3-g-609-dog.md) |
-| G-348 | 虎斑与锈刃 | — | 虎兽人 | [阅读](chapters/4-g-348-tiger.md) |
-| G-211 | 狼烟与硬币 | — | 狼兽人 | [阅读](chapters/5-g-211-wolf.md) |
-| G-217 | 深夜访客 | — | 熊兽人 | [阅读](chapters/6-g-217-bear.md) |
-| G-438 | 雾码头的即兴处决 | — | 熊兽人 | [阅读](chapters/6-g-438-bear.md) |
-| G-247 | 猎牛 | — | 牛兽人 | [阅读](chapters/7-g-247-bull.md) |
-| G-332 | 锈蚀回廊 | — | 牛兽人 | [阅读](chapters/7-g-332-bull.md) |
-| W-01 | 夜诊 | — | 虎兽人 | [阅读](chapters/8-w-tiger.md) |
+| G-77 | 夜狩 G-77 | 灰烬 | 狮兽人 | [阅读](chapters/ch-001-g-77-lion.md) |
+| G-872 | 暗巷狩猎 | 灰烬 | 野猪兽人 | [阅读](chapters/ch-002-g-872-pig.md) |
+| G-609 | 午夜犬吠 | — | 狗兽人 | [阅读](chapters/ch-003-g-609-dog.md) |
+| G-348 | 虎斑与锈刃 | — | 虎兽人 | [阅读](chapters/ch-004-g-348-tiger.md) |
+| G-211 | 狼烟与硬币 | — | 狼兽人 | [阅读](chapters/ch-005-g-211-wolf.md) |
+| G-217 | 深夜访客 | — | 熊兽人 | [阅读](chapters/ch-006-g-217-bear.md) |
+| G-438 | 雾码头的即兴处决 | — | 熊兽人 | [阅读](chapters/ch-006-g-438-bear.md) |
+| G-247 | 猎牛 | — | 牛兽人 | [阅读](chapters/ch-007-g-247-bull.md) |
+| G-332 | 锈蚀回廊 | — | 牛兽人 | [阅读](chapters/ch-007-g-332-bull.md) |
+| W-01 | 夜诊 | — | 虎兽人 | [阅读](chapters/ch-008-w-tiger.md) |
 
 ---
 

@@ -66,11 +66,14 @@ function checkWork(w, problems) {
       const p = path.join(d, e.name);
       const relD = path.relative(w, p).replace(/\\/g, '/');
       if (e.isDirectory()) {
-        if (BANNED_DIRS.has(e.name) || BANNED_DIR_RE.test(e.name)) bannedFound.push(relD);
-        if (/^v\d+-/.test(e.name) || /^(vol|volume)-\d+-/.test(e.name) && !VOLUME_RE.test(e.name)) badVolume.push(relD);
-        if (path.dirname(relD) === '.process' || relD.startsWith('.process/')) {
-          if (relD.split('/').length === 2 && !PROC_SUBDIRS.has(e.name)) procSubs.push(relD);
-        }
+        const underProc = relD === '.process' || relD.startsWith('.process/');
+        const isStdProcSub = underProc && relD.split('/').length === 2 && PROC_SUBDIRS.has(e.name);
+        if (!isStdProcSub && (BANNED_DIRS.has(e.name) || BANNED_DIR_RE.test(e.name))) bannedFound.push(relD);
+        // 卷目录命名只在 chapters/ 下要求
+        const underChapters = relD === 'chapters' || relD.startsWith('chapters/');
+        if (underChapters && /^v\d+-/.test(e.name)) badVolume.push(relD);
+        if (underChapters && /^(vol|volume)-\d+-/.test(e.name) && !VOLUME_RE.test(e.name)) badVolume.push(relD);
+        if (underProc && relD.split('/').length === 2 && !PROC_SUBDIRS.has(e.name)) procSubs.push(relD);
         scan(p, depth + 1);
       } else if (e.isFile() && /^ch-.*\.md$/i.test(e.name)) {
         chFiles.push({ p, rel: relD });
@@ -87,7 +90,23 @@ function checkWork(w, problems) {
     const shortMd = listDir(path.join(w, 'chapters')).filter(e => e.isFile() && e.name.endsWith('.md'));
     if (!shortMd.length) problems.push('短篇正文缺失（应为 chapters/' + code + '.md 或 chapters/<NN>-<slug>.md）');
   } else if (formType === 'cm' || formType === 'cs') {
-    if (!inChapters.length) problems.push('分章作品缺 chapters/ 下的章节文件');
+    // 尚未落笔的企划（status: planning/drafting 且全作品没有任何章节文件）不视为违规
+    let anyCh = 0;
+    (function count(d, depth) {
+      if (depth > 5) return;
+      for (const e of listDir(d)) {
+        const q = path.join(d, e.name);
+        if (e.isDirectory()) { count(q, depth + 1); continue; }
+        if (/^ch-.*\.md$/i.test(e.name)) anyCh++;
+      }
+    })(w, 0);
+    let status = '';
+    if (fs.existsSync(meta)) status = (fs.readFileSync(meta, 'utf8').match(/^\s*status\s*:\s*"?([a-z]*)"?/m) || [])[1] || '';
+    if (!anyCh && ['planning', 'drafting', 'idea'].includes(status)) {
+      // 企划阶段：允许尚无 chapters/
+    } else if (!inChapters.length) {
+      problems.push('分章作品缺 chapters/ 下的章节文件');
+    }
   } else {
     problems.push('metadata.yaml 缺 form_type（应为 cm/cs/s）');
   }

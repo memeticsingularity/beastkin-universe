@@ -5,6 +5,7 @@ work:
     chinese: "夜哨无声"
     english: "Silent Night Watch"
   format: "chaptered-story"
+  form_type: "cs"
   subtype: "side"
   status: "completed"
   location: "original-archives"

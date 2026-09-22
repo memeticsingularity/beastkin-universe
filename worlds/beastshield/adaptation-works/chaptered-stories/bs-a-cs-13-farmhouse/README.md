@@ -29,7 +29,7 @@
 | **角色档案** | [`.process/settings/characters/`](.process/settings/characters/README.md) |
 | **故事设定** | [`notes/setting/story-setting.md`](.process/plans/setting/story-setting.md) |
 | **作者完整原文** | [`original-text/beastshield-farmhouse-complete.txt`](original-text/beastshield-farmhouse-complete.txt) |
-| **创作讨论** | [`.process/discuss/`](.process/discuss/) |
+| **创作讨论** | [`.process/discuss/`](.process/ai-discussion/) |
 | **创作计划** | [`.process/plans/`](.process/plans/) |
 
 ---

@@ -128,12 +128,12 @@ Bull `Bull` · Dog `Dog` · Polar Bear `Polar Bear` · Black Panther `Black Pant
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 牛大壮的一日 | [阅读](001-graduation-internship/g-533-bull.md) |
-| Ch.2 | 狗来福的一日 | [阅读](001-graduation-internship/g-534-dog.md) |
-| Ch.3 | 熊厚实的一日 | [阅读](001-graduation-internship/g-535-bear.md) |
-| Ch.4 | 豹速的一日 | [阅读](001-graduation-internship/g-536-leopard.md) |
-| Ch.5 | 黄彪的一日 | [阅读](001-graduation-internship/g-537-tiger.md) |
-| Ch.6 | 熊大力的一日 | [阅读](001-graduation-internship/g-538-bear.md) |
+| Ch.1 | 牛大壮的一日 | [阅读](.process/archive/001-graduation-internship/g-533-bull.md) |
+| Ch.2 | 狗来福的一日 | [阅读](.process/archive/001-graduation-internship/g-534-dog.md) |
+| Ch.3 | 熊厚实的一日 | [阅读](.process/archive/001-graduation-internship/g-535-bear.md) |
+| Ch.4 | 豹速的一日 | [阅读](.process/archive/001-graduation-internship/g-536-leopard.md) |
+| Ch.5 | 黄彪的一日 | [阅读](.process/archive/001-graduation-internship/g-537-tiger.md) |
+| Ch.6 | 熊大力的一日 | [阅读](.process/archive/001-graduation-internship/g-538-bear.md) |
 
 ---
 
@@ -141,12 +141,12 @@ Bull `Bull` · Dog `Dog` · Polar Bear `Polar Bear` · Black Panther `Black Pant
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | A Day for Niu Dazhuang | [Read](001-graduation-internship/g-533-bull.md) |
-| Ch.2 | A Day for Gou Laifu | [Read](001-graduation-internship/g-534-dog.md) |
-| Ch.3 | A Day for Xiong Houshi | [Read](001-graduation-internship/g-535-bear.md) |
-| Ch.4 | A Day for Bao Su | [Read](001-graduation-internship/g-536-leopard.md) |
-| Ch.5 | A Day for Huang Biao | [Read](001-graduation-internship/g-537-tiger.md) |
-| Ch.6 | A Day for Xiong Dali | [Read](001-graduation-internship/g-538-bear.md) |
+| Ch.1 | A Day for Niu Dazhuang | [Read](.process/archive/001-graduation-internship/g-533-bull.md) |
+| Ch.2 | A Day for Gou Laifu | [Read](.process/archive/001-graduation-internship/g-534-dog.md) |
+| Ch.3 | A Day for Xiong Houshi | [Read](.process/archive/001-graduation-internship/g-535-bear.md) |
+| Ch.4 | A Day for Bao Su | [Read](.process/archive/001-graduation-internship/g-536-leopard.md) |
+| Ch.5 | A Day for Huang Biao | [Read](.process/archive/001-graduation-internship/g-537-tiger.md) |
+| Ch.6 | A Day for Xiong Dali | [Read](.process/archive/001-graduation-internship/g-538-bear.md) |
 
 ---
 

@@ -126,9 +126,9 @@
 
 | 编号 | 标题 | 链接 |
 |------|------|------|
-| SS-01 | 寨主的下午 | [阅读](side-stories/ss-01-tiger-king-pov.md) |
-| SS-02 | 虎寨往事 | [阅读](side-stories/ss-02-tiger-king-prelude/ch-001.md) |
-| SS-03 | 牛先锋前传 | [阅读](side-stories/ss-03-niu-xianfeng-prelude/ch-001.md) |
+| SS-01 | 寨主的下午 | [阅读](chapters/side-stories/ss-01-tiger-king-pov.md) |
+| SS-02 | 虎寨往事 | [阅读](chapters/side-stories/ss-02-tiger-king-prelude/ch-001.md) |
+| SS-03 | 牛先锋前传 | [阅读](chapters/side-stories/ss-03-niu-xianfeng-prelude/ch-001.md) |
 
 ---
 
@@ -155,9 +155,9 @@
 
 | ID | Title | Link |
 |----|-------|------|
-| SS-01 | The Chieftain's Afternoon | [Read](side-stories/ss-01-tiger-king-pov.md) |
-| SS-02 | Tales of the Tiger Fortress | [Read](side-stories/ss-02-tiger-king-prelude/ch-001.md) |
-| SS-03 | Niu Xianfeng Prelude | [Read](side-stories/ss-03-niu-xianfeng-prelude/ch-001.md) |
+| SS-01 | The Chieftain's Afternoon | [Read](chapters/side-stories/ss-01-tiger-king-pov.md) |
+| SS-02 | Tales of the Tiger Fortress | [Read](chapters/side-stories/ss-02-tiger-king-prelude/ch-001.md) |
+| SS-03 | Niu Xianfeng Prelude | [Read](chapters/side-stories/ss-03-niu-xianfeng-prelude/ch-001.md) |
 
 ---
 

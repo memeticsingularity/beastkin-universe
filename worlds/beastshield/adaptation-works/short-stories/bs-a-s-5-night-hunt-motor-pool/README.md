@@ -109,7 +109,7 @@ Mission complete. The lights are still on.
 
 - **变更日志 / CHANGELOG**: [.process/CHANGELOG.md](.process/CHANGELOG.md)
 - **创作计划 / Plan**: [.process/plans/2026-08-12-story-plan.md](.process/plans/2026-08-12-story-plan.md)
-- **详细设定 / Settings**: [settings/story-setting.md](settings/story-setting.md)
+- **详细设定 / Settings**: [settings/story-setting.md](.process/settings/story-setting.md)
 
 ---
 
