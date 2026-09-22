@@ -4,9 +4,31 @@ description: 在 Beastkin Universe 新建作品或新章节时，按 docs/spec/1
 whenToUse: 用户要求"新建作品/开一个新坑/加一章/建一个短篇"，或需要为作品补 .process 结构时。
 ---
 
-# 新建作品 / 章节（固定流程）
+# 新建世界观 / 作品 / 章节（固定流程）
 
-**唯一结构规范**：`docs/spec/14-work-structure.md`。任何新作品必须长成那个样子，不要自创目录。
+**唯一结构规范**：`docs/spec/14-work-structure.md`（v2.0，**两层**：世界观层 + 作品层）。
+任何新建都必须长成规范的样子，不要自创目录。骨架的权威来源是 `templates/`。
+
+## 〇、新建世界观
+
+```bash
+node scripts/new-world.js --world <world> --title-zh "<中文名>" [--title-en "<English>"] [--code <world-code>] --dry
+node scripts/new-world.js --world <world> --title-zh "<中文名>"
+```
+
+生成（复制 `templates/world-template/`，改模板即改产物）：
+
+```
+worlds/<world>/
+├── README.md  AGENTS.md(可选)  NEW-WORLD-CHECKLIST.md
+├── settings/{0-original-setting,1-recommended-canon,2-supplemental-settings,2-story-variants}/
+├── images/README.md   skills/README.md
+├── original-archives/{chinese/{chaptered-stories/{main,side},short-stories,characters},english/...,ai-discussion/}
+└── adaptation-works/{chaptered-stories,short-stories}/
+```
+
+填完 `README.md`（定位 + 分级 + 作品索引）与 `settings/0-original-setting/` 即可建作品。
+校验：`node scripts/qa/check-structure.js --world worlds/<world>`
 
 ## 一、新建作品
 

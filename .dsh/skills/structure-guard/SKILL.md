@@ -11,13 +11,27 @@ whenToUse: 需要移动/重命名作品目录或子目录、整理 notes/plans/a
 ## 检查命令
 
 ```bash
-node scripts/qa/check-structure.js .                  # 全库结构清单
-node scripts/qa/check-structure.js <作品目录>          # 单作品
+node scripts/qa/check-structure.js .                  # 作品层
+node scripts/qa/check-structure.js --world .          # 世界观层（W1–W5 + 命名白名单 + 散落正文）
 node scripts/qa/check-links.js .                      # 移动后必须为 0 失效
 ```
 
-`check-structure` 会报：缺 README/metadata、正文位置不对、禁用目录名、卷目录命名、
+`check-structure`（作品层）会报：缺 README/metadata、正文位置不对、禁用目录名、卷目录命名、
 章节命名、`.process/` 非标准子目录。
+`--world`（世界观层）会报：世界观根非白名单条目、`original-archives` 第一层不合规、
+语言层缺失或内容不合规、作品目录位置不合规、作品之外的散落正文。
+
+## 世界观层归位对照表（spec §2）
+
+| 现状 | 归入 |
+|------|------|
+| `original-archives/chaptered-stories/…`（无语言层） | `original-archives/chinese/chaptered-stories/{main\|side}/…` |
+| `original-archives/short-stories/…`（无语言层） | `original-archives/chinese/short-stories/…` |
+| `chaptered-stories/<作品>`（未分主支线） | `chaptered-stories/main/<作品>`（主线）或 `side/<作品>`（支线） |
+| `character-archive/`、`characters/`（旧名） | `chinese/characters/` |
+| 世界根 `templates/`、`tmp/` | 删除（模板属于仓库根 `templates/`） |
+| 语言层下的 `.xxx-notes/` 隐藏目录 | 世界级 `.process/plans/xxx-notes/` |
+| 世界级散落 `ch-*.md` | **先建成作品**（补 `metadata.yaml` + `README.md` + `chapters/`），见 `project-docs/structure-todo.md` §零 |
 
 ## 归位对照表（历史遗留 → 标准位置）
 

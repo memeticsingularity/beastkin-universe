@@ -5,12 +5,15 @@
 - 各子项目自带 `AGENTS.md` 记录该项目的专属设定与写作规范
 
 ## 结构规范（强制）
-**唯一结构规范**：[`docs/spec/14-work-structure.md`](docs/spec/14-work-structure.md)。
-原创/改编、长篇/短篇**骨架完全一致**：`chapters/`（正文）、`characters/`、`images/`、
-`.process/{plans,ai-discussion,settings,history,archive}`。
-禁止自创 `notes/`、`plans/`、`draft/`、`ai-discuss/`、`chat/`、`en/` 等变体目录。
+**唯一结构规范**：[`docs/spec/14-work-structure.md`](docs/spec/14-work-structure.md)（v2.0，**两层**）。
+- **世界观层** `worlds/<world>/`：`README.md` + `AGENTS.md`(可选) + `settings/` + `images/` + `skills/`(可选)
+  + `original-archives/{chinese|english}/{chaptered-stories/{main,side,extras}|short-stories}/<编码>/` + `adaptation-works/`
+- **作品层** `<作品编码>/`（= 含 `metadata.yaml` 的目录）：`README.md` + `metadata.yaml` + `chapters/`
+  + `characters/` + `images/` + `.process/{plans,ai-discussion,author-chat,settings,history,archive}`
+- 禁止自创 `notes/`、`plans/`、`draft/`、`ai-discuss/`、`chat/`、`en/`、`templates/`(世界层)、`character-archive/` 等变体目录
+- 新建世界观：`node scripts/new-world.js --world <world> --title-zh "<中文名>"`（先加 `--dry`；骨架源＝`templates/world-template/`）
 - 新建作品：`node scripts/new-work.js --world <world> --form <cm|cs|s> --code <code> --title-zh "<标题>"`（先加 `--dry`）
-- 结构校验：`node scripts/qa/check-structure.js .`
+- 结构校验：`node scripts/qa/check-structure.js .`（作品层）· `node scripts/qa/check-structure.js --world .`（世界观层）
 - 配套 skill：`.dsh/skills/work-scaffold`、`.dsh/skills/structure-guard`
 
 ## 脚本执行与沙箱（DSH 会话必读）
