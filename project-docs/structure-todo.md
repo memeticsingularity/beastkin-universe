@@ -33,7 +33,22 @@
 
 ---
 
-## 二、新作品必须遵守
+## 二、世界级归档（不在作品结构规范范围内，保持现状）
+
+`docs/spec/14-work-structure.md` 定义的是**单个作品**的骨架（`<作品>/.process/…`）。
+下列目录位于世界观层（没有 `metadata.yaml`，不构成作品），故未迁移：
+
+- `worlds/beastshield/original-archives/ai-discussion/{discussion,insights}/` —— 世界级 AI 讨论归档
+- `worlds/beastshield-paradise/.../chaptered-stories/{main/volume-1,side/*}/draft/` —— 世界级草稿
+- `worlds/empire-kik-soldiers/adaptation-works/short-stories/draft/`
+- `worlds/worldstrider-infinity/original-archives/chaptered-stories/yan-sui/{ai-discuss,chat,discussions,plans,notes}/`
+
+> 若将来希望世界观层也统一，建议新增一节规范定义 `worlds/<world>/` 的归档骨架，
+> 而不是把它们塞进某个作品的 `.process/`（会错置归属）。
+
+---
+
+## 三、新作品必须遵守
 
 - 结构：[`docs/spec/14-work-structure.md`](../docs/spec/14-work-structure.md)
 - 正文格式：[`docs/spec/11-story-format.md`](../docs/spec/11-story-format.md)
