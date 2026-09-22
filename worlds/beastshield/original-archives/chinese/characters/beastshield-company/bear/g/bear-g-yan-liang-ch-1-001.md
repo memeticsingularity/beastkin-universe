@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色短袖+短裤+白袜 |
 | **身份** | 新兵训练基地新兵 |
 | **状态** | **已死亡**——被叫进办公室后还在懵懂中就被勒住运功，12秒喷射十多股浓精而死 |
-| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
-| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
+| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
+| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)
+### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)
 
 > “报告。。报告，唔。。。啊！”随着一声憨厚的嗓音，第二个进来的是一个粗壮的**熊兽人守卫**，他个头比**炎**还要高出一个头，身材肉壮无比，胸部在**紧身衣**的束缚下绷出许多横杠，穿着**白袜**的小腿和柱子一样粗，胯下的**大包**鼓得和铅球一样大，但他看上去十分蠢笨，被**炎**制服后还没反应过来发生了什么，甚至还以为勒住他的是**白熊组长**。
 >
@@ -53,4 +53,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)*
+*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)*

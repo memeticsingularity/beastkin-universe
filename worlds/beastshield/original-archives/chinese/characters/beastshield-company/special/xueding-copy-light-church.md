@@ -12,14 +12,14 @@
 | **等级/制服** | 部长级·黑色制服 |
 | **身份** | 薛鼎复制体，牙董的信使 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-11](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md) |
-| **最后登场** | [vol-3-ch-11](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md) |
+| **首次登场** | [vol-3-ch-11](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md) |
+| **最后登场** | [vol-3-ch-11](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md) |
 
 ---
 
 ## 四、登场原文
 
-### [光照会渗透](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md)
+### [光照会渗透](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md)
 
 > 薛鼎的复制体带着两名兽盾手下走进教主圣堂，圣堂内的两侧站着数名教主的护卫，他们也是兽盾的员工，是兽盾公司派遣的专门护卫教主（也就是兽盾第三位董事——辉）的守卫，和兽盾总部员工不同，他们穿着一套以白色为主的兽盾制服，他们负手而立站在两旁，昂首挺胸，饱满的肌肉将白色紧身衣撑得鼓胀，粗壮的大腿和傲人的大包在白色紧身裤的包裹下显得诱人无比，而小腿上的长筒白袜则是着他们身为兽盾员工的标志，使他们感到无比自豪。
 

@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织人事部门卫 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
-| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
+| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
+| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
 
 ---
 
 ## 二、登场原文
 
-### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)
+### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
 
 > 半夜四更，小豪偷偷潜入人事部的值班站岗亭里，“唔！。。。不要！。。。饶命！。。。呃啊！。。。”一只站岗的壮牛兽人在小豪的偷袭下，乖乖的将精液尽数喷洒在了站岗亭的玻璃上，尸体则被小豪塞进了亭内办公桌的下面，并用尸体的白袜将精液擦干净后，走进人事部进入了那个神秘的房间。
 

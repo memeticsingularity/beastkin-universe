@@ -12,8 +12,8 @@
 | **等级/制服** | E级武斗兵 · 黑色紧身制服+黑袜+军靴 |
 | **身份** | 潜入别墅欲绑走小雷的兽盾武装士兵 |
 | **状态** | **已死亡** |
-| **首次登场** | [s-3-ch1-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md) |
-| **最后登场** | [s-3-ch1-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md) |
+| **首次登场** | [s-3-ch1-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md) |
+| **最后登场** | [s-3-ch1-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md) |
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## 三、登场原文
 
-### [别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md)
+### [别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)
 
 > 一只看上去有三百多斤重，体型肉壮的熊兽盾兵踮着脚小心翼翼地搜上二楼，自认为没有惊动任何人，但殊不知老雷正躲在黑暗拐角处等着他，趁他靠近老雷一把掐住的对方咽喉让他无法发声求助，同时通过掌心注入灼流暗劲，右手则稳稳接住了熊兽人手里掉落的手电筒，一套动作行云流水。
 >
@@ -144,6 +144,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第一章：别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md)*
+*档案来源：老雷突袭情报局 [第一章：别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

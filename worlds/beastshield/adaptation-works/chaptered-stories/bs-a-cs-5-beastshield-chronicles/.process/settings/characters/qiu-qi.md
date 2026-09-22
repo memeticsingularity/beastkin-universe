@@ -109,6 +109,6 @@
 
 **相关文件**：
 
-- [第一章：白兔暗影](../../../chapters/chinese/ch-01-the-rabbits-shadow.md)
+- [第一章：白兔暗影](../../../chapters/chinese/ch-001-the-rabbits-shadow.md)
 - [仇染角色讨论](../../author-chat/characters/2025-12-27-qiu-qi-discussion.md)
 - [仇染清理计划讨论](../../author-chat/characters/2026-01-07-qiu-qi-cleanup-plan.md)

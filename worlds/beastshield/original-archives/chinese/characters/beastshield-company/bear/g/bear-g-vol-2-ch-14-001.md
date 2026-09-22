@@ -12,7 +12,7 @@
 | **等级/制服** | G级 · 军绿短袖+军绿短裤+白袜+运动鞋 |
 | **身份** | 蟒蛇岛主营最底层守卫，被队友嘲笑称为“肥猪仔” |
 | **状态** | **已死亡**——被红色水晶影响后的魔影抓住后入，配合跳蛋震动插死 |
-| **登场** | [vol-2-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-14-python-island-transformation.md) |
+| **登场** | [vol-2-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-14：蟒蛇岛回忆·下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-14-python-island-transformation.md)
+### [vol-2-ch-14：蟒蛇岛回忆·下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md)
 
 > 被称呼为肥猪仔的兽人其实是一只白熊兽人，但因为身材矮胖四肢粗壮，肚子肥润圆滚，于是被其他守卫嘲笑，取了个肥猪仔的称号。
 >

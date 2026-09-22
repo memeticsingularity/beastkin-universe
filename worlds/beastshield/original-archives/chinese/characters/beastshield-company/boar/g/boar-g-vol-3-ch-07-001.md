@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色紧身制服+白袜 |
 | **身份** | 兽盾组织搜查队员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) |
-| **最后登场** | [vol-3-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) |
+| **首次登场** | [vol-3-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
+| **最后登场** | [vol-3-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 四、登场原文
 
-### [警局入侵](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md)
+### [警局入侵](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md)
 
 > “老北，你那边找完没有，我这边翻了个底朝天都没找到。”一只灰毛野猪兽人挺着个大肚子走进了卧室，来打探虎兽人的战果，刚进门就看到了被吊在阳台的虎兽人尸体。
 

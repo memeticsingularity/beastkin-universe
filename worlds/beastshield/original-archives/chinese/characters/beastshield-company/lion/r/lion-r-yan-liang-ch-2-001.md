@@ -12,8 +12,8 @@
 | **等级/制服** | R级枪械兵 · 白色紧身制服（被扒走） |
 | **身份** | 训练基地守卫 |
 | **状态** | **已死亡**——被神秘竞争者（银狼）杀死，制服被扒走换装 |
-| **首次登场** | [炎魉篇 ch-2](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md) |
-| **最后登场** | [炎魉篇 ch-2](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md) |
+| **首次登场** | [炎魉篇 ch-2](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md) |
+| **最后登场** | [炎魉篇 ch-2](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md) |
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第二章：清理办公室](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)
+### [炎魉篇·第二章：清理办公室](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md)
 
 > **魉**应了一声，打开柜门，不料一只**兽人**突然从里扑倒压在了**魉**的身上差点把他压倒，把他吓得够呛，**魉**立刻将那只**兽人**又推了进去，跳开几步才敢看向柜子。
 >
@@ -58,4 +58,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第二章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)*
+*档案来源：炎魉篇 [第二章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md)*

@@ -74,77 +74,77 @@ This volume consists of 15 chapters, starting from Demon Shadow's infiltration o
 
 ## 3. Full Volume Chapter Index
 
-### Chapter 1: Locker Room Hunt ([ch-1-locker-room-hunt.md](./ch-1-locker-room-hunt.md))
+### Chapter 1: Locker Room Hunt ([ch-1-locker-room-hunt.md](ch-001-locker-room-hunt.md))
 
 - **Tags**: `#Infiltration #LockerRoom #SerialHunt`
 - **Synopsis**: Demon Shadow infiltrates the Beastshield building and consecutively hunts 16 guards in the locker room, showcasing his unique assassination techniques.
 
-### Chapter 2: Corridor Patrol ([ch-2-corridor-patrol.md](./ch-2-corridor-patrol.md))
+### Chapter 2: Corridor Patrol ([ch-2-corridor-patrol.md](ch-002-corridor-patrol.md))
 
 - **Tags**: `#Corridor #Restroom #IntelGathering`
 - **Synopsis**: After changing disguise, Demon Shadow continues infiltration, hunting patrol guards in corridors and restrooms to obtain high-level intelligence.
 
-### Chapter 3: Terrace Hunt ([ch-3-terrace-hunt.md](./ch-3-terrace-hunt.md))
+### Chapter 3: Terrace Hunt ([ch-3-terrace-hunt.md](ch-003-terrace-hunt.md))
 
 - **Tags**: `#TenthFloorTerrace #EliteGuards #AerialDisposal`
 - **Synopsis**: Demon Shadow reaches the tenth-floor terrace, hunting elite guards like brown bear beastkin who are taking smoke breaks, then continues deeper after changing disguise.
 
-### Chapter 4: Tiger Guard Battle ([ch-4-tiger-guard-battle.md](./ch-4-tiger-guard-battle.md))
+### Chapter 4: Tiger Guard Battle ([ch-4-tiger-guard-battle.md](ch-004-tiger-guard-battle.md))
 
 - **Tags**: `#TigerGuardUnit #BloodPoison #FourKittens`
 - **Synopsis**: Demon Shadow encounters the Tiger Guard captain and his three subordinates, using his blood poison ability to defeat the "Tiger Guard's Four Kittens."
 
-### Chapter 5: Kitchen and Fatal Lunch ([ch-5-kitchen-and-lunch.md](./ch-5-kitchen-and-lunch.md))
+### Chapter 5: Kitchen and Fatal Lunch ([ch-5-kitchen-and-lunch.md](ch-005-kitchen-and-lunch.md))
 
 - **Tags**: `#Kitchen #WhiteBearChef #BullBeastkinLunch`
 - **Synopsis**: Demon Shadow hunts a white bear chef in the kitchen, coincidentally witnessing the Beastshield boss executing negligent guards for lunch, experiencing the organization's cruelty.
 
-### Chapter 6: Lao Lei Arrival ([ch-6-lei-lei-arrival.md](./ch-6-lei-lei-arrival.md))
+### Chapter 6: Lao Lei Arrival ([ch-6-lei-lei-arrival.md](ch-006-lei-lei-arrival.md))
 
 - **Tags**: `#LaoLei #ScorchingFlowDarkForce #FirstFloorDefense`
 - **Synopsis**: Lao Lei defends the first floor, using Scorching Flow Dark Force to defeat multiple waves of reinforcements, showcasing violent aesthetics in contrast to Demon Shadow.
 
-### Chapter 7: Bear Territory Infiltration ([ch-7-bear-territory-infiltration.md](./ch-7-bear-territory-infiltration.md))
+### Chapter 7: Bear Territory Infiltration ([ch-7-bear-territory-infiltration.md](ch-007-bear-territory-infiltration.md))
 
 - **Tags**: `#EleventhFloor #BearClanTerritory #ThreeMinuteBet`
 - **Synopsis**: Demon Shadow enters the Bear Clan's exclusive territory, betting with a bear guard to make him ejaculate within three minutes, showcasing his prey-playing techniques.
 
-### Chapter 8: Alchemy Room Battle ([ch-8-alchemy-room-battle.md](./ch-8-alchemy-room-battle.md))
+### Chapter 8: Alchemy Room Battle ([ch-8-alchemy-room-battle.md](ch-008-alchemy-room-battle.md))
 
 - **Tags**: `#AlchemyRoom #AphrodisiacPool #BearCaptain`
 - **Synopsis**: Demon Shadow battles the Bear Captain in the alchemy room, using the aphrodisiac pool and ventilation ducts to outwit him, ultimately executing the Bear Captain who practices Golden Bell Cover.
 
-### Chapter 9: Corridor Cleanup ([ch-9-corridor-cleanup.md](./ch-9-corridor-cleanup.md))
+### Chapter 9: Corridor Cleanup ([ch-9-corridor-cleanup.md](ch-009-corridor-cleanup.md))
 
 - **Tags**: `#LaoLei #CorridorCleanup #BullFollower`
 - **Synopsis**: Lao Lei continues clearing corridor reinforcements, recruiting a bull beastkin as a follower, showcasing his "battlefield cleanup" obsession.
 
-### Chapter 10: Thirteenth Floor Infiltration ([ch-10-thirteenth-floor-infiltration.md](./ch-10-thirteenth-floor-infiltration.md))
+### Chapter 10: Thirteenth Floor Infiltration ([ch-10-thirteenth-floor-infiltration.md](ch-010-thirteenth-floor-infiltration.md))
 
 - **Tags**: `#ThirteenthFloor #BullClanTerritory #TortureRoom`
 - **Synopsis**: Demon Shadow and Lao Lei infiltrate the thirteenth-floor Bull Clan territory, beginning a rescue operation and encountering more powerful enemies.
 
-### Chapter 11: Hell Bull Battle ([ch-11-hell-bull-battle.md](./ch-11-hell-bull-battle.md))
+### Chapter 11: Hell Bull Battle ([ch-11-hell-bull-battle.md](ch-011-hell-bull-battle.md))
 
 - **Tags**: `#HellBull #ImmortalConstitution #AutomaticDevice`
 - **Synopsis**: Demon Shadow and Lao Lei confront the Bull Captain "Hell Bull" with an immortal constitution, ultimately exhausting him using an automatic device.
 
-### Chapter 12: Training Session ([ch-12-training-session.md](./ch-12-training-session.md))
+### Chapter 12: Training Session ([ch-12-training-session.md](ch-012-training-session.md))
 
 - **Tags**: `#Training #XiaoHao #BoarExecution`
 - **Synopsis**: Perspective shifts to the Agent Bureau classroom, where young Xiao Hao executes a boar beastkin under teacher guidance, showcasing the new generation of agent training.
 
-### Chapter 13: Python Island Flashback · Part 1 ([ch-13-python-island-flashback.md](./ch-13-python-island-flashback.md))
+### Chapter 13: Python Island Flashback · Part 1 ([ch-13-python-island-flashback.md](ch-013-python-island-flashback.md))
 
 - **Tags**: `#Flashback #FiveYearsAgo #FirstMission`
 - **Synopsis**: Demon Shadow recalls his first mission on Python Island right after graduation five years ago, showing his transformation from greenhorn to cold-blooded assassin.
 
-### Chapter 14: Python Island Transformation ([ch-14-python-island-transformation.md](./ch-14-python-island-transformation.md))
+### Chapter 14: Python Island Transformation ([ch-14-python-island-transformation.md](ch-014-python-island-transformation.md))
 
 - **Tags**: `#RedCrystal #Mutation #WhiteBear`
 - **Synopsis**: Demon Shadow mutates after touching the Red Crystal, gaining poison blood and venom fang abilities, forever changing his life trajectory.
 
-### Chapter 15: Return to Python Island ([ch-15-return-to-python-island.md](./ch-15-return-to-python-island.md))
+### Chapter 15: Return to Python Island ([ch-15-return-to-python-island.md](ch-015-return-to-python-island.md))
 
 - **Tags**: `#ThreeYearsLater #XiaoHao #MrPuppet`
 - **Synopsis**: Demon Shadow brings new recruit Xiao Hao back to Python Island, encountering Mr. Puppet's mysterious formation. The assassination of the Semen Devourer leader fails, setting up the plot for Volume 3.

@@ -40,4 +40,4 @@
 
 **相关文件**：
 
-- [第三章：血染之塔](../../../chapters/chinese/ch-03-tower-of-bloodbath.md)
+- [第三章：血染之塔](../../../chapters/chinese/ch-003-tower-of-bloodbath.md)

@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色制服（原文未明示，按杂兵归G级） |
 | **身份** | 情报部门门口坐班兽盾兵 |
 | **状态** | **已死亡**——起身开门被老雷捅腹，栽倒后被踏过身体 |
-| **首次登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
-| **最后登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
+| **首次登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
+| **最后登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [老雷突袭情报局·第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)
+### [老雷突袭情报局·第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)
 
 > ——（牛兽盾兵值夜班抱怨，敲门声响起——）——
 >
@@ -58,6 +58,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第二章](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)*
+*档案来源：老雷突袭情报局 [第二章](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

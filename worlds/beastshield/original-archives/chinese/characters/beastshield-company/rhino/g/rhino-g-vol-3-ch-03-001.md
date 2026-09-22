@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤+白袜 |
 | **身份** | 兽盾组织仓储部员工 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
-| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
+| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md) |
+| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md) |
 
 ---
 
 ## 二、登场原文
 
-### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md)
+### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md)
 
 > “我。。我真的不认识啊！。。”没有答上来的犀牛兽人被老雷提起了穿着白袜的左腿倒在地上，蛋蛋被老雷的军靴一脚踩爆，犀牛肉壮的身体只挣扎了几下，就喷出精液断了气。
 

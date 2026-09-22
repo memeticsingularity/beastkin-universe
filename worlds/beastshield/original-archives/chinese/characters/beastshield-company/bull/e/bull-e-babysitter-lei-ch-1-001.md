@@ -12,8 +12,8 @@
 | **等级/制服** | E级武斗兵 · 黑色紧身制服+黑袜+军靴 |
 | **身份** | 潜入别墅的高级兽盾兵（一敌十水平） |
 | **状态** | **已死亡** |
-| **首次登场** | [s-3-ch1-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md) |
-| **最后登场** | [s-3-ch1-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md) |
+| **首次登场** | [s-3-ch1-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md) |
+| **最后登场** | [s-3-ch1-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md) |
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## 三、登场原文
 
-### [别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md)
+### [别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)
 
 > ——（老雷出门狩猎剩下的潜入者，在楼下处置这两只牛兽人，楼下传来两声闷哼）——
 >
@@ -86,6 +86,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第一章：别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md)*
+*档案来源：老雷突袭情报局 [第一章：别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

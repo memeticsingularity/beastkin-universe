@@ -73,9 +73,9 @@ Last night at the alley entrance, R-302 (gray wolf beastkin, sniper) was the sni
 
 ## Chapter List / 章节列表
 
-- [Chapter 1: Punishment / 第一章：处罚](ch-1-1.md)
-- [Chapter 2: Intervention / 第二章：介入](ch-1-2.md)
-- [Chapter 3: Contract / 第三章：契约](ch-1-3.md)
+- [Chapter 1: Punishment / 第一章：处罚](ch-001-1.md)
+- [Chapter 2: Intervention / 第二章：介入](ch-001-2.md)
+- [Chapter 3: Contract / 第三章：契约](ch-001-3.md)
 
 ---
 

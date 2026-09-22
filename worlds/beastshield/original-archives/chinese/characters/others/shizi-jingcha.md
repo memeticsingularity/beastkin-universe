@@ -12,8 +12,8 @@
 | **等级/制服** | 无——非兽盾公司编制（**警服**） |
 | **身份** | 白之都警察，酒店门口站岗执勤 |
 | **状态** | **已死亡**（第一卷·第6章，在酒店门口的枪战中阵亡） |
-| **首次登场** | [第一卷·第6章 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
-| **最后登场** | [第一卷·第6章 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
+| **首次登场** | [第一卷·第6章 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) |
+| **最后登场** | [第一卷·第6章 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) |
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## 四、登场原文
 
-### [Chapter 6 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md)
+### [Chapter 6 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md)
 
 本章开头部分该角色未出场。
 
@@ -102,7 +102,7 @@
 
 ## 七、结局
 
-第一卷·第6章凌晨两点在酒店门口站岗，被卷入玩家与虎队长一行的冲突。在随后的枪战中**身亡**；他死后不久，「酒店里就跑出几个警察，举起手枪就朝我们射击」（[`ch-6`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) L128）。
+第一卷·第6章凌晨两点在酒店门口站岗，被卷入玩家与虎队长一行的冲突。在随后的枪战中**身亡**；他死后不久，「酒店里就跑出几个警察，举起手枪就朝我们射击」（[`ch-6`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) L128）。
 
 ---
 

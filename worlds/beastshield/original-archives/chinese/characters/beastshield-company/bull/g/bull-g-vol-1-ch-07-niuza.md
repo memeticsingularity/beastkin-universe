@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿紧身短袖+短裤→O级·蓝色制服 |
 | **身份** | 主角（银）直属部下 |
 | **状态** | **已死亡**——晋升牛组长后于vol-2-ch-10被魔影酷刑射精19次而死 |
-| **首次登场** | [vol-1-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-7-training-subordinates.md) |
-| **最后登场** | [vol-2-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-11-hell-bull-battle.md)（尸体被嗜精兽头目吸收） |
+| **首次登场** | [vol-1-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-007-training-subordinates.md) |
+| **最后登场** | [vol-2-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)（尸体被嗜精兽头目吸收） |
 | **后续身份** | [冥府牛头→十三层守护者](../../../../chaptered-stories/characters/player-subordinates/niu-za.md)（详见player-subordinates档案） |
 
 ---
@@ -38,7 +38,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-07：训练部下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-7-training-subordinates.md)
+### [vol-1-ch-07：训练部下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-007-training-subordinates.md)
 
 > 站右边的则是一头身材更为魁梧的**黄皮牛兽人**，个头比**熊兽人**高半个头，由于立正的姿势，使得本就饱满的**胸肌**和**裆部**向前挺起，显得更加突出鼓起，与**熊兽人**憨厚的表情不同，他脸上更多出一丝自信与凶狠。
 >
@@ -184,7 +184,7 @@
 
 ---
 
-### [vol-1-ch-08：转职挑战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md)
+### [vol-1-ch-08：转职挑战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-008-class-change-quest.md)
 
 > “其实还有另一个高级兵种哦，而且是可以公开挑战的。”牛杂插嘴道。
 >
@@ -358,7 +358,7 @@
 
 ---
 
-### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
+### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md)
 
 > 四楼就是兽盾的大食堂了，此时还不是饭点，大堂里只零零散散的坐着几只杂兵，而且，我发现牛杂和熊掌居然也坐在这里吃饭！
 >
@@ -384,7 +384,7 @@
 
 ---
 
-### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)
+### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)
 
 > 我没有去领黑制服，而是直接回到了办公室，牛杂和熊掌穿着蓝色制服迎了上来。
 >
@@ -428,4 +428,4 @@
 
 ---
 
-*档案来源：第一卷 [第七章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-7-training-subordinates.md) ~ [第十一章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)*
+*档案来源：第一卷 [第七章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-007-training-subordinates.md) ~ [第十一章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)*

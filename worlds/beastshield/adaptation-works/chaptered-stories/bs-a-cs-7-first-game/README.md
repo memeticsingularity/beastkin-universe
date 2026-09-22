@@ -138,14 +138,14 @@ Brown Bear `Brown Bear` · White Rabbit `White Rabbit` · Wolf `Wolf` · Boar `B
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 降临 / Descent | [阅读](chapters/ch-01-descent.md) |
-| Ch.2 | 第一课 / The First Lesson | [阅读](chapters/ch-02-first-lesson.md) |
-| Ch.3 | 觉醒 / Awakening | [阅读](chapters/ch-03-awakening.md) |
-| Ch.4 | 间谍 / The Spy | [阅读](chapters/ch-04-the-spy.md) |
-| Ch.5 | 战争前夜 / The Eve of War | [阅读](chapters/ch-05-the-eve-of-war.md) |
-| Ch.6 | 战争 / The War | [阅读](chapters/ch-06-the-war.md) |
-| Ch.7 | 余波 / Aftermath | [阅读](chapters/ch-07-aftermath.md) |
-| Ch.8 | 终章 / The End | [阅读](chapters/ch-08-the-end.md) |
+| Ch.1 | 降临 / Descent | [阅读](chapters/ch-001-descent.md) |
+| Ch.2 | 第一课 / The First Lesson | [阅读](chapters/ch-002-first-lesson.md) |
+| Ch.3 | 觉醒 / Awakening | [阅读](chapters/ch-003-awakening.md) |
+| Ch.4 | 间谍 / The Spy | [阅读](chapters/ch-004-the-spy.md) |
+| Ch.5 | 战争前夜 / The Eve of War | [阅读](chapters/ch-005-the-eve-of-war.md) |
+| Ch.6 | 战争 / The War | [阅读](chapters/ch-006-the-war.md) |
+| Ch.7 | 余波 / Aftermath | [阅读](chapters/ch-007-aftermath.md) |
+| Ch.8 | 终章 / The End | [阅读](chapters/ch-008-the-end.md) |
 
 ---
 
@@ -153,14 +153,14 @@ Brown Bear `Brown Bear` · White Rabbit `White Rabbit` · Wolf `Wolf` · Boar `B
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | Descent | [Read](chapters/ch-01-descent.md) |
-| Ch.2 | The First Lesson | [Read](chapters/ch-02-first-lesson.md) |
-| Ch.3 | Awakening | [Read](chapters/ch-03-awakening.md) |
-| Ch.4 | The Spy | [Read](chapters/ch-04-the-spy.md) |
-| Ch.5 | The Eve of War | [Read](chapters/ch-05-the-eve-of-war.md) |
-| Ch.6 | The War | [Read](chapters/ch-06-the-war.md) |
-| Ch.7 | Aftermath | [Read](chapters/ch-07-aftermath.md) |
-| Ch.8 | The End | [Read](chapters/ch-08-the-end.md) |
+| Ch.1 | Descent | [Read](chapters/ch-001-descent.md) |
+| Ch.2 | The First Lesson | [Read](chapters/ch-002-first-lesson.md) |
+| Ch.3 | Awakening | [Read](chapters/ch-003-awakening.md) |
+| Ch.4 | The Spy | [Read](chapters/ch-004-the-spy.md) |
+| Ch.5 | The Eve of War | [Read](chapters/ch-005-the-eve-of-war.md) |
+| Ch.6 | The War | [Read](chapters/ch-006-the-war.md) |
+| Ch.7 | Aftermath | [Read](chapters/ch-007-aftermath.md) |
+| Ch.8 | The End | [Read](chapters/ch-008-the-end.md) |
 
 ---
 

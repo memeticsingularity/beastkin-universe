@@ -12,15 +12,15 @@
 | **等级/制服** | 董事级·无制服——「身上披着丝质白布，一身穿着以舒适为主，完全没有身为教主的庄严」 |
 | **身份** | 兽盾公司第三位董事；光照会（遍布白之都的教会组织）教主 |
 | **状态** | **已死亡**——第三卷·第19章被血君王（占据龙神肉体）以黑红邪火焚成焦尸 |
-| **首次登场** | [第三卷·第11章 光照会潜入](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md) |
-| **最后登场** | [第三卷·第19章 真相大白](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-19-origin-revelation.md) |
+| **首次登场** | [第三卷·第11章 光照会潜入](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md) |
+| **最后登场** | [第三卷·第19章 真相大白](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md) |
 
 > ⚠️ **状态订正（2026 审计，两点）**
 > 1. **第三卷·第11章的那具尸体是替身，不是本人。** 正文 L95 明写辉董「射完十几发后……停止了呼吸」，
 >    但 L99 立刻由**身后传来他的声音**：「没想到你竟能把我逼到这个地步」；L115 更明确——
 >    「**鳄鱼兽人和一具长得和辉董一模一样的尸体横在大堂中央**，除了之后出现的第二个辉董……」。
 >    随后 L113「等反应过来时，银已逃得无影无踪」——即本章他**并未死亡**。任务书所述「死者是替身」与正文一致。
-> 2. **但他最终确实死了，而且不是在第11章，而是在第三卷·第19章。** [`ch-19`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-19-origin-revelation.md) L53–L59：
+> 2. **但他最终确实死了，而且不是在第11章，而是在第三卷·第19章。** [`ch-19`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md) L53–L59：
 >    他准备拔出光之矛取龙神性命时被反制，「一股黑红色的火焰就从脖颈处燃起，瞬间烧遍他的全身，他只来得及发出一声惨叫，
 >    就被直接**烧成了焦尸**」；L61「血君王……**甩开了辉董的尸体**」。
 >    因此正确答案是：**第11章死者为替身（本人存活）；第19章本人死亡。**
@@ -48,7 +48,7 @@
 
 ## 四、登场原文
 
-### [Chapter 11 光照会潜入](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md)
+### [Chapter 11 光照会潜入](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md)
 
 本章开头部分该角色未出场。
 
@@ -172,7 +172,7 @@
 
 ---
 
-### [Chapter 13 龙神之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md)
+### [Chapter 13 龙神之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md)
 
 > “好了好了，大家不要为了这种小事伤了和气嘛，不就是一只最低级的杂兵吗，吃就吃了呗，要什么好大惊小怪的，岚董身为董事，这点气量还没有吗。”说话的是随后登岛的白龙辉董，他表面上是在打圆场，实则在阴阳岚董。
 >
@@ -230,7 +230,7 @@
 
 ---
 
-### [Chapter 15 最终之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-15-final-battle.md)
+### [Chapter 15 最终之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)
 
 > “嘁！”牙董眯着眼哼了一声，收回右爪给辉董使了个眼色。 辉董点了点头，转而对岚董笑道：“对手这么难缠，我们再不合作可都要交代在这咯，岚董你怎么看？”
 >
@@ -276,7 +276,7 @@
 
 ---
 
-### [Chapter 19 真相大白](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-19-origin-revelation.md)
+### [Chapter 19 真相大白](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md)
 
 > “你干什么！你这样也会伤到血君王的！”牙董对突然出现在龙神身后的并捅阴枪的辉董吼道。
 >
@@ -323,7 +323,7 @@
 ## 七、结局
 
 第三卷·第11章在教主圣堂接见「薛鼎」，遭银刺杀，以**替身诈死**后从背后以光之矛钉穿银的灵魂，随后杀掉看到秘密的熊兽人灭口。
-第13、15章随兽盾大队登上东海浮岛讨伐龙神。第19章天牢被打开后，他突然出现在龙神身后「捅阴枪」，以光之矛钉住龙武神的灵魂，帮助牙董完成计划；但血君王占据肉体的瞬间便掐住他的脖子，**以黑红邪火烧遍全身，他只来得及发出一声惨叫就被烧成焦尸**，流出的精液瞬间蒸发殆尽（[`ch-19`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-19-origin-revelation.md) L53–L61）。
+第13、15章随兽盾大队登上东海浮岛讨伐龙神。第19章天牢被打开后，他突然出现在龙神身后「捅阴枪」，以光之矛钉住龙武神的灵魂，帮助牙董完成计划；但血君王占据肉体的瞬间便掐住他的脖子，**以黑红邪火烧遍全身，他只来得及发出一声惨叫就被烧成焦尸**，流出的精液瞬间蒸发殆尽（[`ch-19`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md) L53–L61）。
 
 ---
 

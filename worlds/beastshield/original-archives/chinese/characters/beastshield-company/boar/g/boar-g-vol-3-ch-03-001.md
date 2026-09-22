@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤 |
 | **身份** | 兽盾组织仓储部员工 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
-| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
+| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md) |
+| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md) |
 
 ---
 
 ## 二、登场原文
 
-### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md)
+### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md)
 
 > 他先是抓住一名野猪兽人脖子，问道:“阿正在哪？”被抓住的野猪吓到语无伦次:
 > “我。。。我不。。知道。”没有得到满意答案的老雷右爪用力一扭，直接拧断了他的脖子，野猪兽人惨叫还没来得及发出，就瘫在地上呆滞的喷射着精液了。

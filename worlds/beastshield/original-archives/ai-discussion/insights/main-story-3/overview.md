@@ -516,28 +516,28 @@
 
 | 章节    | 标题     | 文件路径                                                                                                                              | 核心特点               |
 |-------|--------|-----------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| CH-01 | 晋升测试   | [ch-01-promotion-test.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md)                     | 红石药剂、强制勃起射精、尸山堆积   |
-| CH-02 | 武馆灭门   | [ch-02-dojo-massacre.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md)                       | 灭门屠杀、弟子精尸漂流、虎队绞杀   |
-| CH-03 | 仓库复仇   | [ch-03-warehouse-vengeance.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md)           | 老雷复仇、仓储部屠杀、灼流暗劲    |
-| CH-04 | 心灵防御   | [ch-04-psychic-defense.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md)                   | 金毛心理咨询、别墅防御战       |
-| CH-05 | 卧底猎杀   | [ch-05-undercover-hunt.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md)                   | 小豪卧底、反杀黑牛、宿舍潜伏     |
-| CH-06 | 十二神武之谜 | [ch-06-divine-weapons-secret.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md)       | 十二神武历史、人兽大战、传承     |
-| CH-07 | 警局入侵   | [ch-07-police-station-invasion.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md)   | 流墟入侵、傅局长遇害、勤川追查    |
-| CH-08 | 龙神浮岛   | [ch-08-dragon-god-island.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)               | 五行封禁、龙武神、天牢        |
-| CH-09 | 神弓猎人   | [ch-09-divine-bow-hunter.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md)               | 墩常登场、夔牛弓、神武传人      |
-| CH-10 | 老友重逢   | [ch-10-old-friend-reunion.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-10-old-friend-reunion.md)           | 墩常与大奔、先贤卑豕甲、水牛村    |
-| CH-11 | 光照会潜入  | [ch-11-light-cult-infiltration.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md) | 银易容、光照会、辉董         |
-| CH-12 | 沙漠伏击   | [ch-12-desert-ambush.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md)                     | 沙漠伏击、儡部长、不死兽人      |
-| CH-13 | 龙神之战   | [ch-13-dragon-god-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md)             | 浮岛大战、五行相生、禁咒对决     |
-| CH-14 | 鼠族神武   | [ch-14-mouse-divine-weapon.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-14-mouse-divine-weapon.md)         | 魔影寻武、翠绿遗迹、蚀魔锥      |
-| CH-15 | 最终之战   | [ch-15-final-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-15-final-battle.md)                       | 岚董禁咒、寒骨冤骇徙、汲精藤     |
-| CH-16 | 血王复活   | [ch-16-blood-king-resurrection.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md) | 嗜精兽红光、灼流暗劲、流墟吞噬    |
-| CH-17 | 蚀魔之锥   | [ch-17-godly-music-duel.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-17-godly-music-duel.md)               | 蚀魔锥开天牢、血君王复活       |
-| CH-18 | 黄泉缩地   | [ch-18-flame-cannon-finale.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-18-flame-cannon-finale.md)         | 黄泉缩地禁咒、人类真相揭露      |
-| CH-19 | 真相大白   | [ch-19-origin-revelation.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-19-origin-revelation.md)             | 血君王讲述历史、龙神陨落、辉董背叛  |
-| CH-20 | 薛鼎归一   | [ch-20-identity-merge.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-20-identity-merge.md)                   | 薛鼎复制体融合、小昆复仇       |
-| CH-21 | 神曲对决   | [ch-21-divine-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-21-divine-battle.md)                     | 四季神曲、秋霞染世调、音波对决    |
-| CH-22 | 破城炮终章  | [ch-22-rampage-end.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-22-rampage-end.md)                         | 犀牛20发射精、复制体融合、精液恢复 |
+| CH-01 | 晋升测试   | [ch-01-promotion-test.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md)                     | 红石药剂、强制勃起射精、尸山堆积   |
+| CH-02 | 武馆灭门   | [ch-02-dojo-massacre.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-002-dojo-massacre.md)                       | 灭门屠杀、弟子精尸漂流、虎队绞杀   |
+| CH-03 | 仓库复仇   | [ch-03-warehouse-vengeance.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md)           | 老雷复仇、仓储部屠杀、灼流暗劲    |
+| CH-04 | 心灵防御   | [ch-04-psychic-defense.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md)                   | 金毛心理咨询、别墅防御战       |
+| CH-05 | 卧底猎杀   | [ch-05-undercover-hunt.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md)                   | 小豪卧底、反杀黑牛、宿舍潜伏     |
+| CH-06 | 十二神武之谜 | [ch-06-divine-weapons-secret.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md)       | 十二神武历史、人兽大战、传承     |
+| CH-07 | 警局入侵   | [ch-07-police-station-invasion.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md)   | 流墟入侵、傅局长遇害、勤川追查    |
+| CH-08 | 龙神浮岛   | [ch-08-dragon-god-island.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)               | 五行封禁、龙武神、天牢        |
+| CH-09 | 神弓猎人   | [ch-09-divine-bow-hunter.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md)               | 墩常登场、夔牛弓、神武传人      |
+| CH-10 | 老友重逢   | [ch-10-old-friend-reunion.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-010-old-friend-reunion.md)           | 墩常与大奔、先贤卑豕甲、水牛村    |
+| CH-11 | 光照会潜入  | [ch-11-light-cult-infiltration.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md) | 银易容、光照会、辉董         |
+| CH-12 | 沙漠伏击   | [ch-12-desert-ambush.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md)                     | 沙漠伏击、儡部长、不死兽人      |
+| CH-13 | 龙神之战   | [ch-13-dragon-god-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md)             | 浮岛大战、五行相生、禁咒对决     |
+| CH-14 | 鼠族神武   | [ch-14-mouse-divine-weapon.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)         | 魔影寻武、翠绿遗迹、蚀魔锥      |
+| CH-15 | 最终之战   | [ch-15-final-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)                       | 岚董禁咒、寒骨冤骇徙、汲精藤     |
+| CH-16 | 血王复活   | [ch-16-blood-king-resurrection.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md) | 嗜精兽红光、灼流暗劲、流墟吞噬    |
+| CH-17 | 蚀魔之锥   | [ch-17-godly-music-duel.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-017-godly-music-duel.md)               | 蚀魔锥开天牢、血君王复活       |
+| CH-18 | 黄泉缩地   | [ch-18-flame-cannon-finale.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-018-flame-cannon-finale.md)         | 黄泉缩地禁咒、人类真相揭露      |
+| CH-19 | 真相大白   | [ch-19-origin-revelation.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md)             | 血君王讲述历史、龙神陨落、辉董背叛  |
+| CH-20 | 薛鼎归一   | [ch-20-identity-merge.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md)                   | 薛鼎复制体融合、小昆复仇       |
+| CH-21 | 神曲对决   | [ch-21-divine-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)                     | 四季神曲、秋霞染世调、音波对决    |
+| CH-22 | 破城炮终章  | [ch-22-rampage-end.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-022-rampage-end.md)                         | 犀牛20发射精、复制体融合、精液恢复 |
 
 ---
 

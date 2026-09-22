@@ -13,8 +13,8 @@
 | **编号** | 无（正文未给出编号） |
 | **身份** | 兽盾武斗兵营 · 熊兽种营区巡逻兵 |
 | **状态** | **已死亡**——被熊馆长尾随制服后扭肉棒撸射 |
-| **首次登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md) |
-| **最后登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md) |
+| **首次登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md) |
+| **最后登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md) |
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 四、登场原文
 
-### [Chapter 12 夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md)
+### [Chapter 12 夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md)
 
 > 熊馆长又尾随着一名巡逻的士兵走进一条走廊，这已经偏离了我们的行进路线。
 
@@ -65,5 +65,5 @@
 
 ---
 
-*档案来源：主线第一卷《兽游世界》[第12章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md)*
+*档案来源：主线第一卷《兽游世界》[第12章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md)*
 *创建日期：2026-09-17*

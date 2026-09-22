@@ -122,37 +122,37 @@ German Shepherd `German Shepherd` · Golden Retriever `Golden Retriever`
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 初遇 | [阅读](chapters/ch-01-first-meeting.md) |
-| Ch.2 | 适应 | [阅读](chapters/ch-02-adaptation.md) |
-| Ch.3 | 磨合 | [阅读](chapters/ch-03-bonding.md) |
-| Ch.4 | 恐惧 | [阅读](chapters/ch-04-fear.md) |
-| Ch.5 | 离别 | [阅读](chapters/ch-05-departure.md) |
-| Ch.6 | 重逢 | [阅读](chapters/ch-06-reunion.md) |
-| Ch.7 | 归属 | [阅读](chapters/ch-07-belonging.md) |
-| Ch.8 | 学历与正义 | [阅读](chapters/ch-08-growth.md) |
-| Ch.9 | 长官来访 | [阅读](chapters/ch-09-the-inspector.md) |
-| Ch.10 | 日常与秘密 | [阅读](chapters/ch-10-secrets-and-tears.md) |
-| Ch.11 | 变小之后 | [阅读](chapters/ch-11-child-again.md) |
-| Ch.12 | 靠近与离别 | [阅读](chapters/ch-12-closeness-and-farewell.md) |
-| Ch.13 | 大鲁的伤痕 | [阅读](chapters/ch-13-dalus-scars.md) |
+| Ch.1 | 初遇 | [阅读](chapters/ch-001-first-meeting.md) |
+| Ch.2 | 适应 | [阅读](chapters/ch-002-adaptation.md) |
+| Ch.3 | 磨合 | [阅读](chapters/ch-003-bonding.md) |
+| Ch.4 | 恐惧 | [阅读](chapters/ch-004-fear.md) |
+| Ch.5 | 离别 | [阅读](chapters/ch-005-departure.md) |
+| Ch.6 | 重逢 | [阅读](chapters/ch-006-reunion.md) |
+| Ch.7 | 归属 | [阅读](chapters/ch-007-belonging.md) |
+| Ch.8 | 学历与正义 | [阅读](chapters/ch-008-growth.md) |
+| Ch.9 | 长官来访 | [阅读](chapters/ch-009-the-inspector.md) |
+| Ch.10 | 日常与秘密 | [阅读](chapters/ch-010-secrets-and-tears.md) |
+| Ch.11 | 变小之后 | [阅读](chapters/ch-011-child-again.md) |
+| Ch.12 | 靠近与离别 | [阅读](chapters/ch-012-closeness-and-farewell.md) |
+| Ch.13 | 大鲁的伤痕 | [阅读](chapters/ch-013-dalus-scars.md) |
 
 ### 分支版本（恋爱向改编）
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1-L | 初遇（恋爱版） | [阅读](chapters/love/ch-01-first-meeting-love.md) |
-| Ch.2-L | 适应（恋爱版） | [阅读](chapters/love/ch-02-adaptation-love.md) |
-| Ch.3-L | 磨合（恋爱版） | [阅读](chapters/love/ch-03-bonding-love.md) |
-| Ch.4-L | 恐惧（恋爱版） | [阅读](chapters/love/ch-04-fear-love.md) |
-| Ch.5-L | 离别（恋爱版） | [阅读](chapters/love/ch-05-departure-love.md) |
-| Ch.6-L | 重逢（恋爱版） | [阅读](chapters/love/ch-06-reunion-love.md) |
-| Ch.7-L | 归属（恋爱版） | [阅读](chapters/love/ch-07-belonging-love.md) |
-| Ch.8-L | 学历与正义（恋爱版） | [阅读](chapters/love/ch-08-growth-love.md) |
-| Ch.9-L | 长官来访（恋爱版） | [阅读](chapters/love/ch-09-the-inspector-love.md) |
-| Ch.10-L | 日常与秘密（恋爱版） | [阅读](chapters/love/ch-10-secrets-and-tears-love.md) |
-| Ch.11-L | 变小之后（恋爱版） | [阅读](chapters/love/ch-11-child-again-love.md) |
-| Ch.12-L | 靠近与离别（恋爱版） | [阅读](chapters/love/ch-12-closeness-and-farewell-love.md) |
-| Ch.13-L | 大鲁的伤痕（恋爱版） | [阅读](chapters/love/ch-13-dalus-scars-love.md) |
+| Ch.1-L | 初遇（恋爱版） | [阅读](chapters/love/ch-001-first-meeting-love.md) |
+| Ch.2-L | 适应（恋爱版） | [阅读](chapters/love/ch-002-adaptation-love.md) |
+| Ch.3-L | 磨合（恋爱版） | [阅读](chapters/love/ch-003-bonding-love.md) |
+| Ch.4-L | 恐惧（恋爱版） | [阅读](chapters/love/ch-004-fear-love.md) |
+| Ch.5-L | 离别（恋爱版） | [阅读](chapters/love/ch-005-departure-love.md) |
+| Ch.6-L | 重逢（恋爱版） | [阅读](chapters/love/ch-006-reunion-love.md) |
+| Ch.7-L | 归属（恋爱版） | [阅读](chapters/love/ch-007-belonging-love.md) |
+| Ch.8-L | 学历与正义（恋爱版） | [阅读](chapters/love/ch-008-growth-love.md) |
+| Ch.9-L | 长官来访（恋爱版） | [阅读](chapters/love/ch-009-the-inspector-love.md) |
+| Ch.10-L | 日常与秘密（恋爱版） | [阅读](chapters/love/ch-010-secrets-and-tears-love.md) |
+| Ch.11-L | 变小之后（恋爱版） | [阅读](chapters/love/ch-011-child-again-love.md) |
+| Ch.12-L | 靠近与离别（恋爱版） | [阅读](chapters/love/ch-012-closeness-and-farewell-love.md) |
+| Ch.13-L | 大鲁的伤痕（恋爱版） | [阅读](chapters/love/ch-013-dalus-scars-love.md) |
 
 ---
 
@@ -162,37 +162,37 @@ German Shepherd `German Shepherd` · Golden Retriever `Golden Retriever`
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | First Meeting | [Read](chapters/ch-01-first-meeting.md) |
-| Ch.2 | Adaptation | [Read](chapters/ch-02-adaptation.md) |
-| Ch.3 | Bonding | [Read](chapters/ch-03-bonding.md) |
-| Ch.4 | Fear | [Read](chapters/ch-04-fear.md) |
-| Ch.5 | Departure | [Read](chapters/ch-05-departure.md) |
-| Ch.6 | Reunion | [Read](chapters/ch-06-reunion.md) |
-| Ch.7 | Belonging | [Read](chapters/ch-07-belonging.md) |
-| Ch.8 | Education and Justice | [Read](chapters/ch-08-growth.md) |
-| Ch.9 | The Inspector | [Read](chapters/ch-09-the-inspector.md) |
-| Ch.10 | Secrets and Tears | [Read](chapters/ch-10-secrets-and-tears.md) |
-| Ch.11 | Child Again | [Read](chapters/ch-11-child-again.md) |
-| Ch.12 | Closeness and Farewell | [Read](chapters/ch-12-closeness-and-farewell.md) |
-| Ch.13 | Dalu's Scars | [Read](chapters/ch-13-dalus-scars.md) |
+| Ch.1 | First Meeting | [Read](chapters/ch-001-first-meeting.md) |
+| Ch.2 | Adaptation | [Read](chapters/ch-002-adaptation.md) |
+| Ch.3 | Bonding | [Read](chapters/ch-003-bonding.md) |
+| Ch.4 | Fear | [Read](chapters/ch-004-fear.md) |
+| Ch.5 | Departure | [Read](chapters/ch-005-departure.md) |
+| Ch.6 | Reunion | [Read](chapters/ch-006-reunion.md) |
+| Ch.7 | Belonging | [Read](chapters/ch-007-belonging.md) |
+| Ch.8 | Education and Justice | [Read](chapters/ch-008-growth.md) |
+| Ch.9 | The Inspector | [Read](chapters/ch-009-the-inspector.md) |
+| Ch.10 | Secrets and Tears | [Read](chapters/ch-010-secrets-and-tears.md) |
+| Ch.11 | Child Again | [Read](chapters/ch-011-child-again.md) |
+| Ch.12 | Closeness and Farewell | [Read](chapters/ch-012-closeness-and-farewell.md) |
+| Ch.13 | Dalu's Scars | [Read](chapters/ch-013-dalus-scars.md) |
 
 ### Branch Version (Romance Adaptation)
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1-L | First Meeting (Romance) | [Read](chapters/love/ch-01-first-meeting-love.md) |
-| Ch.2-L | Adaptation (Romance) | [Read](chapters/love/ch-02-adaptation-love.md) |
-| Ch.3-L | Bonding (Romance) | [Read](chapters/love/ch-03-bonding-love.md) |
-| Ch.4-L | Fear (Romance) | [Read](chapters/love/ch-04-fear-love.md) |
-| Ch.5-L | Departure (Romance) | [Read](chapters/love/ch-05-departure-love.md) |
-| Ch.6-L | Reunion (Romance) | [Read](chapters/love/ch-06-reunion-love.md) |
-| Ch.7-L | Belonging (Romance) | [Read](chapters/love/ch-07-belonging-love.md) |
-| Ch.8-L | Education and Justice (Romance) | [Read](chapters/love/ch-08-growth-love.md) |
-| Ch.9-L | The Inspector (Romance) | [Read](chapters/love/ch-09-the-inspector-love.md) |
-| Ch.10-L | Secrets and Tears (Romance) | [Read](chapters/love/ch-10-secrets-and-tears-love.md) |
-| Ch.11-L | Child Again (Romance) | [Read](chapters/love/ch-11-child-again-love.md) |
-| Ch.12-L | Closeness and Farewell (Romance) | [Read](chapters/love/ch-12-closeness-and-farewell-love.md) |
-| Ch.13-L | Dalu's Scars (Romance) | [Read](chapters/love/ch-13-dalus-scars-love.md) |
+| Ch.1-L | First Meeting (Romance) | [Read](chapters/love/ch-001-first-meeting-love.md) |
+| Ch.2-L | Adaptation (Romance) | [Read](chapters/love/ch-002-adaptation-love.md) |
+| Ch.3-L | Bonding (Romance) | [Read](chapters/love/ch-003-bonding-love.md) |
+| Ch.4-L | Fear (Romance) | [Read](chapters/love/ch-004-fear-love.md) |
+| Ch.5-L | Departure (Romance) | [Read](chapters/love/ch-005-departure-love.md) |
+| Ch.6-L | Reunion (Romance) | [Read](chapters/love/ch-006-reunion-love.md) |
+| Ch.7-L | Belonging (Romance) | [Read](chapters/love/ch-007-belonging-love.md) |
+| Ch.8-L | Education and Justice (Romance) | [Read](chapters/love/ch-008-growth-love.md) |
+| Ch.9-L | The Inspector (Romance) | [Read](chapters/love/ch-009-the-inspector-love.md) |
+| Ch.10-L | Secrets and Tears (Romance) | [Read](chapters/love/ch-010-secrets-and-tears-love.md) |
+| Ch.11-L | Child Again (Romance) | [Read](chapters/love/ch-011-child-again-love.md) |
+| Ch.12-L | Closeness and Farewell (Romance) | [Read](chapters/love/ch-012-closeness-and-farewell-love.md) |
+| Ch.13-L | Dalu's Scars (Romance) | [Read](chapters/love/ch-013-dalus-scars-love.md) |
 
 ---
 

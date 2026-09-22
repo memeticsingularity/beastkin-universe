@@ -12,8 +12,8 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤 |
 | **身份** | 兽盾大楼十层高层守卫 |
 | **状态** | **已死亡**——魔影接电话时误操作导致射精而死 |
-| **首次登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-5-kitchen-and-lunch.md) |
-| **最后登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-5-kitchen-and-lunch.md) |
+| **首次登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md) |
+| **最后登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-05：厨房与致命午餐](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-5-kitchen-and-lunch.md)
+### [vol-2-ch-05：厨房与致命午餐](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)
 
 > “唔。。啊。。求你。。快住手。。。呃。。”此时的魔影正在处决这一层最后一只狗兽人守卫，即使是犬科，能在这一层当守卫的也是身材健壮的佼佼者，但是再出色的守卫，在魔影的面前也是不堪一击。就在魔影准备将他灭口的最后一刻，一个电话打了过来，被打扰的魔影有些不爽，停下了撸动的动作，拿出正在震动的电话按下了通话键。
 >

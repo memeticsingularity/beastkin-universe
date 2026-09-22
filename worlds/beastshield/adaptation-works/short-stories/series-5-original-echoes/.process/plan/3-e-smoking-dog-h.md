@@ -20,7 +20,7 @@
 
 - **作品**：炎魉外传第二章《办公室清剿》
 - **原文场景**：黑制服狗守卫在杂物间门口抽烟，向路过的炎递烟——"兄弟，来一根？"炎假装接烟，瞬间制服，不到30秒双倍刺激处决。死后炎帮狗守卫撸了几个全程作为"奖励"。
-- **原文位置**：[ch-2-office-clearance.md](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)
+- **原文位置**：[ch-2-office-clearance.md](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md)
 - **讨论记录**：[2026-06-13-yan-liang-character-analysis.md](../../../../../original-archives/ai-discussion/discussion/2026-06-13-yan-liang-character-analysis.md)（Q1–Q8）
 
 ---

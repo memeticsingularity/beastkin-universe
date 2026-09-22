@@ -12,14 +12,14 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤，白袜 |
 | **身份** | 十一层熊族领地·熊组长手下守卫 |
 | **状态** | **已死亡**——被魔影踢落炼药池，春药渗入致死 |
-| **首次登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-8-alchemy-room-battle.md) |
-| **最后登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-8-alchemy-room-battle.md) |
+| **首次登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) |
+| **最后登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-08：炼药房之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-8-alchemy-room-battle.md)
+### [vol-2-ch-08：炼药房之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)
 
 > “快阻止他！谁抓到他我记他大功！”守卫们一听瞬间精神抖擞，也不顾脚下摇晃，快步冲了过去。
 >

@@ -145,15 +145,15 @@ The series adopts an AI-human co-creation model, deeply exploring daily scenes f
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 生日蛋糕 (Birthday Cake) | [阅读](chapters/ch-01-birthday-cake.md) |
-| Ch.2 | 鼾声如雷 (Snoring Too Loud) | [阅读](chapters/ch-02-snoring-too-loud.md) |
-| Ch.3 | 新兵营的代价 (The Price of Training Camp) | [阅读](chapters/ch-03-bullying-in-training-camp.md) |
-| Ch.4 | 新兵营的规则 (Rules of the Bootcamp) | [阅读](chapters/ch-04-rules-of-the-bootcam.md) |
-| Ch.5 | 白色狙击手的昨日恋人 (The White Sniper's Yesterday Lover) | [阅读](chapters/ch-05.md) |
-| Ch.6 | 食堂风波与迟到的晋升 (Canteen Clash and the Delayed Promotion) | [阅读](chapters/ch-06-canteen-clash.md) |
-| Ch.7 | 毕业实习（扩写版）(Graduation Internship) | [阅读](chapters/ch-07-graduation-internship.md) |
-| Ch.8 | 毕业实习 (Graduation Internship) | [阅读](chapters/ch-08.md) |
-| Ch.9 | 毕业实习·续 (Graduation Internship: Continued) | [阅读](chapters/ch-09.md) |
+| Ch.1 | 生日蛋糕 (Birthday Cake) | [阅读](chapters/ch-001-birthday-cake.md) |
+| Ch.2 | 鼾声如雷 (Snoring Too Loud) | [阅读](chapters/ch-002-snoring-too-loud.md) |
+| Ch.3 | 新兵营的代价 (The Price of Training Camp) | [阅读](chapters/ch-003-bullying-in-training-camp.md) |
+| Ch.4 | 新兵营的规则 (Rules of the Bootcamp) | [阅读](chapters/ch-004-rules-of-the-bootcam.md) |
+| Ch.5 | 白色狙击手的昨日恋人 (The White Sniper's Yesterday Lover) | [阅读](chapters/ch-005.md) |
+| Ch.6 | 食堂风波与迟到的晋升 (Canteen Clash and the Delayed Promotion) | [阅读](chapters/ch-006-canteen-clash.md) |
+| Ch.7 | 毕业实习（扩写版）(Graduation Internship) | [阅读](chapters/ch-007-graduation-internship.md) |
+| Ch.8 | 毕业实习 (Graduation Internship) | [阅读](chapters/ch-008.md) |
+| Ch.9 | 毕业实习·续 (Graduation Internship: Continued) | [阅读](chapters/ch-009.md) |
 
 ---
 
@@ -161,15 +161,15 @@ The series adopts an AI-human co-creation model, deeply exploring daily scenes f
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | Birthday Cake | [Read](chapters/ch-01-birthday-cake.md) |
-| Ch.2 | Snoring Too Loud | [Read](chapters/ch-02-snoring-too-loud.md) |
-| Ch.3 | The Price of Training Camp | [Read](chapters/ch-03-bullying-in-training-camp.md) |
-| Ch.4 | Rules of the Bootcamp | [Read](chapters/ch-04-rules-of-the-bootcam.md) |
-| Ch.5 | The White Sniper's Yesterday Lover | [Read](chapters/ch-05.md) |
-| Ch.6 | Canteen Clash and the Delayed Promotion | [Read](chapters/ch-06-canteen-clash.md) |
-| Ch.7 | Graduation Internship (Expanded) | [Read](chapters/ch-07-graduation-internship.md) |
-| Ch.8 | Graduation Internship | [Read](chapters/ch-08.md) |
-| Ch.9 | Graduation Internship: Continued | [Read](chapters/ch-09.md) |
+| Ch.1 | Birthday Cake | [Read](chapters/ch-001-birthday-cake.md) |
+| Ch.2 | Snoring Too Loud | [Read](chapters/ch-002-snoring-too-loud.md) |
+| Ch.3 | The Price of Training Camp | [Read](chapters/ch-003-bullying-in-training-camp.md) |
+| Ch.4 | Rules of the Bootcamp | [Read](chapters/ch-004-rules-of-the-bootcam.md) |
+| Ch.5 | The White Sniper's Yesterday Lover | [Read](chapters/ch-005.md) |
+| Ch.6 | Canteen Clash and the Delayed Promotion | [Read](chapters/ch-006-canteen-clash.md) |
+| Ch.7 | Graduation Internship (Expanded) | [Read](chapters/ch-007-graduation-internship.md) |
+| Ch.8 | Graduation Internship | [Read](chapters/ch-008.md) |
+| Ch.9 | Graduation Internship: Continued | [Read](chapters/ch-009.md) |
 
 ---
 

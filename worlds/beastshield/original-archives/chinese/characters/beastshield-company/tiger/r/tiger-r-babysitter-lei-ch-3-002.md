@@ -12,8 +12,8 @@
 | **等级/制服** | R级枪械兵 · 白色紧身制服 |
 | **身份** | 围剿小队狙击手 |
 | **状态** | **已死亡**——被老雷踩在背上用狙击枪折磨后补上后脑一枪 |
-| **首次登场** | [s-3-ch3-3](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md) |
-| **最后登场** | [s-3-ch3-3](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md) |
+| **首次登场** | [s-3-ch3-3](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
+| **最后登场** | [s-3-ch3-3](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch3-3：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)
+### [s-3-ch3-3：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
 
 > ——（老雷搭顺风车途中被狙击，司机中弹身亡，白熊绿制服杂兵上前查看反被老雷了结）——
 >
@@ -64,5 +64,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)*
+*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)*
 *创建日期：2026-08-28*

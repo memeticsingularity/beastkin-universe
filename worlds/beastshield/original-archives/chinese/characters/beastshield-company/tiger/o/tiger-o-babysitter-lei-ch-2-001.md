@@ -12,8 +12,8 @@
 | **等级/制服** | O级监工 · 蓝色制服+白袜 |
 | **身份** | 警报后第一个冲入的蓝制服兽盾兵 |
 | **状态** | **已死亡**——被躲在门后的老雷抹了脖子，喷精倒在血泊中 |
-| **首次登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
-| **最后登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
+| **首次登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
+| **最后登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 三、登场原文
 
-### [老雷突袭情报局·第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)
+### [老雷突袭情报局·第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)
 
 > ——（老雷拷资料时警铃大响，系统设置了警报——）——
 >
@@ -48,6 +48,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第二章](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)*
+*档案来源：老雷突袭情报局 [第二章](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

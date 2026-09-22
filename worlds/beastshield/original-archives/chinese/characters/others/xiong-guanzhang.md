@@ -12,13 +12,13 @@
 | **等级/制服** | 无——非兽盾公司编制（穿白色武道服／柔道服） |
 | **身份** | 郊区龙拳馆（柔道武馆）馆长；第三卷正文亦被虎队长称为「龙拳馆的馆长」 |
 | **状态** | **已死亡**——第三卷·第2章被兽盾蓝制服虎队长（阿正）以双腿绞颈拧断脖子 |
-| **首次登场** | [第一卷·第5章 首次换装](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-5-first-costume-change.md) |
-| **最后登场** | [第三卷·第2章 武馆灭门](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md) |
+| **首次登场** | [第一卷·第5章 首次换装](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-005-first-costume-change.md) |
+| **最后登场** | [第三卷·第2章 武馆灭门](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-002-dojo-massacre.md) |
 
 > ⚠️ **状态订正（2026 审计）**：既有索引记「已死亡（第一卷·第5章）」并把首次登场记为第一卷·第5章——**与正文冲突**。
-> 第一卷·第5章正文（[`ch-5`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-5-first-costume-change.md) L153/L159）玩家明确「今天就先饶了你」放过他；
-> 之后第11章（[L110](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)）、第12章整章他都以存活身份行动；真正死亡发生在**第三卷·第2章**
-> （[`ch-2`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md) L83 被拧断脖子，L85 尸体被挂在道馆招牌上）。
+> 第一卷·第5章正文（[`ch-5`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-005-first-costume-change.md) L153/L159）玩家明确「今天就先饶了你」放过他；
+> 之后第11章（[L110](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)）、第12章整章他都以存活身份行动；真正死亡发生在**第三卷·第2章**
+> （[`ch-2`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-002-dojo-massacre.md) L83 被拧断脖子，L85 尸体被挂在道馆招牌上）。
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 四、登场原文
 
-### [Chapter 5 首次换装](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-5-first-costume-change.md)
+### [Chapter 5 首次换装](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-005-first-costume-change.md)
 
 > 我转头看去，一只穿着白色武道服，**肌肉**轮廓比**兽盾杂兵**们还要夸张的**白熊兽人**如同一座山一般杵在我面前，柱子般粗的手臂抓着我的后颈，把我像小狗仔一样提在半空。
 >
@@ -125,7 +125,7 @@
 
 ---
 
-### [Chapter 11 特工局](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)
+### [Chapter 11 特工局](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)
 
 本章开头部分该角色未出场。
 
@@ -211,7 +211,7 @@
 
 ---
 
-### [Chapter 12 夜袭兵营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md)
+### [Chapter 12 夜袭兵营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md)
 
 本章开头部分该角色未出场。
 
@@ -309,7 +309,7 @@
 
 ---
 
-### [Chapter 2 武馆灭门](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md)
+### [Chapter 2 武馆灭门](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-002-dojo-massacre.md)
 
 本章前半段该角色仅在文馆内打坐（弟子被杀一节为他人视角），自被偷袭起登场。
 
@@ -416,10 +416,10 @@
 
 ## 七、结局
 
-**第一卷**：在街头秒杀玩家，读档后被玩家偷袭制服并强吻，最终被放过（[`ch-5`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-5-first-costume-change.md) L153–L159）。
-**第一卷·第11章**：出席特工局会议，认出玩家但拉不下面子说出真相，投票放过玩家（[`ch-11`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)）。
+**第一卷**：在街头秒杀玩家，读档后被玩家偷袭制服并强吻，最终被放过（[`ch-5`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-005-first-costume-change.md) L153–L159）。
+**第一卷·第11章**：出席特工局会议，认出玩家但拉不下面子说出真相，投票放过玩家（[`ch-11`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)）。
 **第一卷·第12章**：与玩家一同夜袭兽盾兵营熊兽种区域。
-**第三卷·第2章**：文馆被兽盾灭门，十几名弟子被投入河中；他先以脊椎点按杀死一只绿制服牛兽人，又连杀狗兽人、黑虎与狮子，最终被虎队长的双腿绞住脖子，因「不顾武德」咬住对方小腿而被痛下杀手，**脖子被直接拧断**，尸体被挂在道馆招牌上（[`ch-2`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md) L83–L87）。
+**第三卷·第2章**：文馆被兽盾灭门，十几名弟子被投入河中；他先以脊椎点按杀死一只绿制服牛兽人，又连杀狗兽人、黑虎与狮子，最终被虎队长的双腿绞住脖子，因「不顾武德」咬住对方小腿而被痛下杀手，**脖子被直接拧断**，尸体被挂在道馆招牌上（[`ch-2`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-002-dojo-massacre.md) L83–L87）。
 
 ---
 

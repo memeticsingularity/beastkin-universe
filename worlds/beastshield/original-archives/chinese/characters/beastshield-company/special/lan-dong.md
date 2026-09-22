@@ -13,8 +13,8 @@
 | **别名** | 岚董（通称）；**全名「岚起鹏」**（第三卷·第4章 L319 自报，同章 L225 儡部长亦直呼其名）；被其允许称「鹏鹏」 |
 | **身份** | 兽盾公司三位董事之一；禁咒（暗系法术）钻研者；大奔的主人 |
 | **状态** | **存活**（第三卷·第19章仍活动） |
-| **首次登场** | [第三卷·第4章 心灵防御](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md) |
-| **最后登场** | [第三卷·第19章 真相大白](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-19-origin-revelation.md) |
+| **首次登场** | [第三卷·第4章 心灵防御](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md) |
+| **最后登场** | [第三卷·第19章 真相大白](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md) |
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## 四、登场原文
 
-### [Chapter 4 心灵防御](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md)
+### [Chapter 4 心灵防御](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md)
 
 本章开头部分该角色未出场（自其炸开提拔科大门起登场）。
 
@@ -238,7 +238,7 @@
 
 ---
 
-### [Chapter 12 沙漠伏击](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md)
+### [Chapter 12 沙漠伏击](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md)
 
 > “岚董，我们真的要去东海浮岛和龙神作对吗？”大奔收拾着行李不安地问道。
 >
@@ -270,7 +270,7 @@
 
 ---
 
-### [Chapter 13 龙神之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md)
+### [Chapter 13 龙神之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md)
 
 > “大敌当前，你却临阵虐待战友，破坏军心降我方士气，是何居心？”蓝芒缓缓熄灭于岚董手里，他刚从机舱走出就看到流墟的行径，立刻出手制止，同时感叹兽盾公司现在的纪律已经沦落到这般不堪了吗。
 >
@@ -336,7 +336,7 @@
 
 ---
 
-### [Chapter 15 最终之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-15-final-battle.md)
+### [Chapter 15 最终之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)
 
 > 岚董看到这等惨状于心不忍，翻开禁咒第十七页，口中默念起一段咒文，随后手掌贴地！ 冥河引
 >
@@ -378,7 +378,7 @@
 
 ---
 
-### [Chapter 19 真相大白](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-19-origin-revelation.md)
+### [Chapter 19 真相大白](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md)
 
 > 天牢刚被打开，岚董就发现了里面的人类，朝大奔道：“这里太危险了，我们得把人类转移到安全的地方。”
 >
@@ -430,7 +430,7 @@
 
 ## 七、结局
 
-第三卷·第4章闯入提拔科阻止儡部长的人体实验，救下大奔并与其长谈，吐露「我全名叫岚起鹏」。第8章在兽盾组织外围湖畔与薛鼎冲突，赐甲于大奔。第12–13章登东海浮岛讨伐龙神。第15章以「冥河引」与冰系最高阶咒术参战。第19章天牢打开后与牙董对峙，被牙董当面揭穿「找人类」只是一个哄骗他合作的谎话（[`ch-19`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-19-origin-revelation.md) L29）。**其后正文未再交代，按存活记录。**
+第三卷·第4章闯入提拔科阻止儡部长的人体实验，救下大奔并与其长谈，吐露「我全名叫岚起鹏」。第8章在兽盾组织外围湖畔与薛鼎冲突，赐甲于大奔。第12–13章登东海浮岛讨伐龙神。第15章以「冥河引」与冰系最高阶咒术参战。第19章天牢打开后与牙董对峙，被牙董当面揭穿「找人类」只是一个哄骗他合作的谎话（[`ch-19`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md) L29）。**其后正文未再交代，按存活记录。**
 
 ---
 

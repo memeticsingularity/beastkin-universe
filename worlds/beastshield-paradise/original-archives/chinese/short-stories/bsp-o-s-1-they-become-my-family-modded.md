@@ -1,8 +1,8 @@
 #
 
-- [e-847-tiger.md](../chaptered-stories/side/bsp-o-cs-3-e-847-tiger/ch-1.md)
-- [e-619-bull.md](../chaptered-stories/side/bsp-o-cs-4-e-619-bull/ch-1.md)
-- [e-302-bear.md](../chaptered-stories/side/bsp-o-cs-5-e-302-bear/ch-1.md)
+- [e-847-tiger.md](../chaptered-stories/side/bsp-o-cs-3-e-847-tiger/ch-001.md)
+- [e-619-bull.md](../chaptered-stories/side/bsp-o-cs-4-e-619-bull/ch-001.md)
+- [e-302-bear.md](../chaptered-stories/side/bsp-o-cs-5-e-302-bear/ch-001.md)
   我现在希望把这三个故事的主角玩家换成同一的一个人。在面对熊/虎/熊的第三个筹码的时候做出不一样的选择。[a-players-warm-heart-chinese.md](../../../settings/a-players-warm-heart-chinese.md)
 
 #

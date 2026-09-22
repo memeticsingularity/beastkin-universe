@@ -14,8 +14,8 @@
 | **编号** | 无 |
 | **身份** | 与**黑狗**同处一个洞穴的不明死者；**黑狗**“看着很面熟，但就是想不起来是谁” |
 | **状态** | **已死亡**（**黑狗**醒来时即已陈尸洞中；正文未交代死因与凶手） |
-| **首次登场** | [墨犬篇 ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md) |
-| **最后登场** | [墨犬篇 ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md) |
+| **首次登场** | [墨犬篇 ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md) |
+| **最后登场** | [墨犬篇 ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md) |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 四、登场原文
 
-### [墨犬·第一章：洞穴醒来](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)
+### [墨犬·第一章：洞穴醒来](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)
 
 > ——（过渡：**黑狗**在洞穴中醒来，完全失忆，连自己是谁都想不起来；挣扎起身、眼睛逐渐适应昏暗后，才猛地发现身旁趴着一具兽人尸体；原文第15–17行）——
 
@@ -74,7 +74,7 @@
 
 ---
 
-*档案来源：墨犬篇 [第一章](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)
+*档案来源：墨犬篇 [第一章](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)
 *创建日期：2026-09-17*
 
 > 命名说明：本篇为仓库首个 `unknown-<篇>-ch-<N>-NNN.md` 命名实例——正文既未给出姓名、也未给出兽种与制服等级，故启用 `unknown-` 前缀。

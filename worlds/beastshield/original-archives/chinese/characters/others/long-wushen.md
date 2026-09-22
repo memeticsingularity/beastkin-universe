@@ -12,12 +12,12 @@
 | **等级/制服** | 无——非兽盾公司编制（丝质布衣／蚕丝轻纱 + 草绳木屐，赤足） |
 | **身份** | 兽人世界「天下第一」的传说级存在；五行封禁的创造者 |
 | **状态** | **肉体被占**——第三卷·第19章灵魂被辉董的光之矛钉住后，肉体被血君王夺取 |
-| **首次登场（实体）** | [第三卷·第9章 神弓猎人](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md) |
-| **最后登场** | [第三卷·第19章 真相大白](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-19-origin-revelation.md) |
+| **首次登场（实体）** | [第三卷·第9章 神弓猎人](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md) |
+| **最后登场** | [第三卷·第19章 真相大白](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md) |
 
 > ⚠️ **首次登场订正（2026 审计）**：既有索引记「第三卷·第8章」，但第8章中的只是**概念性提及与铺垫**
-> （[`ch-8`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) 章题「龙神浮岛」及阿宝/墩常线索）；
-> **实体首次登场为第三卷·第9章**（[`ch-9`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md) L47：「一只身穿丝质布衣的龙兽人，
+> （[`ch-8`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) 章题「龙神浮岛」及阿宝/墩常线索）；
+> **实体首次登场为第三卷·第9章**（[`ch-9`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md) L47：「一只身穿丝质布衣的龙兽人，
 > 赤着脚踩着牛兽人尸体缓缓走了出来」）。
 
 ---
@@ -42,7 +42,7 @@
 
 ## 四、登场原文
 
-### [Chapter 9 神弓猎人](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md)
+### [Chapter 9 神弓猎人](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md)
 
 本章开头部分该角色未出场。
 
@@ -78,7 +78,7 @@
 
 ---
 
-### [Chapter 13 龙神之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md)
+### [Chapter 13 龙神之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md)
 
 > “过奖过奖。”辉董略带自豪地笑道。 在牙董吼完后，木屋内缓缓走出一只青龙兽人，他身着蚕丝轻纱，脚踏草绳木屐，虽然穿着并不算华贵，但他本人散发出的威严气势，让旁人如坐针毡。
 >
@@ -102,7 +102,7 @@
 
 ---
 
-### [Chapter 19 真相大白](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-19-origin-revelation.md)
+### [Chapter 19 真相大白](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md)
 
 本章开头部分该角色未出场（自天牢被打开起登场）。
 
@@ -173,7 +173,7 @@
 
 ## 七、结局
 
-第三卷·第9章隐居东海浮岛，被墩常一箭引来后现身，随即以水滴击落直升机灭口。第13章与登岛的兽盾三董事对峙。第19章天牢被打开后，其灵魂被辉董的**光之矛**钉住无法动弹，肉体交由血君王占据；此后其形体由血君王驱动（[`ch-19`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-19-origin-revelation.md) L49–L61）。
+第三卷·第9章隐居东海浮岛，被墩常一箭引来后现身，随即以水滴击落直升机灭口。第13章与登岛的兽盾三董事对峙。第19章天牢被打开后，其灵魂被辉董的**光之矛**钉住无法动弹，肉体交由血君王占据；此后其形体由血君王驱动（[`ch-19`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md) L49–L61）。
 
 ---
 

@@ -13,14 +13,14 @@
 | **编号** | 未知 |
 | **身份** | 兽盾大楼一楼大厅守卫 |
 | **状态** | **已死亡**——被匕首扎穿脖子 |
-| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
-| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
+| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) |
+| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
+### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md)
 
 > 首先出手的是离我最近的一只灰毛狗兽人，他拿着一把砍刀向我劈来，由于这些绿制服杂兵的敏捷远远低于我，系统会使他们在攻击的瞬间动作放慢，给我更多的反应时间。
 >

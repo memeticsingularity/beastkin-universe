@@ -12,7 +12,7 @@
 | **等级/制服** | G级 · 军绿短袖+军绿短裤+白袜+运动鞋 |
 | **身份** | 一楼走廊增援小队领队 |
 | **状态** | **已死亡**——卵蛋被捏碎，精液被挤入玻璃瓶，后被灌回自己嘴里 |
-| **登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-9-corridor-cleanup.md) |
+| **登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-09：走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-9-corridor-cleanup.md)
+### [vol-2-ch-09：走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)
 
 > 走在小队最前面的一只虎兽人守卫以为他是这里的的清洁工，走上前询问道:“你有看到其他人从这里经过吗。”
 >

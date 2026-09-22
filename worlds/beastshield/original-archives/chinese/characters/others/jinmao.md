@@ -12,11 +12,11 @@
 | **等级/制服** | 无——非兽盾公司编制（白衬衫 + 黑西裤 + 黑皮鞋的正装） |
 | **身份** | 白之都市中心「大黄心理咨询中心」执业者（心理医生） |
 | **状态** | **存活**——第三卷·第5章守住别墅，全歼来犯的兽盾杀手 |
-| **首次登场** | [第三卷·第5章 卧底猎杀](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md) |
-| **最后登场** | [第三卷·第5章 卧底猎杀](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md) |
+| **首次登场** | [第三卷·第5章 卧底猎杀](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) |
+| **最后登场** | [第三卷·第5章 卧底猎杀](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) |
 
 > ⚠️ **索引订正（2026 审计）**：既有索引记为「兽盾公司心理咨询师」。但正文中**他是被兽盾组织派出的杀手（绿制服 + 带领「组长」）
-> 上门猎杀的目标**（[`ch-5`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md) L65 起为兽盾一方视角），并无任何雇员关系。此处按正文
+> 上门猎杀的目标**（[`ch-5`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) L65 起为兽盾一方视角），并无任何雇员关系。此处按正文
 > 记作**平民咨询师**。
 > ⚠️ **第4章订正**：任务书另注「`story-3/ch-4` 亦有」，但经逐行核对，金毛在第4章**正文（L1–L390）中完全未出场**；
 > 第4章仅在**「故事评述与感慨」区**（L391 之后，含 L411「**金毛（心理咨询师）**」）由 AI 评述提及他——按
@@ -45,7 +45,7 @@
 
 ## 四、登场原文
 
-### [Chapter 5 卧底猎杀](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md)
+### [Chapter 5 卧底猎杀](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md)
 
 本章开头部分该角色未出场。
 
@@ -217,7 +217,7 @@
 
 ---
 
-### [Chapter 4 心灵防御](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md)
+### [Chapter 4 心灵防御](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md)
 
 本章该角色未在正文中出场（仅见于本章末「故事评述与感慨」区，按建档规范不计为登场），故无登场原文段落。
 

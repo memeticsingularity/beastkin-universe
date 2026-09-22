@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织搜查队员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) |
-| **最后登场** | [vol-3-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) |
+| **首次登场** | [vol-3-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
+| **最后登场** | [vol-3-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
 
 ---
 
 ## 四、登场原文
 
-### [警局入侵](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md)
+### [警局入侵](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md)
 
 > “我的天，这是怎么回事！老牛你快过来看看。”随着他的呼喊，另一只犀牛兽人也跟了进来。
 

@@ -1,7 +1,7 @@
 # 递烟狗存活后续 · 援兵发现讨论
 
 > 关联作品：3-e-smoking-dog-h.md
-> 关联章节：[ch-3-deep-confrontation.md](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
+> 关联章节：[ch-3-deep-confrontation.md](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
 > 涉及角色：黑制服狗兽人（递烟狗）、黑制服援兵
 > 日期：2026-06-13
 

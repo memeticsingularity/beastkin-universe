@@ -12,14 +12,14 @@
 | **等级/制服** | G级 · 军绿色紧身短袖短裤 |
 | **身份** | 兽盾大楼一层增援守卫 |
 | **状态** | **已死亡**——被老雷膝撞腹部后射精而死 |
-| **首次登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-6-lei-lei-arrival.md) |
-| **最后登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-6-lei-lei-arrival.md) |
+| **首次登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) |
+| **最后登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-06：老雷登场](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-6-lei-lei-arrival.md)
+### [vol-2-ch-06：老雷登场](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)
 
 > “你是什么人。”走最前排的一只野猪兽人对闯入者喝问道。
 >

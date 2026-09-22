@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾公司鼠神武搜寻队站岗护卫 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-14-mouse-divine-weapon.md) |
-| **最后登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-14-mouse-divine-weapon.md) |
+| **首次登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md) |
+| **最后登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 四、登场原文
 
-### [鼠神武](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-14-mouse-divine-weapon.md)
+### [鼠神武](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)
 
 > 第一只被干掉的是一只黑牛兽人，他是在小解的时候被魔影从背后握住牛根慢慢撸死的，由于他身材过于高大魁梧，魔影只能踢弯他的膝盖，让他以跪着的姿势喷出牛精，喷出的精液比他尿出的尿还多！等他喷完后，魔影拔下面具一看，这只黑牛皮肤粗糙，面部带疤，年龄应该超过四十，络腮胡都已参杂着些许白丝，本应十分凶狠的脸上此时却是一脸绝望的表情十分扭曲。
 

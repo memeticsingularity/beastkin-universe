@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色制服 |
 | **身份** | 走廊巡逻杂兵 |
 | **状态** | **已死亡**——被老雷匕首抹脖，灌满精液的身体被脚背掀出窗外跌进花坛 |
-| **首次登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
-| **最后登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
+| **首次登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
+| **最后登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch2-1：情报部门（第二章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)
+### [s-3-ch2-1：情报部门（第二章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)
 
 > 正好门口走廊上的窗户旁，有两只兽盾兵在聊着什么。
 >
@@ -63,6 +63,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)*
+*档案来源：老雷突袭情报局 [第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

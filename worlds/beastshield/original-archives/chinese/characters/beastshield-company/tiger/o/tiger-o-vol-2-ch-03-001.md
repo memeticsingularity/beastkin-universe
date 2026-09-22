@@ -12,8 +12,8 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤 |
 | **身份** | 兽盾大楼十层高层守卫 |
 | **状态** | **已死亡**——被魔影手指插入菊花捅前列腺达到高潮 |
-| **首次登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-3-terrace-hunt.md) |
-| **最后登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-3-terrace-hunt.md) |
+| **首次登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md) |
+| **最后登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-03：露台狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-3-terrace-hunt.md)
+### [vol-2-ch-03：露台狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md)
 
 > 之后来了三个兽人，一只牛，一只野猪，和一只虎，但是由于是高层守卫，身材个个都魁梧异常。
 >

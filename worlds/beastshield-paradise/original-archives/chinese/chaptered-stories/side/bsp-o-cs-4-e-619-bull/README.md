@@ -73,7 +73,7 @@ In the abandoned slaughterhouse on the eastern outskirts of White Capital, the a
 
 ## 章节列表 / Chapter List
 
-- [第一章：铁蹄的誓言 / Chapter 1: Iron Hoof's Vow](ch-1.md)
+- [第一章：铁蹄的誓言 / Chapter 1: Iron Hoof's Vow](ch-001.md)
 
 ---
 

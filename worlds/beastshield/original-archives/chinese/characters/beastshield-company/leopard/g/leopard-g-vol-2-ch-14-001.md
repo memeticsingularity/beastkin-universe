@@ -12,13 +12,13 @@
 | **等级/制服** | G级 · 军绿短袖+军绿短裤+白袜+运动鞋 |
 | **身份** | 蟒蛇岛主营守卫 |
 | **状态** | **已死亡**——吸食春药烟后被棕熊精液喷到脸上，自行射精毙命 |
-| **登场** | [vol-2-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-14-python-island-transformation.md) |
+| **登场** | [vol-2-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-14：蟒蛇岛回忆·下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-14-python-island-transformation.md)
+### [vol-2-ch-14：蟒蛇岛回忆·下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md)
 
 > “对啊，这到底是个啥玩意啊？据说为了采摘这个东西，折了好几个弟兄。”回想起触碰到这个东西的几个同伴浑身颤抖着口吐白沫乱喷精液的样子，说话的豹兽人不自觉的离那东西远了一步。
 >

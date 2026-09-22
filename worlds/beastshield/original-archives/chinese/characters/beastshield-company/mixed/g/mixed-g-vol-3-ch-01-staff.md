@@ -12,8 +12,8 @@
 | **等级/制服** | 蓝制服（不明等级） |
 | **身份** | 提拔测试工作人员，负责处理尸体 |
 | **状态** | 存活 |
-| **首次登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md) |
-| **最后登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md) |
+| **首次登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md) |
+| **最后登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [提拔测试](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md)
+### [提拔测试](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md)
 
 > 虎兽人刚开始喷射精液，一个高壮的蓝制服工作人员已经上前开始处理尸体，只见他先把手铐脚铐解开，然后把野猪扛上肩膀，手里抓着狮子兽人尸体的穿着白袜的脚踝拖着他来到一扇大帘子前面……
 

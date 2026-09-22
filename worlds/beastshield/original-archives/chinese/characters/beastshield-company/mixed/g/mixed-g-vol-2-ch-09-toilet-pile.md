@@ -35,7 +35,7 @@
 
 ## 四、登场原文
 
-### [Chapter 9 走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-9-corridor-cleanup.md)
+### [Chapter 9 走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)
 
 > 牛兽人满脸疑惑，但是迫于老雷威慑不敢不从，颤巍巍走到了厕所门口，往里一看，瞬间吓到一屁股坐在了地上。
 >
@@ -69,5 +69,5 @@
 
 ---
 
-*档案来源：主线第二卷《魔影》[第9章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-9-corridor-cleanup.md)*
+*档案来源：主线第二卷《魔影》[第9章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)*
 *创建日期：2026-09-17 · ⭐集体档案——个体无法区分，仅以群体形式提及*

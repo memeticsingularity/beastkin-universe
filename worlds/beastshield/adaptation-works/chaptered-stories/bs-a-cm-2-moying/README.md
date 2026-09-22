@@ -111,20 +111,20 @@ This is neither a trial of justice nor a flame of vengeance. It is a private rit
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 更衣室的十六道血痕 | [阅读](chapters/ch-01-2.md) |
-| Ch.2 | 琥珀猎手 (The Amber Hunter) | [阅读](chapters/ch-02-1.md) |
-| Ch.3 | 堆积的热 (The Piling Heat) | [阅读](chapters/ch-03-3.md) |
-| Ch.4 | （待补充） | [阅读](chapters/ch-04-1.md) |
-| Ch.5 | （待补充） | [阅读](chapters/ch-05-2.md) |
-| Ch.6 | （待补充） | [阅读](chapters/ch-06-1.md) |
-| Ch.7 | （待补充） | [阅读](chapters/ch-07-1.md) |
-| Ch.8 | （待补充） | [阅读](chapters/ch-08-6.md) |
-| Ch.9 | （待补充） | [阅读](chapters/ch-09-6.md) |
-| Ch.10 | （待补充） | [阅读](chapters/ch-10-2.md) |
-| Ch.11-1 | （待补充） | [阅读](chapters/ch-11-1.md) |
-| Ch.11-2 | （待补充） | [阅读](chapters/ch-11-2.md) |
-| Ch.11-3 | （待补充） | [阅读](chapters/ch-11-3.md) |
-| Ch.11-4 | （待补充） | [阅读](chapters/ch-11-4.md) |
+| Ch.1 | 更衣室的十六道血痕 | [阅读](chapters/ch-001-2.md) |
+| Ch.2 | 琥珀猎手 (The Amber Hunter) | [阅读](chapters/ch-002-1.md) |
+| Ch.3 | 堆积的热 (The Piling Heat) | [阅读](chapters/ch-003-3.md) |
+| Ch.4 | （待补充） | [阅读](chapters/ch-004-1.md) |
+| Ch.5 | （待补充） | [阅读](chapters/ch-005-2.md) |
+| Ch.6 | （待补充） | [阅读](chapters/ch-006-1.md) |
+| Ch.7 | （待补充） | [阅读](chapters/ch-007-1.md) |
+| Ch.8 | （待补充） | [阅读](chapters/ch-008-6.md) |
+| Ch.9 | （待补充） | [阅读](chapters/ch-009-6.md) |
+| Ch.10 | （待补充） | [阅读](chapters/ch-010-2.md) |
+| Ch.11-1 | （待补充） | [阅读](chapters/ch-011-1.md) |
+| Ch.11-2 | （待补充） | [阅读](chapters/ch-011-2.md) |
+| Ch.11-3 | （待补充） | [阅读](chapters/ch-011-3.md) |
+| Ch.11-4 | （待补充） | [阅读](chapters/ch-011-4.md) |
 
 ---
 
@@ -132,20 +132,20 @@ This is neither a trial of justice nor a flame of vengeance. It is a private rit
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | Sixteen Bloodstains in the Locker Room | [Read](chapters/ch-01-2.md) |
-| Ch.2 | The Amber Hunter | [Read](chapters/ch-02-1.md) |
-| Ch.3 | The Piling Heat | [Read](chapters/ch-03-3.md) |
-| Ch.4 | (TBD) | [Read](chapters/ch-04-1.md) |
-| Ch.5 | (TBD) | [Read](chapters/ch-05-2.md) |
-| Ch.6 | (TBD) | [Read](chapters/ch-06-1.md) |
-| Ch.7 | (TBD) | [Read](chapters/ch-07-1.md) |
-| Ch.8 | (TBD) | [Read](chapters/ch-08-6.md) |
-| Ch.9 | (TBD) | [Read](chapters/ch-09-6.md) |
-| Ch.10 | (TBD) | [Read](chapters/ch-10-2.md) |
-| Ch.11-1 | (TBD) | [Read](chapters/ch-11-1.md) |
-| Ch.11-2 | (TBD) | [Read](chapters/ch-11-2.md) |
-| Ch.11-3 | (TBD) | [Read](chapters/ch-11-3.md) |
-| Ch.11-4 | (TBD) | [Read](chapters/ch-11-4.md) |
+| Ch.1 | Sixteen Bloodstains in the Locker Room | [Read](chapters/ch-001-2.md) |
+| Ch.2 | The Amber Hunter | [Read](chapters/ch-002-1.md) |
+| Ch.3 | The Piling Heat | [Read](chapters/ch-003-3.md) |
+| Ch.4 | (TBD) | [Read](chapters/ch-004-1.md) |
+| Ch.5 | (TBD) | [Read](chapters/ch-005-2.md) |
+| Ch.6 | (TBD) | [Read](chapters/ch-006-1.md) |
+| Ch.7 | (TBD) | [Read](chapters/ch-007-1.md) |
+| Ch.8 | (TBD) | [Read](chapters/ch-008-6.md) |
+| Ch.9 | (TBD) | [Read](chapters/ch-009-6.md) |
+| Ch.10 | (TBD) | [Read](chapters/ch-010-2.md) |
+| Ch.11-1 | (TBD) | [Read](chapters/ch-011-1.md) |
+| Ch.11-2 | (TBD) | [Read](chapters/ch-011-2.md) |
+| Ch.11-3 | (TBD) | [Read](chapters/ch-011-3.md) |
+| Ch.11-4 | (TBD) | [Read](chapters/ch-011-4.md) |
 
 ---
 

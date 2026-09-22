@@ -12,8 +12,8 @@
 | **等级/制服** | 冥偶 · **兽盾旧款黑色制服** + 黑袜（原为水牛村猎人，制服系被淬炼后所着） |
 | **身份** | 水牛村猎人；墩常的师父兼父；被儡部长淬炼成三具冥偶之一的**冥牛** |
 | **状态** | **已死亡**（本体早已身亡，被淬炼为冥偶；第三卷·第12章接住墩常最后一箭后倒下） |
-| **首次登场** | [第三卷·第12章 沙漠伏击](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md) |
-| **最后登场** | [第三卷·第12章 沙漠伏击](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md) |
+| **首次登场** | [第三卷·第12章 沙漠伏击](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md) |
+| **最后登场** | [第三卷·第12章 沙漠伏击](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md) |
 
 > ⚠️ **与本库既有集体档的关系**：此前该角色仅被 [`lie-ministry-puppets.md`](../beastshield-company/special/lie-ministry-puppets.md)
 > 以「三兽集体」笼统收录（**未记其名、未引 ch-12 L131/L149**）。本档案为其**独立档**，两者互为交叉引用：
@@ -39,7 +39,7 @@
 
 ## 四、登场原文
 
-### [Chapter 12 沙漠伏击](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md)
+### [Chapter 12 沙漠伏击](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md)
 
 本章开头部分该角色尚未现身（其后段自黑棺中站起）。
 
@@ -154,7 +154,7 @@
 
 ## 七、结局
 
-第三卷·第12章随儡部长的车队出现，自黑棺中站起（冥牛）。在墩常射出最后一箭「满弦·灭神」时，它被儡部长喝令挡在身前，**双手合十夹住铁箭**，随即脱力倒地、不省人事（[`ch-12`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md) L147–L149）。同时儡部长本人被这一箭贯穿眉间而死。
+第三卷·第12章随儡部长的车队出现，自黑棺中站起（冥牛）。在墩常射出最后一箭「满弦·灭神」时，它被儡部长喝令挡在身前，**双手合十夹住铁箭**，随即脱力倒地、不省人事（[`ch-12`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md) L147–L149）。同时儡部长本人被这一箭贯穿眉间而死。
 
 ---
 

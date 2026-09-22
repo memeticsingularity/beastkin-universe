@@ -12,13 +12,13 @@
 | **等级/制服** | G级·野外巡逻套装 · 墨绿紧身短袖+迷彩长裤+军靴 |
 | **身份** | 蟒蛇岛外围巡逻守卫 |
 | **状态** | **已死亡**——被魔影用春药弹狙击枪远程射中，发情喷射而亡 |
-| **登场** | [vol-2-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-13-python-island-flashback.md) |
+| **登场** | [vol-2-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-13：蟒蛇岛回忆·上](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-13-python-island-flashback.md)
+### [vol-2-ch-13：蟒蛇岛回忆·上](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md)
 
 > 魔影填装好子弹，架起狙击枪，瞄准了还在外围巡逻的守卫，为了之后的行动不被打搅，他需要先解决掉还在外围巡逻的士兵。
 >

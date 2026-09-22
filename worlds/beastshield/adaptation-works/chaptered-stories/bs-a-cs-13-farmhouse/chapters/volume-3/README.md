@@ -22,31 +22,31 @@
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 后棚 | [阅读](ch-1-back-shed.md) |
-| Ch.2 | 更重要的事 | [阅读](ch-2-more-important-matters.md) |
-| Ch.3 | 回家 | [阅读](ch-3-homecoming.md) |
-| Ch.4 | 重聚 | [阅读](ch-4-reunion.md) |
-| Ch.5 | 种子 | [阅读](ch-5-seeds.md) |
-| Ch.6 | 兄弟 | [阅读](ch-6-brothers.md) |
-| Ch.7 | 雪林 | [阅读](ch-7-snow-forest.md) |
-| Ch.8 | 断角 | [阅读](ch-8-broken-horn.md) |
-| Ch.9 | 同路人 | [阅读](ch-9-fellow-travelers.md) |
-| Ch.10 | 特别篇 | [阅读](ch-10-special.md) |
-| Ch.11 | 找到你了 | [阅读](ch-11-found.md) |
-| Ch.12 | 归来 | [阅读](ch-12-return.md) |
-| Ch.13 | 献身 | [阅读](ch-13-devotion.md) |
-| Ch.14 | 觉醒 | [阅读](ch-14-awakening.md) |
-| Ch.15 | 家人 | [阅读](ch-15-family.md) |
-| Ch.16 | 失去 | [阅读](ch-16-loss.md) |
-| Ch.17 | 余波 | [阅读](ch-17-aftermath.md) |
-| Ch.18 | 交涉 | [阅读](ch-18-negotiation.md) |
-| Ch.19 | 无眠 | [阅读](ch-19-guilt.md) |
-| Ch.20 | 灵魂之河 | [阅读](ch-20-soul-river.md) |
-| Ch.21 | 血君王 | [阅读](ch-21-blood-king.md) |
-| Ch.22 | 归来 | [阅读](ch-22-resurrection.md) |
-| Ch.23 | 苏醒 | [阅读](ch-23-recovery.md) |
-| Ch.24 | 回家 | [阅读](ch-24-homecoming.md) |
-| Ch.25 | 特别篇 | [阅读](ch-25-special.md) |
+| Ch.1 | 后棚 | [阅读](ch-001-back-shed.md) |
+| Ch.2 | 更重要的事 | [阅读](ch-002-more-important-matters.md) |
+| Ch.3 | 回家 | [阅读](ch-003-homecoming.md) |
+| Ch.4 | 重聚 | [阅读](ch-004-reunion.md) |
+| Ch.5 | 种子 | [阅读](ch-005-seeds.md) |
+| Ch.6 | 兄弟 | [阅读](ch-006-brothers.md) |
+| Ch.7 | 雪林 | [阅读](ch-007-snow-forest.md) |
+| Ch.8 | 断角 | [阅读](ch-008-broken-horn.md) |
+| Ch.9 | 同路人 | [阅读](ch-009-fellow-travelers.md) |
+| Ch.10 | 特别篇 | [阅读](ch-010-special.md) |
+| Ch.11 | 找到你了 | [阅读](ch-011-found.md) |
+| Ch.12 | 归来 | [阅读](ch-012-return.md) |
+| Ch.13 | 献身 | [阅读](ch-013-devotion.md) |
+| Ch.14 | 觉醒 | [阅读](ch-014-awakening.md) |
+| Ch.15 | 家人 | [阅读](ch-015-family.md) |
+| Ch.16 | 失去 | [阅读](ch-016-loss.md) |
+| Ch.17 | 余波 | [阅读](ch-017-aftermath.md) |
+| Ch.18 | 交涉 | [阅读](ch-018-negotiation.md) |
+| Ch.19 | 无眠 | [阅读](ch-019-guilt.md) |
+| Ch.20 | 灵魂之河 | [阅读](ch-020-soul-river.md) |
+| Ch.21 | 血君王 | [阅读](ch-021-blood-king.md) |
+| Ch.22 | 归来 | [阅读](ch-022-resurrection.md) |
+| Ch.23 | 苏醒 | [阅读](ch-023-recovery.md) |
+| Ch.24 | 回家 | [阅读](ch-024-homecoming.md) |
+| Ch.25 | 特别篇 | [阅读](ch-025-special.md) |
 
 ---
 

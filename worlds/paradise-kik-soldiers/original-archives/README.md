@@ -23,15 +23,15 @@ Original archives for Paradise Kik Soldiers, containing main story chapters and 
 
 | 编码 | 中文标题 | 英文标题 | 标签 | 链接 |
 |------|---------|---------|------|------|
-| `pks-o-cm-1-main-story-1` | 奇克兽士乐园 主线 | Paradise Kik Soldiers Main Story | `daily-life`, `dog`, `friendship` | [ch-1](ch-1-feng-and-shuoshi.md) · [ch-2](ch-2-snowy-watchtower.md) · [ch-3](ch-3/) |
+| `pks-o-cm-1-main-story-1` | 奇克兽士乐园 主线 | Paradise Kik Soldiers Main Story | `daily-life`, `dog`, `friendship` | [ch-1](ch-001-feng-and-shuoshi.md) · [ch-2](ch-002-snowy-watchtower.md) · [ch-3](ch-3/) |
 
 ### 短篇 / Short Stories
 
 | 编码 | 中文标题 | 英文标题 | 标签 | 链接 |
 |------|---------|---------|------|------|
-| `pks-o-ss-1-feng-and-shuoshi` | 风与朔士 | Feng and Shuoshi | `daily-life`, `dog` | [阅读](ch-1-feng-and-shuoshi.md) |
-| `pks-o-ss-2-snowy-watchtower` | 雪之瞭望塔 | Snowy Watchtower | `daily-life`, `dog` | [阅读](ch-2-snowy-watchtower.md) |
-| `pks-o-ss-3-final-thirty-days` | 最后三十天 | Final Thirty Days | `daily-life`, `dog` | [阅读](ch-3-final-thirty-days-morning-scentmd.md) |
+| `pks-o-ss-1-feng-and-shuoshi` | 风与朔士 | Feng and Shuoshi | `daily-life`, `dog` | [阅读](ch-001-feng-and-shuoshi.md) |
+| `pks-o-ss-2-snowy-watchtower` | 雪之瞭望塔 | Snowy Watchtower | `daily-life`, `dog` | [阅读](ch-002-snowy-watchtower.md) |
+| `pks-o-ss-3-final-thirty-days` | 最后三十天 | Final Thirty Days | `daily-life`, `dog` | [阅读](ch-003-final-thirty-days-morning-scentmd.md) |
 
 ---
 
@@ -41,15 +41,15 @@ Original archives for Paradise Kik Soldiers, containing main story chapters and 
 
 | Code | Title | Tags | Link |
 |------|-------|------|------|
-| `pks-o-cm-1-main-story-1` | Paradise Kik Soldiers Main Story | `daily-life`, `dog`, `friendship` | [ch-1](ch-1-feng-and-shuoshi.md) · [ch-2](ch-2-snowy-watchtower.md) · [ch-3](ch-3/) |
+| `pks-o-cm-1-main-story-1` | Paradise Kik Soldiers Main Story | `daily-life`, `dog`, `friendship` | [ch-1](ch-001-feng-and-shuoshi.md) · [ch-2](ch-002-snowy-watchtower.md) · [ch-3](ch-3/) |
 
 ### Short Stories
 
 | Code | Title | Tags | Link |
 |------|-------|------|------|
-| `pks-o-ss-1-feng-and-shuoshi` | Feng and Shuoshi | `daily-life`, `dog` | [Read](ch-1-feng-and-shuoshi.md) |
-| `pks-o-ss-2-snowy-watchtower` | Snowy Watchtower | `daily-life`, `dog` | [Read](ch-2-snowy-watchtower.md) |
-| `pks-o-ss-3-final-thirty-days` | Final Thirty Days | `daily-life`, `dog` | [Read](ch-3-final-thirty-days-morning-scentmd.md) |
+| `pks-o-ss-1-feng-and-shuoshi` | Feng and Shuoshi | `daily-life`, `dog` | [Read](ch-001-feng-and-shuoshi.md) |
+| `pks-o-ss-2-snowy-watchtower` | Snowy Watchtower | `daily-life`, `dog` | [Read](ch-002-snowy-watchtower.md) |
+| `pks-o-ss-3-final-thirty-days` | Final Thirty Days | `daily-life`, `dog` | [Read](ch-003-final-thirty-days-morning-scentmd.md) |
 
 ---
 
@@ -59,15 +59,15 @@ Original archives for Paradise Kik Soldiers, containing main story chapters and 
 
 | 标签 | 作品 |
 |------|------|
-| `daily-life` | [主线](ch-1-feng-and-shuoshi.md) |
-| `dog` | [主线](ch-1-feng-and-shuoshi.md) |
-| `friendship` | [主线](ch-1-feng-and-shuoshi.md) |
+| `daily-life` | [主线](ch-001-feng-and-shuoshi.md) |
+| `dog` | [主线](ch-001-feng-and-shuoshi.md) |
+| `friendship` | [主线](ch-001-feng-and-shuoshi.md) |
 
 ### 按兽人类型 / By Species
 
 | 类型 | 作品 |
 |------|------|
-| 犬 / Dog | [主线](ch-1-feng-and-shuoshi.md) |
+| 犬 / Dog | [主线](ch-001-feng-and-shuoshi.md) |
 
 ---
 
@@ -77,15 +77,15 @@ Original archives for Paradise Kik Soldiers, containing main story chapters and 
 
 | Tag | Works |
 |-----|-------|
-| `daily-life` | [Main Story](ch-1-feng-and-shuoshi.md) |
-| `dog` | [Main Story](ch-1-feng-and-shuoshi.md) |
-| `friendship` | [Main Story](ch-1-feng-and-shuoshi.md) |
+| `daily-life` | [Main Story](ch-001-feng-and-shuoshi.md) |
+| `dog` | [Main Story](ch-001-feng-and-shuoshi.md) |
+| `friendship` | [Main Story](ch-001-feng-and-shuoshi.md) |
 
 ### By Species
 
 | Species | Works |
 |---------|-------|
-| Dog | [Main Story](ch-1-feng-and-shuoshi.md) |
+| Dog | [Main Story](ch-001-feng-and-shuoshi.md) |
 
 ---
 

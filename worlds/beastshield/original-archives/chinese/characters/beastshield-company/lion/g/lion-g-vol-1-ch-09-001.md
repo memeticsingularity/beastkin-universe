@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾大楼三楼体训房士兵 |
 | **状态** | **已死亡**——杠铃压颈窒息而死 |
-| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
-| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
+| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) |
+| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
+### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md)
 
 > 在我处决杂兵时，发现一只肉壮的狮子兽人躺在卧推椅上，杠铃压在了脖子上，半睁着眼满脸通红，舌头吐在外面，下体充血高高翘起弹出裤头，双手在空中乱舞了几下，没过一会竟然自己喷起了精液，看样子是被杠铃压住了气管导致窒息而亡，精液全部喷在了自己刚刚卧推充血的饱满胸肌上，然后缓缓流进乳沟，和腹肌上的精液汇聚在一起，喷完所有精液后，狮子兽人双手一垂，和其他被处决的兽人一样，安静地躺着没有了动静。
 >

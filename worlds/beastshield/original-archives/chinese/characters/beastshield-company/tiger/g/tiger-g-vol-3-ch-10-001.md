@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织最低级杂兵（想偷听情报向上级谄媚） |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-10-old-friend-reunion.md) |
-| **最后登场** | [vol-3-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-10-old-friend-reunion.md) |
+| **首次登场** | [vol-3-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-010-old-friend-reunion.md) |
+| **最后登场** | [vol-3-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-010-old-friend-reunion.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [老友重逢](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-10-old-friend-reunion.md)
+### [老友重逢](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-010-old-friend-reunion.md)
 
 > 被大奔扶起后，墩常指着身后某处道：“对了，一直躲在那棵枫树后面偷听的人是你的部下吗？” “什么部下？俺没有带人过来呀……”
 >

@@ -78,67 +78,67 @@ This volume is the first part of the overarching story, consisting of 13 chapter
 
 ## 3. Full Volume Chapter Index / 全卷章节目录
 
-### Chapter 1: Entering the Game / 第1章：进入游戏 ([ch-01-game-entry.md](ch-1-game-entry.md))
+### Chapter 1: Entering the Game / 第1章：进入游戏 ([ch-01-game-entry.md](ch-001-game-entry.md))
 
 - **Tags / 章节标签**: `#Tutorial #Game Mechanics #Bear Beastkin` / `#教程关 #游戏机制 #熊兽人`
 - **Synopsis / 剧情简介**: The player enters the VR game *Beast World* for the first time and learns its core mechanic—all damage converts to Lust Value, and ejaculation means death. In the tutorial, the player figures out how to subdue a bear beastkin guard and successfully passes. / 玩家首次进入VR游戏《兽游世界》，学习游戏的基本机制——所有伤害转化为性欲值，射精即死亡。在教程关卡中，玩家通过摸索制服了一只熊兽人守卫，成功通过教程。
 
-### Chapter 2: Escape from the Warehouse / 第2章：逃离仓库 ([ch-02-escape-warehouse.md](ch-2-escape-warehouse.md))
+### Chapter 2: Escape from the Warehouse / 第2章：逃离仓库 ([ch-02-escape-warehouse.md](ch-002-escape-warehouse.md))
 
 - **Tags / 章节标签**: `#Level System #Attribute Points #Tiger Captain` / `#等级系统 #属性加点 #虎队长`
 - **Synopsis / 剧情简介**: The player leaves the tutorial room and explores a warehouse occupied by Beastshield employees. They interrogate a dog beastkin for information, defeat the Tiger Captain to obtain a key, eliminate all guards, and successfully escape the warehouse. / 玩家离开教程房间，探索被兽盾员工占领的仓库。通过审问狗兽人获得情报，击败虎队长拿到钥匙，消灭所有守卫后成功逃离仓库。
 
-### Chapter 3: Heading to Downtown / 第3章：前往市中心 ([ch-03-head-to-downtown.md](ch-3-head-to-downtown.md))
+### Chapter 3: Heading to Downtown / 第3章：前往市中心 ([ch-03-head-to-downtown.md](ch-003-head-to-downtown.md))
 
 - **Tags / 章节标签**: `#Driving System #Follower System #Bull Beastkin` / `#驾驶系统 #随从系统 #牛兽人`
 - **Synopsis / 剧情简介**: The player finds a truck in the wilderness, hijacks the bull beastkin driver, and heads to the downtown area. They learn about the follower system along the way. When the bull beastkin rebels, the player executes them and arrives downtown. / 玩家在荒野中找到一辆卡车，劫持司机牛兽人前往市中心。途中了解随从系统，最终在牛兽人反抗时将其处决，抵达市中心。
 
-### Chapter 4: Store Shopping / 第4章：商店购物 ([ch-04-store-shopping.md](ch-4-store-shopping.md))
+### Chapter 4: Store Shopping / 第4章：商店购物 ([ch-04-store-shopping.md](ch-004-store-shopping.md))
 
 - **Tags / 章节标签**: `#Weapon Store #Bounty System #Wild Boar Brothers` / `#武器商店 #赏金系统 #野猪兄弟`
 - **Synopsis / 剧情简介**: The player enters downtown, visits a weapon store, and encounters Beastshield grunts collecting protection money. Forced into a fight, the player defeats two wild boar beastkin, unlocks the bounty system, and obtains a wire ring weapon. / 玩家进入市中心，拜访武器商店，遭遇兽盾杂兵收保护费。被迫卷入战斗，击败两只野猪兽人后，解锁赏金系统，获得钢丝指环武器。
 
-### Chapter 5: First Costume Change / 第5章：初试换装 ([ch-05-first-costume-change.md](ch-5-first-costume-change.md))
+### Chapter 5: First Costume Change / 第5章：初试换装 ([ch-05-first-costume-change.md](ch-005-first-costume-change.md))
 
 - **Tags / 章节标签**: `#Disguise Skill #Camouflage System #Bear Dojo Master` / `#换装技能 #伪装系统 #熊馆长`
 - **Synopsis / 剧情简介**: The player levels up and learns the disguise skill, allowing them to impersonate Beastshield personnel by wearing their uniform. While testing the skill by provoking a passerby, they are defeated by the Bear Dojo Master. After reloading, they teasingly get back at the Bear Master, discovering his "incorruptible" nature. / 玩家升级学会换装技能，可通过穿戴兽盾制服伪装身份。测试技能时挑衅路人，被武道馆的熊馆长击败。重新读档后报复性调戏熊馆长，发现其"刚正不阿"的习性。
 
-### Chapter 6: Break into the Enemy Camp / 第6章：闯入敌营 ([ch-06-break-into-enemy-camp.md](ch-6-break-into-enemy-camp.md))
+### Chapter 6: Break into the Enemy Camp / 第6章：闯入敌营 ([ch-06-break-into-enemy-camp.md](ch-006-break-into-enemy-camp.md))
 
 - **Tags / 章节标签**: `#Beastshield HQ #Undercover Infiltration #Accidental Sheriff Kill` / `#兽盾总部 #伪装潜入 #误杀警长`
 - **Synopsis / 剧情简介**: Disguised as a Beastshield employee, the player infiltrates the headquarters building and is conscripted by the Tiger Captain for a mission. During a hotel witness protection task, they accidentally kill a sheriff but are promoted to blue-uniformed cadre for their "merit." / 玩家伪装成兽盾员工潜入总部大楼，被虎队长征召执行任务。在酒店保护证人任务中，误杀警长，但因此立功被升为蓝制服干部。
 
-### Chapter 7: Training Subordinates / 第7章：调教下属 ([ch-07-training-subordinates.md](ch-7-training-subordinates.md))
+### Chapter 7: Training Subordinates / 第7章：调教下属 ([ch-07-training-subordinates.md](ch-007-training-subordinates.md))
 
 - **Tags / 章节标签**: `#Cadre Authority #Subordinate Management #Feign Death Skill` / `#干部权限 #下属管理 #诈死技能`
 - **Synopsis / 剧情简介**: As a cadre, the player gains two subordinates: Niu Za (bull) and Xiong Zhang (bear). Through testing, they discover Niu Za is masochistic and possesses a feign death skill, while Xiong Zhang is honest and simple. The player begins building their own small team. / 玩家成为干部后获得两名下属牛杂和熊掌。通过测试发现牛杂是M体质且有诈死技能，熊掌则憨厚老实。初步建立自己的小团队。
 
-### Chapter 8: Class Change Quest / 第8章：转职任务 ([ch-08-class-change-quest.md](ch-8-class-change-quest.md))
+### Chapter 8: Class Change Quest / 第8章：转职任务 ([ch-08-class-change-quest.md](ch-008-class-change-quest.md))
 
 - **Tags / 章节标签**: `#Class Change System #Wrestler Class #Paralysis Ring` / `#转职系统 #摔跤兵种 #麻痹戒指`
 - **Synopsis / 剧情简介**: The player reaches max level and needs to change classes. They use Niu Za to challenge a wrestler soldier, wearing him down before ambushing him for victory. After changing class, they learn the "Shadow Assault" skill and obtain a paralysis ring. / 玩家等级满需要转职。利用牛杂挑战摔跤兵消耗其体力，随后偷袭获得胜利。转职后学会"影袭"技能，并获得麻痹戒指。
 
-### Chapter 9: Challenge the Headquarters / 第9章：挑战本部 ([ch-09-challenge-headquarters.md](ch-9-challenge-headquarters.md))
+### Chapter 9: Challenge the Headquarters / 第9章：挑战本部 ([ch-09-challenge-headquarters.md](ch-009-challenge-headquarters.md))
 
 - **Tags / 章节标签**: `#Beastshield Building #Solo Fight #Advanced Classes` / `#兽盾大楼 #单挑众兵 #高级兵种`
 - **Synopsis / 剧情简介**: With upgraded equipment, the player formally challenges the Beastshield headquarters building. Starting from the first-floor lobby, they clear guards floor by floor until reaching the fourth-floor cafeteria, where they encounter Niu Za and Xiong Zhang and are driven back by the arriving Tiger Captain. / 玩家装备升级后正式挑战兽盾本部大楼。从一楼大厅开始，逐层清理守卫，直到四楼食堂遭遇牛杂和熊掌，被赶来的虎队长击退。
 
-### Chapter 10: First Boss Encounter / 第10章：初见boss ([ch-10-first-encounter-boss.md](ch-10-first-encounter-boss.md))
+### Chapter 10: First Boss Encounter / 第10章：初见boss ([ch-10-first-encounter-boss.md](ch-010-first-encounter-boss.md))
 
 - **Tags / 章节标签**: `#Chairman Ya #Blood Essence Stone #Semen-Eater Beast` / `#牙董 #血精石 #嗜精兽`
 - **Synopsis / 剧情简介**: The player is taken before Chairman Ya by the Tiger Captain. After passing a test by defeating the Tiger Captain, Chairman Ya implants a Blood Essence Stone into the player's body. The player mutates into a "Semen-Eater Beast," gaining the ability to consume semen. / 玩家被虎队长带到牙董面前。经过测试击败虎队长后，牙董将血精石植入玩家体内，玩家变异为"嗜精兽"，获得吸食精液的能力。
 
-### Chapter 11: Agent Bureau / 第11章：特工局 ([ch-11-agent-bureau.md](ch-11-agent-bureau.md))
+### Chapter 11: Agent Bureau / 第11章：特工局 ([ch-11-agent-bureau.md](ch-011-agent-bureau.md))
 
 - **Tags / 章节标签**: `#Agent Bureau #Azure Sparrow Yang-Binding Lock #Silver Needle Sealing` / `#特工局 #青雉缚阳锁 #银针封穴`
 - **Synopsis / 剧情简介**: After leaving Beastshield, the player is ambushed by a sniper and rescued by the Agent Bureau. After a vote, they are accepted as a member and fitted with the Azure Sparrow Yang-Binding Lock to suppress their semen-eating addiction. At the Agent Bureau, they learn the "Silver Needle Sealing" skill. / 玩家离开兽盾后被狙击手袭击，被特工局救下。经投票后被接纳为成员，戴上青雉缚阳锁封印嗜精瘾。在特工局学习"银针封穴"技能。
 
-### Chapter 12: Night Raid on the Combat Camp / 第12章：夜闯武斗兵营 ([ch-12-night-raid-fight-camp.md](ch-12-night-raid-fight-camp.md))
+### Chapter 12: Night Raid on the Combat Camp / 第12章：夜闯武斗兵营 ([ch-12-night-raid-fight-camp.md](ch-012-night-raid-fight-camp.md))
 
 - **Tags / 章节标签**: `#Flowing Ruin #Combat Camp #Panda's Intervention` / `#流墟 #武斗兵营 #熊猫出手`
 - **Synopsis / 剧情简介**: Teaming up with the Bear Dojo Master, the player infiltrates a Beastshield combat camp to investigate "Flowing Ruin." They discover Flowing Ruin is a black slime monster that consumes semen, a bioweapon created by Beastshield. Although the mission isn't fully successful, Panda intervenes and nearly wipes out the tiger beastkin barracks. / 玩家与熊馆长组队潜入兽盾武斗兵营调查"流墟"。发现流墟是一种吸食精液的黑色粘液怪物。任务虽未成功，但熊猫出手几乎清空了虎兽人兵营。
 
-### Chapter 13: Unlocking / 第13章：开锁 ([ch-13-unlocking.md](ch-13-unlocking.md))
+### Chapter 13: Unlocking / 第13章：开锁 ([ch-13-unlocking.md](ch-013-unlocking.md))
 
 - **Tags / 章节标签**: `#Power Surge #South Sea Cloud Peak #Legendary Beastkin` / `#力量暴增 #南海云顶 #传说兽人`
 - **Synopsis / 剧情简介**: Empowered by the Azure Sparrow Yang-Binding Lock, the player's strength increases dramatically, but the lock begins vibrating abnormally. The Commander-in-Chief takes the player to the floating islands of South Sea Cloud Peak, where a legendary beastkin assists in opening the Yang-Binding Lock. The story pauses here, setting up the subsequent "Shadow Demon" arc. / 玩家在青雉缚阳锁加持下实力暴增，但锁出现异常震动。总司令带玩家前往南海云顶的浮岛，在传说兽人的协助下打开缚阳锁。故事暂告一段落，为后续"魔影"篇埋下伏笔。

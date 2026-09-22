@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾公司精锐列兵（多为降级蓝制服组长） |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md) |
-| **最后登场** | [vol-3-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md) |
+| **首次登场** | [vol-3-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md) |
+| **最后登场** | [vol-3-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md) |
 
 ---
 
 ## 四、登场原文
 
-### [龙神大战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md)
+### [龙神大战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md)
 
 > 就在牙董解释完，天牢旁边一间不起眼木屋的木门缓缓打开，只听“咻”的一声破风声，有一道看不见的东西从门内射出，朝着方阵正中那列第一排的虎兽人脑门射去，虎兽人的脑袋就如同豆腐一般被轻易地击穿！并且那飞行物余势不减，继续穿透第二排野猪兽人的脑门，只听“嗤”“嗤”“嗤”“嗤”“嗤”“嗤”“嗤”“嗤”八声连响过后，这一列的八只兽人脑袋瞬间被其击穿，脑浆迸裂而出，而袭击物仍余势不减的继续朝着站在队列正后方的牙董飞去，可见牙董才是它的真正目标，沿途射穿的那些脑袋不过是倒霉的陪葬品罢了。
 

@@ -73,7 +73,7 @@ The shadows of Beastshield Company headquarters are long enough to swallow all u
 
 ## 章节列表 / Chapter List
 
-- [第一章：暗影中的利刃与晨曦 / Chapter 1: Blade in Shadow and Morning Light](ch-1.md)
+- [第一章：暗影中的利刃与晨曦 / Chapter 1: Blade in Shadow and Morning Light](ch-001.md)
 
 ---
 

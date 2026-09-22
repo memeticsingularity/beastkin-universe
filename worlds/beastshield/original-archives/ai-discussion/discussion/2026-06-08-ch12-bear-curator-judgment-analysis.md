@@ -9,7 +9,7 @@
 ## 原文索引
 
 ### 主要文本
-- [第一卷第12章《夜袭兵营》](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md)
+- [第一卷第12章《夜袭兵营》](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md)
 
 ### 讨论涉及段落
 
@@ -23,7 +23,7 @@
 | 流墟登场与兵营屠杀背景 | L78-100 | 兵营内十几只黑制服熊兽人被解决，流墟吸食精液 |
 
 ### 相关后续章节（待验证）
-- [第一卷第13章《解锁》](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-13-unlocking.md) —— 截获流墟后的发展
+- [第一卷第13章《解锁》](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-013-unlocking.md) —— 截获流墟后的发展
 - 第二卷及第三卷中涉及熊馆长背景展开、主角任务伦理成长的章节（待补充）
 
 ---
@@ -90,7 +90,7 @@
 
 #### 一、ch-10 的直接证据：逃跑即处决
 
-虎队长对逃跑熊守卫的行为（[`ch-10-first-encounter-boss.md` L114-120](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md)）：
+虎队长对逃跑熊守卫的行为（[`ch-10-first-encounter-boss.md` L114-120](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md)）：
 
 > 另一只**熊守卫**见**犀牛**的下场，吓得丢下**武器**朝门外逃去，但还没跑到门口，就被**虎队长**掐住**脖子**提了起来。  
 > "不战而逃者，死！"说完**虎队长**用力一拧，**熊守卫**的**脖子**就咔嚓一声，折向了一边。
@@ -159,7 +159,7 @@ ch-10中犀牛守卫已经投降（"别。。。别！我投降！"），但主�
 
 #### 一、棕熊的形象：与"武斗兵"完全相反的落魄中年
 
-这段来自 [`ch-9-challenge-headquarters.md` L132-174](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)：
+这段来自 [`ch-9-challenge-headquarters.md` L132-174](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md)：
 
 > "这是一只年近四十的中年熊兽人，四肢依旧粗壮，但肚子发福鼓起，饱经风霜的皮肤十分粗糙，两鬓的络腮胡有了发白的迹象，小腿上的白袜也因洗了多次而有些泛黄。"
 
@@ -234,7 +234,7 @@ ch-9 的棕熊守卫是**整个主线中基层士兵最真实、最人性化的�
 
 #### 一、关键证据
 
-来自 [`ch-13-unlocking.md` L11-35](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-13-unlocking.md)：
+来自 [`ch-13-unlocking.md` L11-35](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-013-unlocking.md)：
 
 > "快…快住手，你想要什么…我都配合你…"灰熊呻吟着哀求道。
 
@@ -461,7 +461,7 @@ Q6 的"囚徒困境"直觉揭示了 ch-12 场景的一个隐藏维度：**第一
 
 #### 一、ch-2 审讯过程复盘
 
-来自 [`ch-2-escape-warehouse.md` L34-81](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md)：
+来自 [`ch-2-escape-warehouse.md` L34-81](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-002-escape-warehouse.md)：
 
 **审讯手段**：
 1. 捏大包（性化羞辱）→ 精槽涨一格
@@ -563,7 +563,7 @@ ch-2 的早期成功案例揭示了 ch-12 失败的核心原因：**审讯的成
 
 #### 一、ch-3 牛兽人的心理转折
 
-来自 [`ch-3-head-to-downtown.md` L80-127](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-3-head-to-downtown.md)：
+来自 [`ch-3-head-to-downtown.md` L80-127](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-003-head-to-downtown.md)：
 
 **转折点**：
 > "那也就是说，到了目的地后，你还是会杀俺灭口对吧。"
@@ -676,7 +676,7 @@ Q8 的发现将前面所有分析提升到了一个更简洁的理论框架：
 
 #### 一、随从系统的核心约束（来自 ch-3）
 
-[`ch-3-head-to-downtown.md`](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-3-head-to-downtown.md) 中牛兽人说明的规则：
+[`ch-3-head-to-downtown.md`](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-003-head-to-downtown.md) 中牛兽人说明的规则：
 
 > "要想让对方成为你的**随从**，必须得是他**自愿**的，你可以**威逼利诱**，可以**实力征服**，也可以是**送礼讨好**，**成功率**因人而异。"
 

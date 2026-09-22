@@ -122,12 +122,12 @@ Tiger `Tiger` · Bull `Bull` · Dog `Dog`
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 垃圾桶里的呼吸 | [阅读](chapters/ch-01-resurrection.md) |
-| Ch.1-E | 垃圾桶里的呼吸（扩充版） | [阅读](chapters/ch-01-resurrection-expanded.md) |
-| Ch.2 | 阿黄的黄昏 | [阅读](chapters/ch-02-ahuang.md) |
-| Ch.2-E | 阿黄的黄昏（扩充版） | [阅读](chapters/ch-02-ahuang-expanded.md) |
-| Ch.3 | 尸堆中的相遇 | [阅读](chapters/ch-03-the-meeting.md) |
-| Ch.4 | 尸堆中的第一夜 | [阅读](chapters/ch-04-the-first-night.md) |
+| Ch.1 | 垃圾桶里的呼吸 | [阅读](chapters/ch-001-resurrection.md) |
+| Ch.1-E | 垃圾桶里的呼吸（扩充版） | [阅读](chapters/ch-001-resurrection-expanded.md) |
+| Ch.2 | 阿黄的黄昏 | [阅读](chapters/ch-002-ahuang.md) |
+| Ch.2-E | 阿黄的黄昏（扩充版） | [阅读](chapters/ch-002-ahuang-expanded.md) |
+| Ch.3 | 尸堆中的相遇 | [阅读](chapters/ch-003-the-meeting.md) |
+| Ch.4 | 尸堆中的第一夜 | [阅读](chapters/ch-004-the-first-night.md) |
 
 ---
 
@@ -135,12 +135,12 @@ Tiger `Tiger` · Bull `Bull` · Dog `Dog`
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | Breath in the Trash Bin | [Read](chapters/ch-01-resurrection.md) |
-| Ch.1-E | Breath in the Trash Bin (Expanded) | [Read](chapters/ch-01-resurrection-expanded.md) |
-| Ch.2 | Ahuang's Dusk | [Read](chapters/ch-02-ahuang.md) |
-| Ch.2-E | Ahuang's Dusk (Expanded) | [Read](chapters/ch-02-ahuang-expanded.md) |
-| Ch.3 | Meeting in the Corpse Pile | [Read](chapters/ch-03-the-meeting.md) |
-| Ch.4 | The First Night in the Corpse Pile | [Read](chapters/ch-04-the-first-night.md) |
+| Ch.1 | Breath in the Trash Bin | [Read](chapters/ch-001-resurrection.md) |
+| Ch.1-E | Breath in the Trash Bin (Expanded) | [Read](chapters/ch-001-resurrection-expanded.md) |
+| Ch.2 | Ahuang's Dusk | [Read](chapters/ch-002-ahuang.md) |
+| Ch.2-E | Ahuang's Dusk (Expanded) | [Read](chapters/ch-002-ahuang-expanded.md) |
+| Ch.3 | Meeting in the Corpse Pile | [Read](chapters/ch-003-the-meeting.md) |
+| Ch.4 | The First Night in the Corpse Pile | [Read](chapters/ch-004-the-first-night.md) |
 
 ---
 

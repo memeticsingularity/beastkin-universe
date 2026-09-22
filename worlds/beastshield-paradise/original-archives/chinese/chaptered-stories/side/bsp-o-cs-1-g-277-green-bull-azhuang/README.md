@@ -75,10 +75,10 @@ Adapted from *Night Raid* (bs-o-s-006-night-raid), but with a thematic inversion
 
 ## 章节列表 / Chapter List
 
-- [第一章：最后的守夜 / Chapter 1: Last Watch](ch-1-last-watch.md)
-- [第二章：折叠时光中的陌生人 / Chapter 2: Stranger in Folded Time](ch-2-stranger-in-folded-time.md)
-- [第三章：热水与肥皂 / Chapter 3: Hot Water and Soap](ch-3-hot-water-and-soap.md)
-- [第四章：晨光·新生 / Chapter 4: Morning Light, New Beginning](ch-4-morning-light-new-beginning.md)
+- [第一章：最后的守夜 / Chapter 1: Last Watch](ch-001-last-watch.md)
+- [第二章：折叠时光中的陌生人 / Chapter 2: Stranger in Folded Time](ch-002-stranger-in-folded-time.md)
+- [第三章：热水与肥皂 / Chapter 3: Hot Water and Soap](ch-003-hot-water-and-soap.md)
+- [第四章：晨光·新生 / Chapter 4: Morning Light, New Beginning](ch-004-morning-light-new-beginning.md)
 
 ---
 

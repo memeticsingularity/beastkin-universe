@@ -12,14 +12,14 @@
 | **等级/制服** | G级（厨房后勤） |
 | **身份** | 兽盾大楼顶楼厨房厨师 |
 | **状态** | **存活** |
-| **首次登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-5-kitchen-and-lunch.md) |
-| **最后登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-5-kitchen-and-lunch.md) |
+| **首次登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md) |
+| **最后登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-05：厨房与致命午餐](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-5-kitchen-and-lunch.md)
+### [vol-2-ch-05：厨房与致命午餐](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)
 
 > 老大却完全充耳不闻，叫来一个厨师在一旁开始捏寿司。牛兽人见求饶无效，起身转头就跑，只见老大手一抬，也不知道发生了什么，牛兽人没跑两步就双腿一软，瘫在地上浑身抽搐。
 >

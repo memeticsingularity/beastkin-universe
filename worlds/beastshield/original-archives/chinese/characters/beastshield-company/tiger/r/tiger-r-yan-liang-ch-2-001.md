@@ -12,8 +12,8 @@
 | **等级/制服** | R级枪械兵 · 白色紧身制服+白袜+运动鞋 |
 | **身份** | 训练基地门口站岗守卫 |
 | **状态** | **已死亡**——被炎近身一拳打腹后侮辱，在白色紧身裤内射精而死 |
-| **首次登场** | [炎魉篇 ch-2](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md) |
-| **最后登场** | [炎魉篇 ch-2](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md) |
+| **首次登场** | [炎魉篇 ch-2](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md) |
+| **最后登场** | [炎魉篇 ch-2](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md) |
 
 ---
 
@@ -42,7 +42,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第二章：清理办公室](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)
+### [炎魉篇·第二章：清理办公室](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md)
 
 > **魉**仗着自己**变色龙**的先天**隐身天赋**，看向门口，看到门口两只守卫正在交接班，一只穿着从未见过的**白色制服**，而另一只居然穿着**黑色制服**，并且他们交谈完后，**黑制服**的那只正在朝**炎**躲藏的地方走来。
 >
@@ -108,4 +108,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第二章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)*
+*档案来源：炎魉篇 [第二章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md)*

@@ -16,8 +16,8 @@
 | **身份** | 特工局本部小教室的教师；退休特工出身 |
 | **隶属** | 特工局 / Agent Bureau |
 | **状态** | **存活**（本章内）——章末仍在继续授课 |
-| **首次登场** | [vol-2-ch-12](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-12-training-session.md) |
-| **最后登场** | [vol-2-ch-12](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-12-training-session.md) |
+| **首次登场** | [vol-2-ch-12](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md) |
+| **最后登场** | [vol-2-ch-12](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md) |
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## 四、登场原文
 
-### [Chapter 12 教学篇](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-12-training-session.md)
+### [Chapter 12 教学篇](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md)
 
 > 魔影所处的特工本部里，有一间小教室，一位退休后担任教师的特工正在给一群年幼的小孩授课，这些小孩都是组织重点培育的新一代特工，或者称之为杀手也并无不可。在讲台上，一只穿着整套绿色紧身制服的肥壮野猪兽人，正以双脚离地、四肢被铐的姿势固定在墙上，一脸惊疑的看着四周，嘴由于被胶布封住无法说话。
 
@@ -161,5 +161,5 @@
 
 ---
 
-*档案来源：主线第二卷《魔影》[第12章](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-12-training-session.md)*
+*档案来源：主线第二卷《魔影》[第12章](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md)*
 *创建日期：2026-09-17*

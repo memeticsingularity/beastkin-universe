@@ -12,14 +12,14 @@
 | **等级/制服** | G级 · 军绿色紧身短袖短裤 |
 | **身份** | 兽盾大楼一层增援守卫 |
 | **状态** | **已死亡**——被老雷掐颈灌精而死 |
-| **首次登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-6-lei-lei-arrival.md) |
-| **最后登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-6-lei-lei-arrival.md) |
+| **首次登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) |
+| **最后登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-06：老雷登场](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-6-lei-lei-arrival.md)
+### [vol-2-ch-06：老雷登场](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)
 
 > “你这个混蛋！”和虎兽人同行的一只黑豹兽人愤怒的冲了上来，但是还没和老雷过上一招，就被以同样的招式摁在墙上，开始和之前虎兽人一样痛苦挣扎。
 >

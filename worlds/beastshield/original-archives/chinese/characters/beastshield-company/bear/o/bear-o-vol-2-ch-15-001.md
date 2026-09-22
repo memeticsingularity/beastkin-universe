@@ -12,8 +12,8 @@
 | **等级/制服** | O级 · 蓝色紧身制服 |
 | **身份** | 蟒蛇岛基地守卫（嗜精兽亲兵） |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-15-return-to-python-island.md) |
-| **最后登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-15-return-to-python-island.md) |
+| **首次登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) |
+| **最后登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [重返蟒蛇岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-15-return-to-python-island.md)
+### [重返蟒蛇岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)
 
 > 以此同时，在所有人的注意力都被牛守卫射精吸引的瞬间，魔影出手了，他用指甲扎穿自己的手掌沾上毒血，然后以最快的速度刺向嗜精兽后背，但他没想到的是见到牛兽人喷射的小豪没忍住吞了一口口水，这一声吞咽声让嗜精兽起了疑心回头看了一眼，正巧看到飞速刺来的魔影，此时他已来不及躲避，于是随手抓住身边一只熊守卫的身体往前一推，魔影这一刺被熊守卫的身体挡住，带血的指甲穿透紧身衣直接刺进了熊兽人的背肌里，魔影见一击不中，后退跳开抓起小豪转身就逃，他很清楚自己不是嗜精兽和那个神秘人的对手，更何况还带着小豪这个拖油瓶。
 

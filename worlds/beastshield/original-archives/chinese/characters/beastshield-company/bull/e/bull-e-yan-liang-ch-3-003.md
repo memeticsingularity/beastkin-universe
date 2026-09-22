@@ -13,8 +13,8 @@
 | **编号** | 无（正文未给出姓名或编号） |
 | **身份** | 兽盾训练基地援兵 · 涌下**楼梯**的守卫队列中最前列的一只 |
 | **状态** | **已死亡**——被**熊猫**点中腰侧，身体一僵、下体勃起喷精后往前栽倒，从**熊猫**身侧沿着**楼梯**滚下 |
-| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
-| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
+| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
+| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 四、登场原文
 
-### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
+### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
 
 > ——（过渡：**熊猫**与**炎魉**来到**电梯口**，抱怨满**电梯**的尸体后走上**楼梯**；此时兽盾援兵正好赶到，好几队守卫从**楼梯**上涌下来，但**楼道**十分狭窄，一次最多只容得下两只**兽人**并行，于是只能排着长长的队列拥挤着下楼；**熊猫**也不畏惧，直接迎了上去；原文第119–124行）——
 
@@ -50,7 +50,7 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| 近身搏斗 | E级武斗兵为兽盾近战兵种，但本角色未及出手即被点中 | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
+| 近身搏斗 | E级武斗兵为兽盾近战兵种，但本角色未及出手即被点中 | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
 
 > 正文未描写其使用的武器、招式或编号袜底信息。
 
@@ -70,5 +70,5 @@
 
 ---
 
-*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
+*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
 *创建日期：2026-09-17*

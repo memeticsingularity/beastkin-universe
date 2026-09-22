@@ -12,14 +12,14 @@
 | **等级/制服** | G级·野外巡逻套装（墨绿紧身短袖+迷彩长裤+军靴） |
 | **身份** | 蟒蛇岛基地外围巡逻守卫 |
 | **状态** | 已死亡（全员覆灭） |
-| **首次登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-15-return-to-python-island.md) |
-| **最后登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-15-return-to-python-island.md) |
+| **首次登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) |
+| **最后登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) |
 
 ---
 
 ## 四、登场原文
 
-### [重返蟒蛇岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-15-return-to-python-island.md)
+### [重返蟒蛇岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)
 
 > 基地外围长满了半身高的黄草丛，可以看到有几只守卫正在草丛里例行巡逻，他们时不时挠一下粗壮的手臂，发出几句粗鄙的抱怨声。
 >

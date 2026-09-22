@@ -13,8 +13,8 @@
 | **编号** | 无 |
 | **身份** | 顺风车司机（中年发福的普通平民） |
 | **状态** | **已死亡**——眉心被狙击枪弹击中，当场死透 |
-| **首次登场** | [《老雷突袭情报局》ch-3](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md) |
-| **最后登场** | [《老雷突袭情报局》ch-3](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md) |
+| **首次登场** | [《老雷突袭情报局》ch-3](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
+| **最后登场** | [《老雷突袭情报局》ch-3](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 四、登场原文
 
-### [《老雷突袭情报局》第三章：颜部长的清算](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)
+### [《老雷突袭情报局》第三章：颜部长的清算](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
 
 > ——（过渡：此前，情报中心内**颜部长**——狐狸——已处决了当夜守值的熊兽人，并命令附近驻守的士兵围剿“特工雷神寰”即**老雷**；原文第64–79行）——
 
@@ -92,5 +92,5 @@
 
 ---
 
-*档案来源：《老雷突袭情报局》[第三章](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)
+*档案来源：《老雷突袭情报局》[第三章](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
 *创建日期：2026-09-17*

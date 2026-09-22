@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾俘虏（原为杂兵） |
 | **状态** | **已死亡**——被北斗泄阳针法射干精液而死 |
-| **首次登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md) |
-| **最后登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md) |
+| **首次登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md) |
+| **最后登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)
+### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)
 
 > 不过还好学习的过程并不是那么枯燥，银给我安排了一只作为练习对象的兽盾俘虏，是一只肉壮的雪豹兽人，我可以在他身上随意扎针练习。
 >

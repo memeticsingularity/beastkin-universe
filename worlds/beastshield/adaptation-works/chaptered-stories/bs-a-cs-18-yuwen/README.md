@@ -46,18 +46,18 @@ Adapted from the original `bs-o-cs-1-yan-liang` (Yanliang). A separate adaptatio
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 名单上的名字 | [阅读](chapters/ch-01-list-of-names.md) |
-| Ch.2 | 情报与换装 | [阅读](chapters/ch-02-intel-and-wardrobe.md) |
-| Ch.3 | 正门的白飞虎 | [阅读](chapters/ch-03-white-uniform.md) |
-| Ch.4 | 杂物间 | [阅读](chapters/ch-04-janitors-closet.md) |
-| Ch.5 | 会议室・银针 | [阅读](chapters/ch-05-meeting-room.md) |
-| Ch.6 | 尸骸走廊 | [阅读](chapters/ch-06-corpse-corridor.md) |
-| Ch.7 | 关押室・熊猫 | [阅读](chapters/ch-07-holding-cell.md) |
-| Ch.8 | 总部问责 | [阅读](chapters/ch-08-hq-accountability.md) |
-| Ch.9 | 余温・救援 | [阅读](chapters/ch-09-rescue.md) |
-| Ch.10 | 余温・手术台 | [阅读](chapters/ch-10-operating-table.md) |
-| Ch.11 | 三月后・新编队 | [阅读](chapters/ch-11-three-months-later.md) |
-| Ch.12 | 行动・废弃厂房 | [阅读](chapters/ch-12-abandoned-plant.md) |
+| Ch.1 | 名单上的名字 | [阅读](chapters/ch-001-list-of-names.md) |
+| Ch.2 | 情报与换装 | [阅读](chapters/ch-002-intel-and-wardrobe.md) |
+| Ch.3 | 正门的白飞虎 | [阅读](chapters/ch-003-white-uniform.md) |
+| Ch.4 | 杂物间 | [阅读](chapters/ch-004-janitors-closet.md) |
+| Ch.5 | 会议室・银针 | [阅读](chapters/ch-005-meeting-room.md) |
+| Ch.6 | 尸骸走廊 | [阅读](chapters/ch-006-corpse-corridor.md) |
+| Ch.7 | 关押室・熊猫 | [阅读](chapters/ch-007-holding-cell.md) |
+| Ch.8 | 总部问责 | [阅读](chapters/ch-008-hq-accountability.md) |
+| Ch.9 | 余温・救援 | [阅读](chapters/ch-009-rescue.md) |
+| Ch.10 | 余温・手术台 | [阅读](chapters/ch-010-operating-table.md) |
+| Ch.11 | 三月后・新编队 | [阅读](chapters/ch-011-three-months-later.md) |
+| Ch.12 | 行动・废弃厂房 | [阅读](chapters/ch-012-abandoned-plant.md) |
 
 ---
 

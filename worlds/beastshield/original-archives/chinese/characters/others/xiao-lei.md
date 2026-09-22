@@ -16,8 +16,8 @@
 | **身份** | 特工局精英特工**老雷**的儿子，随父隐居别墅 |
 | **隶属** | 无（平民幼崽，非特工局、非兽盾编制） |
 | **状态** | **存活**——第一章末尾被**老雷**抱回房间洗澡睡觉 |
-| **首次登场** | [《老雷突袭情报局》ch-1](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md) |
-| **最后登场** | [《老雷突袭情报局》ch-1](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md)（ch-2 至 ch-4 未登场） |
+| **首次登场** | [《老雷突袭情报局》ch-1](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md) |
+| **最后登场** | [《老雷突袭情报局》ch-1](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)（ch-2 至 ch-4 未登场） |
 
 ---
 
@@ -42,7 +42,7 @@
 
 ## 四、登场原文
 
-### [《老雷突袭情报局》第一章：别墅夜袭](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md)
+### [《老雷突袭情报局》第一章：别墅夜袭](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)
 
 > “爸爸，晚安。”
 
@@ -222,7 +222,7 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| 无 | 正文未描写**小雷**有任何武力或特殊能力；他被设定为需要父亲保护的孩子 | [ch-1](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md) |
+| 无 | 正文未描写**小雷**有任何武力或特殊能力；他被设定为需要父亲保护的孩子 | [ch-1](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md) |
 
 > 注：本章的真正战力全部来自**老雷**；**小雷**的作用是把这场屠杀拖进一个八岁孩子的视角。
 
@@ -244,5 +244,5 @@
 
 ---
 
-*档案来源：《老雷突袭情报局》[第一章](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md)
+*档案来源：《老雷突袭情报局》[第一章](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)
 *创建日期：2026-09-17*

@@ -26,9 +26,9 @@
 
 ### 值得保留的亮点
 
-- **炎的“练功”逻辑**：他通过猎物能坚持多少秒来判断自己功力深浅（[ch-1-infiltration.md:50](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md#L50)）。这让杀戮有了一种冷酷的“数据感”，不只是性欲驱动，而是职业精进。
-- **魉第一次发火**：看到炎把犀牛直接扔过来、蓝虎哭着射精，魉终于爆发（[ch-1-infiltration.md:79-84](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md#L79)）。这是两人关系的核心转折——炎不是不可改变的杀人机器，魉也不是只会善后的工具人。
-- **野猪守卫的遗言**：“早知道就不来兽盾应聘了”（[ch-1-infiltration.md:122](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md#L122)）。这是全章**最直白表达后悔**的一句话，把色情暴力拉回残酷现实：这些壮兽人很多只是找工作混口饭吃的普通人。但“让人在意”并不等于“只有他让人在意”，其他配角的死亡同样值得单独拎出来。
+- **炎的“练功”逻辑**：他通过猎物能坚持多少秒来判断自己功力深浅（[ch-1-infiltration.md:50](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L50)）。这让杀戮有了一种冷酷的“数据感”，不只是性欲驱动，而是职业精进。
+- **魉第一次发火**：看到炎把犀牛直接扔过来、蓝虎哭着射精，魉终于爆发（[ch-1-infiltration.md:79-84](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L79)）。这是两人关系的核心转折——炎不是不可改变的杀人机器，魉也不是只会善后的工具人。
+- **野猪守卫的遗言**：“早知道就不来兽盾应聘了”（[ch-1-infiltration.md:122](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L122)）。这是全章**最直白表达后悔**的一句话，把色情暴力拉回残酷现实：这些壮兽人很多只是找工作混口饭吃的普通人。但“让人在意”并不等于“只有他让人在意”，其他配角的死亡同样值得单独拎出来。
 
 ### 改编时需注意的问题
 
@@ -42,19 +42,19 @@
 
 ### 1. 借审讯自然带出制服制度改革
 
-炎一边用内劲折磨黑制服熊守卫，一边套取情报（[ch-2-office-clearance.md:36-47](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md#L36)）。这是很好的世界观补完方式——通过“刑讯”自然带出“绿/蓝/黑/白”制服改革，而不是直接甩设定文档。信息量、权力压迫和情色张力混在一起，非常符合这个系列的风格。
+炎一边用内劲折磨黑制服熊守卫，一边套取情报（[ch-2-office-clearance.md:36-47](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md#L36)）。这是很好的世界观补完方式——通过“刑讯”自然带出“绿/蓝/黑/白”制服改革，而不是直接甩设定文档。信息量、权力压迫和情色张力混在一起，非常符合这个系列的风格。
 
 ### 2. 炎也会害怕
 
-看到黑制服误以为是“部长”，炎吓得躲进死胡同、让魉先跑（[ch-2-office-clearance.md:14-30](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md#L14)）。这个细节很重要：它打破了第一章“炎无所不能”的印象，让读者知道这个基地里存在他根本惹不起的层级。
+看到黑制服误以为是“部长”，炎吓得躲进死胡同、让魉先跑（[ch-2-office-clearance.md:14-30](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md#L14)）。这个细节很重要：它打破了第一章“炎无所不能”的印象，让读者知道这个基地里存在他根本惹不起的层级。
 
 ### 3. 白制服虎守卫的处决
 
-这是前两章里写得最有“羞辱美学”的一场（[ch-2-office-clearance.md:70-110](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md#L70)）。白色紧身衣被淫水浸透变成半透明、嘴里塞着自己的白袜、炎用语言摧毁他的尊严——这场戏不只是杀人，更是在瓦解一个雄性守卫的体面。它把“雄性性征即弱点”这个主题推得很直接。
+这是前两章里写得最有“羞辱美学”的一场（[ch-2-office-clearance.md:70-110](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md#L70)）。白色紧身衣被淫水浸透变成半透明、嘴里塞着自己的白袜、炎用语言摧毁他的尊严——这场戏不只是杀人，更是在瓦解一个雄性守卫的体面。它把“雄性性征即弱点”这个主题推得很直接。
 
 ### 4. 神秘竞争者的出现
 
-杂物间柜子里的狮子尸体是第二章最好的钩子（[ch-2-office-clearance.md:138-147](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md#L138)）。它告诉读者：今晚不止炎魉一组人在狩猎，还有人更快、更狠、更神秘。这个悬念把第二章结尾的紧张感拉满，也自然接上了第三章银狼/熊猫的线。
+杂物间柜子里的狮子尸体是第二章最好的钩子（[ch-2-office-clearance.md:138-147](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md#L138)）。它告诉读者：今晚不止炎魉一组人在狩猎，还有人更快、更狠、更神秘。这个悬念把第二章结尾的紧张感拉满，也自然接上了第三章银狼/熊猫的线。
 
 ---
 
@@ -65,13 +65,13 @@
 ### 最有冲击的三段
 
 1. **熊猫的出场彻底颠覆了力量层级**  
-   炎在前面两章应该是猎杀者顶端，但熊猫一动手，他立刻显得像“小孩子过家家”。楼梯上的尸体堆积描写（[ch-3-deep-confrontation.md:119-138](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md#L119)）把“一招秒杀”的爽感和“人命如草芥”的恐怖混在一起，是整章视觉冲击最强的一段。
+   炎在前面两章应该是猎杀者顶端，但熊猫一动手，他立刻显得像“小孩子过家家”。楼梯上的尸体堆积描写（[ch-3-deep-confrontation.md:119-138](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md#L119)）把“一招秒杀”的爽感和“人命如草芥”的恐怖混在一起，是整章视觉冲击最强的一段。
 
 2. **犀牛老兵的死是唯一的“人味”高光**  
-   炎对这位战功累累、靠意志力硬撑的老兵产生了敬意，给了他一个相对体面的死法（[ch-3-deep-confrontation.md:52-68](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md#L52)）。这个细节让炎不再只是冷酷杀手，也让满屏死亡里有了一丝尊重和悲悯。魉随后帮未死透的守卫“结束痛苦”也是类似作用。
+   炎对这位战功累累、靠意志力硬撑的老兵产生了敬意，给了他一个相对体面的死法（[ch-3-deep-confrontation.md:52-68](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md#L52)）。这个细节让炎不再只是冷酷杀手，也让满屏死亡里有了一丝尊重和悲悯。魉随后帮未死透的守卫“结束痛苦”也是类似作用。
 
 3. **结尾牙董的处决把主题从“暴力”扭向了“体制”**  
-   高级军官不是战死，而是在上级注视下自辱自戮，死后被拖进垃圾箱（[ch-3-deep-confrontation.md:142-159](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md#L142)）。这一段比前面的屠杀更讽刺：兽盾的残酷不只是来自外部敌人，而是内化的等级压迫。巨型垃圾箱的暗示——“好像专为装尸体而生产”——把生命消耗品的意象点得很透。
+   高级军官不是战死，而是在上级注视下自辱自戮，死后被拖进垃圾箱（[ch-3-deep-confrontation.md:142-159](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md#L142)）。这一段比前面的屠杀更讽刺：兽盾的残酷不只是来自外部敌人，而是内化的等级压迫。巨型垃圾箱的暗示——“好像专为装尸体而生产”——把生命消耗品的意象点得很透。
 
 ---
 
@@ -116,22 +116,22 @@
 
 ### 第一章
 
-- **白熊组长**：他是第一章里最让我惋惜的角色之一。刚当上组长，坐在办公室里背文件，估计正想着怎么管理新人、怎么安稳退休（[ch-1-infiltration.md:41-44](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md#L41)、[ch-1-infiltration.md:54-56](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md#L54)）。他开枪反抗、金刚护体失效的瞬间，是一个小人物刚刚爬到中层就被碾碎的缩影。眼睛没闭上、魉帮他合眼的细节，把这个不甘写得很具体。
-- **蓝毛虎守卫**：他被炎扔给魉后，躺在地上掐着自己肉棒根部哭着射精（[ch-1-infiltration.md:75-79](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md#L75)）。这个“委屈”多于“痛苦”的死法，把死亡从生理反应推向了情绪崩溃，也是炎和魉矛盾爆发的直接导火索。
-- **熊兽人守卫**：头脑简单到以为组长在惩罚自己，12秒就射完了（[ch-1-infiltration.md:66-69](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md#L66)）。他的憨厚和死亡的荒诞形成强烈反差，魉帮他包好裤子、摸摸头的动作也因此显得格外温柔。
-- **狗兽人守卫**：纯粹路过被撞上，话都没说一句就死了（[ch-1-infiltration.md:31-39](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md#L31)）。他是“无辜”最极端的例子——甚至不是名单上的目标，只是不走运。
+- **白熊组长**：他是第一章里最让我惋惜的角色之一。刚当上组长，坐在办公室里背文件，估计正想着怎么管理新人、怎么安稳退休（[ch-1-infiltration.md:41-44](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L41)、[ch-1-infiltration.md:54-56](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L54)）。他开枪反抗、金刚护体失效的瞬间，是一个小人物刚刚爬到中层就被碾碎的缩影。眼睛没闭上、魉帮他合眼的细节，把这个不甘写得很具体。
+- **蓝毛虎守卫**：他被炎扔给魉后，躺在地上掐着自己肉棒根部哭着射精（[ch-1-infiltration.md:75-79](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L75)）。这个“委屈”多于“痛苦”的死法，把死亡从生理反应推向了情绪崩溃，也是炎和魉矛盾爆发的直接导火索。
+- **熊兽人守卫**：头脑简单到以为组长在惩罚自己，12秒就射完了（[ch-1-infiltration.md:66-69](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L66)）。他的憨厚和死亡的荒诞形成强烈反差，魉帮他包好裤子、摸摸头的动作也因此显得格外温柔。
+- **狗兽人守卫**：纯粹路过被撞上，话都没说一句就死了（[ch-1-infiltration.md:31-39](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L31)）。他是“无辜”最极端的例子——甚至不是名单上的目标，只是不走运。
 
 ### 第二章
 
-- **黑制服熊守卫**：一边被迫解释新制服制度，一边被内劲折磨，还以为自己靠情报换到了活命机会（[ch-2-office-clearance.md:36-56](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md#L36)）。结果炎给了他“假希望”后再处决，他引以为傲的黑色制服最后还被炎扒下来穿走。这种“被利用完再剥夺身份”的死法，比单纯的处决更有刺痛感。
-- **白制服虎守卫**：死前最在意的是“不要被同事看到自己这副模样”（[ch-2-office-clearance.md:95-105](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md#L95)）。他的挣扎不只是求生，更是在维护一个雄性守卫的体面。嘴里被塞着自己的白袜、死后袜子又被盖在裆部——这种“遮羞反而更羞辱”的处理，是第二章最残忍的一笔。
-- **黑狗兽人守卫**：主动递烟示好，结果这丝“善意”让他死得相对“痛快”（[ch-2-office-clearance.md:124-135](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md#L124)）。炎因为他“态度不错”而帮他撸完最后几下，这种“友好换来更温柔的死亡”的设定，透着一种荒诞的悲悯。
-- **柜子里的狮子兽人**：他已经没有台词、没有名字、连编号都不会被记录（[ch-2-office-clearance.md:138-143](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md#L138)）。他象征所有在这个夜晚被卷入、却连痕迹都留不下的无名者，是前三章里最“幽灵化”的配角。
+- **黑制服熊守卫**：一边被迫解释新制服制度，一边被内劲折磨，还以为自己靠情报换到了活命机会（[ch-2-office-clearance.md:36-56](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md#L36)）。结果炎给了他“假希望”后再处决，他引以为傲的黑色制服最后还被炎扒下来穿走。这种“被利用完再剥夺身份”的死法，比单纯的处决更有刺痛感。
+- **白制服虎守卫**：死前最在意的是“不要被同事看到自己这副模样”（[ch-2-office-clearance.md:95-105](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md#L95)）。他的挣扎不只是求生，更是在维护一个雄性守卫的体面。嘴里被塞着自己的白袜、死后袜子又被盖在裆部——这种“遮羞反而更羞辱”的处理，是第二章最残忍的一笔。
+- **黑狗兽人守卫**：主动递烟示好，结果这丝“善意”让他死得相对“痛快”（[ch-2-office-clearance.md:124-135](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md#L124)）。炎因为他“态度不错”而帮他撸完最后几下，这种“友好换来更温柔的死亡”的设定，透着一种荒诞的悲悯。
+- **柜子里的狮子兽人**：他已经没有台词、没有名字、连编号都不会被记录（[ch-2-office-clearance.md:138-143](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md#L138)）。他象征所有在这个夜晚被卷入、却连痕迹都留不下的无名者，是前三章里最“幽灵化”的配角。
 
 ### 第三章
 
-- **白制服犀牛兽人**：老兵形象，战功累累，被银针封穴后还能靠意志力憋住最后几股精液（[ch-3-deep-confrontation.md:52-68](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md#L52)）。炎对他产生敬意，给了他相对体面的死法。他是前三章里唯一让炎“低下姿态”的猎物，死亡因此带上了某种仪式感。
-- **总部黑制服牛兽人高级军官**：他或许是前三章里最“忠诚”也最可悲的人。不是战死，而是在牙董面前自辱自戮，死前还喊“愿下辈子报答牙总的知遇之恩”（[ch-3-deep-confrontation.md:151-158](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md#L151)）。这种被体制彻底内化后的自我毁灭，比任何外力处决都更令人脊背发凉。
+- **白制服犀牛兽人**：老兵形象，战功累累，被银针封穴后还能靠意志力憋住最后几股精液（[ch-3-deep-confrontation.md:52-68](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md#L52)）。炎对他产生敬意，给了他相对体面的死法。他是前三章里唯一让炎“低下姿态”的猎物，死亡因此带上了某种仪式感。
+- **总部黑制服牛兽人高级军官**：他或许是前三章里最“忠诚”也最可悲的人。不是战死，而是在牙董面前自辱自戮，死前还喊“愿下辈子报答牙总的知遇之恩”（[ch-3-deep-confrontation.md:151-158](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md#L151)）。这种被体制彻底内化后的自我毁灭，比任何外力处决都更令人脊背发凉。
 
 ---
 

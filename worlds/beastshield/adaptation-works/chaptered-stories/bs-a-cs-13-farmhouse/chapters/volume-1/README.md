@@ -16,31 +16,31 @@
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 种子与肥料 | [阅读](ch-1-seeds-and-fertilizer.md) |
-| Ch.2 | 灰狼客人 | [阅读](ch-2-wolf-guest.md) |
-| Ch.3 | 老虎收保护费 | [阅读](ch-3-tiger-protection.md) |
-| Ch.4 | 野猪 recruit | [阅读](ch-4-boar-recruit.md) |
-| Ch.5 | 欲望黑参 | [阅读](ch-5-black-ginseng.md) |
-| Ch.6 | 关系与秘密 | [阅读](ch-6-relationships-and-secrets.md) |
-| Ch.7 | 棚屋之死 | [阅读](ch-7-death-in-the-shed.md) |
-| Ch.8 | 选择与后果 | [阅读](ch-8-choices-and-consequences.md) |
-| Ch.9 | 虎彻的命运 | [阅读](ch-9-tigers-fate.md) |
-| Ch.10 | 活力紫茎 | [阅读](ch-10-purple-stem.md) |
-| Ch.11 | 地下室的秘密 | [阅读](ch-11-basement-secret.md) |
-| Ch.12 | 营救 | [阅读](ch-12-rescue.md) |
-| Ch.13 | 恢复与升温 | [阅读](ch-13-recovery.md) |
-| Ch.14 | 苏醒 | [阅读](ch-14-awakening.md) |
-| Ch.15 | 争风吃醋 | [阅读](ch-15-rivalry.md) |
-| Ch.16 | 紫茎丰收 | [阅读](ch-16-harvest.md) |
-| Ch.17 | 庆祝 | [阅读](ch-17-celebration.md) |
-| Ch.18 | 调查组 | [阅读](ch-18-investigation.md) |
-| Ch.19 | 备战 | [阅读](ch-19-preparation.md) |
-| Ch.20 | 夜袭 | [阅读](ch-20-night-raid.md) |
-| Ch.21 | 对峙 | [阅读](ch-21-confrontation.md) |
-| Ch.22 | 真相 | [阅读](ch-22-truth.md) |
-| Ch.23 | 交易 | [阅读](ch-23-deal.md) |
-| Ch.24 | 雷克斯的请求 | [阅读](ch-24-rex-request.md) |
-| Ch.25 | 新成员 | [阅读](ch-25-new-member.md) |
+| Ch.1 | 种子与肥料 | [阅读](ch-001-seeds-and-fertilizer.md) |
+| Ch.2 | 灰狼客人 | [阅读](ch-002-wolf-guest.md) |
+| Ch.3 | 老虎收保护费 | [阅读](ch-003-tiger-protection.md) |
+| Ch.4 | 野猪 recruit | [阅读](ch-004-boar-recruit.md) |
+| Ch.5 | 欲望黑参 | [阅读](ch-005-black-ginseng.md) |
+| Ch.6 | 关系与秘密 | [阅读](ch-006-relationships-and-secrets.md) |
+| Ch.7 | 棚屋之死 | [阅读](ch-007-death-in-the-shed.md) |
+| Ch.8 | 选择与后果 | [阅读](ch-008-choices-and-consequences.md) |
+| Ch.9 | 虎彻的命运 | [阅读](ch-009-tigers-fate.md) |
+| Ch.10 | 活力紫茎 | [阅读](ch-010-purple-stem.md) |
+| Ch.11 | 地下室的秘密 | [阅读](ch-011-basement-secret.md) |
+| Ch.12 | 营救 | [阅读](ch-012-rescue.md) |
+| Ch.13 | 恢复与升温 | [阅读](ch-013-recovery.md) |
+| Ch.14 | 苏醒 | [阅读](ch-014-awakening.md) |
+| Ch.15 | 争风吃醋 | [阅读](ch-015-rivalry.md) |
+| Ch.16 | 紫茎丰收 | [阅读](ch-016-harvest.md) |
+| Ch.17 | 庆祝 | [阅读](ch-017-celebration.md) |
+| Ch.18 | 调查组 | [阅读](ch-018-investigation.md) |
+| Ch.19 | 备战 | [阅读](ch-019-preparation.md) |
+| Ch.20 | 夜袭 | [阅读](ch-020-night-raid.md) |
+| Ch.21 | 对峙 | [阅读](ch-021-confrontation.md) |
+| Ch.22 | 真相 | [阅读](ch-022-truth.md) |
+| Ch.23 | 交易 | [阅读](ch-023-deal.md) |
+| Ch.24 | 雷克斯的请求 | [阅读](ch-024-rex-request.md) |
+| Ch.25 | 新成员 | [阅读](ch-025-new-member.md) |
 
 ---
 

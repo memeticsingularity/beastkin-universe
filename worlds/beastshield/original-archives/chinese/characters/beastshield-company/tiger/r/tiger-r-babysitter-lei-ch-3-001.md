@@ -12,8 +12,8 @@
 | **等级/制服** | R级枪械兵 · 白色紧身制服 |
 | **身份** | 情报中心传令兵（白制服虎兽人） |
 | **状态** | **存活**——回报雷神寰动向并领命，随颜部长前往车祸现场 |
-| **首次登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md) |
-| **最后登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md) |
+| **首次登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
+| **最后登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch3-1：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)
+### [s-3-ch3-1：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
 
 > ——（颜部长揉捏处决了求饶的黑制服熊兽人后）——
 >
@@ -60,5 +60,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)*
+*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)*
 *创建日期：2026-08-28*

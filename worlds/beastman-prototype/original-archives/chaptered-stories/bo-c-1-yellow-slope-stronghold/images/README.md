@@ -8,13 +8,13 @@
 
 | 文件名 | 对应章节 |
 |:-------|:---------|
-| [ch-01.jpg](ch-01.jpg) | [Chapter 1 入侵](../chapters/ch-1.md) |
-| [ch-02.jpg](ch-02.jpg) | [Chapter 2 寻仇](../chapters/ch-2.md) |
-| [ch-03.jpg](ch-03.jpg) | [Chapter 3 真相](../chapters/ch-3.md) |
-| [ch-04.jpg](ch-04.jpg) | [Chapter 4 银斧城](../chapters/ch-4.md) |
-| [ch-05.jpg](ch-05.jpg) | [Chapter 5 野性赛](../chapters/ch-5.md) |
-| [ch-06.jpg](ch-06.jpg) | [Chapter 6 囚牢](../chapters/ch-6.md) |
-| [ch-07.jpg](ch-07.jpg) | [Chapter 7 清算](../chapters/ch-7.md) |
+| [ch-01.jpg](ch-01.jpg) | [Chapter 1 入侵](../chapters/ch-001.md) |
+| [ch-02.jpg](ch-02.jpg) | [Chapter 2 寻仇](../chapters/ch-002.md) |
+| [ch-03.jpg](ch-03.jpg) | [Chapter 3 真相](../chapters/ch-003.md) |
+| [ch-04.jpg](ch-04.jpg) | [Chapter 4 银斧城](../chapters/ch-004.md) |
+| [ch-05.jpg](ch-05.jpg) | [Chapter 5 野性赛](../chapters/ch-005.md) |
+| [ch-06.jpg](ch-06.jpg) | [Chapter 6 囚牢](../chapters/ch-006.md) |
+| [ch-07.jpg](ch-07.jpg) | [Chapter 7 清算](../chapters/ch-007.md) |
 
 ---
 

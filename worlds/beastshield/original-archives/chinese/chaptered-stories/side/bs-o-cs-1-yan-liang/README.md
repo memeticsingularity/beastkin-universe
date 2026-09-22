@@ -61,9 +61,9 @@
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 潜入基地 / Infiltration | [阅读](ch-1-infiltration.md) |
-| Ch.2 | 办公室清剿 / Office Clearance | [阅读](ch-2-office-clearance.md) |
-| Ch.3 | 深层对峙 / Deep Confrontation | [阅读](ch-3-deep-confrontation.md) |
+| Ch.1 | 潜入基地 / Infiltration | [阅读](ch-001-infiltration.md) |
+| Ch.2 | 办公室清剿 / Office Clearance | [阅读](ch-002-office-clearance.md) |
+| Ch.3 | 深层对峙 / Deep Confrontation | [阅读](ch-003-deep-confrontation.md) |
 
 ---
 

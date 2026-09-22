@@ -12,8 +12,8 @@
 | **等级/制服** | 无——非兽盾公司编制，特工局不设制服等级 |
 | **身份** | 特工局成员，实力深不可测；即兽盾方面所称的「**神武传人**」 |
 | **状态** | **存活** |
-| **首次登场** | [炎魉篇 ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)（负一层**关押室**，正文 L83） |
-| **最后登场** | [炎魉篇 ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)（正文 L142：「**熊猫**点了点头便告辞离开」） |
+| **首次登场** | [炎魉篇 ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)（负一层**关押室**，正文 L83） |
+| **最后登场** | [炎魉篇 ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)（正文 L142：「**熊猫**点了点头便告辞离开」） |
 | **首次登场（主线）** | **待补充**——[agent-bureau/README.md](README.md)「待建档」表记为第一卷·第12章；本次未读主线，留待主线审计补录 |
 | **最后登场（主线）** | **待补充** |
 
@@ -38,7 +38,7 @@
 
 ## 四、登场原文
 
-### [炎魉篇·第三章：基地深处的激战](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
+### [炎魉篇·第三章：基地深处的激战](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
 
 > **负一层**的最深处是一间**关押室**，**炎**屏住呼吸，跨过门口的俩具**黑制服守卫**尸体走了进去，只见一只**银灰色的狼兽人**正在抓着一只**白制服兽盾守卫**的**肉棒**，胁迫着他操作一台**仪器**，没过一会，一旁的**关押室**便被打开，里面走出来一只**熊猫兽人**。
 >
@@ -102,7 +102,7 @@
 
 *（以上为该角色在本章正文中自首次出现（L83）到最后一次提及（L142）区间内的**全部**自然段，无删节跳段，故未使用 `> ——（过渡描述）——` 过渡标注。）*
 
-### [第三卷·第六章：神兵机密](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md)
+### [第三卷·第六章：神兵机密](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md)
 
 > 就在此时，一声佛号响起:“阿弥陀佛，善哉善哉，尔等在此打闹多时，扰我清净，若不速速离去，休怪老衲不留情面！”声音洪亮震耳，在竹林间回荡不休。
 
@@ -228,10 +228,10 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **灼流暗劲（高阶）** | 无需长时间接触：轻点胸口、腰侧、背部即可令目标当场勃起喷精毙命，且可连续施为 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) 正文 L107–L113、L124–L140 |
-| **感知力** | 一眼识破**魉**的隐身——「没想到**熊猫兽人**居然一下就感知到了隐身中的**魉**，实力高深莫测」 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) 正文 L97 |
-| **空手接弹** | 临空挥爪接住**春药弹**，反手掷回，分别击中两只白制服狼兽人的额头与咽喉 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) 正文 L113 |
-| **战场效率** | 不到三十秒解决一整支赶来支援的小队；五分钟内点杀沿狭窄**回转楼梯**涌下的援兵 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) 正文 L115、L138–L140 |
+| **灼流暗劲（高阶）** | 无需长时间接触：轻点胸口、腰侧、背部即可令目标当场勃起喷精毙命，且可连续施为 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) 正文 L107–L113、L124–L140 |
+| **感知力** | 一眼识破**魉**的隐身——「没想到**熊猫兽人**居然一下就感知到了隐身中的**魉**，实力高深莫测」 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) 正文 L97 |
+| **空手接弹** | 临空挥爪接住**春药弹**，反手掷回，分别击中两只白制服狼兽人的额头与咽喉 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) 正文 L113 |
+| **战场效率** | 不到三十秒解决一整支赶来支援的小队；五分钟内点杀沿狭窄**回转楼梯**涌下的援兵 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) 正文 L115、L138–L140 |
 
 ---
 
@@ -251,5 +251,5 @@
 
 ---
 
-*档案来源：炎魉篇 [第三章](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)*  
+*档案来源：炎魉篇 [第三章](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)*  
 *创建日期：2026-09-16*

@@ -12,8 +12,8 @@
 | **等级/制服** | R级枪械兵 · 白色紧身制服 |
 | **身份** | 情报基地白制服高级兵（×2） |
 | **状态** | **已死亡**——与白制服牛同乘电梯下楼，被老雷抹喉，靠坐在电梯墙上血流不止而死 |
-| **首次登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
-| **最后登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
+| **首次登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
+| **最后登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch2-1：情报部门（第二章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)
+### [s-3-ch2-1：情报部门（第二章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)
 
 > 数据传导完毕，老雷拔出硬盘离开，电梯门打开，里面站着三个白制服高级兵，看到门口的老雷愣了一下。
 >
@@ -56,6 +56,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)*
+*档案来源：老雷突袭情报局 [第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

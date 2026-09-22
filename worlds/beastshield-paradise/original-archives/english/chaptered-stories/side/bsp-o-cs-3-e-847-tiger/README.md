@@ -73,10 +73,10 @@ At three in the morning, the back alleys of White Capital reek of rotting garbag
 
 ## Chapter List / 章节列表
 
-- [Chapter 1: Back Alley Bargain / 第一章：后巷的筹码](ch-1.md)
-- [Chapter 2: Price of the Bargain / 第二章：筹码的代价](ch-2-1.md)
-- [Chapter 3: Trial of Loyalty / 第三章：忠诚的试炼](ch-3-1.md)
-- [Chapter 4: New Bonds / 第四章：新的羁绊](ch-4-1.md)
+- [Chapter 1: Back Alley Bargain / 第一章：后巷的筹码](ch-001.md)
+- [Chapter 2: Price of the Bargain / 第二章：筹码的代价](ch-002-1.md)
+- [Chapter 3: Trial of Loyalty / 第三章：忠诚的试炼](ch-003-1.md)
+- [Chapter 4: New Bonds / 第四章：新的羁绊](ch-004-1.md)
 
 ---
 

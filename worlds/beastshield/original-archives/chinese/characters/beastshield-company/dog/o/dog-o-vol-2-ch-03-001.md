@@ -12,8 +12,8 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤 |
 | **身份** | 兽盾大楼十层高层守卫 |
 | **状态** | **已死亡**——被魔影扒光换装后杀死 |
-| **首次登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-3-terrace-hunt.md) |
-| **最后登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-3-terrace-hunt.md) |
+| **首次登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md) |
+| **最后登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-03：露台狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-3-terrace-hunt.md)
+### [vol-2-ch-03：露台狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md)
 
 > 看了看眼前的两具死不瞑目的尸体，魔影感叹了下自己运气怎么这么差，他们的制服没一个合身的，正想着要不要改变计划时，一只穿着同样蓝白制服的狗兽人开门走了出来，魔影看着一脸疑惑的他露出了如获至宝的微笑～
 >

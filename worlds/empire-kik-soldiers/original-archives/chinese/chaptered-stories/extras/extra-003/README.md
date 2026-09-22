@@ -20,24 +20,24 @@ Patuus, a young boar beastkin and student at the Imperial Military Academy, acci
 
 | 编号 | 中文标题 | 英文标题 | 链接 |
 |:--:|:--|:--|:--|
-| ch-1 | 帕图斯觉醒 | Patuus Awakens | [阅读](ch-1-patus-awakening.md) |
-| ch-2 | 混入基尅兵 | Infiltration | [阅读](ch-2-infiltration.md) |
-| ch-3 | 夺取芯片 | Chip Extraction | [阅读](ch-3-chip-extraction.md) |
-| ch-4 | 罐头兵 | Canned Soldier | [阅读](ch-4-canned-soldier.md) |
-| ch-5 | 适应新身体 | Body Adaptation | [阅读](ch-5-body-adaptation.md) |
-| ch-6 | 虎猛的察觉 | Humeng's Encounter | [阅读](ch-6-humeng-encounter.md) |
-| ch-7 | 傀儡创造 | Puppet Creation | [阅读](ch-7-puppet-creation.md) |
-| ch-8 | 重返旧星球 | Return to the Old Planet | [阅读](ch-8-old-planet-arrival.md) |
-| ch-9 | 升级警戒塔 | Watchtower Upgrade | [阅读](ch-9-watchtower-upgrade.md) |
-| ch-10 | 基地指挥官之死 | Base Commander Killed | [阅读](ch-10-base-commander-kill.md) |
-| ch-11 | 浴室盛宴 | Bathroom Feast | [阅读](ch-11-bathroom-feast.md) |
-| ch-12 | 绿袜巡逻兵之死 | Green Patrol Killed | [阅读](ch-12-green-patrol-kill.md) |
-| ch-13 | 培养中心 | Breeding Center | [阅读](ch-13-breeding-center.md) |
-| ch-14 | 化学测试 | Chemical Test | [阅读](ch-14-chemical-test.md) |
-| ch-15 | 熊岩当值 | Bear Yan on Duty | [阅读](ch-15-bear-yan-duty.md) |
-| ch-16 | 占据熊岩 | Taking Over Bear Yan | [阅读](ch-16-bear-body-takeover.md) |
-| ch-17 | 首都突袭 | Capital Assault | [阅读](ch-17-capital-assault.md) |
-| ch-18 | 尾声 | Epilogue | [阅读](ch-18-epilogue.md) |
+| ch-1 | 帕图斯觉醒 | Patuus Awakens | [阅读](ch-001-patus-awakening.md) |
+| ch-2 | 混入基尅兵 | Infiltration | [阅读](ch-002-infiltration.md) |
+| ch-3 | 夺取芯片 | Chip Extraction | [阅读](ch-003-chip-extraction.md) |
+| ch-4 | 罐头兵 | Canned Soldier | [阅读](ch-004-canned-soldier.md) |
+| ch-5 | 适应新身体 | Body Adaptation | [阅读](ch-005-body-adaptation.md) |
+| ch-6 | 虎猛的察觉 | Humeng's Encounter | [阅读](ch-006-humeng-encounter.md) |
+| ch-7 | 傀儡创造 | Puppet Creation | [阅读](ch-007-puppet-creation.md) |
+| ch-8 | 重返旧星球 | Return to the Old Planet | [阅读](ch-008-old-planet-arrival.md) |
+| ch-9 | 升级警戒塔 | Watchtower Upgrade | [阅读](ch-009-watchtower-upgrade.md) |
+| ch-10 | 基地指挥官之死 | Base Commander Killed | [阅读](ch-010-base-commander-kill.md) |
+| ch-11 | 浴室盛宴 | Bathroom Feast | [阅读](ch-011-bathroom-feast.md) |
+| ch-12 | 绿袜巡逻兵之死 | Green Patrol Killed | [阅读](ch-012-green-patrol-kill.md) |
+| ch-13 | 培养中心 | Breeding Center | [阅读](ch-013-breeding-center.md) |
+| ch-14 | 化学测试 | Chemical Test | [阅读](ch-014-chemical-test.md) |
+| ch-15 | 熊岩当值 | Bear Yan on Duty | [阅读](ch-015-bear-yan-duty.md) |
+| ch-16 | 占据熊岩 | Taking Over Bear Yan | [阅读](ch-016-bear-body-takeover.md) |
+| ch-17 | 首都突袭 | Capital Assault | [阅读](ch-017-capital-assault.md) |
+| ch-18 | 尾声 | Epilogue | [阅读](ch-018-epilogue.md) |
 
 ---
 

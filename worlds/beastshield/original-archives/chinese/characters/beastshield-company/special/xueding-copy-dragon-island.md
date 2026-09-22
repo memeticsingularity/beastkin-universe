@@ -12,8 +12,8 @@
 | **等级/制服** | 部长级·黑色制服 |
 | **身份** | 薛鼎复制体，寻龙小分队领队 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-09](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md) |
-| **最后登场** | [vol-3-ch-09](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md) |
+| **首次登场** | [vol-3-ch-09](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md) |
+| **最后登场** | [vol-3-ch-09](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [神弓猎人](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md)
+### [神弓猎人](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md)
 
 #### 初现
 

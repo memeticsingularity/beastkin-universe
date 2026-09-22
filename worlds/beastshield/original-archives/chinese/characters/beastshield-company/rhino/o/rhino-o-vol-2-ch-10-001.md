@@ -12,13 +12,13 @@
 | **等级/制服** | O级 · 蓝色制服 |
 | **身份** | 十三层刑房·牛组长手下 |
 | **状态** | **已死亡**——被老雷用拙劣手法折磨后一拳砸肚打死 |
-| **登场** | [vol-2-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-10-thirteenth-floor-infiltration.md) |
+| **登场** | [vol-2-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-10：十三层潜入](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-10-thirteenth-floor-infiltration.md)
+### [vol-2-ch-10：十三层潜入](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)
 
 > ——（被老雷摁倒）——
 >

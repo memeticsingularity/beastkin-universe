@@ -73,7 +73,7 @@ In the northern district of White Capital, Beastshield's seventh cold storage fa
 
 ## 章节列表 / Chapter List
 
-- [第一章：冻土下的温柔 / Chapter 1: Frozen Earth Beneath](ch-1.md)
+- [第一章：冻土下的温柔 / Chapter 1: Frozen Earth Beneath](ch-001.md)
 
 ---
 

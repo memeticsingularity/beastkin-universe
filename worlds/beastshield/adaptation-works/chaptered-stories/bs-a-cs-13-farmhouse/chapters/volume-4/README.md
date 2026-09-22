@@ -28,31 +28,31 @@
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 官方合作 | [阅读](ch-1-official-cooperation.md) |
-| Ch.2 | C市任务 | [阅读](ch-2-mission-to-c-city.md) |
-| Ch.3 | 红眼鹿 | [阅读](ch-3-the-red-eyed-deer.md) |
-| Ch.4 | 转化 | [阅读](ch-4-transformation.md) |
-| Ch.5 | 归途 | [阅读](ch-5-return.md) |
-| Ch.6 | 废弃实验室 | [阅读](ch-6-abandoned-lab.md) |
-| Ch.7 | 2号 | [阅读](ch-7-number-two.md) |
-| Ch.8 | 灵魂共鸣 | [阅读](ch-8-soul-resonance.md) |
-| Ch.9 | 诀别 | [阅读](ch-9-farewell.md) |
-| Ch.10 | 消逝 | [阅读](ch-10-fading-away.md) |
-| Ch.11 | 金盾杯 | [阅读](ch-11-golden-shield-cup.md) |
-| Ch.12 | Z市之行 | [阅读](ch-12-trip-to-z-city.md) |
-| Ch.13 | 重逢 | [阅读](ch-13-reunion.md) |
-| Ch.14 | 地下拳赛 | [阅读](ch-14-underground-boxing.md) |
-| Ch.15 | 失踪 | [阅读](ch-15-disappearance.md) |
-| Ch.16 | 传讯 | [阅读](ch-16-the-message.md) |
-| Ch.17 | 强闯 | [阅读](ch-17-break-in.md) |
-| Ch.18 | 救出 | [阅读](ch-18-rescued.md) |
-| Ch.19 | 黑狼之死 | [阅读](ch-19-black-wolfs-end.md) |
-| Ch.20 | 温泉 | [阅读](ch-20-hot-springs.md) |
-| Ch.21 | 黑狮 | [阅读](ch-21-black-lion.md) |
-| Ch.22 | 巨蜥 | [阅读](ch-22-giant-lizard.md) |
-| Ch.23 | 梦魇前夜 | [阅读](ch-23-eve-of-nightmare.md) |
-| Ch.24 | 夜袭 | [阅读](ch-24-night-raid.md) |
-| Ch.25 | 番外篇：戒指 | [阅读](ch-25-extra-ring.md) |
+| Ch.1 | 官方合作 | [阅读](ch-001-official-cooperation.md) |
+| Ch.2 | C市任务 | [阅读](ch-002-mission-to-c-city.md) |
+| Ch.3 | 红眼鹿 | [阅读](ch-003-the-red-eyed-deer.md) |
+| Ch.4 | 转化 | [阅读](ch-004-transformation.md) |
+| Ch.5 | 归途 | [阅读](ch-005-return.md) |
+| Ch.6 | 废弃实验室 | [阅读](ch-006-abandoned-lab.md) |
+| Ch.7 | 2号 | [阅读](ch-007-number-two.md) |
+| Ch.8 | 灵魂共鸣 | [阅读](ch-008-soul-resonance.md) |
+| Ch.9 | 诀别 | [阅读](ch-009-farewell.md) |
+| Ch.10 | 消逝 | [阅读](ch-010-fading-away.md) |
+| Ch.11 | 金盾杯 | [阅读](ch-011-golden-shield-cup.md) |
+| Ch.12 | Z市之行 | [阅读](ch-012-trip-to-z-city.md) |
+| Ch.13 | 重逢 | [阅读](ch-013-reunion.md) |
+| Ch.14 | 地下拳赛 | [阅读](ch-014-underground-boxing.md) |
+| Ch.15 | 失踪 | [阅读](ch-015-disappearance.md) |
+| Ch.16 | 传讯 | [阅读](ch-016-the-message.md) |
+| Ch.17 | 强闯 | [阅读](ch-017-break-in.md) |
+| Ch.18 | 救出 | [阅读](ch-018-rescued.md) |
+| Ch.19 | 黑狼之死 | [阅读](ch-019-black-wolfs-end.md) |
+| Ch.20 | 温泉 | [阅读](ch-020-hot-springs.md) |
+| Ch.21 | 黑狮 | [阅读](ch-021-black-lion.md) |
+| Ch.22 | 巨蜥 | [阅读](ch-022-giant-lizard.md) |
+| Ch.23 | 梦魇前夜 | [阅读](ch-023-eve-of-nightmare.md) |
+| Ch.24 | 夜袭 | [阅读](ch-024-night-raid.md) |
+| Ch.25 | 番外篇：戒指 | [阅读](ch-025-extra-ring.md) |
 
 ---
 

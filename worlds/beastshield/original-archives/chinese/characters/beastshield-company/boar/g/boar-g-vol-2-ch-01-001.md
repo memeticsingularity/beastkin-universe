@@ -12,8 +12,8 @@
 | **等级/制服** | G级 · 军绿短袖短裤，白色长筒袜，运动鞋 |
 | **身份** | 兽盾大楼守卫（换岗） |
 | **状态** | **已死亡**——被魔影持续捏乳头流尽精液而死，未经历高潮 |
-| **首次登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-1-locker-room-hunt.md) |
-| **最后登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-1-locker-room-hunt.md) |
+| **首次登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md) |
+| **最后登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-01：更衣室狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-1-locker-room-hunt.md)
+### [vol-2-ch-01：更衣室狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)
 
 > 接下来进来的是一只野猪兽人，他虽然没有牛兽人高大，但是身材一看就是练过的，肌肉块状分明，虽然肚子有点大，但依然是一个不折不扣的肌肉壮兽。
 >

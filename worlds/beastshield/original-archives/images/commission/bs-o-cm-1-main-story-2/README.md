@@ -9,8 +9,8 @@
 
 | 文件 | 日期 | 兽种 / 等级 | 对应章节 | 原文件名 |
 |------|------|-------------|----------|----------|
-| [20260725-lion.png](20260725-lion.png) | 2026-07-25 | 狮兽人（O级 · 蓝色制服） | [Ch.4 虎卫组之战](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md) | `20260725 白之都 狮_已加水印_202609161042.png` |
-| [20260822-bull.png](20260822-bull.png) | 2026-08-22 | 牛兽人（画面为 R级 · 白制服） | [Ch.2 走廊巡逻](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-2-corridor-patrol.md) | `20260822 魔影 牛_已加水印_202609161042.png` |
+| [20260725-lion.png](20260725-lion.png) | 2026-07-25 | 狮兽人（O级 · 蓝色制服） | [Ch.4 虎卫组之战](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) | `20260725 白之都 狮_已加水印_202609161042.png` |
+| [20260822-bull.png](20260822-bull.png) | 2026-08-22 | 牛兽人（画面为 R级 · 白制服） | [Ch.2 走廊巡逻](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md) | `20260822 魔影 牛_已加水印_202609161042.png` |
 
 > 📌 **归档注记**：`20260725-lion.png` 的原文件名为「**白之都** 狮」，但画面内容（狮子仰躺、双腿被抬起后入、自己的精液洒回脸上）对应的是**本卷 Ch.4 催眠瓦斯房**——经作者确认归属本作品。《白之都》全卷没有 O级狮兽人，也没有匹配的踩踏场景。
 
@@ -22,7 +22,7 @@
 
 [![20260725-lion](./20260725-lion.png)](./20260725-lion.png)
 
-**对应章节**：[Ch.4 虎卫组之战](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md) · 插图位于第 15 行之后
+**对应章节**：[Ch.4 虎卫组之战](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) · 插图位于第 15 行之后
 
 **对应角色档案**：[`lion-o-vol-2-ch-04-001.md`](../../../chinese/characters/beastshield-company/lion/o/lion-o-vol-2-ch-04-001.md)
 
@@ -39,7 +39,7 @@
 **对应原文：**
 
 > 最后来到了狮子兽人身边，感觉没有什么威胁后，魔影有点玩性大发，他脱掉狮子兽人的一只运动鞋，捧起他的肉脚猛吸一口……魔影立马撕开狮子兽人的紧身裤抬起他的双腿，涂抹上虎兽人的精液当润滑油开始抽插……终于，在魔影忍不住将种子全部灌入狮子后穴的那一刻，狮子兽人也喷射出了他的浓精，存了一辈子的精液喷得一米多高，全部洒在了狮子的脸上身上……魔影缓缓抽出下体，慢慢放下狮子兽人的双腿……
-> —— [ch-4-tiger-guard-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md) 第 15 行
+> —— [ch-4-tiger-guard-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) 第 15 行
 
 **与原文的出入：**
 
@@ -53,7 +53,7 @@
 
 [![20260822-bull](./20260822-bull.png)](./20260822-bull.png)
 
-**对应章节**：[Ch.2 走廊巡逻](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-2-corridor-patrol.md) · 插图位于第 23 行之后
+**对应章节**：[Ch.2 走廊巡逻](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md) · 插图位于第 23 行之后
 
 **观察到的细节：**
 
@@ -66,7 +66,7 @@
 **对应原文：**
 
 > 眼前一头身材肥壮的牛兽人正瘫坐在马桶上一脸惊恐的看着魔影，整个厕所隔间都被他肉壮的身材塞得满满当当，他由于在上大号，白色的弹力内裤和紧身工作裤已经退到脚踝，一双粗壮的大腿由于麻药的作用无力支撑，向两边瘫软趴开，小腿包裹着性感的白袜杵在两旁，微微勃起的肉棒就这样毫无保留的展现在魔影面前，简直像是求着魔影来处决他一样。
-> —— [ch-2-corridor-patrol.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-2-corridor-patrol.md) 第 23 行
+> —— [ch-2-corridor-patrol.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md) 第 23 行
 
 前置节拍（同一场景，第 20–22 行）：魔影敲隔间门假称「忘带厕纸」，里面的牛兽人回「哟，原来也是来偷懒上厕所的啊，行，哥我正好带的够多」——正对应画中「一手拿着卫生纸」。
 

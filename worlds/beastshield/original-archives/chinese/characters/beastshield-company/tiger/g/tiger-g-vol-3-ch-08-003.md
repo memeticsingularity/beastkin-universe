@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜+运动鞋 |
 | **身份** | 兽盾组织监控室文职守卫 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
-| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
+| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
+| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)
+### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
 
 > 进入监控室，小豪将虎兽人尸体扔在角落，关好门后他发现监控台前的椅子上还躺着一只绿制服白虎兽人，他此时正双脚搭在监控台上打盹，鼾声雷动，只见他身材偏胖，肌肉没有其他守卫那么大，看样子是专门做文职工作的兽人。
 

@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色短袖+短裤+白袜 |
 | **身份** | 新兵训练基地新兵 |
 | **状态** | **已死亡**——被叫进办公室后报告还没打完就被勒住，灼流暗劲下坚持27秒喷出八股浓精而死 |
-| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
-| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
+| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
+| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)
+### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)
 
 > 第一个进来的是一只**狼人**，虽然是新人，但**兽盾**的聘请标准就是实力要过关，而力量就是实力最直观的体现，所以这只**狼人**与其他**兽盾**成员一样膀大腰圆，四肢粗壮，那包裹住小腿的**白袜**口如同碗口一样粗。
 >
@@ -54,4 +54,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)*
+*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)*

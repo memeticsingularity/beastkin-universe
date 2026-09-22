@@ -13,8 +13,8 @@
 | **编号** | 无（正文未给出编号） |
 | **身份** | 兽盾公司员工 · 东海浮岛讨伐大队方阵成员 |
 | **状态** | **存活**——被岚董以一道蓝色冷芒冻住粘液救下；ch-13 内未再交代其后续 |
-| **首次登场** | [vol-3-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md) |
-| **最后登场** | [vol-3-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md) |
+| **首次登场** | [vol-3-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md) |
+| **最后登场** | [vol-3-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md) |
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 四、登场原文
 
-### [Chapter 13 龙神之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md)
+### [Chapter 13 龙神之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md)
 
 > 流墟翻了个白眼，不想搭理这个脑袋有问题的熊兽人，他走到最近的几只员工身边，用手拖着他们的卵蛋掂量掂量，试图判断哪一只的含精量最多，看样子是真的想吃掉几只员工。最后，他停留在一只卵蛋十分巨大的灰牛兽人身前，手在上面捏了几下后，拍了拍灰牛兽人的肩膀笑道：“真不错，精液这么多想必十分美味，那就辛苦你牺牲一下自己啦，兽盾会记住你的功劳的。”说完流墟的身体就化为粘液，慢慢向灰牛兽人身上爬去。
 
@@ -73,5 +73,5 @@
 
 ---
 
-*档案来源：主线第三卷《白之都》[第13章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md)*
+*档案来源：主线第三卷《白之都》[第13章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md)*
 *创建日期：2026-09-17*

@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤 |
 | **身份** | 兽盾组织仓储部员工 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
-| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md) |
+| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md) |
+| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md) |
 
 ---
 
 ## 二、登场原文
 
-### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md)
+### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md)
 
 > “啊啊啊！救命啊！。。。你别过来！。。。”试图逃跑的豹子兽人被老雷一脚踩在地上，抓起他的头部一掌斩下，击碎了他的咽喉，精液从裆部溢出，流了满地。
 

@@ -13,14 +13,14 @@
 | **编号** | 未知 |
 | **身份** | 兽盾武斗兵 |
 | **状态** | **已死亡**——背中一掌毙命 |
-| **首次登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md) |
-| **最后登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md) |
+| **首次登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md) |
+| **最后登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)
+### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)
 
 > 突然身后的房门打开，一只**黑制服熊兽人**出现在了门口。
 >

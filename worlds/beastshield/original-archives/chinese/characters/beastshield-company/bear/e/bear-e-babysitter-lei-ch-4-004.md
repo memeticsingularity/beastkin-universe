@@ -12,8 +12,8 @@
 | **等级/制服** | E级武斗兵 · 黑色制服+黑袜 |
 | **身份** | 颜部长手下、负责合围浪青平的兽盾武斗兵 |
 | **状态** | **已死亡**——闪白过后冲向浪青平时中刀，僵立射精后栽倒，露出脖颈上的血洞 |
-| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md) |
-| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md) |
+| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
+| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
 
 > **合并说明**：原文中两名熊武斗兵属于白光过后冲向浪青平的三名武斗兵之列，死亡描写完全一致，原文未交代任何可区分的个体差异，故合并在同一档案中记为“两名”。
 
@@ -30,7 +30,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md)
+### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)
 
 > ——（颜部长以绿制服犀牛杂兵为饵，在其背后闪光弹引爆、强光重创浪青平，随即吼道“动手！”——）——
 >
@@ -63,5 +63,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md)*
+*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)*
 *创建日期：2026-09-16*

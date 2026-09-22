@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织入侵小队成员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md) |
-| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md) |
+| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) |
+| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 四、登场原文
 
-### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-5-undercover-hunt.md)
+### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md)
 
 > 虽然觉得对方有些可怜，但金毛没有多少时间思考，他抓住牛角将牛兽人拖进屋内扔到一边，从他粗壮的腰上夺过配枪上好子弹，看了眼监控，发现一只狗兽人听到动静向楼上赶来，于是立刻贴在了门边。
 

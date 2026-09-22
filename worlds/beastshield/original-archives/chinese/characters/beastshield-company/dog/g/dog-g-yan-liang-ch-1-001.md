@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色短袖+短裤+白袜 |
 | **身份** | 新兵训练基地守卫 |
 | **状态** | **已死亡**——在路上被炎撞见，抓住卵蛋运功后当场射精而死 |
-| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
-| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
+| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
+| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)
+### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)
 
 > 刚追上**炎**，就看到他正在处决一只**狗兽人守卫**，估计是在路上遇到的倒霉蛋。
 >
@@ -53,4 +53,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)*
+*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)*

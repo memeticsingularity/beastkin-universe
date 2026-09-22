@@ -13,8 +13,8 @@
 | **编号** | 无——正文未指明 |
 | **身份** | 水牛村猎人 · 夔牛弓传人 · 十二神武传人之一 |
 | **状态** | **存活**——第15章右手裹纱布住特工局病房（弓弦绞断五指之伤），第21/22章正文未再登场 |
-| **首次登场** | [第三卷·第8章 龙神浮岛](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md) |
-| **最后登场** | [第三卷·第15章 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-15-final-battle.md) |
+| **首次登场** | [第三卷·第8章 龙神浮岛](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
+| **最后登场** | [第三卷·第15章 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md) |
 
 > ⚠️ **兽种/毛色/年龄/身高**：正文只写「水牛兽人」「牛兽人」「牛头」，**毛色、年龄、身高正文未指明**。
 > **非兽盾编制**：正文从未给他任何兽盾制服或等级；他的「藤甲」「先贤卑豕甲」均为神武器物，故不入 `beastshield-company/` 的兽种-等级目录，归 `others/`。
@@ -51,7 +51,7 @@
 > 摘录范围：该角色在每一章的**首次出现段**至**最后一次提及段**，逐段完整引用；
 > 确实跳过的连续自然段以 `> ——（过渡描述）——` 标注覆盖。
 
-### [Chapter 8 龙神浮岛](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)
+### [Chapter 8 龙神浮岛](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
 
 本章开头部分该角色未出场。
 
@@ -133,7 +133,7 @@
 
 ---
 
-### [Chapter 10 老友重逢](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-10-old-friend-reunion.md)
+### [Chapter 10 老友重逢](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-010-old-friend-reunion.md)
 
 本章开头部分该角色未出场。
 
@@ -189,7 +189,7 @@
 
 ---
 
-### [Chapter 12 沙漠伏击](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md)
+### [Chapter 12 沙漠伏击](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md)
 
 本章开头部分该角色未出场。
 
@@ -295,7 +295,7 @@
 
 ---
 
-### [Chapter 13 龙神之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md)
+### [Chapter 13 龙神之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md)
 
 本章开头部分该角色未出场。
 
@@ -305,7 +305,7 @@
 
 ---
 
-### [Chapter 15 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-15-final-battle.md)
+### [Chapter 15 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)
 
 本章开头部分该角色未出场。
 

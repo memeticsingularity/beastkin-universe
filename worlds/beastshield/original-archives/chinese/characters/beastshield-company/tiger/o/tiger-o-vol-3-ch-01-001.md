@@ -12,8 +12,8 @@
 | **等级/制服** | O级·蓝色制服 |
 | **身份** | 兽盾组织蓝制服以上守卫，参加保职考核 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md) |
-| **最后登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md) |
+| **首次登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md) |
+| **最后登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [提拔测试](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md)
+### [提拔测试](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md)
 
 #### 排队对话
 

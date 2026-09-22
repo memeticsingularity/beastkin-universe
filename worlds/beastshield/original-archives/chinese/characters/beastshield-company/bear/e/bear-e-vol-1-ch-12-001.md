@@ -14,8 +14,8 @@
 | **编号** | 未知 |
 | **身份** | 武斗兵营·大门站岗守卫 |
 | **状态** | **已死亡**——被熊馆长严刑逼供后撸射处决 |
-| **首次登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md) |
-| **最后登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md) |
+| **首次登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md) |
+| **最后登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md) |
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-12-night-raid-fight-camp.md)
+### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md)
 
 > 另一名熊守卫看到我的出现，立刻警惕地吼道：“你是什么人……唔！”话还没说完，从他背后一只大手伸了出来，将他的嘴捂得严严实实！
 >

@@ -34,7 +34,7 @@
 
 ## 四、登场原文
 
-### [Chapter 1 游戏入门](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md)
+### [Chapter 1 游戏入门](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-001-game-entry.md)
 
 > 点击”是”按钮后，我从一间仓库的角落醒来，旁边躺着几具兽人尸体，他们身上似乎并没有伤口，但是下体都露了出来，并且都已经喷射出白浆。
 
@@ -59,5 +59,5 @@
 
 ---
 
-*档案来源：主线第一卷《兽游世界》[第一章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-1-game-entry.md)*
+*档案来源：主线第一卷《兽游世界》[第一章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-001-game-entry.md)*
 *创建日期：2026-09-17 · ⭐集体档案——个体无法区分，仅以群体形式提及*

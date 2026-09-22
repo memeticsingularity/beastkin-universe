@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服 |
 | **身份** | 兽盾组织寻龙小分队成员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md) |
-| **最后登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md) |
+| **首次登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md) |
+| **最后登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md) |
 
 ---
 
 ## 二、登场原文
 
-### [神弓猎人](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-9-divine-bow-hunter.md)
+### [神弓猎人](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md)
 
 > 眼看同伴即将忍耐不住，其余几只兽人赶忙上前打算用利爪撕扯藤条援救。
 

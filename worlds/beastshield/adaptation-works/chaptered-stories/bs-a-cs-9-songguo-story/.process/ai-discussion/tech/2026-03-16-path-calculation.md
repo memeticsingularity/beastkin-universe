@@ -132,9 +132,9 @@ ls worlds/beastshield/original-archives/images/songguo/20260122-1.jpg
 所有31张图片的引用都需要使用相同的路径前缀：
 
 ```markdown
-![20260122-1.jpg](../../../../../original-archives/images/songguo/20260122-1.jpg)
-![20260122-2.jpg](../../../../../original-archives/images/songguo/20260122-2.jpg)
-![20260202-1.jpg](../../../../../original-archives/images/songguo/20260202-1.jpg)
+![20260122-1.jpg](../../../../../../original-archives/images/songguo/20260122-1.jpg)
+![20260122-2.jpg](../../../../../../original-archives/images/songguo/20260122-2.jpg)
+![20260202-1.jpg](../../../../../../original-archives/images/songguo/20260202-1.jpg)
 # ... 以此类推
 ```
 

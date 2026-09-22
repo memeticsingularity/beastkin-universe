@@ -12,8 +12,8 @@
 | **等级/制服** | G级 · 军绿短袖短裤，白色长筒袜，运动鞋 |
 | **身份** | 兽盾大楼守卫（换岗） |
 | **状态** | **已死亡**——被魔影捏住下体活活撸死 |
-| **首次登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-1-locker-room-hunt.md) |
-| **最后登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-1-locker-room-hunt.md) |
+| **首次登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md) |
+| **最后登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-01：更衣室狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-1-locker-room-hunt.md)
+### [vol-2-ch-01：更衣室狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)
 
 > 首先进来的是一只狗兽人守卫，这里的兽人都穿着统一的工作服，紧身的短衣短裤勾勒出兽人粗壮肉体的线条，紧贴着小腿的长筒白袜和运动鞋让兽人的粗腿散发着诱人的魅力。
 >

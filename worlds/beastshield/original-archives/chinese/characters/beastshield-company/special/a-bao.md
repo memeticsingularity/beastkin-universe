@@ -13,8 +13,8 @@
 | **别名** | **阿宝部长**（第三卷·第8章 L91 正文点名「兽盾组织**仓储部的阿宝部长**」）／**熊部长**（第三卷·第3章正文一律称「熊部长」，故该章小节特别标注） |
 | **身份** | 兽盾组织仓储部部长 |
 | **状态** | **存活**——第三卷·第20章与老雷对拳后落败，此后未再登场 |
-| **首次登场** | [第三卷·第3章 仓库复仇](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md)（正文称「熊部长」） |
-| **最后登场** | [第三卷·第20章 身份融合](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-20-identity-merge.md) |
+| **首次登场** | [第三卷·第3章 仓库复仇](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md)（正文称「熊部长」） |
+| **最后登场** | [第三卷·第20章 身份融合](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md) |
 
 > ### 合并说明（2026-09-17）
 > 本档案由原 `bear-minister.md` 与 `abaowarehouse-minister.md` **两份档案合并**而成——
@@ -48,7 +48,7 @@
 
 ## 四、登场原文
 
-### [Chapter 3 仓库复仇](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-3-warehouse-vengeance.md)
+### [Chapter 3 仓库复仇](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md)
 
 本章开头部分该角色未出场（自仓库深处现身起登场）。**正文该章称呼为「熊部长」。**
 
@@ -110,7 +110,7 @@
 
 ---
 
-### [Chapter 8 龙神浮岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)
+### [Chapter 8 龙神浮岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
 
 本章开头部分该角色未出场。
 
@@ -144,7 +144,7 @@
 
 ---
 
-### [Chapter 13 龙神之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-13-dragon-god-battle.md)
+### [Chapter 13 龙神之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md)
 
 > “你怎么可以这样对待自己的员工呢～他们都是可爱的部下，说不定哪天啊～其中的一只就会成为自己的男朋友呢，嘻嘻嘻。”紧跟流墟后面登岛的是阿宝部长，他蹦蹦跳跳地从机舱出来，稚嫩的声线从矮壮的阿宝嘴里发出，有一种莫名的萌感。
 >
@@ -212,7 +212,7 @@
 
 ---
 
-### [Chapter 15 最终之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-15-final-battle.md)
+### [Chapter 15 最终之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)
 
 > 随着牙董一声令下，大战一触即发，阿宝部长冲在人群最前方，率先赶到龙武神身前。 “接我一拳！”阿宝兴奋地朝着龙神轰出了蓄满全力的一拳。
 >
@@ -238,7 +238,7 @@
 
 ---
 
-### [Chapter 16 血王复活](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md)
+### [Chapter 16 血王复活](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)
 
 > “阿宝，流墟，你们带领其他人去拦住特工局，龙神交给我们三个对付。”牙董下令。 “是！”阿宝立正敬了个军礼。
 >
@@ -310,7 +310,7 @@
 
 ---
 
-### [Chapter 20 身份融合](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-20-identity-merge.md)
+### [Chapter 20 身份融合](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md)
 
 > “砰！” 老雷和阿宝的对拳在空气中发出一声爆响，两人皆被震退十米开外。
 >
@@ -373,7 +373,7 @@
 
 ## 七、结局
 
-第三卷·第3章现身兽盾仓库，一拳击碎老雷手臂，因曲先生笛声干涉无法追击，转而将濒死的下属阿正后入插死。第8章在龙神浮岛外追上逃跑的墩常，一拳将其打成重伤，正准备把墩常抓回冷藏仓库时被及时赶到的**薛鼎**（ch-8 L119「另一只穿着黑色兽盾制服的虎兽人」；ch-10 L31 墩常自述为「长着两颗长牙的剑齿虎兽人」，L33 大奔点名「薛鼎」——**不是老雷**，ch-8 正文中老雷并未到场）拦下，墩常因此获救（[`ch-8`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-8-dragon-god-island.md)）。第13、15、16章随兽盾攻岛、与老雷缠斗。第20章与老雷的对拳被**焚阳破城炮**以十倍威力返击，败下阵来；在记忆闪回后被老雷以「对不起，我已经心有所属」拒绝，**呆呆站在原地、裆部流下一股精液**（[`ch-20`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-20-identity-merge.md) L41–L43）。**存活，此后主线未再登场。**
+第三卷·第3章现身兽盾仓库，一拳击碎老雷手臂，因曲先生笛声干涉无法追击，转而将濒死的下属阿正后入插死。第8章在龙神浮岛外追上逃跑的墩常，一拳将其打成重伤，正准备把墩常抓回冷藏仓库时被及时赶到的**薛鼎**（ch-8 L119「另一只穿着黑色兽盾制服的虎兽人」；ch-10 L31 墩常自述为「长着两颗长牙的剑齿虎兽人」，L33 大奔点名「薛鼎」——**不是老雷**，ch-8 正文中老雷并未到场）拦下，墩常因此获救（[`ch-8`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)）。第13、15、16章随兽盾攻岛、与老雷缠斗。第20章与老雷的对拳被**焚阳破城炮**以十倍威力返击，败下阵来；在记忆闪回后被老雷以「对不起，我已经心有所属」拒绝，**呆呆站在原地、裆部流下一股精液**（[`ch-20`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md) L41–L43）。**存活，此后主线未再登场。**
 
 ---
 

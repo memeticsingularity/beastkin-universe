@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤 |
 | **身份** | 兽盾组织底层守卫，参加提拔测试 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md) |
-| **最后登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md) |
+| **首次登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md) |
+| **最后登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md) |
 
 ---
 
 ## 二、登场原文
 
-### [提拔测试](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md)
+### [提拔测试](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md)
 
 > 坐最左边的绿制服野猪兽人紧张的问道，本能的动了动四肢，发现不仅双手被铁环铐住，双脚脚踝也被牢牢锁住。
 

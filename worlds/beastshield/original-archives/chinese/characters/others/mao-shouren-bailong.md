@@ -14,8 +14,8 @@
 | **等级/制服** | 无——**非兽盾编制**；正文未写制服，登场时浑身赤裸 |
 | **身份** | 光照会信徒（额头上印有**太阳徽记**）；以肉体交合为手段拉人入教 |
 | **状态** | **存活**（本章内）——异变为白龙兽人后亲手杀死拉新对象野猪兽人 |
-| **首次登场** | [vol-3-ch-20](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-20-identity-merge.md) |
-| **最后登场** | [vol-3-ch-20](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-20-identity-merge.md) |
+| **首次登场** | [vol-3-ch-20](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md) |
+| **最后登场** | [vol-3-ch-20](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md) |
 
 ---
 
@@ -42,7 +42,7 @@
 > 本档案并列两种读法，不作武断判定。
 
 **读法一：同一存在——教主（辉董）借信徒之躯复现。**
-- 正文写他异变后开口的第一句话是“呼，可恶的血君王，下手还真是狠呐！”——对血君王抱有明显的受害者立场；而辉董正是在 [ch-19-origin-revelation.md](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-19-origin-revelation.md) 中被血君王反杀（“甩开了辉董的尸体”）。
+- 正文写他异变后开口的第一句话是“呼，可恶的血君王，下手还真是狠呐！”——对血君王抱有明显的受害者立场；而辉董正是在 [ch-19-origin-revelation.md](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md) 中被血君王反杀（“甩开了辉董的尸体”）。
 - 他以第一人称谈论光照会的教义并自称其作者：“**我的信徒**为了拉新居然能做到这个地步”“口号确实是这样喊的……**完整版应该是：你们信光照，唯我得永生！**”。
 - 异变的触发点是额头上的**太阳徽记**——正文第 11 章交代“光照会信徒的信仰程度达到一定高度，他们的额头上就会出现太阳图案的纹路”，且**辉董正是光照会的教主**、其本体为“纯白的西方龙兽人”。
 - 猫兽人在异变前的心理活动是“还以为是自己的行为感动了**教主**得到了回报”——把“教主”当作一个外在于自己的存在，与“教主降临”的读法相容。
@@ -58,7 +58,7 @@
 
 ## 四、登场原文
 
-### [Chapter 20 身份融合](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-20-identity-merge.md)
+### [Chapter 20 身份融合](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md)
 
 > 在野猪兽人的肚子上正坐着一只额头上印有太阳徽记的娇小猫兽人，他的后穴被野猪兽人那根粗肥的肉棒塞满，身体伴随着野猪的挺动上下摇摆，他自己的猫根早被刺激到勃起流水，眼看就要射精，但他依旧强忍着射精欲望苦苦支撑。
 
@@ -107,5 +107,5 @@
 
 ---
 
-*档案来源：主线第三卷《白之都》[第20章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-20-identity-merge.md)*
+*档案来源：主线第三卷《白之都》[第20章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md)*
 *创建日期：2026-09-17*

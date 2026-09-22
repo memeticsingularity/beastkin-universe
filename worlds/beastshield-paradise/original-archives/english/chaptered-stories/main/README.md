@@ -38,11 +38,11 @@
   玩家memeticsingularity在一个堆满尸体的仓库角落醒来，面对系统冰冷的击杀教程提示，他选择了另一条路——理解、触碰与救赎。从棕熊守卫"熊仔"开始，一段以温柔改写命运的旅程就此展开。
 
 **Released Chapters / 已发布章节**:
-- [Chapter 1: Bear and Gate / 第一章：熊与门](./volume-1/ch-1.md)
-- [Chapter 2 / 第二章](./volume-1/ch-2.md)
-- [Chapter 3 / 第三章](./volume-1/ch-3.md)
-- [Chapter 4 / 第四章](./volume-1/ch-4.md)
-- [Chapter 5 / 第五章](./volume-1/ch-5.md)
+- [Chapter 1: Bear and Gate / 第一章：熊与门](volume-1/ch-001.md)
+- [Chapter 2 / 第二章](volume-1/ch-002.md)
+- [Chapter 3 / 第三章](volume-1/ch-003.md)
+- [Chapter 4 / 第四章](volume-1/ch-004.md)
+- [Chapter 5 / 第五章](volume-1/ch-005.md)
 
 ---
 

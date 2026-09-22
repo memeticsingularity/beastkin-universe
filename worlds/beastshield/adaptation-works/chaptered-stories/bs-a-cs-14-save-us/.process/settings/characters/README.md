@@ -8,8 +8,8 @@
 
 | 编号 | 角色档案 | 角色名 | 种族 | 毛色 | 制服 | 首次登场 | 状态 |
 |------|----------|--------|------|------|------|----------|------|
-| — | [protagonist-qidian](main/protagonist-qidian.md) | 奇点 | 人类（玩家） | — | — | [Ch.1](../../../chapters/volume-1/ch-01-tutorial.md) | 主角 |
-| — | [yuhe](main/yuhe.md) | 雨禾 | 人类（玩家） | — | — | [Ch.1](../../../chapters/volume-1/ch-01-tutorial.md) | 现实好友 |
+| — | [protagonist-qidian](main/protagonist-qidian.md) | 奇点 | 人类（玩家） | — | — | [Ch.1](../../../chapters/volume-1/ch-001-tutorial.md) | 主角 |
+| — | [yuhe](main/yuhe.md) | 雨禾 | 人类（玩家） | — | — | [Ch.1](../../../chapters/volume-1/ch-001-tutorial.md) | 现实好友 |
 | G-001 | [g-001-xiong-zong](beastshield/l-01-tutorial/g-001-xiong-zong.md) | 熊石厚 | 熊 | 棕皮 | G级（军绿） | [L-01](../levels/l-01-tutorial/) | 已拯救 |
 | G-078 | [g-078-xiong-hei](beastshield/l-02-warehouse/g-078-xiong-hei.md) | 黑熊兽人 | 熊（黑熊） | 纯黑皮 | G级（军绿） | [L-02](../levels/l-02-warehouse/) | 可拯救 |
 | G-112 | [g-112-zhu-hei](beastshield/l-02-warehouse/g-112-zhu-hei.md) | 黑猪兽人 | 猪（野猪） | 黑皮 | G级（军绿） | [L-02](../levels/l-02-warehouse/) | 可拯救 |

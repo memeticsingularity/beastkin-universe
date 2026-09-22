@@ -20,13 +20,13 @@ Humeng has evolved into an experimental heir who feeds on semen. The Emperor sen
 
 | 编号 | 中文标题 | 英文标题 | 链接 |
 |:--:|:--|:--|:--|
-| ch-1 | 飞船上的盛宴 | Feast Aboard the Ship | [阅读](ch-1-spaceship-feast.md) |
-| ch-2 | 炮台区巡查 | Cannon Zone Patrol | [阅读](ch-2-cannon-patrol.md) |
-| ch-3 | 反向拧断处决 | Reverse-Twist Execution | [阅读](ch-3-reverse-twist-execution.md) |
-| ch-4 | 补员与新兵检查 | Reinforcement and Inspection | [阅读](ch-4-reinforcement-check.md) |
-| ch-5 | 独眼狩猎者 | The One-Eyed Hunter | [阅读](ch-5-one-eyed-hunter.md) |
-| ch-6 | 被俘的小队长 | The Captive Captain | [阅读](ch-6-captive-captain.md) |
-| ch-7 | 虎猛的收尾 | Humeng's Cleanup | [阅读](ch-7-humeng-cleanup.md) |
+| ch-1 | 飞船上的盛宴 | Feast Aboard the Ship | [阅读](ch-001-spaceship-feast.md) |
+| ch-2 | 炮台区巡查 | Cannon Zone Patrol | [阅读](ch-002-cannon-patrol.md) |
+| ch-3 | 反向拧断处决 | Reverse-Twist Execution | [阅读](ch-003-reverse-twist-execution.md) |
+| ch-4 | 补员与新兵检查 | Reinforcement and Inspection | [阅读](ch-004-reinforcement-check.md) |
+| ch-5 | 独眼狩猎者 | The One-Eyed Hunter | [阅读](ch-005-one-eyed-hunter.md) |
+| ch-6 | 被俘的小队长 | The Captive Captain | [阅读](ch-006-captive-captain.md) |
+| ch-7 | 虎猛的收尾 | Humeng's Cleanup | [阅读](ch-007-humeng-cleanup.md) |
 
 ---
 

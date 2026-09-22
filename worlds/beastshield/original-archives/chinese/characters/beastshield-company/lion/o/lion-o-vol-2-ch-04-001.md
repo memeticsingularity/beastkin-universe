@@ -12,8 +12,8 @@
 | **等级/制服** | O级 · 蓝色制服 |
 | **身份** | 兽盾大楼高层守卫 |
 | **状态** | **已死亡**——被魔影后入灌精而死 |
-| **首次登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md) |
-| **最后登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md) |
+| **首次登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) |
+| **最后登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) |
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-04：虎卫组之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md)
+### [vol-2-ch-04：虎卫组之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md)
 
 > 魔影打开房门，等催眠瓦斯散了后走了进去。一共三只战利品，一只狮子兽人守卫两只虎兽人守卫，躺在地上睡得鼾声如雷，不省人事。
 >

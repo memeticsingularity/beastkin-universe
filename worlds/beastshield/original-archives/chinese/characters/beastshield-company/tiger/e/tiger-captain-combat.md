@@ -12,9 +12,9 @@
 | **等级/制服** | E级 · 黑色紧身制服，黑色军靴，黑袜 |
 | **编号** | 未知 |
 | **身份** | 兽盾武斗部队队长 |
-| **状态** | **已死亡**——被牙董抛弃，被玩家击杀（[vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md)） |
-| **首次登场** | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
-| **最后登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md) |
+| **状态** | **已死亡**——被牙董抛弃，被玩家击杀（[vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md)） |
+| **首次登场** | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) |
+| **最后登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
 
 ---
 
@@ -53,7 +53,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-06：闯入敌营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md)
+### [vol-1-ch-06：闯入敌营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md)
 
 > “你！过来！”一只穿着**黑制服**的黄皮**虎兽人**带着一群**杂兵**朝我走了过来。
 >
@@ -179,7 +179,7 @@
 
 ---
 
-### [vol-1-ch-07：训练部下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-7-training-subordinates.md)
+### [vol-1-ch-07：训练部下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-007-training-subordinates.md)
 
 > 吃到一半时遇到了虎队长，他依旧一身黑衣黑袜，英姿威武，肩上的标记好像多了一道杠。
 >
@@ -191,7 +191,7 @@
 
 ---
 
-### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
+### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md)
 
 > 偷袭我的不是别人，正是从楼上赶来的虎队长，他正站在我刚刚站的位置，双眼死盯着我，然后舔了舔爪子上沾染的我的鲜血，突然皱起了眉头，似乎在思考着什么。
 >
@@ -201,7 +201,7 @@
 
 ---
 
-### [vol-1-ch-10：初见BOSS](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md)
+### [vol-1-ch-10：初见BOSS](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md)
 
 > 听到了这话，我的内心像是被什么触动了一下，感到一股温暖，张嘴想说些什么，可是办公室的门突然被打开，**虎队长**走了进来。
 >
@@ -409,11 +409,11 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **格挡** | 使用右臂小型防爆盾格挡攻击 | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
-| **紧急闪避** | 被动技能，可自动闪避第一次攻击 | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md) |
-| **擒拿** | 抓住敌人使其无法动弹 | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md) |
-| **狩猎追踪** | 通过气味锁定猎物 | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md) |
-| **护裆** | 裆部金属护具，防止被偷袭弱点 | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
+| **格挡** | 使用右臂小型防爆盾格挡攻击 | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) |
+| **紧急闪避** | 被动技能，可自动闪避第一次攻击 | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
+| **擒拿** | 抓住敌人使其无法动弹 | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
+| **狩猎追踪** | 通过气味锁定猎物 | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
+| **护裆** | 裆部金属护具，防止被偷袭弱点 | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) |
 
 ---
 

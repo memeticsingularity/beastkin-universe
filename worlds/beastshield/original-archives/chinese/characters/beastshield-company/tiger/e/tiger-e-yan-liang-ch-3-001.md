@@ -12,8 +12,8 @@
 | **等级/制服** | E级武斗兵 · 黑色紧身制服 |
 | **身份** | 会议室门口守卫 |
 | **状态** | **已死亡**——被银狼以银针封穴定住，在无法动弹的情况下站着被撸射而死 |
-| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
-| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
+| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
+| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
+### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
 
 > **炎**朝**会议室**门口慢慢走去，同时打量着周遭状况。门口站着的分别是一只**棕皮牛兽人**和一只**白虎兽人**，本来身材就已经很粗壮了，再加上这种负手挺胸的姿势，使得他们的胸肌和裆部显得更加凸翘，紧皱的眉头和瞪圆的双眼使得他们看起来如门神一般凶悍无比，不好招惹。
 >
@@ -55,4 +55,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)*
+*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)*

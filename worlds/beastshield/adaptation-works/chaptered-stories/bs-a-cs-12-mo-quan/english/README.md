@@ -15,12 +15,12 @@ The amnesiac black canine beastkin **Hei Gou (Black Dog)**, bearing the mysterio
 
 ## Chapter List
 
-- [Chapter 3: Hillside Ambush](chapters/ch-3-hillside-ambush.md) (Continuation)
+- [Chapter 3: Hillside Ambush](chapters/ch-003-hillside-ambush.md) (Continuation)
 
 ## Original Work Chapters
 
-- [Chapter 1: Awakening in the Cave](../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)
-- [Chapter 2: Mountain Encounter](../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)
+- [Chapter 1: Awakening in the Cave](../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)
+- [Chapter 2: Mountain Encounter](../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)
 
 ## Creative Materials
 

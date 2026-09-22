@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色制服（原文明确“身为杂兵的虎兽人”） |
 | **身份** | 休息室泡面吃夜宵的杂兵 |
 | **状态** | **已死亡**——被老雷把头摁进滚烫泡面碗，侧腰灌暗劲射精而死 |
-| **首次登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
-| **最后登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
+| **首次登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
+| **最后登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [老雷突袭情报局·第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)
+### [老雷突袭情报局·第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)
 
 > 休息室里一只老虎兽盾兵刚泡好一包泡面准备大快朵颐，刚准备动筷子，就被摸进门的老雷一把把头摁进了泡面纸碗里，滚烫的汁水呛进他的鼻腔，堵住了他的惨叫，紧接着侧腰被一掌拍入灼流暗劲让他浑身定格，身为杂兵的虎兽人根本抵挡不住这股暗劲，没过三秒就夹着双腿坐在椅子上开始了射精，射完后身体扭了几下瘫软下来，双手垂在桌下摇晃，头埋在压扁的泡面碗里没有了呼吸。
 >
@@ -49,6 +49,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第二章](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)*
+*档案来源：老雷突袭情报局 [第二章](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

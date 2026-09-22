@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色制服 |
 | **身份** | 农田小道被黑制服熊呼喝“你去那边搜！快点！”的杂兵，答“是！遵命！” |
 | **状态** | **已死亡**——伸手想掐灰毛狼兽人（浪青平）脖颈，反被唐刀没入腹部、剑气攫住五脏六腑；刀尖出体瞬间高潮冲颅，走射十几步后扑通倒地，精溅当场 |
-| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md) |
-| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md) |
+| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
+| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md)
+### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)
 
 > “是！遵命！”得令的牛兽人杂兵立刻应道。
 >
@@ -73,5 +73,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md)*
+*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)*
 *创建日期：2026-09-01*

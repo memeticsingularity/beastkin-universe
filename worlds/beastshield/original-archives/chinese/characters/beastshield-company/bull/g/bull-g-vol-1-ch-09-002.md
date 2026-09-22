@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾大楼一楼大厅守卫 |
 | **状态** | **已死亡**——大腿被刺后割喉 |
-| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
-| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
+| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) |
+| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
+### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md)
 
 > 灰狗兽人捂着脖子上的伤口踉跄了两步，还没明白发生了什么，就扑通一下栽倒在地没了动静，红牛兽人则捂着大腿蜷缩在地上鬼哭狼嚎。
 >

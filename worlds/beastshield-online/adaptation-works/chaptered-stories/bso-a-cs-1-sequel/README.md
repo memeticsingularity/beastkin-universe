@@ -109,26 +109,26 @@
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 第一章 | [阅读](chapters/ch-01.md) |
-| Ch.2 | 第二章 | [阅读](chapters/ch-02.md) |
-| Ch.3 | 第三章 | [阅读](chapters/ch-03.md) |
-| Ch.4 | 第四章 | [阅读](chapters/ch-04.md) |
-| Ch.5 | 第五章：厨子建势力 | [阅读](chapters/ch-05.md) |
+| Ch.1 | 第一章 | [阅读](chapters/ch-001.md) |
+| Ch.2 | 第二章 | [阅读](chapters/ch-002.md) |
+| Ch.3 | 第三章 | [阅读](chapters/ch-003.md) |
+| Ch.4 | 第四章 | [阅读](chapters/ch-004.md) |
+| Ch.5 | 第五章：厨子建势力 | [阅读](chapters/ch-005.md) |
 
 ### 分支章节
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.5-A | 第五章（A版） | [阅读](chapters/branches/ch-05-a.md) |
-| Ch.5-B | 第五章（B版）：厨子救美 | [阅读](chapters/branches/ch-05-b.md) |
+| Ch.5-A | 第五章（A版） | [阅读](chapters/branches/ch-005-a.md) |
+| Ch.5-B | 第五章（B版）：厨子救美 | [阅读](chapters/branches/ch-005-b.md) |
 
 ### 支线故事
 
 | 编号 | 标题 | 链接 |
 |------|------|------|
 | SS-01 | 寨主的下午 | [阅读](side-stories/ss-01-tiger-king-pov.md) |
-| SS-02 | 虎寨往事 | [阅读](side-stories/ss-02-tiger-king-prelude/ch-01.md) |
-| SS-03 | 牛先锋前传 | [阅读](side-stories/ss-03-niu-xianfeng-prelude/ch-01.md) |
+| SS-02 | 虎寨往事 | [阅读](side-stories/ss-02-tiger-king-prelude/ch-001.md) |
+| SS-03 | 牛先锋前传 | [阅读](side-stories/ss-03-niu-xianfeng-prelude/ch-001.md) |
 
 ---
 
@@ -138,26 +138,26 @@
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | Chapter 1 | [Read](chapters/ch-01.md) |
-| Ch.2 | Chapter 2 | [Read](chapters/ch-02.md) |
-| Ch.3 | Chapter 3 | [Read](chapters/ch-03.md) |
-| Ch.4 | Chapter 4 | [Read](chapters/ch-04.md) |
-| Ch.5 | Chapter 5: The Cook Builds Power | [Read](chapters/ch-05.md) |
+| Ch.1 | Chapter 1 | [Read](chapters/ch-001.md) |
+| Ch.2 | Chapter 2 | [Read](chapters/ch-002.md) |
+| Ch.3 | Chapter 3 | [Read](chapters/ch-003.md) |
+| Ch.4 | Chapter 4 | [Read](chapters/ch-004.md) |
+| Ch.5 | Chapter 5: The Cook Builds Power | [Read](chapters/ch-005.md) |
 
 ### Branch Chapters
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.5-A | Chapter 5 (Version A) | [Read](chapters/branches/ch-05-a.md) |
-| Ch.5-B | Chapter 5 (Version B): The Cook Saves the Day | [Read](chapters/branches/ch-05-b.md) |
+| Ch.5-A | Chapter 5 (Version A) | [Read](chapters/branches/ch-005-a.md) |
+| Ch.5-B | Chapter 5 (Version B): The Cook Saves the Day | [Read](chapters/branches/ch-005-b.md) |
 
 ### Side Stories
 
 | ID | Title | Link |
 |----|-------|------|
 | SS-01 | The Chieftain's Afternoon | [Read](side-stories/ss-01-tiger-king-pov.md) |
-| SS-02 | Tales of the Tiger Fortress | [Read](side-stories/ss-02-tiger-king-prelude/ch-01.md) |
-| SS-03 | Niu Xianfeng Prelude | [Read](side-stories/ss-03-niu-xianfeng-prelude/ch-01.md) |
+| SS-02 | Tales of the Tiger Fortress | [Read](side-stories/ss-02-tiger-king-prelude/ch-001.md) |
+| SS-03 | Niu Xianfeng Prelude | [Read](side-stories/ss-03-niu-xianfeng-prelude/ch-001.md) |
 
 ---
 

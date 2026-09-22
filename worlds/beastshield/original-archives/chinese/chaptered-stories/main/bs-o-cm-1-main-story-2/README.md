@@ -78,77 +78,77 @@ This volume consists of 15 chapters, starting from Shadow Demon's infiltration o
 
 ## 4. 全卷章节目录 / Full Volume Chapter Index
 
-### 第1章：更衣室狩猎 / Chapter 1: Locker Room Hunt ([ch-1-locker-room-hunt.md](./ch-1-locker-room-hunt.md))
+### 第1章：更衣室狩猎 / Chapter 1: Locker Room Hunt ([ch-1-locker-room-hunt.md](ch-001-locker-room-hunt.md))
 
 - **章节标签 / Tags**: `#潜入 #更衣室 #连环猎杀` / `#Infiltration #Locker Room #Serial Hunt`
 - **剧情简介 / Synopsis**: 魔影潜入兽盾大楼，在更衣室连续猎杀16名守卫，展现其独特的暗杀技巧。 / Shadow Demon infiltrates the Beastshield building and consecutively hunts 16 guards in the locker room, showcasing his unique assassination techniques.
 
-### 第2章：走廊巡逻 / Chapter 2: Corridor Patrol ([ch-2-corridor-patrol.md](./ch-2-corridor-patrol.md))
+### 第2章：走廊巡逻 / Chapter 2: Corridor Patrol ([ch-2-corridor-patrol.md](ch-002-corridor-patrol.md))
 
 - **章节标签 / Tags**: `#走廊 #洗手间 #情报收集` / `#Corridor #Restroom #Intel Gathering`
 - **剧情简介 / Synopsis**: 魔影换装后继续潜入，在走廊和洗手间猎杀巡逻守卫，获得高层情报。 / After changing disguise, Shadow Demon continues infiltration, hunting patrol guards in corridors and restrooms to obtain high-level intelligence.
 
-### 第3章：露台狩猎 / Chapter 3: Terrace Hunt ([ch-3-terrace-hunt.md](./ch-3-terrace-hunt.md))
+### 第3章：露台狩猎 / Chapter 3: Terrace Hunt ([ch-3-terrace-hunt.md](ch-003-terrace-hunt.md))
 
 - **章节标签 / Tags**: `#十层露台 #高层守卫 #高空抛尸` / `#Tenth Floor Terrace #Elite Guards #Aerial Disposal`
 - **剧情简介 / Synopsis**: 魔影来到十层露台，猎杀抽烟休息的棕熊兽人等高层守卫，换装后继续深入。 / Shadow Demon reaches the tenth-floor terrace, hunting elite guards like brown bear beastkin who are taking smoke breaks, then continues deeper after changing disguise.
 
-### 第4章：虎卫组之战 / Chapter 4: Tiger Guard Battle ([ch-4-tiger-guard-battle.md](./ch-4-tiger-guard-battle.md))
+### 第4章：虎卫组之战 / Chapter 4: Tiger Guard Battle ([ch-4-tiger-guard-battle.md](ch-004-tiger-guard-battle.md))
 
 - **章节标签 / Tags**: `#虎卫组 #血毒 #四小猫` / `#Tiger Guard Unit #Blood Poison #Four Kittens`
 - **剧情简介 / Synopsis**: 魔影遭遇虎卫组组长及其三名手下，利用血毒能力击败"虎卫组四小猫"。 / Shadow Demon encounters the Tiger Guard captain and his three subordinates, using his blood poison ability to defeat the "Tiger Guard's Four Kittens."
 
-### 第5章：厨房与致命午餐 / Chapter 5: Kitchen and Fatal Lunch ([ch-5-kitchen-and-lunch.md](./ch-5-kitchen-and-lunch.md))
+### 第5章：厨房与致命午餐 / Chapter 5: Kitchen and Fatal Lunch ([ch-5-kitchen-and-lunch.md](ch-005-kitchen-and-lunch.md))
 
 - **章节标签 / Tags**: `#厨房 #白熊厨师 #牛兽人午餐` / `#Kitchen #White Bear Chef #Bull Beastkin Lunch`
 - **剧情简介 / Synopsis**: 魔影在厨房猎杀白熊厨师，恰逢兽盾老大处决失职守卫当午餐，见识到组织的残酷。 / Shadow Demon hunts a white bear chef in the kitchen, coincidentally witnessing the Beastshield boss executing negligent guards for lunch, experiencing the organization's cruelty.
 
-### 第6章：老雷登场 / Chapter 6: Lao Lei Arrival ([ch-6-lei-lei-arrival.md](./ch-6-lei-lei-arrival.md))
+### 第6章：老雷登场 / Chapter 6: Lao Lei Arrival ([ch-6-lei-lei-arrival.md](ch-006-lei-lei-arrival.md))
 
 - **章节标签 / Tags**: `#老雷 #灼流暗劲 #一楼镇守` / `#Lao Lei #Scorching Flow Dark Force #First Floor Defense`
 - **剧情简介 / Synopsis**: 老雷在一楼镇守，以灼流暗劲击败多波增援守卫，展现暴力美学，与魔影形成对比。 / Lao Lei defends the first floor, using Scorching Flow Dark Force to defeat multiple waves of reinforcements, showcasing violent aesthetics in contrast to Shadow Demon.
 
-### 第7章：熊族领地渗透 / Chapter 7: Bear Territory Infiltration ([ch-7-bear-territory-infiltration.md](./ch-7-bear-territory-infiltration.md))
+### 第7章：熊族领地渗透 / Chapter 7: Bear Territory Infiltration ([ch-7-bear-territory-infiltration.md](ch-007-bear-territory-infiltration.md))
 
 - **章节标签 / Tags**: `#十一层 #熊族领地 #三分钟赌约` / `#Eleventh Floor #Bear Clan Territory #Three-Minute Bet`
 - **剧情简介 / Synopsis**: 魔影进入熊族专属领地，与熊守卫打赌三分钟内让其射精，展现玩弄猎物的技巧。 / Shadow Demon enters the Bear Clan's exclusive territory, betting with a bear guard to make him ejaculate within three minutes, showcasing his prey-playing techniques.
 
-### 第8章：炼药房之战 / Chapter 8: Alchemy Room Battle ([ch-8-alchemy-room-battle.md](./ch-8-alchemy-room-battle.md))
+### 第8章：炼药房之战 / Chapter 8: Alchemy Room Battle ([ch-8-alchemy-room-battle.md](ch-008-alchemy-room-battle.md))
 
 - **章节标签 / Tags**: `#炼药房 #春药池 #熊组长` / `#Alchemy Room #Aphrodisiac Pool #Bear Captain`
 - **剧情简介 / Synopsis**: 魔影在炼药房与熊组长决战，利用春药池和通风管道智取，最终处决练金钟罩的熊组长。 / Shadow Demon battles the Bear Captain in the alchemy room, using the aphrodisiac pool and ventilation ducts to outwit him, ultimately executing the Bear Captain who practices Golden Bell Cover.
 
-### 第9章：走廊清理 / Chapter 9: Corridor Cleanup ([ch-9-corridor-cleanup.md](./ch-9-corridor-cleanup.md))
+### 第9章：走廊清理 / Chapter 9: Corridor Cleanup ([ch-9-corridor-cleanup.md](ch-009-corridor-cleanup.md))
 
 - **章节标签 / Tags**: `#老雷 #走廊清理 #牛跟班` / `#Lao Lei #Corridor Cleanup #Bull Follower`
 - **剧情简介 / Synopsis**: 老雷继续清理走廊增援，收服一名牛兽人作为跟班，展现其"打扫战场"的强迫症。 / Lao Lei continues clearing corridor reinforcements, recruiting a bull beastkin as a follower, showcasing his "battlefield cleanup" obsession.
 
-### 第10章：十三层潜入 / Chapter 10: Thirteenth Floor Infiltration ([ch-10-thirteenth-floor-infiltration.md](./ch-10-thirteenth-floor-infiltration.md))
+### 第10章：十三层潜入 / Chapter 10: Thirteenth Floor Infiltration ([ch-10-thirteenth-floor-infiltration.md](ch-010-thirteenth-floor-infiltration.md))
 
 - **章节标签 / Tags**: `#十三层 #牛族领地 #刑房` / `#Thirteenth Floor #Bull Clan Territory #Torture Room`
 - **剧情简介 / Synopsis**: 魔影与老雷潜入十三层牛族领地，营救行动开始，遭遇更多强敌。 / Shadow Demon and Lao Lei infiltrate the thirteenth-floor Bull Clan territory, beginning a rescue operation and encountering more powerful enemies.
 
-### 第11章：冥府牛头之战 / Chapter 11: Hell Bull Battle ([ch-11-hell-bull-battle.md](./ch-11-hell-bull-battle.md))
+### 第11章：冥府牛头之战 / Chapter 11: Hell Bull Battle ([ch-11-hell-bull-battle.md](ch-011-hell-bull-battle.md))
 
 - **章节标签 / Tags**: `#冥府牛头 #不死体质 #自动飞机杯` / `#Hell Bull #Immortal Constitution #Automatic Device`
 - **剧情简介 / Synopsis**: 魔影与老雷对决拥有不死体质的牛组长"冥府牛头"，最终靠自动飞机杯将其耗死。 / Shadow Demon and Lao Lei confront the Bull Captain "Hell Bull" with an immortal constitution, ultimately exhausting him using an automatic device.
 
-### 第12章：教学篇 / Chapter 12: Training Session ([ch-12-training-session.md](./ch-12-training-session.md))
+### 第12章：教学篇 / Chapter 12: Training Session ([ch-12-training-session.md](ch-012-training-session.md))
 
 - **章节标签 / Tags**: `#教学 #小豪 #野猪处决` / `#Training #Xiao Hao #Boar Execution`
 - **剧情简介 / Synopsis**: 视角转换到特工局教室，年幼的小豪在老师指导下处决野猪兽人，展现新一代特工培训。 / Perspective shifts to the Agent Bureau classroom, where young Xiao Hao executes a boar beastkin under teacher guidance, showcasing the new generation of agent training.
 
-### 第13章：蟒蛇岛回忆·上 / Chapter 13: Python Island Flashback · Part 1 ([ch-13-python-island-flashback.md](./ch-13-python-island-flashback.md))
+### 第13章：蟒蛇岛回忆·上 / Chapter 13: Python Island Flashback · Part 1 ([ch-13-python-island-flashback.md](ch-013-python-island-flashback.md))
 
 - **章节标签 / Tags**: `#回忆 #五年前 #初任务` / `#Flashback #Five Years Ago #First Mission`
 - **剧情简介 / Synopsis**: 魔影回忆五年前刚毕业时的蟒蛇岛初任务，展现从青涩到冷酷的转变过程。 / Shadow Demon recalls his first mission on Python Island right after graduation five years ago, showing his transformation from greenhorn to cold-blooded assassin.
 
-### 第14章：蟒蛇岛回忆·下 / Chapter 14: Python Island Transformation ([ch-14-python-island-transformation.md](./ch-14-python-island-transformation.md))
+### 第14章：蟒蛇岛回忆·下 / Chapter 14: Python Island Transformation ([ch-14-python-island-transformation.md](ch-014-python-island-transformation.md))
 
 - **章节标签 / Tags**: `#红水晶 #变异 #白熊` / `#Red Crystal #Mutation #White Bear`
 - **剧情简介 / Synopsis**: 魔影触碰红水晶后变异，获得毒血和毒牙能力，从此改变人生轨迹。 / Shadow Demon mutates after touching the Red Crystal, gaining poison blood and venom fang abilities, forever changing his life trajectory.
 
-### 第15章：重返蟒蛇岛 / Chapter 15: Return to Python Island ([ch-15-return-to-python-island.md](./ch-15-return-to-python-island.md))
+### 第15章：重返蟒蛇岛 / Chapter 15: Return to Python Island ([ch-15-return-to-python-island.md](ch-015-return-to-python-island.md))
 
 - **章节标签 / Tags**: `#三年后 #小豪 #儡先生` / `#Three Years Later #Xiao Hao #Mr. Lei`
 - **剧情简介 / Synopsis**: 魔影带新人小豪重返蟒蛇岛，遭遇儡先生的诡异法阵，刺杀嗜精兽头目失败，引出第三部剧情。 / Shadow Demon brings new recruit Xiao Hao back to Python Island, encountering Mr. Lei's mysterious formation. The assassination of the Semen-Eater Beast leader fails, setting up the plot for Volume 3.

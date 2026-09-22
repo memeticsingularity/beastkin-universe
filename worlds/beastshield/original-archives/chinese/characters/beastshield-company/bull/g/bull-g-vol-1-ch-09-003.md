@@ -13,14 +13,14 @@
 | **编号** | 未知 |
 | **身份** | 兽盾大楼一楼大厅守卫 |
 | **状态** | **已死亡**——腹部中刀后被绞刃而死 |
-| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
-| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
+| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) |
+| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
+### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md)
 
 > 兽盾员工们换上严肃的表情死盯着我，纷纷抄起武器围了上来，站在门口的一只牛兽人反锁上了大厅门防止我逃跑。
 >

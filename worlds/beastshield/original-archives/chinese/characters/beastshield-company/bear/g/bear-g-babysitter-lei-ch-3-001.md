@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色制服 |
 | **身份** | 围剿小队杂兵 |
 | **状态** | **已死亡**——被老雷从背后灌劲，站着射光精液后栽倒 |
-| **首次登场** | [s-3-ch3-4](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md) |
-| **最后登场** | [s-3-ch3-4](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md) |
+| **首次登场** | [s-3-ch3-4](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
+| **最后登场** | [s-3-ch3-4](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch3-4：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)
+### [s-3-ch3-4：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
 
 > ——（老雷搭乘的顺风车被狙击，司机中弹撞树，白熊上前查看）——
 >
@@ -65,5 +65,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)*
+*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)*
 *创建日期：2026-08-28*

@@ -124,6 +124,6 @@
 
 **相关文件**：
 
-- [第二章：矿石与暗流](../../../chapters/chinese/ch-02-ore-and-undercurrents.md)
+- [第二章：矿石与暗流](../../../chapters/chinese/ch-002-ore-and-undercurrents.md)
 - [第九章创作对话：方丘阳化解](../../author-chat/chapters/2026-02-13-ch-9-4.md)
 - [第十章创作对话：新年特辑](../../author-chat/chapters/2026-03-03-ch-10-1.md)

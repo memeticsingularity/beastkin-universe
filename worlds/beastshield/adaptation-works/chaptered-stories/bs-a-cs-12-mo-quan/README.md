@@ -108,23 +108,23 @@
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 洞穴醒来（原作） | [阅读](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md) |
-| Ch.2 | 山间遭遇（原作） | [阅读](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) |
-| Ch.3 | 山腰伏击 | [阅读](chapters/volume-1/ch-3-hillside-ambush.md) |
-| Ch.4 | 月下河滩 | [阅读](chapters/volume-1/ch-4-riverside-moonlight.md) |
-| Ch.5 | 山脚客栈 | [阅读](chapters/volume-1/ch-5-mountain-inn.md) |
-| Ch.6 | 检查哨 | [阅读](chapters/volume-1/ch-6-checkpoint.md) |
-| Ch.7 | 路边茶棚 | [阅读](chapters/volume-1/ch-7-roadside-teahouse.md) |
-| Ch.8 | 青石镇 | [阅读](chapters/volume-1/ch-8-qingshi-town.md) |
-| Ch.9 | 审判日 | [阅读](chapters/volume-1/ch-9-judgment-day.md) |
-| Ch.10 | 两败俱伤 | [阅读](chapters/volume-1/ch-10-mutual-destruction.md) |
-| Ch.11 | 都是我的 | [阅读](chapters/volume-1/ch-11-all-mine.md) |
-| Ch.12 | 你…… | [阅读](chapters/volume-1/ch-12-you.md) |
-| Ch.13 | 给我吧 | [阅读](chapters/volume-1/ch-13-give-him-to-me.md) |
-| Ch.14 | 跟我走 | [阅读](chapters/volume-1/ch-14-follow-me.md) |
-| Ch.15 | 都上来 | [阅读](chapters/volume-1/ch-15-all-aboard.md) |
-| Ch.16 | 第一夜 | [阅读](chapters/volume-1/ch-16-first-night.md) |
-| Ch.17 | 开饭 | [阅读](chapters/volume-1/ch-17-meal.md) |
+| Ch.1 | 洞穴醒来（原作） | [阅读](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md) |
+| Ch.2 | 山间遭遇（原作） | [阅读](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) |
+| Ch.3 | 山腰伏击 | [阅读](chapters/volume-1/ch-003-hillside-ambush.md) |
+| Ch.4 | 月下河滩 | [阅读](chapters/volume-1/ch-004-riverside-moonlight.md) |
+| Ch.5 | 山脚客栈 | [阅读](chapters/volume-1/ch-005-mountain-inn.md) |
+| Ch.6 | 检查哨 | [阅读](chapters/volume-1/ch-006-checkpoint.md) |
+| Ch.7 | 路边茶棚 | [阅读](chapters/volume-1/ch-007-roadside-teahouse.md) |
+| Ch.8 | 青石镇 | [阅读](chapters/volume-1/ch-008-qingshi-town.md) |
+| Ch.9 | 审判日 | [阅读](chapters/volume-1/ch-009-judgment-day.md) |
+| Ch.10 | 两败俱伤 | [阅读](chapters/volume-1/ch-010-mutual-destruction.md) |
+| Ch.11 | 都是我的 | [阅读](chapters/volume-1/ch-011-all-mine.md) |
+| Ch.12 | 你…… | [阅读](chapters/volume-1/ch-012-you.md) |
+| Ch.13 | 给我吧 | [阅读](chapters/volume-1/ch-013-give-him-to-me.md) |
+| Ch.14 | 跟我走 | [阅读](chapters/volume-1/ch-014-follow-me.md) |
+| Ch.15 | 都上来 | [阅读](chapters/volume-1/ch-015-all-aboard.md) |
+| Ch.16 | 第一夜 | [阅读](chapters/volume-1/ch-016-first-night.md) |
+| Ch.17 | 开饭 | [阅读](chapters/volume-1/ch-017-meal.md) |
 
 ### 第二卷：武林视角线（规划中）
 
@@ -163,23 +163,23 @@
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | Cave Awakening (Original) | [Read](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md) |
-| Ch.2 | Mountain Encounter (Original) | [Read](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) |
-| Ch.3 | Hillside Ambush | [Read](chapters/volume-1/ch-3-hillside-ambush.md) |
-| Ch.4 | Riverside Moonlight | [Read](chapters/volume-1/ch-4-riverside-moonlight.md) |
-| Ch.5 | The Lean Leopard's Trial | [Read](chapters/volume-1/ch-5-mountain-inn.md) |
-| Ch.6 | Checkpoint | [Read](chapters/volume-1/ch-6-checkpoint.md) |
-| Ch.7 | Roadside Teahouse | [Read](chapters/volume-1/ch-7-roadside-teahouse.md) |
-| Ch.8 | Qingshi Town | [Read](chapters/volume-1/ch-8-qingshi-town.md) |
-| Ch.9 | Judgment Day | [Read](chapters/volume-1/ch-9-judgment-day.md) |
-| Ch.10 | Mutual Destruction | [Read](chapters/volume-1/ch-10-mutual-destruction.md) |
-| Ch.11 | All Mine | [Read](chapters/volume-1/ch-11-all-mine.md) |
-| Ch.12 | You... | [Read](chapters/volume-1/ch-12-you.md) |
-| Ch.13 | Give Him to Me | [Read](chapters/volume-1/ch-13-give-him-to-me.md) |
-| Ch.14 | Follow Me | [Read](chapters/volume-1/ch-14-follow-me.md) |
-| Ch.15 | All Aboard | [Read](chapters/volume-1/ch-15-all-aboard.md) |
-| Ch.16 | First Night | [Read](chapters/volume-1/ch-16-first-night.md) |
-| Ch.17 | Meal | [Read](chapters/volume-1/ch-17-meal.md) |
+| Ch.1 | Cave Awakening (Original) | [Read](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md) |
+| Ch.2 | Mountain Encounter (Original) | [Read](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) |
+| Ch.3 | Hillside Ambush | [Read](chapters/volume-1/ch-003-hillside-ambush.md) |
+| Ch.4 | Riverside Moonlight | [Read](chapters/volume-1/ch-004-riverside-moonlight.md) |
+| Ch.5 | The Lean Leopard's Trial | [Read](chapters/volume-1/ch-005-mountain-inn.md) |
+| Ch.6 | Checkpoint | [Read](chapters/volume-1/ch-006-checkpoint.md) |
+| Ch.7 | Roadside Teahouse | [Read](chapters/volume-1/ch-007-roadside-teahouse.md) |
+| Ch.8 | Qingshi Town | [Read](chapters/volume-1/ch-008-qingshi-town.md) |
+| Ch.9 | Judgment Day | [Read](chapters/volume-1/ch-009-judgment-day.md) |
+| Ch.10 | Mutual Destruction | [Read](chapters/volume-1/ch-010-mutual-destruction.md) |
+| Ch.11 | All Mine | [Read](chapters/volume-1/ch-011-all-mine.md) |
+| Ch.12 | You... | [Read](chapters/volume-1/ch-012-you.md) |
+| Ch.13 | Give Him to Me | [Read](chapters/volume-1/ch-013-give-him-to-me.md) |
+| Ch.14 | Follow Me | [Read](chapters/volume-1/ch-014-follow-me.md) |
+| Ch.15 | All Aboard | [Read](chapters/volume-1/ch-015-all-aboard.md) |
+| Ch.16 | First Night | [Read](chapters/volume-1/ch-016-first-night.md) |
+| Ch.17 | Meal | [Read](chapters/volume-1/ch-017-meal.md) |
 
 ---
 

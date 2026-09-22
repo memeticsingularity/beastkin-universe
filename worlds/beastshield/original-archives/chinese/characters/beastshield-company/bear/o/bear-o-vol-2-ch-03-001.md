@@ -12,8 +12,8 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤，白色长筒袜，蓝色运动型工作靴 |
 | **身份** | 兽盾大楼十层高层守卫 |
 | **状态** | **已死亡**——被魔影撸射后抛下十楼 |
-| **首次登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-3-terrace-hunt.md) |
-| **最后登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-3-terrace-hunt.md) |
+| **首次登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md) |
+| **最后登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md) |
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-03：露台狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-3-terrace-hunt.md)
+### [vol-2-ch-03：露台狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md)
 
 > 果然，一只身材粗壮的棕熊兽人正背对着魔影双臂撑在护栏上抽烟休息。
 >

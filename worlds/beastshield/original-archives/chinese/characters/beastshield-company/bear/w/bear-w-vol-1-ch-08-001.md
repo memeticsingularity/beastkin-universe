@@ -13,8 +13,8 @@
 | **编号** | W-593（袜底） |
 | **身份** | 地下格斗场摔跤兵 |
 | **状态** | **已死亡**——被主角勒颈后二次射精而死 |
-| **首次登场** | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
-| **最后登场** | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
+| **首次登场** | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-008-class-change-quest.md) |
+| **最后登场** | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-008-class-change-quest.md) |
 
 ---
 
@@ -50,7 +50,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-08：转职挑战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md)
+### [vol-1-ch-08：转职挑战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-008-class-change-quest.md)
 
 > 毕竟只是低级杂兵的入门挑战，并没有什么观众，应战的是一只白熊兽人。
 >
@@ -202,9 +202,9 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **摔跤格斗** | 地下格斗场摔跤兵，擅长关节技和背摔 | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
-| **诈死** | 第一次射精后不会死亡，可假装已死 | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
-| **麻痹戒指** | 可使敌人陷入麻痹状态，冷却时间1小时 | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-8-class-change-quest.md) |
+| **摔跤格斗** | 地下格斗场摔跤兵，擅长关节技和背摔 | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-008-class-change-quest.md) |
+| **诈死** | 第一次射精后不会死亡，可假装已死 | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-008-class-change-quest.md) |
+| **麻痹戒指** | 可使敌人陷入麻痹状态，冷却时间1小时 | [vol-1-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-008-class-change-quest.md) |
 
 ---
 

@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿紧身裤+白袜+军靴 |
 | **身份** | 兽盾情报部门守门杂兵 |
 | **状态** | **已死亡**——抄警棍袭老雷反被捏蛋灌劲，射精射进裤裆，被摆成打盹姿势 |
-| **首次登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
-| **最后登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
+| **首次登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
+| **最后登场** | [s-3-ch2-001](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [老雷突袭情报局·第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)
+### [老雷突袭情报局·第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)
 
 > “去抓个小孩还要动用高级武斗兵，真不知道上面是怎么想的。”一名牛兽盾兵打了个哈欠道。
 >
@@ -87,6 +87,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第二章](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)*
+*档案来源：老雷突袭情报局 [第二章](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

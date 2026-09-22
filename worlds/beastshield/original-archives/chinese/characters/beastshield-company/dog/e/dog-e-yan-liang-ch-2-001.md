@@ -12,8 +12,8 @@
 | **等级/制服** | E级武斗兵 · 黑色紧身制服+黑袜 |
 | **身份** | 杂物间门口抽烟守卫 |
 | **状态** | **已死亡**——被炎扣腕扭臂摁在墙上，运功+揉搓双倍刺激下三十秒射精而死 |
-| **首次登场** | [炎魉篇 ch-2](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md) |
-| **最后登场** | [炎魉篇 ch-2](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md) |
+| **首次登场** | [炎魉篇 ch-2](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md) |
+| **最后登场** | [炎魉篇 ch-2](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md) |
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第二章：清理办公室](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)
+### [炎魉篇·第二章：清理办公室](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md)
 
 > 于是**炎**、**魉**二人找到了一间放清洁用品的**杂物间**，在**杂物间**门口，一只**黑制服**的**狗兽人**正在抽烟。
 >
@@ -79,4 +79,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第二章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)*
+*档案来源：炎魉篇 [第二章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md)*

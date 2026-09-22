@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 仓库小队队长，持有仓库钥匙 |
 | **状态** | **已死亡**——被主角用匕首背刺后射精而死 |
-| **首次登场** | [vol-1-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md) |
-| **最后登场** | [vol-1-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md) |
+| **首次登场** | [vol-1-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-002-escape-warehouse.md) |
+| **最后登场** | [vol-1-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-002-escape-warehouse.md) |
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-02：仓库逃脱](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-2-escape-warehouse.md)
+### [vol-1-ch-02：仓库逃脱](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-002-escape-warehouse.md)
 
 > 原来他们这些穿紧身制服的**兽人**是一家叫**兽盾**的公司的员工，收到上级命令来占领这间**仓库**并处理掉所有活口的，据说是要抢夺**仓库**里的什么东西，但是他这一个低级员工并不清楚具体内容，**仓库**大门目前被锁死了，**钥匙**在队长身上，也就是那只**蓝色制服虎兽人**。
 >

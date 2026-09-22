@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色紧身短裤+白袜+运动鞋 |
 | **身份** | 兽盾组织低阶员工，勒索者 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md) |
-| **最后登场** | [vol-3-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md) |
+| **首次登场** | [vol-3-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md) |
+| **最后登场** | [vol-3-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 四、登场原文
 
-### [念力防御](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-4-psychic-defense.md)
+### [念力防御](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md)
 
 > 此时，一只身材粗壮高大的黑牛兽人和一只同样体型的橙虎兽人闯了进来，黑牛一脚将野猪踹下床，吼道:
 

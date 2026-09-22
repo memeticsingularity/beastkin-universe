@@ -12,7 +12,7 @@
 | **等级/制服** | G级 · 军绿制服（推断） |
 | **身份** | 兽盾后街巡逻杂兵 |
 | **状态** | **已死亡**——在主角遇见白虎之前就已死在主角手上 |
-| **登场** | [vol-1-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-5-first-costume-change.md) |
+| **登场** | [vol-1-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-005-first-costume-change.md) |
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-05：首次换装](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-5-first-costume-change.md)
+### [vol-1-ch-05：首次换装](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-005-first-costume-change.md)
 
 > 为了赚**狩猎赏金**，这是我今天撸杀的第三只**兽盾杂兵**，另外两只已经被我塞进了旁边的**垃圾桶**里，因为我发现这个**后街**是杀人抛尸的好地方，无论什么东西，只要你放进**垃圾桶**，第二天都会消失得无影无踪。
 >

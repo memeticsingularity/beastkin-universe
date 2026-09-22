@@ -8,9 +8,9 @@
 
 ## 原文索引
 
-- [炎魉外传第一章《潜入基地》](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)
-- [炎魉外传第二章《办公室清剿》](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)
-- [炎魉外传第三章《深层对峙》](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
+- [炎魉外传第一章《潜入基地》](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)
+- [炎魉外传第二章《办公室清剿》](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md)
+- [炎魉外传第三章《深层对峙》](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
 - [炎角色档案](../../chinese/characters/bounty-hunters/yan.md)
 - [魉角色档案](../../chinese/characters/bounty-hunters/liang.md)
 - [黑狗（墨犬）角色档案](../../chinese/characters/others/mo-quan.md)
@@ -79,7 +79,7 @@ side/
 
 **AI的分析：**
 
-场景回顾（[ch-2办公室清剿](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）：黑制服狗守卫在杂物间门口抽烟，见到穿黑制服的炎走近，主动递烟——"兄弟，来一根？"炎假装接烟，瞬间制服，不到30秒双倍刺激处决。死后炎还"奖励性的从狗屌根部撸到龟头，帮狗兽人撸了几个全程"。
+场景回顾（[ch-2办公室清剿](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md)）：黑制服狗守卫在杂物间门口抽烟，见到穿黑制服的炎走近，主动递烟——"兄弟，来一根？"炎假装接烟，瞬间制服，不到30秒双倍刺激处决。死后炎还"奖励性的从狗屌根部撸到龟头，帮狗兽人撸了几个全程"。
 
 **活下来的概率几乎为零，原因：**
 
@@ -170,7 +170,7 @@ side/
 
 接续 Q4 的改写讨论，作者指出两个关键点：
 
-1. **原文顺序纠正**：炎魉是一起行动的，不是先杀/处理狗守卫再发现狮子尸体——顺序是：**杀狗→扛狗尸开柜→发现狮子尸体**（[ch-2办公室清剿](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-2-office-clearance.md)）
+1. **原文顺序纠正**：炎魉是一起行动的，不是先杀/处理狗守卫再发现狮子尸体——顺序是：**杀狗→扛狗尸开柜→发现狮子尸体**（[ch-2办公室清剿](../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md)）
 2. **狗守卫是笑着递烟的**——"兄弟，来一根？"笑得出来，说明他不在刚发现尸体的震惊状态。如果他是刚发现柜中裸尸，不可能还能笑着递烟
 
 **由此引出核心问题：**

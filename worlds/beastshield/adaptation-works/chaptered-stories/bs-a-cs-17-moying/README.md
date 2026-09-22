@@ -103,16 +103,16 @@ Yuhe's adaptation of Moying. Bounty hunter **Moying** takes the Beastshield buil
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 一楼更衣室 | [阅读](chapters/ch-01-locker-room.md) |
-| Ch.2 | 走廊·洗手间 | [阅读](chapters/ch-02-corridor-restroom.md) |
-| Ch.3 | 十层·电梯·露台 | [阅读](chapters/ch-03-terrace-hunt.md) |
-| Ch.4 | 虎卫组 | [阅读](chapters/ch-04-tiger-guard.md) |
-| Ch.5 | 厨房与顶楼 | [阅读](chapters/ch-05-kitchen.md) |
-| Ch.6 | 十层尾声·老雷登场 | [阅读](chapters/ch-06-lei-lei-arrival.md) |
-| Ch.7 | 十一层熊族 | [阅读](chapters/ch-07-bear-territory.md) |
-| Ch.8 | 老雷的征途·十三层 | [阅读](chapters/ch-08-thirteenth-floor.md) |
-| Ch.9 | 刑房·冥府牛头 | [阅读](chapters/ch-09-hell-bull.md) |
-| Ch.10 | 幸存者 | [阅读](chapters/ch-10-survivors.md) |
+| Ch.1 | 一楼更衣室 | [阅读](chapters/ch-001-locker-room.md) |
+| Ch.2 | 走廊·洗手间 | [阅读](chapters/ch-002-corridor-restroom.md) |
+| Ch.3 | 十层·电梯·露台 | [阅读](chapters/ch-003-terrace-hunt.md) |
+| Ch.4 | 虎卫组 | [阅读](chapters/ch-004-tiger-guard.md) |
+| Ch.5 | 厨房与顶楼 | [阅读](chapters/ch-005-kitchen.md) |
+| Ch.6 | 十层尾声·老雷登场 | [阅读](chapters/ch-006-lei-lei-arrival.md) |
+| Ch.7 | 十一层熊族 | [阅读](chapters/ch-007-bear-territory.md) |
+| Ch.8 | 老雷的征途·十三层 | [阅读](chapters/ch-008-thirteenth-floor.md) |
+| Ch.9 | 刑房·冥府牛头 | [阅读](chapters/ch-009-hell-bull.md) |
+| Ch.10 | 幸存者 | [阅读](chapters/ch-010-survivors.md) |
 
 ---
 
@@ -120,16 +120,16 @@ Yuhe's adaptation of Moying. Bounty hunter **Moying** takes the Beastshield buil
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | Locker Room | [Read](chapters/ch-01-locker-room.md) |
-| Ch.2 | Corridor & Restroom | [Read](chapters/ch-02-corridor-restroom.md) |
-| Ch.3 | Tenth Floor Terrace | [Read](chapters/ch-03-terrace-hunt.md) |
-| Ch.4 | Tiger Guard Unit | [Read](chapters/ch-04-tiger-guard.md) |
-| Ch.5 | Kitchen & Rooftop | [Read](chapters/ch-05-kitchen.md) |
-| Ch.6 | Lei Lei Arrival | [Read](chapters/ch-06-lei-lei-arrival.md) |
-| Ch.7 | Bear Clan Territory | [Read](chapters/ch-07-bear-territory.md) |
-| Ch.8 | Thirteenth Floor Infiltration | [Read](chapters/ch-08-thirteenth-floor.md) |
-| Ch.9 | Hell Bull Battle | [Read](chapters/ch-09-hell-bull.md) |
-| Ch.10 | Survivors | [Read](chapters/ch-10-survivors.md) |
+| Ch.1 | Locker Room | [Read](chapters/ch-001-locker-room.md) |
+| Ch.2 | Corridor & Restroom | [Read](chapters/ch-002-corridor-restroom.md) |
+| Ch.3 | Tenth Floor Terrace | [Read](chapters/ch-003-terrace-hunt.md) |
+| Ch.4 | Tiger Guard Unit | [Read](chapters/ch-004-tiger-guard.md) |
+| Ch.5 | Kitchen & Rooftop | [Read](chapters/ch-005-kitchen.md) |
+| Ch.6 | Lei Lei Arrival | [Read](chapters/ch-006-lei-lei-arrival.md) |
+| Ch.7 | Bear Clan Territory | [Read](chapters/ch-007-bear-territory.md) |
+| Ch.8 | Thirteenth Floor Infiltration | [Read](chapters/ch-008-thirteenth-floor.md) |
+| Ch.9 | Hell Bull Battle | [Read](chapters/ch-009-hell-bull.md) |
+| Ch.10 | Survivors | [Read](chapters/ch-010-survivors.md) |
 
 ---
 

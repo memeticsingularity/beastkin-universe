@@ -13,14 +13,14 @@
 | **编号** | 未知 |
 | **身份** | 兽盾大楼一楼大厅守卫 |
 | **状态** | **已死亡**——被主角割喉 |
-| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
-| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md) |
+| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) |
+| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-9-challenge-headquarters.md)
+### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md)
 
 > “你是什么人，来这里做什么！”站岗的一只黄虎兽人拦住了我。
 >

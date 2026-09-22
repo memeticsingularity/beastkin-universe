@@ -138,31 +138,31 @@ Gray Wolf `Gray Wolf` · Brown Bear `Brown Bear` · Yellow Tiger `Yellow Tiger` 
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 狼的逃亡 | [阅读](chapters/ch-01-the-wolf.md) |
-| Ch.2 | 熊的失职 | [阅读](chapters/ch-02-the-bear.md) |
-| Ch.3 | 虎的傲慢 | [阅读](chapters/ch-03-the-tiger.md) |
-| Ch.4 | 牛的委屈 | [阅读](chapters/ch-04-the-ox.md) |
-| Ch.5 | 狗的悔恨 | [阅读](chapters/ch-05-the-dog.md) |
-| Ch.6 | 豹的敏捷 | [阅读](chapters/ch-06-the-leopard.md) |
-| Ch.7 | 猪的贪婪 | [阅读](chapters/ch-07-the-boar.md) |
-| Ch.8 | 鹿的温顺 | [阅读](chapters/ch-08-the-deer.md) |
-| Ch.9 | 狮的威严 | [阅读](chapters/ch-09-the-lion.md) |
-| Ch.10 | 狐的狡黠 | [阅读](chapters/ch-10-the-fox.md) |
-| Ch.11 | 收藏家 | [阅读](chapters/ch-11-the-collector.md) |
-| Ch.11-2 | 全场通吃 | [阅读](chapters/ch-11-2-buyout.md) |
-| Ch.11-3 | 噩梦成真 | [阅读](chapters/ch-11-3-nightmare.md) |
-| Ch.11-3-1 | 上篇 前五人 | [阅读](chapters/ch-11-3-1-firstfive.md) |
-| Ch.11-3-1-1 | 上篇 前五人【扩写版】 | [阅读](chapters/ch-11-3-1-firstfive-1.md) |
-| Ch.11-3-1-2 | 上篇 前五人【差异化版】 | [阅读](chapters/ch-11-3-1-firstfive-2.md) |
-| Ch.11-3-1-3 | 上篇 肉体的终章【沉浸版】 | [阅读](chapters/ch-11-3-1-firstfive-3.md) |
-| Ch.11-3-1-4 | 上篇 肉体的终章【极致版】 | [阅读](chapters/ch-11-3-1-firstfive-4.md) |
-| Ch.11-3-1-5 | 上篇 肉体的终章【极致版】 | [阅读](chapters/ch-11-3-1-firstfive-5.md) |
-| Ch.11-3-2 | 下篇 后五人 | [阅读](chapters/ch-11-3-2-lastfive.md) |
-| Ch.11-3-2-1 | 下篇 后五人【扩写版】 | [阅读](chapters/ch-11-3-2-lastfive-1.md) |
-| Ch.11-3-2-2 | 下篇 后五人【差异化版】 | [阅读](chapters/ch-11-3-2-lastfive-2.md) |
-| Ch.11-3-2-3 | 下篇 精神的终章【沉浸版】 | [阅读](chapters/ch-11-3-2-lastfive-3.md) |
-| Ch.11-3-2-4 | 下篇 精神的终章【极致版】 | [阅读](chapters/ch-11-3-2-lastfive-4.md) |
-| Ch.11-3-2-5 | 下篇 精神的终章【极致版】 | [阅读](chapters/ch-11-3-2-lastfive-5.md) |
+| Ch.1 | 狼的逃亡 | [阅读](chapters/ch-001-the-wolf.md) |
+| Ch.2 | 熊的失职 | [阅读](chapters/ch-002-the-bear.md) |
+| Ch.3 | 虎的傲慢 | [阅读](chapters/ch-003-the-tiger.md) |
+| Ch.4 | 牛的委屈 | [阅读](chapters/ch-004-the-ox.md) |
+| Ch.5 | 狗的悔恨 | [阅读](chapters/ch-005-the-dog.md) |
+| Ch.6 | 豹的敏捷 | [阅读](chapters/ch-006-the-leopard.md) |
+| Ch.7 | 猪的贪婪 | [阅读](chapters/ch-007-the-boar.md) |
+| Ch.8 | 鹿的温顺 | [阅读](chapters/ch-008-the-deer.md) |
+| Ch.9 | 狮的威严 | [阅读](chapters/ch-009-the-lion.md) |
+| Ch.10 | 狐的狡黠 | [阅读](chapters/ch-010-the-fox.md) |
+| Ch.11 | 收藏家 | [阅读](chapters/ch-011-the-collector.md) |
+| Ch.11-2 | 全场通吃 | [阅读](chapters/ch-011-2-buyout.md) |
+| Ch.11-3 | 噩梦成真 | [阅读](chapters/ch-011-3-nightmare.md) |
+| Ch.11-3-1 | 上篇 前五人 | [阅读](chapters/ch-011-3-1-firstfive.md) |
+| Ch.11-3-1-1 | 上篇 前五人【扩写版】 | [阅读](chapters/ch-011-3-1-firstfive-1.md) |
+| Ch.11-3-1-2 | 上篇 前五人【差异化版】 | [阅读](chapters/ch-011-3-1-firstfive-2.md) |
+| Ch.11-3-1-3 | 上篇 肉体的终章【沉浸版】 | [阅读](chapters/ch-011-3-1-firstfive-3.md) |
+| Ch.11-3-1-4 | 上篇 肉体的终章【极致版】 | [阅读](chapters/ch-011-3-1-firstfive-4.md) |
+| Ch.11-3-1-5 | 上篇 肉体的终章【极致版】 | [阅读](chapters/ch-011-3-1-firstfive-5.md) |
+| Ch.11-3-2 | 下篇 后五人 | [阅读](chapters/ch-011-3-2-lastfive.md) |
+| Ch.11-3-2-1 | 下篇 后五人【扩写版】 | [阅读](chapters/ch-011-3-2-lastfive-1.md) |
+| Ch.11-3-2-2 | 下篇 后五人【差异化版】 | [阅读](chapters/ch-011-3-2-lastfive-2.md) |
+| Ch.11-3-2-3 | 下篇 精神的终章【沉浸版】 | [阅读](chapters/ch-011-3-2-lastfive-3.md) |
+| Ch.11-3-2-4 | 下篇 精神的终章【极致版】 | [阅读](chapters/ch-011-3-2-lastfive-4.md) |
+| Ch.11-3-2-5 | 下篇 精神的终章【极致版】 | [阅读](chapters/ch-011-3-2-lastfive-5.md) |
 
 ---
 
@@ -170,31 +170,31 @@ Gray Wolf `Gray Wolf` · Brown Bear `Brown Bear` · Yellow Tiger `Yellow Tiger` 
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | The Wolf's Escape | [Read](chapters/ch-01-the-wolf.md) |
-| Ch.2 | The Bear's Negligence | [Read](chapters/ch-02-the-bear.md) |
-| Ch.3 | The Tiger's Arrogance | [Read](chapters/ch-03-the-tiger.md) |
-| Ch.4 | The Ox's Grievance | [Read](chapters/ch-04-the-ox.md) |
-| Ch.5 | The Dog's Regret | [Read](chapters/ch-05-the-dog.md) |
-| Ch.6 | The Leopard's Agility | [Read](chapters/ch-06-the-leopard.md) |
-| Ch.7 | The Boar's Greed | [Read](chapters/ch-07-the-boar.md) |
-| Ch.8 | The Deer's Gentleness | [Read](chapters/ch-08-the-deer.md) |
-| Ch.9 | The Lion's Majesty | [Read](chapters/ch-09-the-lion.md) |
-| Ch.10 | The Fox's Cunning | [Read](chapters/ch-10-the-fox.md) |
-| Ch.11 | The Collector | [Read](chapters/ch-11-the-collector.md) |
-| Ch.11-2 | Total Buyout | [Read](chapters/ch-11-2-buyout.md) |
-| Ch.11-3 | Nightmare Realized | [Read](chapters/ch-11-3-nightmare.md) |
-| Ch.11-3-1 | Part 1: First Five | [Read](chapters/ch-11-3-1-firstfive.md) |
-| Ch.11-3-1-1 | Part 1: First Five (Expanded) | [Read](chapters/ch-11-3-1-firstfive-1.md) |
-| Ch.11-3-1-2 | Part 1: First Five (Differentiated) | [Read](chapters/ch-11-3-1-firstfive-2.md) |
-| Ch.11-3-1-3 | Part 1: Flesh Finale (Immersive) | [Read](chapters/ch-11-3-1-firstfive-3.md) |
-| Ch.11-3-1-4 | Part 1: Flesh Finale (Ultimate) | [Read](chapters/ch-11-3-1-firstfive-4.md) |
-| Ch.11-3-1-5 | Part 1: Flesh Finale (Ultimate v2) | [Read](chapters/ch-11-3-1-firstfive-5.md) |
-| Ch.11-3-2 | Part 2: Last Five | [Read](chapters/ch-11-3-2-lastfive.md) |
-| Ch.11-3-2-1 | Part 2: Last Five (Expanded) | [Read](chapters/ch-11-3-2-lastfive-1.md) |
-| Ch.11-3-2-2 | Part 2: Last Five (Differentiated) | [Read](chapters/ch-11-3-2-lastfive-2.md) |
-| Ch.11-3-2-3 | Part 2: Spirit Finale (Immersive) | [Read](chapters/ch-11-3-2-lastfive-3.md) |
-| Ch.11-3-2-4 | Part 2: Spirit Finale (Ultimate) | [Read](chapters/ch-11-3-2-lastfive-4.md) |
-| Ch.11-3-2-5 | Part 2: Spirit Finale (Ultimate v2) | [Read](chapters/ch-11-3-2-lastfive-5.md) |
+| Ch.1 | The Wolf's Escape | [Read](chapters/ch-001-the-wolf.md) |
+| Ch.2 | The Bear's Negligence | [Read](chapters/ch-002-the-bear.md) |
+| Ch.3 | The Tiger's Arrogance | [Read](chapters/ch-003-the-tiger.md) |
+| Ch.4 | The Ox's Grievance | [Read](chapters/ch-004-the-ox.md) |
+| Ch.5 | The Dog's Regret | [Read](chapters/ch-005-the-dog.md) |
+| Ch.6 | The Leopard's Agility | [Read](chapters/ch-006-the-leopard.md) |
+| Ch.7 | The Boar's Greed | [Read](chapters/ch-007-the-boar.md) |
+| Ch.8 | The Deer's Gentleness | [Read](chapters/ch-008-the-deer.md) |
+| Ch.9 | The Lion's Majesty | [Read](chapters/ch-009-the-lion.md) |
+| Ch.10 | The Fox's Cunning | [Read](chapters/ch-010-the-fox.md) |
+| Ch.11 | The Collector | [Read](chapters/ch-011-the-collector.md) |
+| Ch.11-2 | Total Buyout | [Read](chapters/ch-011-2-buyout.md) |
+| Ch.11-3 | Nightmare Realized | [Read](chapters/ch-011-3-nightmare.md) |
+| Ch.11-3-1 | Part 1: First Five | [Read](chapters/ch-011-3-1-firstfive.md) |
+| Ch.11-3-1-1 | Part 1: First Five (Expanded) | [Read](chapters/ch-011-3-1-firstfive-1.md) |
+| Ch.11-3-1-2 | Part 1: First Five (Differentiated) | [Read](chapters/ch-011-3-1-firstfive-2.md) |
+| Ch.11-3-1-3 | Part 1: Flesh Finale (Immersive) | [Read](chapters/ch-011-3-1-firstfive-3.md) |
+| Ch.11-3-1-4 | Part 1: Flesh Finale (Ultimate) | [Read](chapters/ch-011-3-1-firstfive-4.md) |
+| Ch.11-3-1-5 | Part 1: Flesh Finale (Ultimate v2) | [Read](chapters/ch-011-3-1-firstfive-5.md) |
+| Ch.11-3-2 | Part 2: Last Five | [Read](chapters/ch-011-3-2-lastfive.md) |
+| Ch.11-3-2-1 | Part 2: Last Five (Expanded) | [Read](chapters/ch-011-3-2-lastfive-1.md) |
+| Ch.11-3-2-2 | Part 2: Last Five (Differentiated) | [Read](chapters/ch-011-3-2-lastfive-2.md) |
+| Ch.11-3-2-3 | Part 2: Spirit Finale (Immersive) | [Read](chapters/ch-011-3-2-lastfive-3.md) |
+| Ch.11-3-2-4 | Part 2: Spirit Finale (Ultimate) | [Read](chapters/ch-011-3-2-lastfive-4.md) |
+| Ch.11-3-2-5 | Part 2: Spirit Finale (Ultimate v2) | [Read](chapters/ch-011-3-2-lastfive-5.md) |
 
 ---
 

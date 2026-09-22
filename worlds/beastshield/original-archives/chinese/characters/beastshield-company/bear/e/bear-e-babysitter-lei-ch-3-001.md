@@ -12,8 +12,8 @@
 | **等级/制服** | E级武斗兵 · 黑色紧身制服 |
 | **身份** | 情报中心值守（黑制服武斗兵） |
 | **状态** | **已死亡**——求饶被拒，被颜部长撩衣揉捏、捏肿乳头、把玩黑袜，流精到底后溺死（凶手另称其“垃圾”） |
-| **首次登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md) |
-| **最后登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md) |
+| **首次登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
+| **最后登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch3-1：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)
+### [s-3-ch3-1：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
 
 > “对……对不起，颜部长，我们……我们昨晚……在另一边……巡逻……”一只体格肉壮的黑制服熊兽人低着头，他身边还站着两只绿制服兽盾兵，面对体型比他们小几圈的狐狸兽人，他们三人竟然在瑟瑟发抖。
 >
@@ -71,5 +71,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)*
+*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)*
 *创建日期：2026-08-20*

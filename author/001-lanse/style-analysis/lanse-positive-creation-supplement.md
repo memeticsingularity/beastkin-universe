@@ -51,7 +51,7 @@ lanse 原作的感官描写是"厚积薄发型"——平时不铺陈，关键时
 
 ### 解决方案：设计感官出场顺序
 
-最有效的序列模板（来自 [ch-01 虎场景](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-01.md)）：
+最有效的序列模板（来自 [ch-01 虎场景](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-001.md)）：
 
 ```
 环境视觉（建立空间——月光/防爆灯/夜雾）
@@ -217,19 +217,19 @@ lanse 作品中几乎所有处决共享一个底层结构——**处决仪式**�
 
 ### 高质量基准（原作者非常喜欢）
 
-- [bs-a-cs-4-yanliang ch-01 Scene-1（虎兽人雷爪）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-01.md) — 感官序列 + 接近/侵入拉长 + 情感四次转折 + 空间锚定 + 魉的张力
-- [bs-a-cs-4-yanliang ch-20（牛兽人牛磐自裁）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-20.md) — 临界拉长 + 情感"最后一搏" + 空间象征性 + 牙董的旁观者张力
+- [bs-a-cs-4-yanliang ch-01 Scene-1（虎兽人雷爪）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-001.md) — 感官序列 + 接近/侵入拉长 + 情感四次转折 + 空间锚定 + 魉的张力
+- [bs-a-cs-4-yanliang ch-20（牛兽人牛磐自裁）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-020.md) — 临界拉长 + 情感"最后一搏" + 空间象征性 + 牙董的旁观者张力
 
 ### 其他高质量参考
 
-- [bs-a-cs-4-yanliang ch-14（递烟场景）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-14.md) — 反转型伸缩（接近拉长，爆发压缩）
-- [bs-a-cs-4-yanliang ch-15（犀牛老兵）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-15.md) — 情感弧线"觉醒→释然"的独特路径
-- [bs-a-cs-4-yanliang ch-18（熊猫展示）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-18.md) — 善后拉长的展示型伸缩
+- [bs-a-cs-4-yanliang ch-14（递烟场景）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-014.md) — 反转型伸缩（接近拉长，爆发压缩）
+- [bs-a-cs-4-yanliang ch-15（犀牛老兵）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-015.md) — 情感弧线"觉醒→释然"的独特路径
+- [bs-a-cs-4-yanliang ch-18（熊猫展示）](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-018.md) — 善后拉长的展示型伸缩
 
 ### 中等质量参考（说明问题所在）
 
-- [bs-a-cs-4-yanliang ch-02~03](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-02.md) — 七个步骤均匀分配 = 流程感
-- [bs-a-cs-4-yanliang ch-05~09](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-05.md) — 感官扁平 + 情感单键 + 魉消失
+- [bs-a-cs-4-yanliang ch-02~03](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-002.md) — 七个步骤均匀分配 = 流程感
+- [bs-a-cs-4-yanliang ch-05~09](../../../worlds/beastshield/adaptation-works/chaptered-stories/bs-a-cs-4-yanliang/chapters/v1-20ch/ch-005.md) — 感官扁平 + 情感单键 + 魉消失
 
 ---
 

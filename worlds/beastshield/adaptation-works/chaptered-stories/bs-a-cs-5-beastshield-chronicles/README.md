@@ -119,11 +119,11 @@ White Capital—a city shrouded in the shadow of the Beastshield Corporation. Xu
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 白兔暗影 / The Rabbit's Shadow | [阅读](chapters/chinese/ch-01-the-rabbits-shadow.md) |
-| Ch.2 | 矿石与暗流 / Ore and Undercurrents | [阅读](chapters/chinese/ch-02-ore-and-undercurrents.md) |
-| Ch.3 | 血染之塔 / Tower of Bloodbath | [阅读](chapters/chinese/ch-03-tower-of-bloodbath.md) |
-| Ch.4 | 白影毒牙 / White Shadow Venomous Fangs | [阅读](chapters/chinese/ch-04-white-shadow-venomous-fangs.md) |
-| Ch.5 | 项圈 / The Collar | [阅读](chapters/chinese/ch-05-the-collar.md) |
+| Ch.1 | 白兔暗影 / The Rabbit's Shadow | [阅读](chapters/chinese/ch-001-the-rabbits-shadow.md) |
+| Ch.2 | 矿石与暗流 / Ore and Undercurrents | [阅读](chapters/chinese/ch-002-ore-and-undercurrents.md) |
+| Ch.3 | 血染之塔 / Tower of Bloodbath | [阅读](chapters/chinese/ch-003-tower-of-bloodbath.md) |
+| Ch.4 | 白影毒牙 / White Shadow Venomous Fangs | [阅读](chapters/chinese/ch-004-white-shadow-venomous-fangs.md) |
+| Ch.5 | 项圈 / The Collar | [阅读](chapters/chinese/ch-005-the-collar.md) |
 | Ch.6 | （草稿进行中） | — |
 | Ch.7 | （草稿进行中） | — |
 | Ch.8 | （草稿进行中） | — |
@@ -136,11 +136,11 @@ White Capital—a city shrouded in the shadow of the Beastshield Corporation. Xu
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | The Rabbit's Shadow | [Read](chapters/english/ch-01-the-rabbits-shadow.md) |
-| Ch.2 | Ore and Undercurrents | [Read](chapters/english/ch-02-ore-and-undercurrents.md) |
-| Ch.3 | Tower of Bloodbath | [Read](chapters/english/ch-03-tower-of-bloodbath.md) |
-| Ch.4 | White Shadow Venomous Fangs | [Read](chapters/english/ch-04-white-shadow-venomous-fangs.md) |
-| Ch.5 | The Collar | [Read](chapters/english/ch-05-the-collar.md) |
+| Ch.1 | The Rabbit's Shadow | [Read](chapters/english/ch-001-the-rabbits-shadow.md) |
+| Ch.2 | Ore and Undercurrents | [Read](chapters/english/ch-002-ore-and-undercurrents.md) |
+| Ch.3 | Tower of Bloodbath | [Read](chapters/english/ch-003-tower-of-bloodbath.md) |
+| Ch.4 | White Shadow Venomous Fangs | [Read](chapters/english/ch-004-white-shadow-venomous-fangs.md) |
+| Ch.5 | The Collar | [Read](chapters/english/ch-005-the-collar.md) |
 | Ch.6 | (Draft in progress) | — |
 | Ch.7 | (Draft in progress) | — |
 | Ch.8 | (Draft in progress) | — |

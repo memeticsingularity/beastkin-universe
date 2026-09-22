@@ -12,7 +12,7 @@
 | **等级/制服** | G级·野外巡逻套装 · 墨绿紧身短袖+迷彩长裤+军靴 |
 | **身份** | 蟒蛇岛基地最后一名巡逻兵 |
 | **状态** | **已死亡**——被魔影命令自己撸管+踩龟头+最后枪口插入喉咙灌入春药弹射杀 |
-| **登场** | [vol-2-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-13-python-island-flashback.md) |
+| **登场** | [vol-2-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-13：蟒蛇岛回忆·上](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-13-python-island-flashback.md)
+### [vol-2-ch-13：蟒蛇岛回忆·上](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md)
 
 > “他妈的见鬼了，怎么一个人都没看到。”仅剩的最后一个巡逻牛兽人百无聊赖的四处乱串，想找个同伴聊聊天打发时间，却一个也没遇到。
 >

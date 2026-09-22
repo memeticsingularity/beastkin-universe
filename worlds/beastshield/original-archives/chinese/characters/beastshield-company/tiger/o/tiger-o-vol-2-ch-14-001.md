@@ -12,7 +12,7 @@
 | **等级/制服** | O级 · 蓝色制服+白袜 |
 | **身份** | 蟒蛇岛主营队长 |
 | **状态** | **已死亡**——吸食春药烟后瘫软，被白熊用袜子塞嘴塞后穴，喷精毙命 |
-| **登场** | [vol-2-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-14-python-island-transformation.md) |
+| **登场** | [vol-2-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-14：蟒蛇岛回忆·下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-14-python-island-transformation.md)
+### [vol-2-ch-14：蟒蛇岛回忆·下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md)
 
 > “你们就别多打探了，听我一句劝，想要活得久，知道的越少越好。”他们的队长，一只身穿蓝色制服的粗壮虎兽人正躺在椅子上，脱了鞋子露出一双穿着白袜的肉腿搭在桌角，金属箱子就放在他脚边。他无聊的看了眼箱子和自己的白袜肉腿，搓了搓脚指头，道:
 >

@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤 |
 | **身份** | 兽盾组织司机，负责处理测试死者尸体 |
 | **状态** | 已死亡（被灭口） |
-| **首次登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md) |
-| **最后登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md) |
+| **首次登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md) |
+| **最后登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md) |
 
 ---
 
 ## 二、登场原文
 
-### [提拔测试](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-1-promotion-test.md)
+### [提拔测试](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md)
 
 > 测试官看着手里的表格，头痛的摇了摇头，然后转身对一个负责开车的绿制服熊兽人守卫说:
 >

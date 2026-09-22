@@ -13,11 +13,11 @@
 | **别名** | 总司令 / 司令 / **勤司令** |
 | **身份** | 特工局最高领导者 |
 | **状态** | **存活（修为尽废）**——第三卷·第21章被辉董刺伤灵魂、毁去所有修为，随后在血君王的邪火焚烧中生死未明；正文只写「与废人（无异）」 |
-| **首次登场** | [第一卷·第11章 特工局](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md) |
-| **最后登场** | [第三卷·第21章 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-21-divine-battle.md) |
+| **首次登场** | [第一卷·第11章 特工局](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md) |
+| **最后登场** | [第三卷·第21章 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) |
 
 > ⚠️ **首次登场订正（2026 审计）**：[`README.md`](README.md) 现记首次登场为「第一卷·第13章」，
-> **实为第一卷·第11章** —— [`ch-11`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md) L98：「刚进入会议室，一只穿着风衣的德牧看到我出现，
+> **实为第一卷·第11章** —— [`ch-11`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md) L98：「刚进入会议室，一只穿着风衣的德牧看到我出现，
 > 立刻面带微笑地自我介绍：『欢迎光临特工局，我是这里的**总司令**。』」该章 L194 起他还亲自为玩家戴上青雉缚阳锁。
 > 第13章只是「司令」**再次**登场（L32/L45/L47/L49），并非首次。
 
@@ -44,7 +44,7 @@
 
 ## 四、登场原文
 
-### [Chapter 11 特工局](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-11-agent-bureau.md)
+### [Chapter 11 特工局](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)
 
 本章开头部分该角色未出场。
 
@@ -152,7 +152,7 @@
 
 ---
 
-### [Chapter 13 解锁封印](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-13-unlocking.md)
+### [Chapter 13 解锁封印](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-013-unlocking.md)
 
 > 感觉不太妙，还是找司令问问清楚好了。
 >
@@ -174,7 +174,7 @@
 
 ---
 
-### [Chapter 6 十二神武之谜](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md)
+### [Chapter 6 十二神武之谜](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md)
 
 本章开头部分该角色未出场。
 
@@ -222,7 +222,7 @@
 
 ---
 
-### [Chapter 11 光照会潜入](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-11-light-cult-infiltration.md)
+### [Chapter 11 光照会潜入](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md)
 
 > 特工局总部，奄奄一息的银躺在总司令的怀里，交代完了所有的情报。 司令红着眼眶道：“对不起，是我害了你，我不该派你去完成这个任务……都怪我！”
 >
@@ -242,13 +242,13 @@
 
 ---
 
-### [Chapter 15 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-15-final-battle.md)
+### [Chapter 15 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)
 
 > 只见一架载人战斗机从浮岛另一侧着陆，里面跑出几十名或穿军装或穿警服的兽人，特工局的总司令负手站在机舱门口，刚刚那声提醒就是他发出的，此时他风衣着身，傲然而立，回瞪向辉董毫不示弱。
 
 ---
 
-### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-21-divine-battle.md)
+### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)
 
 > 特工们都聚集了过来，在经历过刚刚那场战斗后，大家都已精疲力尽。老雷不用说，此时站着都很艰难。勤川浑身布满网状血痕，皮开肉绽，不忍直视。总司令早时被辉董刺伤灵魂，毁去所有修为，与废人无异。
 >
@@ -328,7 +328,7 @@
 
 ## 七、结局
 
-第一卷·第11章在特工局基地主持会议，投票决定是否处决玩家；最终以三比二否决处决，并亲手为玩家戴上青雉缚阳锁。第13章带玩家前往南海云顶浮岛，请传说中的兽人为其解锁封印。第三卷·第6章向老雷揭示十二神武与传人被兽盾精准猎杀的局势；第11章为银的牺牲落泪并宣布全体特工整装待发。第15章率特工局战斗机在浮岛着陆。**第21章被辉董刺伤灵魂、毁去所有修为，「与废人（无异）」，随后在血君王的邪火中被焚烧**（[`ch-21`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-21-divine-battle.md) L33、L81）。
+第一卷·第11章在特工局基地主持会议，投票决定是否处决玩家；最终以三比二否决处决，并亲手为玩家戴上青雉缚阳锁。第13章带玩家前往南海云顶浮岛，请传说中的兽人为其解锁封印。第三卷·第6章向老雷揭示十二神武与传人被兽盾精准猎杀的局势；第11章为银的牺牲落泪并宣布全体特工整装待发。第15章率特工局战斗机在浮岛着陆。**第21章被辉董刺伤灵魂、毁去所有修为，「与废人（无异）」，随后在血君王的邪火中被焚烧**（[`ch-21`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) L33、L81）。
 
 ---
 

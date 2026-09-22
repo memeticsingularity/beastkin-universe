@@ -12,7 +12,7 @@
 | **等级/制服** | O级 · 蓝色制服+白袜 |
 | **身份** | 十三层电梯口守卫 |
 | **状态** | **已死亡**——卵蛋被老雷捏爆，精液爆浆而出 |
-| **登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-9-corridor-cleanup.md) |
+| **登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-09：走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-9-corridor-cleanup.md)
+### [vol-2-ch-09：走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)
 
 > 到了十三层，两个穿着蓝制服的牛守卫便过来交接犯人，见老雷双手被绑在身后，打算上前接过绑绳，不料老雷突然发难，瞬间挣脱绳索，左手勒住一只守卫的脖子，右手抓住另一个守卫的卵蛋，两个守卫还没反应过来便被制服。
 >

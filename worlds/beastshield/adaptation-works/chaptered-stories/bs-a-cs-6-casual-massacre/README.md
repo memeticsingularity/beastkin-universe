@@ -134,12 +134,12 @@ Bull `Bull` · Tiger `Tiger` · Bear `Bear` · Wolf `Wolf` · Dog `Dog` · Boar 
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 潜入夜色 | [阅读](.process/stories/ch-01.md) |
-| Ch.2 | 一层与二层 | [阅读](.process/stories/ch-02.md) |
-| Ch.3 | 深夜食堂 | [阅读](.process/stories/ch-03.md) |
-| Ch.4 | 宿舍区与更衣室 | [阅读](.process/stories/ch-04.md) |
-| Ch.5 | 核心区域 | [阅读](.process/stories/ch-05.md) |
-| Ch.6 | 撤离与统计 | [阅读](.process/stories/ch-06.md) |
+| Ch.1 | 潜入夜色 | [阅读](.process/stories/ch-001.md) |
+| Ch.2 | 一层与二层 | [阅读](.process/stories/ch-002.md) |
+| Ch.3 | 深夜食堂 | [阅读](.process/stories/ch-003.md) |
+| Ch.4 | 宿舍区与更衣室 | [阅读](.process/stories/ch-004.md) |
+| Ch.5 | 核心区域 | [阅读](.process/stories/ch-005.md) |
+| Ch.6 | 撤离与统计 | [阅读](.process/stories/ch-006.md) |
 
 ---
 
@@ -147,12 +147,12 @@ Bull `Bull` · Tiger `Tiger` · Bear `Bear` · Wolf `Wolf` · Dog `Dog` · Boar 
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | Infiltrating the Night | [Read](.process/stories/ch-01.md) |
-| Ch.2 | First and Second Floors | [Read](.process/stories/ch-02.md) |
-| Ch.3 | Late-Night Cafeteria | [Read](.process/stories/ch-03.md) |
-| Ch.4 | Dormitory and Changing Room | [Read](.process/stories/ch-04.md) |
-| Ch.5 | Core Area | [Read](.process/stories/ch-05.md) |
-| Ch.6 | Evacuation and Tally | [Read](.process/stories/ch-06.md) |
+| Ch.1 | Infiltrating the Night | [Read](.process/stories/ch-001.md) |
+| Ch.2 | First and Second Floors | [Read](.process/stories/ch-002.md) |
+| Ch.3 | Late-Night Cafeteria | [Read](.process/stories/ch-003.md) |
+| Ch.4 | Dormitory and Changing Room | [Read](.process/stories/ch-004.md) |
+| Ch.5 | Core Area | [Read](.process/stories/ch-005.md) |
+| Ch.6 | Evacuation and Tally | [Read](.process/stories/ch-006.md) |
 
 ---
 

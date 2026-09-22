@@ -12,8 +12,8 @@
 | **等级/制服** | 无——非兽盾公司编制（警服） |
 | **身份** | 警长（审讯经手人） |
 | **状态** | **已死亡**——第一卷·第6章被虎队长击杀 |
-| **首次登场** | [第一卷·第6章 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
-| **最后登场** | [第一卷·第6章 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
+| **首次登场** | [第一卷·第6章 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) |
+| **最后登场** | [第一卷·第6章 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) |
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## 四、登场原文
 
-### [Chapter 6 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md)
+### [Chapter 6 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md)
 
 本章开头部分该角色未出场。
 
@@ -95,7 +95,7 @@
 
 ## 七、结局
 
-第一卷·第6章在酒店房间内审讯野猪矿工证人时，被窗外闯入的虎队长开枪击杀；虎队长随后「抬起踩着牛卵蛋的右脚军靴，将其贴在了牛警长的脸上蹭了蹭，将靴底沾的精液全部擦干净」（[`ch-6`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) L190、L204）。
+第一卷·第6章在酒店房间内审讯野猪矿工证人时，被窗外闯入的虎队长开枪击杀；虎队长随后「抬起踩着牛卵蛋的右脚军靴，将其贴在了牛警长的脸上蹭了蹭，将靴底沾的精液全部擦干净」（[`ch-6`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) L190、L204）。
 
 ---
 

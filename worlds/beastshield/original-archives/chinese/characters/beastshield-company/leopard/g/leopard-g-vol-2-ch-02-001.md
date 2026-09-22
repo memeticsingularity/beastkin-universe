@@ -12,14 +12,14 @@
 | **等级/制服** | G级 · 军绿短袖短裤 |
 | **身份** | 兽盾大楼二楼走廊守卫 |
 | **状态** | **已死亡**——被麻醉后踩踏裆部致死 |
-| **首次登场** | [vol-2-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-2-corridor-patrol.md) |
-| **最后登场** | [vol-2-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-2-corridor-patrol.md) |
+| **首次登场** | [vol-2-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md) |
+| **最后登场** | [vol-2-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-02：走廊巡逻](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-2-corridor-patrol.md)
+### [vol-2-ch-02：走廊巡逻](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md)
 
 > “哦，我是。。”魔影假装找工牌，突然趁其不备立马勒住对方咽喉将其反转身体制住，然后从他腰间抽出麻醉枪对准另一只黑豹守卫射击，黑豹还没反应过来，就被魔影射出的麻醉枪击中倒地，躺在地上浑身抽搐。
 >

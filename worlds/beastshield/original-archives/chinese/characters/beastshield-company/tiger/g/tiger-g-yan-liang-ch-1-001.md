@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色紧身短袖+短裤+白袜 |
 | **身份** | 新兵训练基地巡逻守卫 |
 | **状态** | **已死亡**——墙边巡逻时被炎勒颈握棒运功，不到10秒破精关，精液焖在紧身裤内射精而死 |
-| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
-| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
+| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
+| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)
+### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)
 
 > **兽盾**新兵训练基地，一只巡逻的**虎守卫**在路过墙边时，被一只大手抓住后颈拉进了墙角，对方制住**虎守卫**后立刻勒住他的喉咙，然后另一只手伸进他军绿色的**紧身裤**里握住了**虎守卫**的**肉棒**。
 >
@@ -60,4 +60,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)*
+*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)*

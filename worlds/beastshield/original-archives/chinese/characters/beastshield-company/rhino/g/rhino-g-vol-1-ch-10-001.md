@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 训练房守卫 |
 | **状态** | **已死亡**——被太刀钉在地上，绞腹而死 |
-| **首次登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md) |
-| **最后登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md) |
+| **首次登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
+| **最后登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-10：首次对决](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-10-first-encounter-boss.md)
+### [vol-1-ch-10：首次对决](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md)
 
 > 看着同事们一个个死去，最后两只**兽盾守卫**也失去了战意，其中一只**犀牛守卫**吓得一屁股坐在了地上，**尿液**从**裤裆**里流了出来。
 >

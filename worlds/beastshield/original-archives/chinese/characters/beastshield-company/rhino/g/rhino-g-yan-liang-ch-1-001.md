@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色短袖+短裤 |
 | **身份** | 新兵训练基地新兵 |
 | **状态** | **已死亡**——被炎一气之下扔给魉，在地上打滚呻吟射精，没几秒就安静下来 |
-| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
-| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md) |
+| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
+| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)
+### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)
 
 > 在他刚让**蓝虎**安息还没来得及处理**袜子编号**的时刻，一只粗壮的**犀牛守卫**便被扔了过来，又是刚弄射就直接扔了过来的。**魉**见状顿时怒火中烧，对**炎**吼道：“你别太过分啦！稍微人道一点会死吗！”
 >
@@ -51,4 +51,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-1-infiltration.md)*
+*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)*

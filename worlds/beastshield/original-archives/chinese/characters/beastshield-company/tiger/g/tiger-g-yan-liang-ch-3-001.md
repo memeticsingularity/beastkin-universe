@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色短袖+短裤 |
 | **身份** | 基地巡查守卫 |
 | **状态** | **已死亡**——发现情况不对跑进关押室报告，误以为穿黑制服的炎是同事，被反手掏裆运功揉搓不到20秒跪地射精毙命 |
-| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
-| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
+| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
+| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
+### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
 
 > 这时，一只**绿制服虎兽人**惊慌失措的跑了进来，看到**熊猫**出狱，立刻问还穿着**黑色制服**的**炎**道：“发生什么事了？”看样子**警铃**是他打响的。
 >
@@ -46,4 +46,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)*
+*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)*

@@ -12,8 +12,8 @@
 | **等级/制服** | E级武斗兵 · 黑色紧身制服 |
 | **身份** | 基地支援守卫 · 关押室外小队遭遇战（两名虎兽人中中背者） |
 | **状态** | **已死亡**——持电击棒攻击熊猫被闪避，背上被点一下，闷哼“喔！”后当即射精僵立，踉跄几步倒在中腰熊兽人的背上 |
-| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
-| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
+| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
+| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 四、登场原文
 
-### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
+### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
 
 > ——（**熊猫**出狱后不久，整个**基地**便**警铃**大响；一队**兽盾守卫**赶到关押室外，几个**黑制服守卫**不由多说便冲了上来，为首的黑制服**熊兽人**先被**熊猫**在胸口轻轻一点，当即捂裆射精倒地）——
 
@@ -68,5 +68,5 @@
 
 ---
 
-*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)*
+*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)*
 *创建日期：2026-09-17（自原合并档案 tiger-e-yan-liang-ch-3-002 拆出）*

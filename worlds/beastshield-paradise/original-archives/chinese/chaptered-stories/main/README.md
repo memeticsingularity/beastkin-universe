@@ -69,11 +69,11 @@
   The player Memetic Singularity awakens in a corner of a warehouse piled with corpses. Faced with the system's cold kill-tutorial prompt, he chooses another path—understanding, touching, and redemption. Starting with the brown bear guard "Xiong Zai," a journey to rewrite fate through gentleness begins.
 
 **已发布章节 / Released Chapters**:
-- [第一章：熊与门 / Chapter 1: Bear and Gate](./volume-1/ch-1.md)
-- [第二章 / Chapter 2](./volume-1/ch-2.md)
-- [第三章 / Chapter 3](./volume-1/ch-3.md)
-- [第四章 / Chapter 4](./volume-1/ch-4.md)
-- [第五章 / Chapter 5](./volume-1/ch-5.md)
+- [第一章：熊与门 / Chapter 1: Bear and Gate](volume-1/ch-001.md)
+- [第二章 / Chapter 2](volume-1/ch-002.md)
+- [第三章 / Chapter 3](volume-1/ch-003.md)
+- [第四章 / Chapter 4](volume-1/ch-004.md)
+- [第五章 / Chapter 5](volume-1/ch-005.md)
 
 ---
 

@@ -65,7 +65,7 @@
 ```markdown
 # 原作存档 / Original Archives
 
-> 返回上级：[世界观根](../README.md)
+> 返回上级：[世界观根](../../README.md)
 
 ## 一、简介
 ## 二、作品列表（编码 | 标题 | 标签 | 链接）
@@ -81,7 +81,7 @@
 ```markdown
 # 长篇分章故事 / Chaptered Stories
 
-> 返回上级：[档案根](../README.md)
+> 返回上级：[档案根](../../README.md)
 
 ## 一、形式说明
 ## 二、阅读地图（策展式导语，告诉读者从哪里开始看）
@@ -105,7 +105,7 @@
 ```markdown
 # 中文版 / Chinese Version
 
-> 返回上级：[档案根](../README.md)
+> 返回上级：[档案根](../../README.md)
 
 ## 一、语言版本说明
 ## 二、作品列表
@@ -120,7 +120,7 @@
 ```markdown
 # 设定库 / Settings Library
 
-> 返回上级：[世界观根](../README.md)
+> 返回上级：[世界观根](../../README.md)
 
 ## 一、目录结构
 ## 二、设定层级说明（0-original / 1-recommended / 2-variants）
@@ -328,7 +328,7 @@
 **渲染后**：
 
 ```markdown
-[上一章](ch-002-xxx.md) | [返回目录](../README.md) | [下一章](ch-004-xxx.md)
+[上一章](ch-002-xxx.md) | [返回目录](../../README.md) | [下一章](ch-004-xxx.md)
 ```
 
 禁止在源码中硬编码 `../../../../../../` 等绝对层级路径，因为不同世界观深度不同，硬编码路径会失效。

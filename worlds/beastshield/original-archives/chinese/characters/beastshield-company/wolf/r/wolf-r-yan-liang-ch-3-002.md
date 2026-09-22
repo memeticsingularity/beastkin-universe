@@ -12,8 +12,8 @@
 | **等级/制服** | R级枪械兵 · 白色紧身制服 |
 | **身份** | 基地支援守卫 · 关押室外小队遭遇战（两名白制服狼兽人中咽喉中弹者） |
 | **状态** | **已死亡**——掏枪射击熊猫，被熊猫临空接住**春药弹**反手投掷，击中咽喉，当场毙命 |
-| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
-| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
+| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
+| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 四、登场原文
 
-### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
+### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
 
 > ——（黑制服**熊兽人**与两只黑制服**虎兽人**先后被**熊猫**点穴射精倒地，队中只剩后列的枪械兵）——
 
@@ -67,5 +67,5 @@
 
 ---
 
-*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)*
+*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)*
 *创建日期：2026-09-17（自原合并档案 wolf-r-yan-liang-ch-3-001 拆出）*

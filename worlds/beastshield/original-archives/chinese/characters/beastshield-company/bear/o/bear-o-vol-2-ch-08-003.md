@@ -12,14 +12,14 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤 |
 | **身份** | 十一层熊族领地·熊组长手下守卫 |
 | **状态** | **已死亡**——被魔影推落炼药池，呛入春药而死 |
-| **首次登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-8-alchemy-room-battle.md) |
-| **最后登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-8-alchemy-room-battle.md) |
+| **首次登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) |
+| **最后登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-08：炼药房之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-8-alchemy-room-battle.md)
+### [vol-2-ch-08：炼药房之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)
 
 > 只见掉进池里的熊兽人四肢乱摆疯狂挣扎，试图从池子里游出去，但没游几下就开始在原地惊恐的乱踢乱踹，没过一会，便浑身一僵，一声闷哼从面具里传出，跟着抽搐几下后，肉壮的身体就沉了下去，没过几秒又仰面浮了上来，四肢大字型张开漂在原地，隐约能看到他的下体高高竖起，将紧身裤撑起一个蓝色的大包，大包偶尔抽搐一下，白色的浓精便从尖端流了出来。
 >

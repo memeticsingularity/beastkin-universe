@@ -12,8 +12,8 @@
 | **等级/制服** | E级 · 全身黑色紧身衣裤，黑长筒袜，黑手套，黑鞋 |
 | **身份** | 兽盾大楼虎卫组组长 |
 | **状态** | **已死亡**——被魔影制服后撸杀 |
-| **首次登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md) |
-| **最后登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md) |
+| **首次登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) |
+| **最后登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-04：虎卫组之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md)
+### [vol-2-ch-04：虎卫组之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md)
 
 > 与此同时，在十二层的某个办公室里，一个虎兽人正把穿着黑袜的粗壮双腿搭在办公桌上抽着雪茄闭目养神，他与其他守卫服装略有不同，穿着款式虽然一样，但是全身黑色，黑紧身衣裤黑长筒袜黑手套黑鞋子，搭配着格外粗壮的肌肉，彰显出他身份与其他守卫的不同。
 >

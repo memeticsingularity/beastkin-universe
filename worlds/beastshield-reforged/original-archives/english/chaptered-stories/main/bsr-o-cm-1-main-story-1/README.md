@@ -8,49 +8,49 @@
 
 ### 第一卷 / Volume 1
 
-1. **[第一章：血腥的开端](ch-1-a-bloody-beginning.md)**  
+1. **[第一章：血腥的开端](ch-001-a-bloody-beginning.md)**  
    *Chapter 1: A Bloody Beginning*
 
-2. **[第二章：纪律的铁拳](ch-2-the-iron-fist-of-discipline.md)**  
+2. **[第二章：纪律的铁拳](ch-002-the-iron-fist-of-discipline.md)**  
    *Chapter 2: The Iron Fist of Discipline*
 
-3. **[第三章：残酷的训练场](ch-3-brutal-training-ground.md)**  
+3. **[第三章：残酷的训练场](ch-003-brutal-training-ground.md)**  
    *Chapter 3: Brutal Training Ground*
 
-4. **[第四章：失控的欲望](ch-4-uncontrolled-desire.md)**  
+4. **[第四章：失控的欲望](ch-004-uncontrolled-desire.md)**  
    *Chapter 4: Uncontrolled Desire*
 
-5. **[第五章：猎矛诞生](ch-5-birth-of-the-hunting-spear.md)**  
+5. **[第五章：猎矛诞生](ch-005-birth-of-the-hunting-spear.md)**  
    *Chapter 5: Birth of the Hunting Spear*
 
-6. **[第六章：暗室的反击](ch-6-the-darkrooms-revenge.md)**  
+6. **[第六章：暗室的反击](ch-006-the-darkrooms-revenge.md)**  
    *Chapter 6: The Darkroom's Revenge*
 
-7. **[第七章：杀手的突袭](ch-7-assassins-gambit.md)**  
+7. **[第七章：杀手的突袭](ch-007-assassins-gambit.md)**  
    *Chapter 7: Assassin's Gambit*
 
-8. **[第八章：无差别屠戮](ch-8-indiscriminate-slaughter.md)**  
+8. **[第八章：无差别屠戮](ch-008-indiscriminate-slaughter.md)**  
    *Chapter 8: Indiscriminate Slaughter*
 
-9. **[第九章：兽神的秘密](ch-9-secret-of-the-beast-god.md)**  
+9. **[第九章：兽神的秘密](ch-009-secret-of-the-beast-god.md)**  
    *Chapter 9: Secret of the Beast God*
 
-10. **[第一十章：意外的羁绊](ch-10-an-unexpected-bond.md)**  
+10. **[第一十章：意外的羁绊](ch-010-an-unexpected-bond.md)**  
     *Chapter 10: An Unexpected Bond*
 
-11. **[第一十一章：扭曲的交友](ch-11-a-perverse-friendship.md)**  
+11. **[第一十一章：扭曲的交友](ch-011-a-perverse-friendship.md)**  
     *Chapter 11: A Perverse Friendship*
 
-12. **[第一十二章：夜袭](ch-12-night-raid.md)**  
+12. **[第一十二章：夜袭](ch-012-night-raid.md)**  
     *Chapter 12: Night Raid*
 
-13. **[第一十三章：荒脊平原](ch-13-the-barren-spine-plains.md)**  
+13. **[第一十三章：荒脊平原](ch-013-the-barren-spine-plains.md)**  
     *Chapter 13: The Barren Spine Plains*
 
-14. **[第一十四章：嗜精兽的盛宴](ch-14-the-sperm-devourers-feast.md)**  
+14. **[第一十四章：嗜精兽的盛宴](ch-014-the-sperm-devourers-feast.md)**  
     *Chapter 14: The Sperm Devourer's Feast*
 
-15. **[第一十五章：绿洲镇相遇](ch-15-encounter-at-oasis-town.md)**  
+15. **[第一十五章：绿洲镇相遇](ch-015-encounter-at-oasis-town.md)**  
     *Chapter 15: Encounter at Oasis Town*
 
 ---

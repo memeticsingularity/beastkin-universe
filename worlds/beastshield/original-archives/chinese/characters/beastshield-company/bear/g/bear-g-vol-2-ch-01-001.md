@@ -12,8 +12,8 @@
 | **等级/制服** | G级 · 军绿短袖短裤，白色长筒袜，运动鞋 |
 | **身份** | 兽盾大楼守卫（换岗） |
 | **状态** | **已死亡**——供出情报后仍被魔影处决 |
-| **首次登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-1-locker-room-hunt.md) |
-| **最后登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-1-locker-room-hunt.md) |
+| **首次登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md) |
+| **最后登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-01：更衣室狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-1-locker-room-hunt.md)
+### [vol-2-ch-01：更衣室狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)
 
 > 第二个进来的是一只熊兽人，四肢和其他兽人一样粗壮，但是肚子却很圆滚，进来后放下武器揉了揉酸痛的小腿，样子十分憨态可掬。和狗兽人一样他对魔影毫无察觉，立马就被魔影捂住嘴巴制服拖到了角落。还没反应过来的熊兽人看到狗兽人的尸体后就立马就清楚了自己的立场，无奈下体已被治住，只能眼巴巴步狗兽人的后尘。
 >

@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服 |
 | **身份** | 兽盾组织搜查队员，随薛鼎部长前往五竹峰 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md) |
-| **最后登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md) |
+| **首次登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md) |
+| **最后登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md) |
 
 ---
 
 ## 二、登场原文
 
-### [神兵机密](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md)
+### [神兵机密](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md)
 
 > 其中有一只倒霉的虎兽人，他被老雷按在树干上插射，可能由于老雷用力过猛，尸体下半身瘫在地面，而上半身胸肌与下巴则紧贴着树干，身体几乎被折成了90度，估计是被折断了腰干，该虎兽人口里吐着白沫，死不瞑目，满脸充满了绝望与无助，死状惨不忍睹。
 

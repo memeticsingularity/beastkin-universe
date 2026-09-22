@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色制服 |
 | **身份** | 玉米地地毯式搜捕的兽盾杂兵 |
 | **状态** | **已死亡**——被老雷从玉米地伸手拽入，抽出肉棒揉搓，暗劲折磨五秒后眼睁睁看着存了半辈子的精液喷洒在制服上而亡；尸体像扔垃圾般推倒在泥地，偶尔抽搐 |
-| **首次登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md) |
-| **最后登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md) |
+| **首次登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
+| **最后登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch3-1：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)
+### [s-3-ch3-1：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
 
 > ——（老雷清掉车祸现场的兽盾兵后，颜部长带部下继续追击；几十名兽盾兵对城镇边沿的农作区展开地毯式搜查）——
 >
@@ -64,5 +64,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)*
+*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)*
 *创建日期：2026-09-01*

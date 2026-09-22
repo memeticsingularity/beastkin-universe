@@ -73,8 +73,8 @@ Bear beastkin "Dakuai" (E-419) is stranded. He encounters a bounty hunter attack
 
 ## Chapter List / 章节列表
 
-- [Chapter 1: The Cumbersome Treasure / 第一章：笨重的珍宝](ch-1-1.md)
-- [Chapter 2: Flower Pot and Heartbeat / 第二章：花盆与心跳](ch-1-2.md)
+- [Chapter 1: The Cumbersome Treasure / 第一章：笨重的珍宝](ch-001-1.md)
+- [Chapter 2: Flower Pot and Heartbeat / 第二章：花盆与心跳](ch-001-2.md)
 
 ---
 

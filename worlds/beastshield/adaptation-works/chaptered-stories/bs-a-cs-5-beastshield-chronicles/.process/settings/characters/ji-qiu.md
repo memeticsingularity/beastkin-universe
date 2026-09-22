@@ -110,5 +110,5 @@
 
 **相关文件**：
 
-- [第一章：白兔暗影](../../../chapters/chinese/ch-01-the-rabbits-shadow.md)
+- [第一章：白兔暗影](../../../chapters/chinese/ch-001-the-rabbits-shadow.md)
 - [第七章创作对话：逃离与相遇](../../author-chat/chapters/2026-01-11-ch-7-3.md)

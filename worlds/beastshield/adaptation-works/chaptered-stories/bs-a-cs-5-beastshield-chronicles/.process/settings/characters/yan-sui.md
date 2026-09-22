@@ -105,6 +105,6 @@
 
 **相关文件**：
 
-- [第一章：白兔暗影](../../../chapters/chinese/ch-01-the-rabbits-shadow.md)
+- [第一章：白兔暗影](../../../chapters/chinese/ch-001-the-rabbits-shadow.md)
 - [岩岁角色讨论（Part 1）](../../author-chat/characters/yan-sui/2025-12-27-yan-sui-1-1.md)
 - [岩岁角色讨论（Part 2）](../../author-chat/characters/yan-sui/2025-12-30-yan-sui-2-1.md)

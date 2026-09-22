@@ -12,8 +12,8 @@
 | **等级/制服** | G级 · 军绿短袖短裤，白色长筒袜 |
 | **身份** | 兽盾大楼二楼守卫 |
 | **状态** | **已死亡**——被魔影在厕所隔间内吮吸处决 |
-| **首次登场** | [vol-2-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-2-corridor-patrol.md) |
-| **最后登场** | [vol-2-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-2-corridor-patrol.md) |
+| **首次登场** | [vol-2-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md) |
+| **最后登场** | [vol-2-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md) |
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-02：走廊巡逻](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-2-corridor-patrol.md)
+### [vol-2-ch-02：走廊巡逻](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md)
 
 > 之后魔影边走边藏的来到了洗手间，厕所里只有一个坑位厕门是反锁的，于是他试探性的敲了敲门。
 >

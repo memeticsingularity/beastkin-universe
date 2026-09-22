@@ -24,10 +24,10 @@ This is a story about coming back from the dead, about escape and survival, abou
 
 | Chapter | Title | Synopsis |
 |----|------------------------------------------|--------------------------------------------|
-| 1 | [Breathing in the Trash Can](chapters/ch-01-resurrection-expanded.md) | Leizhao awakens from his feigned-death state and faces his situation (expanded version, approx. 6,000 words) |
-| 2 | [Ahuang's Twilight](chapters/ch-02-ahuang-expanded.md) | Leizhao discovers the body of his batchmate Ahuang and bids him a final farewell (expanded version, approx. 6,000 words) |
-| 3 | [Meeting in the Corpse Pile](chapters/ch-03-the-meeting.md) | Leizhao hides in a garbage truck and reaches the corpse dumping ground, where he meets Niu Pan, a senior officer who also feigned death (expanded version, approx. 10,000 words) |
-| 4 | [The First Night in the Corpse Pile](chapters/ch-04-the-first-night.md) | The two spend their first night in the corpse pile, warming each other, establishing a father-son-like emotional bond, and preparing to escape (approx. 15,000 words) |
+| 1 | [Breathing in the Trash Can](chapters/ch-001-resurrection-expanded.md) | Leizhao awakens from his feigned-death state and faces his situation (expanded version, approx. 6,000 words) |
+| 2 | [Ahuang's Twilight](chapters/ch-002-ahuang-expanded.md) | Leizhao discovers the body of his batchmate Ahuang and bids him a final farewell (expanded version, approx. 6,000 words) |
+| 3 | [Meeting in the Corpse Pile](chapters/ch-003-the-meeting.md) | Leizhao hides in a garbage truck and reaches the corpse dumping ground, where he meets Niu Pan, a senior officer who also feigned death (expanded version, approx. 10,000 words) |
+| 4 | [The First Night in the Corpse Pile](chapters/ch-004-the-first-night.md) | The two spend their first night in the corpse pile, warming each other, establishing a father-son-like emotional bond, and preparing to escape (approx. 15,000 words) |
 
 ---
 

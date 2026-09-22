@@ -13,8 +13,8 @@
 | **编号** | 无（正文未给出姓名或编号） |
 | **身份** | 兽盾训练基地援兵 · 涌下**楼梯**的守卫队列中最前列的一只 |
 | **状态** | **已死亡**——挥**电击棒**被**熊猫**侧身避过并点中背部，一边射精一边滚下**楼梯**，到**楼梯口**时背靠在**牛兽人**身上抽搐着射完最后一股精液 |
-| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
-| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
+| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
+| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 四、登场原文
 
-### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
+### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
 
 > ——（**熊猫**与**炎魉**来到**电梯口**，**熊猫**抱怨满**电梯**的尸体后走上**楼梯**；此时兽盾援兵正好赶到，好几队守卫从**楼梯**上涌下来，但**楼道**十分狭窄，一次最多只容得下两只**兽人**并行，只能排着长长的队列拥挤着下楼。**熊猫**也不畏惧，直接迎了上去）——
 
@@ -51,7 +51,7 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **电击棒**挥击 | 与**牛兽人**并排时立刻取出**电击棒**挥向**熊猫**，但被**熊猫**侧身避过，随即被点中背部 | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md) |
+| **电击棒**挥击 | 与**牛兽人**并排时立刻取出**电击棒**挥向**熊猫**，但被**熊猫**侧身避过，随即被点中背部 | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
 
 > 正文未说明其**电击棒**是否击中目标，也未描写其袜底编号。
 
@@ -71,5 +71,5 @@
 
 ---
 
-*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-3-deep-confrontation.md)
+*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
 *创建日期：2026-09-17*

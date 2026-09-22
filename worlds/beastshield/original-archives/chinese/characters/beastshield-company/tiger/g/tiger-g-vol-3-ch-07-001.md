@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色紧身制服+白袜+运动鞋 |
 | **身份** | 兽盾组织搜查队员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) |
-| **最后登场** | [vol-3-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md) |
+| **首次登场** | [vol-3-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
+| **最后登场** | [vol-3-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
 
 ---
 
 ## 四、登场原文
 
-### [警局入侵](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-7-police-station-invasion.md)
+### [警局入侵](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md)
 
 > 白之都富力小区3栋605室，房门被一只绿制服虎兽人踢开。
 

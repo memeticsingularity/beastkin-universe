@@ -73,8 +73,8 @@ At three in the morning, the back alleys of White Capital reek of rotting garbag
 
 ## 章节列表 / Chapter List
 
-- [第一章：落单与伏击 / Chapter 1: Isolation and Ambush](ch-1-1.md)
-- [第二章：故事深化讨论 / Chapter 2: Story Development Discussion](ch-1-2.md)
+- [第一章：落单与伏击 / Chapter 1: Isolation and Ambush](ch-001-1.md)
+- [第二章：故事深化讨论 / Chapter 2: Story Development Discussion](ch-001-2.md)
 
 ---
 

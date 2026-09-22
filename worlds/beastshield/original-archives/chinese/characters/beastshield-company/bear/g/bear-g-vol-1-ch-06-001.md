@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾杂兵，虎队长行动中的同伴 |
 | **状态** | **已死亡**——被主角拉来挡枪，身中数十枪而死 |
-| **首次登场** | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
-| **最后登场** | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md) |
+| **首次登场** | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) |
+| **最后登场** | [vol-1-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-06：闯入敌营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-6-break-into-enemy-camp.md)
+### [vol-1-ch-06：闯入敌营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md)
 
 > “听说我们要去利达酒店，掳走一名正在被警察保护的证人。”坐在旁边车座上的一只**灰熊兽人**耐心地解释道。
 >

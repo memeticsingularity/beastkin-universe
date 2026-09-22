@@ -12,8 +12,8 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤，白色长筒袜 |
 | **身份** | 兽盾大楼顶楼守卫 |
 | **状态** | **已死亡**——被老大下令做成寿司食材，被厨师撸射而死 |
-| **首次登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-5-kitchen-and-lunch.md) |
-| **最后登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-5-kitchen-and-lunch.md) |
+| **首次登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md) |
+| **最后登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-05：厨房与致命午餐](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-5-kitchen-and-lunch.md)
+### [vol-2-ch-05：厨房与致命午餐](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)
 
 > “报告老大，我。。我刚刚去取您的午餐时，发现您的午餐已经被人偷走，而且还在一旁发现了熊厨师长的尸体。”最后一个守卫说道。
 >

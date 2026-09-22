@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾杂兵，放风 |
 | **状态** | **已死亡**——被主角用钢丝勒颈处决 |
-| **首次登场** | [vol-1-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-4-store-shopping.md) |
-| **最后登场** | [vol-1-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-4-store-shopping.md) |
+| **首次登场** | [vol-1-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-004-store-shopping.md) |
+| **最后登场** | [vol-1-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-004-store-shopping.md) |
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-04：商店购物](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-4-store-shopping.md)
+### [vol-1-ch-04：商店购物](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-004-store-shopping.md)
 
 > “老弟，你去门外守着，别让**闲杂人**进来。”踹门的那只**獠牙突出**的**野猪兽人**对另外一只**光着膀子**的说道。
 >

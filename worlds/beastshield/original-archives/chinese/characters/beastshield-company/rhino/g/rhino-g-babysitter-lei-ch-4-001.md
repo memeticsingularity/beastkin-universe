@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 绿制服（军绿色短裤）+黑袜 |
 | **身份** | 随颜部长合围浪青平的兽盾杂兵，被颜部长推上前试探 |
 | **状态** | **已死亡**——被浪青平唐刀毫无阻碍地捅穿，勃起肉棍吐精、精液全吐进军绿色裤裆，软倒后其背后闪光弹被引爆 |
-| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md) |
-| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md) |
+| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
+| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md)
+### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)
 
 > ——（颜部长向浪青平搭话、使眼色令两名黑制服虎武斗兵突袭，反被浪青平两声轻响双杀；颜部长赞“不愧是暗室三座浪青平……”，浪青平答“哼，看来你们情报搜集得不错嘛。”——）——
 >
@@ -94,5 +94,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md)*
+*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)*
 *创建日期：2026-09-16*

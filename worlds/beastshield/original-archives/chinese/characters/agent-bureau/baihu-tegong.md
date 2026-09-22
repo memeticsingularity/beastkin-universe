@@ -13,8 +13,8 @@
 | **等级/制服** | 无制服等级（特工局编制）；**该个体的制服与袜色正文未指明** |
 | **身份** | 特工局特工 · 浮岛决战的参战成员 |
 | **状态** | **存活**（本章内）——被老雷救下后奉命转去对付绿制服杂兵，此后正文未再交代其结局 |
-| **首次登场** | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md) |
-| **最后登场** | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md) |
+| **首次登场** | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md) |
+| **最后登场** | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md) |
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 四、登场原文
 
-### [Chapter 16 血王复活](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md)
+### [Chapter 16 血王复活](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)
 
 > “呃……嗯……”特工局的一只白虎兽人被一只蓝制服灰熊踩住裆部，卵蛋即将被踩爆之际，一只红色带着虎纹的手臂突然出现，掐住了灰熊的脖子，将他三百多斤的身体单手举了起来！
 
@@ -61,5 +61,5 @@
 
 ---
 
-*档案来源：主线第三卷《白之都》[第16章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-16-blood-king-resurrection.md)*
+*档案来源：主线第三卷《白之都》[第16章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)*
 *创建日期：2026-09-17*

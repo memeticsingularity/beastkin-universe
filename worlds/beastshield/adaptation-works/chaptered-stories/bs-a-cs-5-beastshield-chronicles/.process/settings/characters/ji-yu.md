@@ -104,5 +104,5 @@
 
 **相关文件**：
 
-- [第一章：白兔暗影](../../../chapters/chinese/ch-01-the-rabbits-shadow.md)
+- [第一章：白兔暗影](../../../chapters/chinese/ch-001-the-rabbits-shadow.md)
 - [第十章创作对话：季语背景](../../author-chat/chapters/2026-04-05-ch-10-3.md)

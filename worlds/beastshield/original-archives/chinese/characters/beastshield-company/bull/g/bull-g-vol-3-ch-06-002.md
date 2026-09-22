@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服 |
 | **身份** | 兽盾组织搜查队员，随薛鼎部长前往五竹峰 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md) |
-| **最后登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md) |
+| **首次登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md) |
+| **最后登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md) |
 
 ---
 
 ## 二、登场原文
 
-### [神兵机密](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-6-divine-weapons-secret.md)
+### [神兵机密](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md)
 
 > 由于有足够的泄火兽人供应，老雷毫无顾忌大胆尝试，第二次足足硬撑到了二十分钟，在憋到极限的瞬间，立刻扑向身边一只大红牛兽人，迅速撕开他的衣裤，将其扑倒在地，饥渴的将滚烫肉棒插入对方后穴，双臂勾抱住对方脖子，胸口紧贴在红牛的背上，急不可耐的开始抽插。
 

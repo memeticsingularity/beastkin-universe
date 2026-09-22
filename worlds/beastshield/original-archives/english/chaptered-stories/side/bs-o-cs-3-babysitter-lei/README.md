@@ -26,10 +26,10 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 
 > 目前仅中文版 / Currently available in Chinese only.
 
-- [Chapter 1: Villa Night Raid / 第一章: 别墅夜袭](../../../../chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-1-villa-night-raid.md)
-- [Chapter 2: Intelligence Department / 第二章: 情报部门](../../../../chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)
-- [Chapter 3: Minister Yan's Reckoning / 第三章: 颜部长的清算](../../../../chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-3-minister-yan-reckoning.md)
-- [Chapter 4: Qingping of the Dark Chamber / 第四章: 暗室三座浪青平](../../../../chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md)
+- [Chapter 1: Villa Night Raid / 第一章: 别墅夜袭](../../../../chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)
+- [Chapter 2: Intelligence Department / 第二章: 情报部门](../../../../chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)
+- [Chapter 3: Minister Yan's Reckoning / 第三章: 颜部长的清算](../../../../chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
+- [Chapter 4: Qingping of the Dark Chamber / 第四章: 暗室三座浪青平](../../../../chinese/chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)
 
 ---
 

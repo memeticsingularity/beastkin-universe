@@ -12,14 +12,14 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤 |
 | **身份** | 兽盾大楼虎卫组成员 |
 | **状态** | **已死亡**——被魔影血毒飞刀刺中手臂 |
-| **首次登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md) |
-| **最后登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md) |
+| **首次登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) |
+| **最后登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-04：虎卫组之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-4-tiger-guard-battle.md)
+### [vol-2-ch-04：虎卫组之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md)
 
 > “老黄把这只垃圾处理一下，其他人跟我下去清理巢穴，别让上面的人小瞧了我们虎卫组。”组长说完，一只黄虎兽人把狼兽人的尸体拖了出去，其他几只虎兽人则跟着组长出了门。
 >

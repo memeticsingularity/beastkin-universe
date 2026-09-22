@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾后街巡逻杂兵 |
 | **状态** | **已死亡**——被主角在后街撸杀，死后用作换装素材 |
-| **首次登场** | [vol-1-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-5-first-costume-change.md) |
-| **最后登场** | [vol-1-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-5-first-costume-change.md) |
+| **首次登场** | [vol-1-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-005-first-costume-change.md) |
+| **最后登场** | [vol-1-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-005-first-costume-change.md) |
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-05：首次换装](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-5-first-costume-change.md)
+### [vol-1-ch-05：首次换装](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-005-first-costume-change.md)
 
 > “啊。。啊。。。哈啊～”，随着手里的粗硬红肿**肉棒**开始**喷精**，怀里的白虎**兽盾杂兵**发出一阵与他硬汉外貌严重不搭的娇喘声，没射几股就瘫软了下来，但为了防止他像一些天赋异禀的**兽人**那样拥有**诈死技能**，我抓住他**肉棒**根部，用力一撸，把他所有的**余精**都挤了出来，在白虎最后尸挺了一下后，他便彻底死透，没有了呼吸。
 >

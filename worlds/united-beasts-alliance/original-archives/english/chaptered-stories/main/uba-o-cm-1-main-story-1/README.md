@@ -36,7 +36,7 @@ Feng** and passes the trial through bloodshed, his path of transformation is fil
 
 ### Volume 1
 
-1. **[Chapter 01: Everyday Life and Farewell](ch-1-everyday-life-and-farewell.md)**
+1. **[Chapter 01: Everyday Life and Farewell](ch-001-everyday-life-and-farewell.md)**
     - **Tags**: `Everyday Life` `Family` `Farewell` `Warmth` `Foreshadowing`
     - **Rating**: R15 (Mild scenes, no direct violence)
     - **Synopsis**:
@@ -45,7 +45,7 @@ Feng** and passes the trial through bloodshed, his path of transformation is fil
       share a deep bond. On the eve of **Oak**'s departure for an escort mission to **Wolf Wind
       Valley**, warmth and routine conceal the seeds of fate.
 
-2. **[Chapter 02: The Devouring of Innocence](ch-2-the-devouring-of-innocence.md)**
+2. **[Chapter 02: The Devouring of Innocence](ch-002-the-devouring-of-innocence.md)**
     - **Tags**: `Tragic News` `Breakdown` `Transformation` `Bloody Ritual` `Awakening of Vengeance`
     - **Rating**: R18 (Psychological impact, graphic scenes, self-harm, depiction of consuming raw
       flesh)
@@ -55,7 +55,7 @@ Feng** and passes the trial through bloodshed, his path of transformation is fil
       despair, **Xin** performs a bloody ritual by consuming his pet rabbit raw, forcibly "
       devouring" his former self and igniting the flame of revenge.
 
-3. **[Chapter 03: Trial by Blood](ch-3-trial-by-blood.md)**
+3. **[Chapter 03: Trial by Blood](ch-003-trial-by-blood.md)**
     - **Tags**: `Three Years Later` `Recruitment` `Challenge` `Tactical Combat` `Brutal Victory`
       `Elite Alliance Guard`
     - **Rating**: R18 (Combat injuries, joint dislocation, biting that draws blood, adult themes)

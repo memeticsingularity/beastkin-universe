@@ -12,8 +12,8 @@
 | **等级/制服** | E级武斗兵 · 黑色紧身制服 |
 | **身份** | 体训室对战训练的武斗兵 |
 | **状态** | **已死亡**——被老雷以灌入灼流暗劲的匕首连捅三刀，射精后瘫软在老雷怀里，被拽头砸地而死 |
-| **首次登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
-| **最后登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md) |
+| **首次登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
+| **最后登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch2-1：情报部门（第二章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)
+### [s-3-ch2-1：情报部门（第二章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)
 
 > “愣着干嘛，没看到我们少一个人吗？”另一名白熊武斗兵嚷嚷道。
 >
@@ -77,6 +77,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-2-intelligence-sweep.md)*
+*档案来源：老雷突袭情报局 [第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

@@ -12,8 +12,8 @@
 | **等级/制服** | 无——非兽盾公司编制（**柔道服**） |
 | **身份** | 龙拳馆弟子，熊馆长最得意的徒儿 |
 | **状态** | **已死亡**——第三卷·第2章在武馆门口被兽盾袭击者撸射处决，尸体被投入河中 |
-| **首次登场** | [第三卷·第2章 武馆灭门](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md) |
-| **最后登场** | [第三卷·第2章 武馆灭门](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md) |
+| **首次登场** | [第三卷·第2章 武馆灭门](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-002-dojo-massacre.md) |
+| **最后登场** | [第三卷·第2章 武馆灭门](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-002-dojo-massacre.md) |
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 四、登场原文
 
-### [Chapter 2 武馆灭门](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md)
+### [Chapter 2 武馆灭门](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-002-dojo-massacre.md)
 
 本章该角色为全文第一名死者，其段落集中在本章开头（L13–L27）。
 
@@ -74,7 +74,7 @@
 
 ## 七、结局
 
-第三卷·第2章练完功向师父道别后走出武馆，被一名绿影从身后捂住嘴；他本能过肩摔将对方摔倒，但另一名蓝影瞬间掐住他的喉咙将他摁在地上，解其腰带、脱其柔道服，含乳头、握肉棒撸动。两分钟后他便喷射精液，被袭击者将精液舔食干净后**断气**（[`ch-2`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-2-dojo-massacre.md) L23–L25）。尸体被抬走投入旁边的小河，与其他十几具同样穿柔道服的兽人尸体一起漂向下游。
+第三卷·第2章练完功向师父道别后走出武馆，被一名绿影从身后捂住嘴；他本能过肩摔将对方摔倒，但另一名蓝影瞬间掐住他的喉咙将他摁在地上，解其腰带、脱其柔道服，含乳头、握肉棒撸动。两分钟后他便喷射精液，被袭击者将精液舔食干净后**断气**（[`ch-2`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-002-dojo-massacre.md) L23–L25）。尸体被抬走投入旁边的小河，与其他十几具同样穿柔道服的兽人尸体一起漂向下游。
 
 ---
 

@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色制服 · 白袜 |
 | **身份** | 民房二楼围堵老雷的野猪杂兵（两名中四肢摊开者） |
 | **状态** | **已死亡**——在围堵开始前就被老雷先手干掉，四肢摊开没了动静 |
-| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md) |
-| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md) |
+| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
+| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 四、登场原文
 
-### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md)
+### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)
 
 > ——（老雷被围堵在民房二楼，脚下已有两只野猪杂兵倒毙）——
 
@@ -66,6 +66,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-4-dark-chamber-qingping.md)*
+*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)*
 *创建日期：2026-09-01*
 *拆分说明：2026-09-17 由原合并档案 boar-g-babysitter-lei-ch-4-001（收录两只）拆为 -001 / -002*

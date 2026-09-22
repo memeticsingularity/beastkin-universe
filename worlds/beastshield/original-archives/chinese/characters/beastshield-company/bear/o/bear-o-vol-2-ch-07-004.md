@@ -12,8 +12,8 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤，白袜（泛黄） |
 | **身份** | 十一层熊族领地员工宿舍·换班休息守卫 |
 | **状态** | **已死亡**——睡梦中被魔影撸射而死 |
-| **首次登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-7-bear-territory-infiltration.md) |
-| **最后登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-7-bear-territory-infiltration.md) |
+| **首次登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md) |
+| **最后登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-07：熊族领地渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-7-bear-territory-infiltration.md)
+### [vol-2-ch-07：熊族领地渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md)
 
 > 这张床上的熊兽人睡觉姿势十分夸张，长满络腮胡的嘴大张着打着呼噜，四肢胡乱摊开，被子被踢到差点掉下床，一只还穿着白袜的粗腿甚至伸出了床板悬挂在床边，白袜低有些许泛黄，靠近还能闻到些许脚汗的酸臭味，看来是工作了一天的疲惫可怜虫。
 >

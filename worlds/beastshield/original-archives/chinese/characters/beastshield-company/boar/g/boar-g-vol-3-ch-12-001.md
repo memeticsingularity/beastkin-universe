@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织车夫，运输儡部长的黑棺 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md) |
-| **最后登场** | [vol-3-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md) |
+| **首次登场** | [vol-3-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md) |
+| **最后登场** | [vol-3-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md) |
 
 ---
 
 ## 四、登场原文
 
-### [沙漠伏击](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-12-desert-ambush.md)
+### [沙漠伏击](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md)
 
 > “嘘，小声点，要是被儡部长听到，小心也把你做成……”话音未落，只听“咻”地一声，话音戛然而止，一只铁箭从拉第一口棺的野猪兽人左侧太阳穴射入，箭头带着脑花从右侧穿出，野猪兽人哼都没哼一声，歪着头靠在了驾车座上瞬间死去，双目翻白，两条白袜粗腿仍旧不时地踢踹一下，似乎不相信自己的主人就这么毫无征兆的死去，绿色紧身裤慢慢鼓起一个大包，紧接着一股浓白的精液从大包的尖端渗透喷出，一股接一股，将紧身裤打湿渗透，然后流了出来。
 

@@ -20,31 +20,31 @@
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 一同着的生活 | [阅读](ch-1-life-together.md) |
-| Ch.2 | 雷克斯的体验 | [阅读](ch-2-rexs-experience.md) |
-| Ch.3 | 阿铁的心事 | [阅读](ch-3-aties-mood.md) |
-| Ch.4 | 雷克斯的往事 | [阅读](ch-4-rexs-past.md) |
-| Ch.5 | 魅欲藤 | [阅读](ch-5-charm-vine.md) |
-| Ch.6 | 棕熊访客 | [阅读](ch-6-brown-bear-visitor.md) |
-| Ch.7 | 魅欲藤余波 | [阅读](ch-7-aftermath.md) |
-| Ch.8 | 大木归来 | [阅读](ch-8-reunion.md) |
-| Ch.9 | 离别与警告 | [阅读](ch-9-farewell-and-warning.md) |
-| Ch.10 | 备战 | [阅读](ch-10-preparation.md) |
-| Ch.11 | 影牙夜袭 | [阅读](ch-11-shadow-fang-night-raid.md) |
-| Ch.12 | 雪豹刺客 | [阅读](ch-12-snow-leopard-assassin.md) |
-| Ch.13 | 等待 | [阅读](ch-13-waiting-under-the-moon.md) |
-| Ch.14 | 变色龙 | [阅读](ch-14-the-chameleon.md) |
-| Ch.15 | 兄弟 | [阅读](ch-15-brothers-reckoning.md) |
-| Ch.16 | 真相的代价 | [阅读](ch-16-the-price-of-truth.md) |
-| Ch.17 | 老夯的泪水 | [阅读](ch-17-lao-hans-tears.md) |
-| Ch.18 | 爷爷的笔记 | [阅读](ch-18-grandpas-notes.md) |
-| Ch.19 | 老周的抉择 | [阅读](ch-19-zhous-choice.md) |
-| Ch.20 | 血精石 | [阅读](ch-20-the-blood-essence-stone.md) |
-| Ch.21 | 失控 | [阅读](ch-21-out-of-control.md) |
-| Ch.22 | 散场 | [阅读](ch-22-collapse.md) |
-| Ch.23 | 小谷的信 | [阅读](ch-23-farewell-letter.md) |
-| Ch.24 | 谷之家 | [阅读](ch-24-gus-home.md) |
-| Ch.25 | 番外篇：掰手腕与合照 | [阅读](ch-25-bonus-arm-wrestling.md) |
+| Ch.1 | 一同着的生活 | [阅读](ch-001-life-together.md) |
+| Ch.2 | 雷克斯的体验 | [阅读](ch-002-rexs-experience.md) |
+| Ch.3 | 阿铁的心事 | [阅读](ch-003-aties-mood.md) |
+| Ch.4 | 雷克斯的往事 | [阅读](ch-004-rexs-past.md) |
+| Ch.5 | 魅欲藤 | [阅读](ch-005-charm-vine.md) |
+| Ch.6 | 棕熊访客 | [阅读](ch-006-brown-bear-visitor.md) |
+| Ch.7 | 魅欲藤余波 | [阅读](ch-007-aftermath.md) |
+| Ch.8 | 大木归来 | [阅读](ch-008-reunion.md) |
+| Ch.9 | 离别与警告 | [阅读](ch-009-farewell-and-warning.md) |
+| Ch.10 | 备战 | [阅读](ch-010-preparation.md) |
+| Ch.11 | 影牙夜袭 | [阅读](ch-011-shadow-fang-night-raid.md) |
+| Ch.12 | 雪豹刺客 | [阅读](ch-012-snow-leopard-assassin.md) |
+| Ch.13 | 等待 | [阅读](ch-013-waiting-under-the-moon.md) |
+| Ch.14 | 变色龙 | [阅读](ch-014-the-chameleon.md) |
+| Ch.15 | 兄弟 | [阅读](ch-015-brothers-reckoning.md) |
+| Ch.16 | 真相的代价 | [阅读](ch-016-the-price-of-truth.md) |
+| Ch.17 | 老夯的泪水 | [阅读](ch-017-lao-hans-tears.md) |
+| Ch.18 | 爷爷的笔记 | [阅读](ch-018-grandpas-notes.md) |
+| Ch.19 | 老周的抉择 | [阅读](ch-019-zhous-choice.md) |
+| Ch.20 | 血精石 | [阅读](ch-020-the-blood-essence-stone.md) |
+| Ch.21 | 失控 | [阅读](ch-021-out-of-control.md) |
+| Ch.22 | 散场 | [阅读](ch-022-collapse.md) |
+| Ch.23 | 小谷的信 | [阅读](ch-023-farewell-letter.md) |
+| Ch.24 | 谷之家 | [阅读](ch-024-gus-home.md) |
+| Ch.25 | 番外篇：掰手腕与合照 | [阅读](ch-025-bonus-arm-wrestling.md) |
 
 ---
 

@@ -14,8 +14,8 @@
 | **别名** | 黑狗（身体特征）、墨犬（故事标题名） |
 | **隶属** | 未知（疑似与武林/功夫传承有关） |
 | **状态** | **存活**——下山后去向不明 |
-| **首次登场** | 第一章·山顶洞穴（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)） |
-| **最后登场** | 第二章·山间（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)） |
+| **首次登场** | 第一章·山顶洞穴（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)） |
+| **最后登场** | 第二章·山间（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)） |
 
 ---
 
@@ -23,7 +23,7 @@
 
 | 章节 | 文件 | 章节 | 文件 |
 |:----:|:-----|:----:|:-----|
-| Ch.1 | [`洞穴醒来`](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md) | Ch.2 | [`山间遭遇`](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) |
+| Ch.1 | [`洞穴醒来`](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md) | Ch.2 | [`山间遭遇`](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) |
 
 ---
 
@@ -33,11 +33,11 @@
 
 - **黑色犬科兽人**——全身黑毛的狗兽人，具体品种未明确
 - **身形**：正文未详细描写其体型，但从他能轻松制伏比自己粗壮多的虎/熊兽人来看，动作敏捷灵活
-- **手部特征**：“一双黑手伸出”（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）——黑色毛皮的手掌
+- **手部特征**：“一双黑手伸出”（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）——黑色毛皮的手掌
 
 ### 3.2 标志性特征
 
-- **失忆者**：身上未携带身份证明，对自己的过去一无所知（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
+- **失忆者**：身上未携带身份证明，对自己的过去一无所知（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
 - **随身物品**：从洞穴带出若干钞票、手电筒和对讲机，以及从尸体上搜出的不明用途卡片
 
 ---
@@ -46,11 +46,11 @@
 
 ### 4.1 核心性格
 
-- **本性善良**：即使在生命受到威胁时也不愿滥杀——帮熊兽人合上双眼（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)），对虎兽人手下留情（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
-- **壮兽爱好者**：对粗壮的兽人守卫有着本能的好感——“哇，身材好壮，好喜欢！”（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)），被熊兽人的粗腿夹住时“内心莫名感觉有些幸福”（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
-- **机智狡猾**：在失忆状态下能迅速评估形势，伪装乖巧套取信息——“哥哥，你是来救我的吗？”（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
-- **口是心非**：明明想摸还想玩，偏要假装推开/找借口——“假装要推开他，实则是在熊兽人腿上乱摸”（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）；因不忍下手而强行找借口“居然敢尿在我手上！”（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
-- **仁慈的限度**：面对敌人时反复挣扎——“面对敌人仁慈就是害了自己”，但最终还是下不了杀手（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
+- **本性善良**：即使在生命受到威胁时也不愿滥杀——帮熊兽人合上双眼（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)），对虎兽人手下留情（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
+- **壮兽爱好者**：对粗壮的兽人守卫有着本能的好感——“哇，身材好壮，好喜欢！”（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)），被熊兽人的粗腿夹住时“内心莫名感觉有些幸福”（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
+- **机智狡猾**：在失忆状态下能迅速评估形势，伪装乖巧套取信息——“哥哥，你是来救我的吗？”（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
+- **口是心非**：明明想摸还想玩，偏要假装推开/找借口——“假装要推开他，实则是在熊兽人腿上乱摸”（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）；因不忍下手而强行找借口“居然敢尿在我手上！”（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
+- **仁慈的限度**：面对敌人时反复挣扎——“面对敌人仁慈就是害了自己”，但最终还是下不了杀手（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
 - **好奇心强**：对自己的力量来源充满疑问，对每一个线索都不放过
 
 ### 4.2 行为模式
@@ -76,7 +76,7 @@
 
 ## 五、登场原文
 
-### [Chapter 1 洞穴醒来](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)
+### [Chapter 1 洞穴醒来](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)
 
 > “唔，头好痛，这……这是哪里？”
 >
@@ -204,7 +204,7 @@
 
 ---
 
-### [Chapter 2 山间遭遇](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)
+### [Chapter 2 山间遭遇](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)
 
 > “妈的，这么大一座山怎么找？”
 >
@@ -306,17 +306,17 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **金刚护体（被动）** | 生死关头体内暖流涌向被攻击部位，使其硬如铁块——匕首刺中被弹开，“手臂像被蚊子咬一样” | [ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md) |
-| **烈火掌（本能）** | 一掌推在熊兽人胸口，使其浑身一震后开始不受控制地射精——“这一掌并没有推动山一般粗壮的熊兽人，但却让他浑身一震” | [ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md) |
-| **寸止功法** | 在虎兽人射精濒死时脑海中浮现的功法——双指并拢按住睾丸与肉棒连接处输入内劲，可中止射精过程，救回濒死目标 | [ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) |
+| **金刚护体（被动）** | 生死关头体内暖流涌向被攻击部位，使其硬如铁块——匕首刺中被弹开，“手臂像被蚊子咬一样” | [ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md) |
+| **烈火掌（本能）** | 一掌推在熊兽人胸口，使其浑身一震后开始不受控制地射精——“这一掌并没有推动山一般粗壮的熊兽人，但却让他浑身一震” | [ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md) |
+| **寸止功法** | 在虎兽人射精濒死时脑海中浮现的功法——双指并拢按住睾丸与肉棒连接处输入内劲，可中止射精过程，救回濒死目标 | [ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) |
 
 ### 6.2 能力限制
 
 | 限制 | 描述 | 出处 |
 |:----|:------|:-----|
-| **被动触发** | 金刚护体和烈火掌只在生死关头自动触发，平时无法主动使用——“难道只有在紧急关头才能被动触发？这也太不方便了！” | [ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) |
-| **物理攻击不足** | 手刀砍脖颈无法击晕目标，说明缺乏常规战斗技能——“又试了几次，但虎兽人只是叫了几声痛，却依旧没事人一样” | [ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) |
-| **记忆封印** | 功法使用依赖于危急时刻的本能/记忆闪回，无法系统调用 | [ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md) |
+| **被动触发** | 金刚护体和烈火掌只在生死关头自动触发，平时无法主动使用——“难道只有在紧急关头才能被动触发？这也太不方便了！” | [ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) |
+| **物理攻击不足** | 手刀砍脖颈无法击晕目标，说明缺乏常规战斗技能——“又试了几次，但虎兽人只是叫了几声痛，却依旧没事人一样” | [ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) |
+| **记忆封印** | 功法使用依赖于危急时刻的本能/记忆闪回，无法系统调用 | [ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md) |
 
 ### 6.3 未知的潜能
 
@@ -330,7 +330,7 @@
 
 ## 七、完整时间线
 
-### 7.1 洞穴醒来（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
+### 7.1 洞穴醒来（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
 
 - 在昏暗中醒来，完全失忆，连自己是谁都想不起来
 - 发现自己身处洞穴，旁边趴着一具尸体——“身材娇小，裤子被撕毁，露出被插到外翻的菊花”
@@ -344,7 +344,7 @@
 - 检查另一具尸体，搜出一张不明用途卡片
 - 帮熊兽人合眼后离开洞穴
 
-### 7.2 山间遭遇（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
+### 7.2 山间遭遇（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
 
 - 下山途中发现正在放水的棕虎兽人搜捕队员
 - 从背后勒颈握棒制服，逼问情报——对方只知道奉命“找黑色的犬科兽人，找到直接击杀”
@@ -360,13 +360,13 @@
 
 ## 八、杀戮履历
 
-### [ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md) 洞穴（1人）
+### [ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md) 洞穴（1人）
 
 | 序号 | 目标 | 物种 | 制服 | 死因 | 备注 |
 |:----:|:-----|:----:|:----:|:------|:------|
 | 1 | 熊兽人 | 熊 | 绿 | 烈火掌触发→连射16发精尽而亡，口交吸出残留 | 本应灭口，反被黑狗本能击杀。黑狗帮他合眼 |
 
-### [ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) 山间（0人）
+### [ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) 山间（0人）
 
 | 序号 | 目标 | 结局 | 方式 | 备注 |
 |:----:|:-----|:----:|:------|:------|
@@ -419,8 +419,8 @@
 
 | 对手 | 结果 | 出处 | 备注 |
 |:-----|:----:|:----|:------|
-| 熊兽人（绿制服） | ✅ 胜（击杀） | [ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md) | 本能触发金刚护体+烈火掌，连射16发致死 |
-| 棕虎兽人（绿制服） | ✅ 胜（留手） | [ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md) | 制服拷问后以寸止救回 |
+| 熊兽人（绿制服） | ✅ 胜（击杀） | [ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md) | 本能触发金刚护体+烈火掌，连射16发致死 |
+| 棕虎兽人（绿制服） | ✅ 胜（留手） | [ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) | 制服拷问后以寸止救回 |
 
 **胜负记录：2胜 · 0败 · 0击杀（主观）**
 
@@ -430,42 +430,42 @@
 
 ## 十一、主要事迹总结
 
-1. **洞穴觉醒**——在熊兽人的追杀下，体内神秘力量本能触发，金刚护体+烈火掌首次展现（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
-2. **初尝杀戮**——熊兽人连射16发精尽而亡，黑狗口交吸出残留，完成人生第一次（也是唯一一次）击杀（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
-3. **下山求生**——搜刮钞票、对讲机和卡片后离开洞穴，寻找线索（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
-4. **拷问虎兽人**——从背后制服棕虎兽人，以搓揉龟头逼问情报（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
-5. **寸止觉醒**——在虎兽人濒死之际心生怜悯，脑海中浮现寸止功法，成功救回一命（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
-6. **选择仁慈**——放下杀念独自下山，完成了从本能杀戮到主动仁慈的转变（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
+1. **洞穴觉醒**——在熊兽人的追杀下，体内神秘力量本能触发，金刚护体+烈火掌首次展现（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
+2. **初尝杀戮**——熊兽人连射16发精尽而亡，黑狗口交吸出残留，完成人生第一次（也是唯一一次）击杀（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
+3. **下山求生**——搜刮钞票、对讲机和卡片后离开洞穴，寻找线索（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
+4. **拷问虎兽人**——从背后制服棕虎兽人，以搓揉龟头逼问情报（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
+5. **寸止觉醒**——在虎兽人濒死之际心生怜悯，脑海中浮现寸止功法，成功救回一命（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
+6. **选择仁慈**——放下杀念独自下山，完成了从本能杀戮到主动仁慈的转变（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
 
 ---
 
 ## 十二、原文引用
 
-> “是搜救队吗，这里这里！”——见到熊兽人闯入洞穴时的第一反应（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
+> “是搜救队吗，这里这里！”——见到熊兽人闯入洞穴时的第一反应（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
 
-> “哥哥，你是来救我的吗？”——伪装乖巧套取信息（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
+> “哥哥，你是来救我的吗？”——伪装乖巧套取信息（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
 
-> “等等，你该不会是要……”——看着熊兽人握裆颤抖的可爱模样（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
+> “等等，你该不会是要……”——看着熊兽人握裆颤抖的可爱模样（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
 
-> “不要……啊……不要！”——被熊精喷满身时开心地喊道（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
+> “不要……啊……不要！”——被熊精喷满身时开心地喊道（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
 
-> “大哥，你还好吗？你能不能告诉我你是谁啊！”——熊兽人濒死时拍着他的头问（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
+> “大哥，你还好吗？你能不能告诉我你是谁啊！”——熊兽人濒死时拍着他的头问（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
 
-> “算了，你已经够惨了，就不折磨你了。”——抬起脚准备踹却又放下（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-1-cave-awakening.md)）
+> “算了，你已经够惨了，就不折磨你了。”——抬起脚准备踹却又放下（[ch-1](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md)）
 
-> “说，你们在找什么？”——从背后制服虎兽人后逼问（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
+> “说，你们在找什么？”——从背后制服虎兽人后逼问（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
 
-> “嘿嘿～”——开始搓揉虎兽人龟头时的冷笑（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
+> “嘿嘿～”——开始搓揉虎兽人龟头时的冷笑（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
 
-> “难道只有在紧急关头才能被动触发？这也太不方便了！”——发现无法主动使用神力后抱怨（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
+> “难道只有在紧急关头才能被动触发？这也太不方便了！”——发现无法主动使用神力后抱怨（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
 
-> “好啊，居然敢尿在我手上！胆子不小！”——因不忍下手而强行找借口（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
+> “好啊，居然敢尿在我手上！胆子不小！”——因不忍下手而强行找借口（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
 
-> “这么可爱的壮兽人真心不想杀掉啊。”——对虎兽人产生恻隐之心（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
+> “这么可爱的壮兽人真心不想杀掉啊。”——对虎兽人产生恻隐之心（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
 
-> “没想到还有这样的功法，便宜你了。”——成功寸止救下虎兽人后（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
+> “没想到还有这样的功法，便宜你了。”——成功寸止救下虎兽人后（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
 
-> “这次就饶了你吧。”——帮虎兽人拉上裤头后离去（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-2-mountain-encounter.md)）
+> “这次就饶了你吧。”——帮虎兽人拉上裤头后离去（[ch-2](../../chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md)）
 
 ---
 
