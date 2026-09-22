@@ -1,4 +1,4 @@
-# Chapter Three: A Cane on the Snow
+# Chapter 3 A Cane on the Snow
 
 Yi An's apartment was just ahead.
 
@@ -207,3 +207,8 @@ A tear slid from the corner of Yan Shen's eye. That wasn't a tear of pain, but s
 He slowly, slowly, within the range the chain allowed, curled up his body. Like a wounded old beast, in the darkness, licking his wounds alone.
 
 (End of Chapter Three)
+
+
+---
+
+**Chapter 3 END**

@@ -1,4 +1,4 @@
-# Chapter 11：扭曲的交友
+# Chapter 11 扭曲的交友
 
 ---
 
@@ -182,3 +182,7 @@
 ---
 
 | [Chap10](ch-10-an-unexpected-bond.md) | [返回目录](../README.md) | [Chap12](ch-12-night-raid.md)
+
+---
+
+**Chapter 11 END**

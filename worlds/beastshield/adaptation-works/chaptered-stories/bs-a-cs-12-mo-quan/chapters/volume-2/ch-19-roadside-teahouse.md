@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 19 roadside teahouse
 
 ## 第二卷 第十九章：仓库潜入
 
@@ -187,6 +187,11 @@
 | [上一章](ch-18-checkpoint.md) | [返回目录](../../README.md) | [下一章](ch-20-qingshi-town.md) |
 
 ---
+
+
+---
+
+**Chapter 19 END**
 
 ## 故事评述与感慨
 

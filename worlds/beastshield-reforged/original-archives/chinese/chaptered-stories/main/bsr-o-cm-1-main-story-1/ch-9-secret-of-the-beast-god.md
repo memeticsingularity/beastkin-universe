@@ -1,4 +1,4 @@
-# Chapter 9：兽神的秘密
+# Chapter 9 兽神的秘密
 
 ---
 
@@ -195,3 +195,7 @@
 ---
 
 [Chap8](ch-8-indiscriminate-slaughter.md) | [返回目录](../README.md) | [Chap10](ch-10-an-unexpected-bond.md)
+
+---
+
+**Chapter 9 END**

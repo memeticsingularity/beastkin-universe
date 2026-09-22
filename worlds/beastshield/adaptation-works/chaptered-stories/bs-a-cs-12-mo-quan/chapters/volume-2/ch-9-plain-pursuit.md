@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 9 plain pursuit
 
 ## 第二卷 第九章：平原追击
 
@@ -201,6 +201,11 @@
 | [上一章](ch-8-cliff-assault.md) | [返回目录](../../README.md) | [下一章](ch-10-gate-charge.md) |
 
 ---
+
+
+---
+
+**Chapter 9 END**
 
 ## 故事评述与感慨
 

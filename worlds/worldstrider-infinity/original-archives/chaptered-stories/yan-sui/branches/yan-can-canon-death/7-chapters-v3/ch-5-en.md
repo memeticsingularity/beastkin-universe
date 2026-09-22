@@ -1,4 +1,4 @@
-# Chapter 5: Plea for Death
+# Chapter 5 Plea for Death
 
 Yi An's place was very small.
 
@@ -229,3 +229,8 @@ Yan Shen lay there, wearing the Golden Age old uniform, hands crossed over his a
 He was freed.
 
 (End of Chapter 5)
+
+
+---
+
+**Chapter 5 END**

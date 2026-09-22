@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 14 mountain encounter
 
 ## 第二卷 第十四章：化工厂
 
@@ -195,6 +195,11 @@
 | [上一章](ch-13-cave-search.md) | [返回目录](../../README.md) | [下一章](ch-15-hillside-ambush.md) |
 
 ---
+
+
+---
+
+**Chapter 14 END**
 
 ## 故事评述与感慨
 

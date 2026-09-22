@@ -1,4 +1,4 @@
-# Chapter 13：荒脊平原
+# Chapter 13 荒脊平原
 
 ---
 
@@ -160,3 +160,7 @@
 ---
 
 | [Chap12](ch-12-night-raid.md) | [返回目录](../README.md) | [Chap14](ch-14-the-sperm-devourers-feast.md)
+
+---
+
+**Chapter 13 END**

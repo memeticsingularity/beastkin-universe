@@ -1,4 +1,4 @@
-# Chapter Five: Deep Night, Cleansing, and Guarding Through a Wall
+# Chapter 5 Deep Night, Cleansing, and Guarding Through a Wall
 
 Yan Shen felt a sticky wetness beneath him.
 
@@ -337,3 +337,8 @@ Inside the wall, it was the silent watch between father and son.
 Outside the wall, Qi dian knew that the dawn which would make everything whole again was about to come.
 
 (End of Chapter Five)
+
+
+---
+
+**Chapter 5 END**

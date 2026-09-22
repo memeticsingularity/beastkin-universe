@@ -1,4 +1,4 @@
-# Chapter Seven: Bearing
+# Chapter 7 Bearing
 
 When dawn was near, Yi An moved.
 
@@ -259,3 +259,8 @@ In the dream, his father said to him: "Suisui, Dad loves you."
 That dream was very long, very long. So long that when Yan Sui woke up, his pillow was full of tears.
 
 (End of Chapter Seven)
+
+
+---
+
+**Chapter 7 END**

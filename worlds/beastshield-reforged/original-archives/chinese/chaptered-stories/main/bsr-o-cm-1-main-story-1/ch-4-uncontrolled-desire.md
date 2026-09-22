@@ -1,4 +1,4 @@
-# Chapter 4：失控的欲望
+# Chapter 4 失控的欲望
 
 ---
 
@@ -231,3 +231,7 @@
 ---
 
 [Chap3](ch-3-brutal-training-ground.md) | [返回目录](../README.md) | [Chap5](ch-5-birth-of-the-hunting-spear.md)
+
+---
+
+**Chapter 4 END**

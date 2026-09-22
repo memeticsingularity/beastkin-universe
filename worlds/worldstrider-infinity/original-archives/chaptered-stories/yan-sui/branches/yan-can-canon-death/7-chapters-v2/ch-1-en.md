@@ -1,4 +1,4 @@
-# Chapter One: Winter Night, Cane, and Bloodstains
+# Chapter 1 Winter Night, Cane, and Bloodstains
 
 When snow fell, even the filth in White Capital was quiet.
 
@@ -253,3 +253,7 @@ The winter night was long. But at this moment, at least his son was still alive,
 For Yan Shen, that was enough.
 
 (End of Chapter One)
+
+---
+
+**Chapter 1 END**

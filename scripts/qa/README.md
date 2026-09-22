@@ -64,6 +64,16 @@ node scripts/qa/sync-tables.js worlds/beastshield/original-archives/chinese/char
 
 ## 注意
 
+### `check-format.js` 的检查范围与形态判定
+
+- **范围**：只检查**故事正文**。`notes/`、`plans/`、`skills/`、`ai-discussion/`、`insights/`、
+  `reviews/`、`history/`、`drafts/`、`settings/`、`templates/`、`english/`、`*-scrapped/` 等位置的
+  辅助文档（写作计划、审阅报告、分析稿）不参与检查——它们不是正文，套用 §1/§2 的 H1 与结束标记
+  反而会破坏其含义（2026-09-17 修正前有 173 个此类误报）。
+- **形态判定**：`Chapter` 还是 `Story` 按**同一作品内多数文件已有的 H1 形态**判定，而不是按文件名。
+  原因是存在以 `ch-*.md` 命名的短篇集（如 `bs-a-cs-1-shorts`），按文件名硬判会把合规的
+  `# Story 标题` 误报为违规。文件名仅在作品内没有任何 H1 时兜底。
+
 ### `scan-punctuation.js` 的结论不要直接拿来改
 
 本仓库的**正文本身**就使用半角冒号（如「…笑了笑道:」），共 300 余处。

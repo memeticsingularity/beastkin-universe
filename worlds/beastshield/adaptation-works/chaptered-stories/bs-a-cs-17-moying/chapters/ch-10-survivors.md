@@ -1,4 +1,4 @@
-# Chapter 10：幸存者
+# Chapter 10 幸存者
 
 ---
 

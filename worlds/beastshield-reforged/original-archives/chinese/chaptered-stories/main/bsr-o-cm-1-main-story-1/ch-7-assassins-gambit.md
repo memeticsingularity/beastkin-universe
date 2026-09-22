@@ -183,3 +183,7 @@
 ---
 
 | [Chap6](ch-6-the-darkrooms-revenge.md) | [返回目录](../README.md) | [Chap8](ch-8-indiscriminate-slaughter.md)
+
+---
+
+**Chapter 7 END**

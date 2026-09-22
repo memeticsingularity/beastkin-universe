@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 4 forest hunt
 
 ## 第二卷 第四章：密林猎场
 
@@ -205,6 +205,11 @@
 | [上一章](ch-3-wilderness-camp.md) | [返回目录](../../README.md) | [下一章](ch-5-swamp-trap.md) |
 
 ---
+
+
+---
+
+**Chapter 4 END**
 
 ## 故事评述与感慨
 

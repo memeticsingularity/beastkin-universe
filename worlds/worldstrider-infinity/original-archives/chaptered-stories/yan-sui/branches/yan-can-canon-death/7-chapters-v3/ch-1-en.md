@@ -1,4 +1,4 @@
-# Chapter 1: Going Out
+# Chapter 1 Going Out
 
 When blood seeped through the bandages, Yan Shen knew those punches had landed hard.
 
@@ -127,3 +127,8 @@ He didn't notice—or rather, he noticed but didn't care—about thirty meters b
 On the snow, besides Yan Shen's limping footprints, there was now another set of shallow claw marks, nearly obscured by wind and snow.
 
 (End of Chapter 1)
+
+
+---
+
+**Chapter 1 END**

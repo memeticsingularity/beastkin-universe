@@ -1,4 +1,4 @@
-# Chapter 11-2 The Buyout
+# Chapter 11 2 The Buyout
 
 ---
 
@@ -531,3 +531,8 @@ That's enough.
 [Previous Chapter](ch-10-the-fox.md) | [Back to Work Directory](../../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
+
+
+---
+
+**Chapter 11 END**

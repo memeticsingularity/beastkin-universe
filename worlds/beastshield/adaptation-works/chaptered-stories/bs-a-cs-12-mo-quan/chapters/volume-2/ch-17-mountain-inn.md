@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 17 mountain inn
 
 ## 第二卷 第十七章：霓虹酒吧
 
@@ -193,6 +193,11 @@
 | [上一章](ch-16-riverside-moonlight.md) | [返回目录](../../README.md) | [下一章](ch-18-checkpoint.md) |
 
 ---
+
+
+---
+
+**Chapter 17 END**
 
 ## 故事评述与感慨
 

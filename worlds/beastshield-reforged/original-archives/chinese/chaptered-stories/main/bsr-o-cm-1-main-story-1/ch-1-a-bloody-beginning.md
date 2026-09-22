@@ -220,3 +220,7 @@
 ---
 
 | [返回目录](../README.md) | [Chap2](ch-2-the-iron-fist-of-discipline.md)
+
+---
+
+**Chapter 1 END**

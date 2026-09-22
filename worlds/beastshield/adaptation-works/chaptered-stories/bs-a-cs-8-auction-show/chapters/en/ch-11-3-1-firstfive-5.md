@@ -1,4 +1,4 @@
-# Chapter 11-3-1 First Five [Ultimate Version II]
+# Chapter 11 3-1 First Five [Ultimate Version II]
 
 ---
 
@@ -561,3 +561,8 @@ Then, he turned, walking toward the other five still-unconscious bodies.
 [Previous Chapter](ch-11-2-buyout.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-11-3-2-lastfive-5.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
+
+
+---
+
+**Chapter 11 END**

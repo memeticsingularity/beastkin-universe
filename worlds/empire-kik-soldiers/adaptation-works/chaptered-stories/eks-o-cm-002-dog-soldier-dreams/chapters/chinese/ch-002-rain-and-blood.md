@@ -1,4 +1,4 @@
-# Chapter 2：雨夜与血
+# Chapter 2 雨夜与血
 
 ---
 

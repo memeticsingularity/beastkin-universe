@@ -1,4 +1,4 @@
-# Chapter 11-3-2 Last Five [Ultimate Version]
+# Chapter 11 3-2 Last Five [Ultimate Version]
 
 ---
 
@@ -345,3 +345,8 @@ And in some corner of the city, new prey was being selected, new tragedy was bre
 [Previous Chapter](ch-11-3-1-firstfive-4.md) | [Back to Work Directory](../../README.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
+
+
+---
+
+**Chapter 11 END**

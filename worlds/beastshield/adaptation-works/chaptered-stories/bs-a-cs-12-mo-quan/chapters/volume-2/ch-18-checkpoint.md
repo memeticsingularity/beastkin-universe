@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 18 checkpoint
 
 ## 第二卷 第十八章：钟楼广场
 
@@ -179,6 +179,11 @@
 | [上一章](ch-17-mountain-inn.md) | [返回目录](../../README.md) | [下一章](ch-19-roadside-teahouse.md) |
 
 ---
+
+
+---
+
+**Chapter 18 END**
 
 ## 故事评述与感慨
 

@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 11 mountain edge
 
 ## 第二卷 第十一章：青石镇酒馆
 
@@ -251,6 +251,11 @@
 | [上一章](ch-10-gate-charge.md) | [返回目录](../../README.md) | [下一章](ch-12-possession-site.md) |
 
 ---
+
+
+---
+
+**Chapter 11 END**
 
 ## 故事评述与感慨
 

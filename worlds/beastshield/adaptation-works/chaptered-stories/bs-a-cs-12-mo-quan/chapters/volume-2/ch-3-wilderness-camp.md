@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 3 wilderness camp
 
 ## 第二卷 第三章：荒野争锋
 
@@ -169,6 +169,11 @@
 | [上一章](ch-2-desert-outpost.md) | [返回目录](../../README.md) | [下一章](ch-4-forest-hunt.md) |
 
 ---
+
+
+---
+
+**Chapter 3 END**
 
 ## 故事评述与感慨
 

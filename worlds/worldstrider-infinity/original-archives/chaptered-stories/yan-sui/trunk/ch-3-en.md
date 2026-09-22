@@ -1,4 +1,4 @@
-# Chapter Three: Night Faces, Whispers, and an Unopened Gift
+# Chapter 3 Night Faces, Whispers, and an Unopened Gift
 
 Qi dian walked down the hallway, his footsteps so light they were almost inaudible. The walls were a warm off-white, presenting a near-illusory tranquility under the soft lighting. He recalled Yan Sui's appearance just now—that tiger beastkin lying on the bed, light-golden fur scattered across the pillow, breathing gradually steadying, gaze transitioning from pain and sorrow to a fragile, near-vulnerable relaxation.
 
@@ -411,3 +411,8 @@ But for now, sleep. Tonight, you only need to sleep peacefully.
 Yan Sui's breathing was steady and deep, clearly already sunk into dreamless sleep. His face looked especially peaceful in sleep, brows no longer furrowed, the corner of his mouth even carrying a faint smile. His tail curled slightly on Qi dian's wrist, like a gentle shackle, yet also like a wordless promise.
 
 And Qi dian, quietly lying beside him, guarding him, until the first ray of dawn pierced through the night sky of Myriad Phenomena Courtyard.
+
+
+---
+
+**Chapter 3 END**

@@ -1,4 +1,4 @@
-# Chapter 2：纪律的铁拳
+# Chapter 2 纪律的铁拳
 
 ---
 
@@ -164,3 +164,8 @@
 
 | [Chap1](ch-1-a-bloody-beginning.md) | [返回目录](../README.md) | [Chap3](ch-3-brutal-training-ground.md)
 
+
+
+---
+
+**Chapter 2 END**

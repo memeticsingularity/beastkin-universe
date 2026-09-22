@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 2 desert outpost
 
 ## 第二卷 第二章：沙漠毒影
 
@@ -255,6 +255,11 @@
 | [上一章](ch-1-mine-camp.md) | [返回目录](../../README.md) | [下一章](ch-3-wilderness-camp.md) |
 
 ---
+
+
+---
+
+**Chapter 2 END**
 
 ## 故事评述与感慨
 

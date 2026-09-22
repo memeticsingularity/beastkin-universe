@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 6 abandoned temple
 
 ## 第二卷 第六章：废弃寺庙
 
@@ -147,6 +147,11 @@
 | [上一章](ch-5-swamp-trap.md) | [返回目录](../../README.md) | [下一章](ch-7-riverside.md) |
 
 ---
+
+
+---
+
+**Chapter 6 END**
 
 ## 故事评述与感慨
 

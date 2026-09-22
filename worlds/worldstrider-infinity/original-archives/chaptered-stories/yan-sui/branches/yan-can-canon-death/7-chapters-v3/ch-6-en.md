@@ -1,4 +1,4 @@
-# Chapter 6: Homeward Journey
+# Chapter 6 Homeward Journey
 
 When Yi An hoisted Yan Shen onto his back, the snow was falling even harder.
 
@@ -131,3 +131,8 @@ On the snow, besides his own footprints, there were two drag marks. One was the 
 Until nothing could be seen anymore.
 
 (End of Chapter 6)
+
+
+---
+
+**Chapter 6 END**

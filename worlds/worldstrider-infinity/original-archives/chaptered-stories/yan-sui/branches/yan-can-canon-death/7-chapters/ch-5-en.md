@@ -1,4 +1,4 @@
-# Chapter Five: Light Through the Door Crack
+# Chapter 5 Light Through the Door Crack
 
 When the second week began, Yan Shen no longer quite remembered who he was.
 
@@ -239,3 +239,8 @@ Lao Zhao didn't speak. He just looked at Yan Shen, looked at those amber eyes gl
 Snow fell between them, silently accumulating.
 
 (End of Chapter Five)
+
+
+---
+
+**Chapter 5 END**

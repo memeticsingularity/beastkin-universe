@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 13 cave search
 
 ## 第二卷 第十三章：兽盾训练场
 
@@ -185,6 +185,11 @@
 | [上一章](ch-12-possession-site.md) | [返回目录](../../README.md) | [下一章](ch-14-mountain-encounter.md) |
 
 ---
+
+
+---
+
+**Chapter 13 END**
 
 ## 故事评述与感慨
 

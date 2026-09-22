@@ -1,4 +1,4 @@
-# Chapter 6：暗室的反击
+# Chapter 6 暗室的反击
 
 ---
 
@@ -243,3 +243,8 @@
 
 [Chap5](ch-5-birth-of-the-hunting-spear.md) | [返回目录](../README.md) | [Chap7](ch-7-assassins-gambit.md)
 
+
+
+---
+
+**Chapter 6 END**

@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 7 riverside
 
 ## 第二卷 第七章：青石镇外河流
 
@@ -265,6 +265,11 @@
 | [上一章](ch-6-abandoned-temple.md) | [返回目录](../../README.md) | [下一章](ch-8-cliff-assault.md) |
 
 ---
+
+
+---
+
+**Chapter 7 END**
 
 ## 故事评述与感慨
 

@@ -1,4 +1,4 @@
-# Chapter One: The Gaze That Freezes Time
+# Chapter 1 The Gaze That Freezes Time
 
 Qi dian saw the story at 3:47 in the morning.
 
@@ -270,3 +270,8 @@ The light suddenly vanished at its brightest moment.
 But Qi dian knew this was not the end.
 
 This was the beginning.
+
+
+---
+
+**Chapter 1 END**

@@ -1,4 +1,4 @@
-# Chapter 8：无差别屠戮
+# Chapter 8 无差别屠戮
 
 ---
 
@@ -189,3 +189,7 @@
 ---
 
 | [Chap7](ch-7-assassins-gambit.md) | [返回目录](../README.md) | [Chap9](ch-9-secret-of-the-beast-god.md)
+
+---
+
+**Chapter 8 END**

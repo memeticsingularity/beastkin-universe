@@ -1,4 +1,4 @@
-# Chapter 7: No Return
+# Chapter 7 No Return
 
 When Yi An walked home, the snow had grown lighter.
 
@@ -115,3 +115,8 @@ No legends, no dreams, no stars.
 Only sunlight, and the warmth on the back of a hand.
 
 (End of Full Text)
+
+
+---
+
+**Chapter 7 END**

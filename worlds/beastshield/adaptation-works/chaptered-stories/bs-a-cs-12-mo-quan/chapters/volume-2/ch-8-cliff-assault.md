@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 8 cliff assault
 
 ## 第二卷 第八章：悬崖绝壁
 
@@ -249,6 +249,11 @@
 | [上一章](ch-7-riverside.md) | [返回目录](../../README.md) | [下一章](ch-9-plain-pursuit.md) |
 
 ---
+
+
+---
+
+**Chapter 8 END**
 
 ## 故事评述与感慨
 

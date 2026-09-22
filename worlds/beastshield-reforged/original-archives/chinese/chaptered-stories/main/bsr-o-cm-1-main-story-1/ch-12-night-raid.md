@@ -1,4 +1,4 @@
-# Chapter 12：夜袭
+# Chapter 12 夜袭
 
 ---
 
@@ -213,3 +213,8 @@
 
 | [Chap11](ch-11-a-perverse-friendship.md) | [返回目录](../README.md) | [Chap13](ch-13-the-barren-spine-plains.md)
 
+
+
+---
+
+**Chapter 12 END**

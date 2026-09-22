@@ -1,4 +1,4 @@
-# Chapter 10：意外的羁绊
+# Chapter 10 意外的羁绊
 
 ---
 
@@ -159,3 +159,7 @@
 ---
 
 | [Chap9](ch-9-secret-of-the-beast-god.md) | [返回目录](../README.md) | [Chap11](ch-11-a-perverse-friendship.md)
+
+---
+
+**Chapter 10 END**

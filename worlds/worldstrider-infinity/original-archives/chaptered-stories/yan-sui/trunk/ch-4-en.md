@@ -1,4 +1,4 @@
-# Chapter Four: Snowy Night, Homeward Journey, and the Direction of Home
+# Chapter 4 Snowy Night, Homeward Journey, and the Direction of Home
 
 Yan Sui's breathing was steady and deep, that tail resting on Qi dian's wrist curled slightly, carrying a relaxation of complete trust. Qi dian lay quietly beside him, feeling the tiger beastkin's body temperature, listening to that gradually lengthening breathing.
 
@@ -355,3 +355,8 @@ Qi dian quietly stood by the bedside, looking at this beastkin who had just cros
 The true story had only just begun.
 
 (End of Chapter Four)
+
+
+---
+
+**Chapter 4 END**

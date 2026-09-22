@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 15 hillside ambush
 
 ## 第二卷 第十五章：青石镇暗巷
 
@@ -151,6 +151,11 @@
 | [上一章](ch-14-mountain-encounter.md) | [返回目录](../../README.md) | [下一章](ch-16-riverside-moonlight.md) |
 
 ---
+
+
+---
+
+**Chapter 15 END**
 
 ## 故事评述与感慨
 

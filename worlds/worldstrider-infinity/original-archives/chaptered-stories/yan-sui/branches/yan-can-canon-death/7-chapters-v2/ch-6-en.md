@@ -1,4 +1,4 @@
-# Chapter Six: Junior
+# Chapter 6 Junior
 
 Yi An's room was very small.
 
@@ -311,3 +311,8 @@ Not as a domesticated dog. Not as a destroyed father.
 But as a veteran, in a junior's embrace, in final warmth, peacefully left this world that could no longer let him stand.
 
 (End of Chapter Six)
+
+
+---
+
+**Chapter 6 END**

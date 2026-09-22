@@ -1,4 +1,4 @@
-# Chapter Two: Porridge and Silence
+# Chapter 2 Porridge and Silence
 
 Yan Shen didn't sleep all night.
 
@@ -181,3 +181,8 @@ He didn't know what awaited him.
 But he knew he must go.
 
 (End of Chapter Two)
+
+
+---
+
+**Chapter 2 END**

@@ -1,4 +1,4 @@
-# Chapter 11-3-1 First Five [Differentiated Version]
+# Chapter 11 3-1 First Five [Differentiated Version]
 
 ---
 
@@ -281,3 +281,8 @@ The shadows of the basement seemed to grow a few shades darker. He straightened 
 [Previous Chapter](ch-11-2-buyout.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-11-3-2-lastfive-2.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
+
+
+---
+
+**Chapter 11 END**

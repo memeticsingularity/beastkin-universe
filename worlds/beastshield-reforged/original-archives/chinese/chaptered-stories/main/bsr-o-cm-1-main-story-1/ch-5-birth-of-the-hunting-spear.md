@@ -1,4 +1,4 @@
-# Chapter 5：猎矛诞生
+# Chapter 5 猎矛诞生
 
 ---
 
@@ -244,3 +244,8 @@
 
 [Chap4](ch-4-uncontrolled-desire.md) | [返回目录](../README.md) | [Chap6](ch-6-the-darkrooms-revenge.md)
 
+
+
+---
+
+**Chapter 5 END**

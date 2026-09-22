@@ -1,4 +1,4 @@
-# Chapter 3: Abyss (Part 1) — Domestication
+# Chapter 3 Abyss (Part 1) — Domestication
 
 Yan Shen woke to a pungent moldy smell.
 
@@ -239,3 +239,8 @@ A drop of liquid slid from the corner of his eye, along the fur of his cheek, dr
 He lay in the darkness, lying like a dog, waiting for tomorrow's whistle.
 
 (End of Chapter 3)
+
+
+---
+
+**Chapter 3 END**

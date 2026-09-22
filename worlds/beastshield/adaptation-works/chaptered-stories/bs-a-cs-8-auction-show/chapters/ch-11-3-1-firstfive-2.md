@@ -1,4 +1,4 @@
-# 第十一章 第三节 上篇 前五人【差异化版】
+# Chapter 11 第三节 上篇 前五人【差异化版】
 
 ---
 
@@ -290,3 +290,8 @@ substantial。
 [上一章](ch-11-2-buyout.md) | [返回目录](../README.md) | [下一章](ch-11-3-2-lastfive-2.md)
 
 ---
+
+
+---
+
+**Chapter 11 END**

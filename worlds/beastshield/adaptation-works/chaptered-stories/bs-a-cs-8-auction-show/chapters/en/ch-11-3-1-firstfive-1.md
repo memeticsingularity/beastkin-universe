@@ -1,4 +1,4 @@
-# Chapter 11-3-1 First Five [Expanded Version]
+# Chapter 11 3-1 First Five [Expanded Version]
 
 ---
 
@@ -401,3 +401,8 @@ He walked toward the black leopard, a syringe in his hand, the needle tip glinti
 [Previous Chapter](ch-11-2-buyout.md) | [Back to Work Directory](../../README.md) | [Next Chapter](ch-11-3-2-lastfive-1.md) | [Back to Worldview Homepage](../../../../../README.md) | [Back to Project Homepage](../../../../../../../README.md)
 
 ---
+
+
+---
+
+**Chapter 11 END**

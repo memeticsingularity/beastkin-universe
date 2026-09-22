@@ -1,4 +1,4 @@
-# Chapter 4: Abyss (Part 2) — Collapse
+# Chapter 4 Abyss (Part 2) — Collapse
 
 On the tenth day, Yan Shen's tail began to wag unconsciously.
 
@@ -219,3 +219,8 @@ Suisui.
 Dad can't go back.
 
 (End of Chapter 4)
+
+
+---
+
+**Chapter 4 END**

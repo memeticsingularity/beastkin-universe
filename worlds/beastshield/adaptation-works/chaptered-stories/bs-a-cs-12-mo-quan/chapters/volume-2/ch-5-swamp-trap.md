@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 5 swamp trap
 
 ## 第二卷 第五章：沼泽诱杀
 
@@ -181,6 +181,11 @@
 | [上一章](ch-4-forest-hunt.md) | [返回目录](../../README.md) | [下一章](ch-6-abandoned-temple.md) |
 
 ---
+
+
+---
+
+**Chapter 5 END**
 
 ## 故事评述与感慨
 

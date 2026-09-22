@@ -1,4 +1,4 @@
-# Chapter 3：残酷的训练场
+# Chapter 3 残酷的训练场
 
 ---
 
@@ -166,3 +166,7 @@
 ---
 
 | [Chap2](ch-2-the-iron-fist-of-discipline.md) | [返回目录](../README.md) | [Chap4](ch-4-uncontrolled-desire.md) |
+
+---
+
+**Chapter 3 END**

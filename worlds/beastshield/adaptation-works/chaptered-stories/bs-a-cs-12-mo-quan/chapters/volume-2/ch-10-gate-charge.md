@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 10 gate charge
 
 ## 第二卷 第十章：城门冲撞
 
@@ -193,6 +193,11 @@
 | [上一章](ch-9-plain-pursuit.md) | [返回目录](../../README.md) | [下一章](ch-11-mountain-edge.md) |
 
 ---
+
+
+---
+
+**Chapter 10 END**
 
 ## 故事评述与感慨
 

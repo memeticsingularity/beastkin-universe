@@ -1,4 +1,4 @@
-# Chapter Two: Debridement, Pain, and the Foundation of Trust
+# Chapter 2 Debridement, Pain, and the Foundation of Trust
 
 Qi dian realized he had landed when he felt the pain in his knees.
 
@@ -265,3 +265,8 @@ Qi dian gently closed the door and walked out of the room.
 The hallway was quiet, only his footsteps echoing. He walked toward the kitchen, already beginning to plan what to make—perhaps a bowl of light porridge, perhaps some easily digestible soup. No matter what he made, he hoped to let Yan Sui feel... the warmth of home.
 
 On this quiet night, in this new world far from Beastshield's tyranny, everything had only just begun.
+
+
+---
+
+**Chapter 2 END**

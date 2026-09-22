@@ -1,4 +1,4 @@
-# Chapter 4：虎卫组
+# Chapter 4 虎卫组
 
 ---
 

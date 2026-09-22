@@ -1,4 +1,4 @@
-# Chapter Four: The Seventh Day
+# Chapter 4 The Seventh Day
 
 Darkness has weight.
 
@@ -219,3 +219,8 @@ There was no response in the darkness.
 Only the slight clashing sound of the chain, and his own suppressed, broken breathing, echoing in the basement, like a requiem without lyrics.
 
 (End of Chapter Four)
+
+
+---
+
+**Chapter 4 END**

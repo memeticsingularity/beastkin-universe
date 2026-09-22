@@ -1,4 +1,4 @@
-# 墨犬（续写）- 第二卷：猎网
+# Chapter 1 mine camp
 
 ## 第二卷 第一章：矿山营地
 
@@ -223,6 +223,11 @@
 | [返回目录](../../README.md) | [下一章](ch-2-desert-outpost.md) |
 
 ---
+
+
+---
+
+**Chapter 1 END**
 
 ## 故事评述与感慨
 

@@ -1,4 +1,4 @@
-# Chapter Six: Old Comrade
+# Chapter 6 Old Comrade
 
 Lao Zhao's room was very small.
 
@@ -313,3 +313,8 @@ But as a veteran, in an old comrade's embrace, in final warmth, peacefully left 
 (End of Chapter Six)
 
 (End of Chapter Six)
+
+
+---
+
+**Chapter 6 END**

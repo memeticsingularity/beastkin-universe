@@ -1,4 +1,4 @@
-# Chapter 14：嗜精兽的盛宴
+# Chapter 14 嗜精兽的盛宴
 
 ---
 
@@ -156,3 +156,7 @@
 ---
 
 | [Chap13](ch-13-the-barren-spine-plains.md) | [返回目录](../README.md) | [Chap15](ch-15-encounter-at-oasis-town.md)
+
+---
+
+**Chapter 14 END**

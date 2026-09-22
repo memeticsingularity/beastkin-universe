@@ -1,4 +1,4 @@
-# Chapter 2: Beating and Abduction
+# Chapter 2 Beating and Abduction
 
 The streetlamp at the corner had been broken for five years, the lampshade filled with coal ash and bird carcasses.
 
@@ -141,3 +141,8 @@ In the last moment before losing consciousness, only one sentence remained in Ya
 Suisui was still at home waiting for him.
 
 (End of Chapter 2)
+
+
+---
+
+**Chapter 2 END**
