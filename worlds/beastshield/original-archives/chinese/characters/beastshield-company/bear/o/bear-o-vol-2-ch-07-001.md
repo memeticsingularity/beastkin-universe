@@ -12,8 +12,8 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤，白袜，运动鞋 |
 | **身份** | 十一层熊族领地入口守卫 |
 | **状态** | **已死亡**——被魔影羞辱玩弄后射精而死 |
-| **首次登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md) |
-| **最后登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md) |
+| **首次登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md) |
+| **最后登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-07：熊族领地渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md)
+### [vol-2-ch-07：熊族领地渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md)
 
 > 在十一层入口处的墙上有一副巨大的类似熊人徽章的图案，旁边一只粗壮的熊兽人守卫正双手抱胸，一脸严肃的站在一旁值守，他和其他守卫一样穿着蓝白制服和白袜运动鞋，身材练得肉壮异常，明明肚子上有着一层厚厚的脂肪，却因为更加粗壮的手臂和饱满的胸肌让他仍然拥有倒三角体型，而支撑着这上半身体重的双腿自然也粗壮无比，微微张开的白袜双腿中，一股大包在紧身裤的包裹下傲然挺立，偶尔抽动一下，骄傲的宣扬着它出色的性能力。看到魔影的出现，熊守卫立刻上前询问，随着走路时双腿的前后摆动，大包在中间如同一颗悬挂着的成熟果实，左右扭动，诱人无比。
 >

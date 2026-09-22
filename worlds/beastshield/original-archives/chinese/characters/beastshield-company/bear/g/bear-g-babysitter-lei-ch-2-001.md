@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 巡逻杂兵（制服色原文未明示，按巡逻杂兵归 G 级） |
 | **身份** | 巡逻士兵 |
 | **状态** | **已死亡**——偷烟时被老雷捂嘴摁在墙上、一拳打在后腰，贴墙射精而死 |
-| **首次登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
-| **最后登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
+| **首次登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md) |
+| **最后登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch2-1：情报部门（第二章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)
+### [s-3-ch2-1：情报部门（第二章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md)
 
 > 一头白熊兽盾兵跑到角落里想偷吸一根烟，火还没点着，就被老雷捂住嘴摁在墙上，然后一拳打在他后腰上！
 >
@@ -49,6 +49,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)*
+*档案来源：老雷突袭情报局 [第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

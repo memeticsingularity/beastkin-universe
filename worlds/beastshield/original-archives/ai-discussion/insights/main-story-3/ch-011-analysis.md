@@ -1,7 +1,7 @@
 # Chapter 11《师徒对决》- 分析
 
 >
-对应文件：[ch-11-light-cult-infiltration.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md)
+对应文件：[ch-11-light-cult-infiltration.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-011-light-cult-infiltration.md)
 > 分析日期：2026-03-19
 
 ---

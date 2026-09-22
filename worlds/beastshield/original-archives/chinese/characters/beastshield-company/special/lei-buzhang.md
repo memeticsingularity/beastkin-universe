@@ -13,16 +13,16 @@
 | **别名** | 儡部长 / **儡爵** / 「**儡先生**」（第二卷·第15章正文如此称呼，经核对为同一人，见下） |
 | **身份** | 兽盾公司人事部部长（主管提拔科与员工筛选测试）；暗系法术／巫术钻研者 |
 | **状态** | **已死亡**——第三卷·第12章沙漠伏击中被夔牛弓「满弦·灭神」一箭击穿眉间 |
-| **首次登场** | [第三卷·第4章 心灵防御](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md)（**主线时间线**）；更早的正文登场为 [第二卷·第15章 重返蟒蛇岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)（当时称「儡先生」） |
-| **最后登场** | [第三卷·第12章 沙漠伏击](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md) |
+| **首次登场** | [第三卷·第4章 心灵防御](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-004-psychic-defense.md)（**主线时间线**）；更早的正文登场为 [第二卷·第15章 重返蟒蛇岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)（当时称「儡先生」） |
+| **最后登场** | [第三卷·第12章 沙漠伏击](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-012-desert-ambush.md) |
 
 > ⚠️ **状态订正（2026 审计）**：既有索引（[`README.md`](README.md)）在本节记「儡部长 / 操控不死兽人 | 存活」。
-> 但正文 [第三卷·第12章](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md) L151–L153 明写：
+> 但正文 [第三卷·第12章](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-012-desert-ambush.md) L151–L153 明写：
 > 「儡部长透过墩钢背上的黑洞看着墩常倒地，脸上没有表现出一丝喜悦之情，毕竟，**此时的他已经无法思考**。
 > 一抹脑浆从**丑陋鼠头眉间的血窟窿**缓缓流下，滴落在了沙地上。在儡爵身后，一支带着脑浆的箭头仍在沙地上。」
 > ——**他已在该章死亡**，正确状态应为**已死亡**。
 >
-> **「儡先生」核实**：第二卷·第15章 [L58](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) 起出现「儡先生」——
+> **「儡先生」核实**：第二卷·第15章 [L58](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md) 起出现「儡先生」——
 > 持**木杖**、以**黑雾**灌入兽人口中使其失去意识、在**地上画法阵**索取血精矿与精液；与第三卷「儡爵」的法术体系、
 > 器物（黑木杖）与手法完全一致，正文亦无第二人。本档案据任务要求**一并收录并注明**。
 
@@ -49,7 +49,7 @@
 
 ## 四、登场原文
 
-### [Chapter 15 重返蟒蛇岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)
+### [Chapter 15 重返蟒蛇岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)
 
 本章开头部分该角色未出场。
 
@@ -83,7 +83,7 @@
 
 ---
 
-### [Chapter 4 心灵防御](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md)
+### [Chapter 4 心灵防御](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-004-psychic-defense.md)
 
 本章开头部分该角色未出场。
 
@@ -245,7 +245,7 @@
 
 ---
 
-### [Chapter 6 十二神武之谜](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md)
+### [Chapter 6 十二神武之谜](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md)
 
 本章开头部分该角色未出场。
 
@@ -287,7 +287,7 @@
 
 ---
 
-### [Chapter 8 龙神浮岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
+### [Chapter 8 龙神浮岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md)
 
 > 监控里，一只年迈的牛兽人正被大字型绑在刑架上，双眼无神，嘴里冒着黑气不知死活，而在一旁，儡爵正在和牙董正在交谈。
 >
@@ -311,7 +311,7 @@
 
 ---
 
-### [Chapter 12 沙漠伏击](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md)
+### [Chapter 12 沙漠伏击](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-012-desert-ambush.md)
 
 本章开头部分该角色未出场（自马车内现身起登场）。
 
@@ -467,7 +467,7 @@
 
 ## 七、结局
 
-第二卷·第15章以「儡先生」身份在蟒蛇岛向嗜精兽头目索取血精矿与活体材料。第三卷·第4章主持提拔测试，被岚董当场揭穿并救走大奔；第6章被薛鼎上门问罪；第8章在监控中与牙董交谈。第12章率车队穿越沙漠，被墩常伏击；他以三具冥偶与四名绿制服守卫迎战，最终被墩常拼上性命的最后一箭「满弦·灭神」贯穿——**冥牛墩钢拦在他身前也没能完全挡住，铁箭在他眉间钻出血窟窿，脑浆顺鼠头流下，当场毙命**（[`ch-12`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md) L147–L153）。
+第二卷·第15章以「儡先生」身份在蟒蛇岛向嗜精兽头目索取血精矿与活体材料。第三卷·第4章主持提拔测试，被岚董当场揭穿并救走大奔；第6章被薛鼎上门问罪；第8章在监控中与牙董交谈。第12章率车队穿越沙漠，被墩常伏击；他以三具冥偶与四名绿制服守卫迎战，最终被墩常拼上性命的最后一箭「满弦·灭神」贯穿——**冥牛墩钢拦在他身前也没能完全挡住，铁箭在他眉间钻出血窟窿，脑浆顺鼠头流下，当场毙命**（[`ch-12`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-012-desert-ambush.md) L147–L153）。
 
 ---
 

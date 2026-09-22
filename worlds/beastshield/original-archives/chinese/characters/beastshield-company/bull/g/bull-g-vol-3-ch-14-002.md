@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服 |
 | **身份** | 兽盾公司鼠神武搜寻队员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md) |
-| **最后登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md) |
+| **首次登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md) |
+| **最后登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md) |
 
 ---
 
 ## 四、登场原文
 
-### [鼠神武](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)
+### [鼠神武](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)
 
 > “废话，谁不是第一次见。”旁边一只黄牛兽人附和道。 “话说这东西有什么特殊功能吗，完全看不出啊？”另一只狮子兽人问道。
 

@@ -14,8 +14,8 @@
 | **等级/制服** | 无——**非兽盾编制**，正文未写其制服等级；登场时为浑身赤裸 |
 | **身份** | 白之都一间破旧民租房里的平民，光照会信徒的拉新对象 |
 | **状态** | **已死亡**——两颗卵蛋被白龙兽人五指拧爆，白液黄汁红浆洒满全屋 |
-| **首次登场** | [vol-3-ch-20](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md) |
-| **最后登场** | [vol-3-ch-20](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md) |
+| **首次登场** | [vol-3-ch-20](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-020-identity-merge.md) |
+| **最后登场** | [vol-3-ch-20](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-020-identity-merge.md) |
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 四、登场原文
 
-### [Chapter 20 身份融合](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md)
+### [Chapter 20 身份融合](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-020-identity-merge.md)
 
 > 白之都一间破旧的民租房里，一只浑身赤裸满脸横肉的野猪兽人正躺在泛黄的床单上，发出一阵阵舒爽的呻吟，他虽然四肢粗壮孔武有力，但肚子上那圈长毛的肥肉依旧让他魅力全失。
 
@@ -90,5 +90,5 @@
 
 ---
 
-*档案来源：主线第三卷《白之都》[第20章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md)*
+*档案来源：主线第三卷《白之都》[第20章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-020-identity-merge.md)*
 *创建日期：2026-09-17*

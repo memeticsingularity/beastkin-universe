@@ -12,13 +12,13 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤 |
 | **身份** | 十一层熊族领地·熊组长手下守卫 |
 | **状态** | **已死亡**——落入春药池或吸入过量春药蒸汽致死 |
-| **登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) |
+| **登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-08：炼药房之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)
+### [vol-2-ch-08：炼药房之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)
 
 > 熊守卫们这才明白魔影是故意引诱他们上来，在管道上他们根本不是身手敏捷的魔影的对手，为首的几个转身就逃，但后面上来守卫的还没有反应过来，于是一堆人堵在了管道上进退两难。
 >

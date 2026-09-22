@@ -61,7 +61,7 @@
 
 ## 四、登场原文
 
-### [炎魉·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
+### [炎魉·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md)
 
 > **魉**闻言走了进去，只见**会议室**中间有一张**大圆桌**，**大圆桌**旁围坐了八只**兽人**，四只**黑制服**四只**白制服**，从他们肩膀上的**印章**可以看出他们应该不是普通的士兵，而是具有一定官职的人员，他们此时都趴在桌上一动不动，脖子上均有一处隐约可见的血孔。
 >
@@ -117,4 +117,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)*
+*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md)*

@@ -12,13 +12,13 @@
 | **等级/制服** | G级 · 军绿短袖+军绿短裤+白袜+运动鞋 |
 | **身份** | 蟒蛇岛主营守卫 |
 | **状态** | **已死亡**——吸食春药烟后装死被魔影发现，被撸到汁液四溅哀嚎毙命 |
-| **登场** | [vol-2-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md) |
+| **登场** | [vol-2-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-14：蟒蛇岛回忆·下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md)
+### [vol-2-ch-14：蟒蛇岛回忆·下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md)
 
 > 此时的魔影也将最后一只打算装死混过去的牛兽人撸到汁液四溅、哀嚎毙命，他起身夸赞了一下白熊，然后走到桌边，好奇的打开铁箱。里面摆着一块红色的水晶，泛着鲜血般的红光。魔影伸手欲拿，白熊惊呼想要阻止，但已经晚了一步。
 

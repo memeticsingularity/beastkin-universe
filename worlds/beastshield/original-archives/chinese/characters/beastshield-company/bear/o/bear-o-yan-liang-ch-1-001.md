@@ -12,8 +12,8 @@
 | **等级/制服** | O级监工 · 蓝色制服+蓝运动鞋 |
 | **身份** | 兽盾新兵训练基地组长（刚上任） |
 | **状态** | **已死亡**——在办公室背文件时被炎闯入，掐喉摁墙握根运功，咬牙强忍后终于破防射精而死 |
-| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
-| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
+| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md) |
+| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)
+### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md)
 
 > **炎**走进一间**办公室**，里面一只穿着**蓝制服**的**白熊**正在看文件，似乎在背诵上面。见**炎**闯入，喝问道：“你是什么人！”见**炎**并不回答只是不怀好意的走进，他毫不犹豫的拿出**手枪**朝**炎**射击，但是**子弹**打在**炎**身上全都弹了开来。
 >
@@ -83,4 +83,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)*
+*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md)*

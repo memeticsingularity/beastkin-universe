@@ -12,8 +12,8 @@
 | **等级/制服** | O级监工 · 蓝色制服 |
 | **身份** | 数据中心夜班值守员工（电脑操作） |
 | **状态** | **已死亡**——被老雷捂住嘴匕首扎进喉咙一拧，两腿一蹬安静死在工位 |
-| **首次登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
-| **最后登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
+| **首次登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md) |
+| **最后登场** | [s-3-ch2-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch2-1：情报部门（第二章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)
+### [s-3-ch2-1：情报部门（第二章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md)
 
 > 现在是傍晚，数据中心里只有两只穿着蓝色制服的兽盾员工在值班，其中一只水牛兽人靠在椅子上双腿搭在桌子上在打瞌睡，另一只熊兽人则在电脑前操作着什么。
 >
@@ -51,6 +51,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)*
+*档案来源：老雷突袭情报局 [第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

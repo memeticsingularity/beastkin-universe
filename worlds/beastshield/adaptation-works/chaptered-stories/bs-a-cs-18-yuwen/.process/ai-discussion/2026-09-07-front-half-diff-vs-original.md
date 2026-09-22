@@ -25,40 +25,40 @@
 
 | 序号 | 原作内容（路径:行号） | 余温版处理 | 影响 |
 |------|----------------------|-----------|------|
-| 1 | **犀牛被炎扔来 → 魉第一次发火 → 炎愣住 → 妥协**（[ch-1](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L79)-85） | 删除，蓝虎之后直接跳到野猪 | 炎魉关系弧光最关键的转折点被砍掉 |
-| 2 | **牛守卫「敏感点=乳头」、渗奶段**（[ch-1](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L87)-110） | 删除 | 首个"炎会问敏感点、给猎物一点人道"的细节没了 |
-| 3 | **熊猫的回转楼梯碾压 / 精液池 /** 尸体滚落成河（[ch-3](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md#L117)-138） | 淡出为虚写——"片刻钟头，屋外惨叫此起彼伏" | 原作视觉冲击最强的一段宏观屠杀秀被抽真空 |
+| 1 | **犀牛被炎扔来 → 魉第一次发火 → 炎愣住 → 妥协**（[ch-1](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md#L79)-85） | 删除，蓝虎之后直接跳到野猪 | 炎魉关系弧光最关键的转折点被砍掉 |
+| 2 | **牛守卫「敏感点=乳头」、渗奶段**（[ch-1](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md#L87)-110） | 删除 | 首个"炎会问敏感点、给猎物一点人道"的细节没了 |
+| 3 | **熊猫的回转楼梯碾压 / 精液池 /** 尸体滚落成河（[ch-3](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md#L117)-138） | 淡出为虚写——"片刻钟头，屋外惨叫此起彼伏" | 原作视觉冲击最强的一段宏观屠杀秀被抽真空 |
 
 ### 三、改写了什么（把"死透"改成"余温"）——核心改动
 
-1. **白熊组长**（[ch-1](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L41)-53 → `1.md#L16`-34）
+1. **白熊组长**（[ch-1](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md#L41)-53 → `1.md#L16`-34）
    原作简写处决+尸体。余温版做了两处升级：
    - 处决后加**贴身摸尸搜查**（摸胸腹、翻口袋、碰熊根卵袋）——把"尸体消磁"仪式化成搜查动作；
    - 野猪压上尸堆时，白熊"那根依旧半勃的粗肥肉棒……又缓缓流出几小段白浊，胸膛似乎还有极浅的起伏"——**原作里白熊死透了，余温让他"死不透"。**
 
-2. **黑制服熊守卫**（[ch-2](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md#L52)-66 → `1.md#L84`-94）
+2. **黑制服熊守卫**（[ch-2](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-002-office-clearance.md#L52)-66 → `1.md#L84`-94）
    余温版强化"死后吐白浆"：炎换完装，魉捏胸肌，熊守卫"那根依旧梆硬的肉棒又不受控制地吐出几口白浆"——又一处"死不透"。
 
-3. **白制服虎守卫**（[ch-2](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md#L68)-108 → `1.md#L96`-122）
+3. **白制服虎守卫**（[ch-2](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-002-office-clearance.md#L68)-108 → `1.md#L96`-122）
    余温版把羞辱美学推到极致（玩乳头、"水晶虾饺"、"留下最难忘纪念品"），且在魉把白袜盖回肉茎后，"又挤出一小缕白浊"——同样是"死不透"。
 
-4. **狮子兽人尸体**（[ch-2](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md#L135)-143 → `1.md#L136`-151）——**最大胆的一处**
+4. **狮子兽人尸体**（[ch-2](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-002-office-clearance.md#L135)-143 → `1.md#L136`-151）——**最大胆的一处**
    原作里狮子是"死透的幽灵尸体"，炎捏胸肌、看手茧分析完就撤。
    余温版里狮子**带着余温倒出来，肉棒抵在炎小腹上**；炎被狗兽人臀部的磨蹭 + 狮子的滚烫余温点燃，**把狮子M字抬起、直接对尸体射了进去**，射完说"算我的"。原作的"死后亵玩（轻度）"在此升级为"余温发情"，这是**把标题《余温》第一次落到实处**。
 
-5. **犀牛老兵**（[ch-3](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md#L52)-67 → `1.md#L169`-195）——**情感上最重的改写**
+5. **犀牛老兵**（[ch-3](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md#L52)-67 → `1.md#L169`-195）——**情感上最重的改写**
    原作：炎"敬佩"→放腿上温柔运功→让老兵"第二次高潮"干净送走（炎的神性时刻）。
    余温版：犀牛**全程清醒意识到死亡**，绝望像冰水浇透；运功时他垂死挣扎、颤抖着掰炎的手腕、**把自己的食指插进自己的马眼**想用疼痛压住高潮；炎"静静看了两秒"再抽掉手指，榨干他。那滴"顺着脸向下滑落的精水……像在替已经没了反应的犀牛老兵，不甘地、无声地哭泣"，是前段最动人一笔。
 
-6. **黑牛兽人 / 关押室**（[ch-3](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md#L79)-87 → `1.md#L199`-232）——**直接铺路"新编队"**
+6. **黑牛兽人 / 关押室**（[ch-3](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md#L79)-87 → `1.md#L199`-232）——**直接铺路"新编队"**
    原作：被银狼抓住的是**白制服牛守卫**，开门后**直接拧断脖子**死透。
    余温版：换成**黑牛**，银狼**不杀他**，而是两针扎进乳头 + 催情药；黑牛硬撑到射精、瘫在精泊里，两根银针还斜插在红肿乳头上随呼吸微颤。**他没死**——成了"第一个死不透的实证"，且埋下"乳头敏感 + 催情抗性 + 奶水"伏笔，直接通向三月后的司机黑牛。
 
 ### 四、几乎逐字保留的部分
 
-- 开头虎守卫 / 狗守卫处决（[ch-1](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L14)-38 → `1.md#L3`-15）
-- 办公室堆尸全景 / 精液水洼 / "诸位安息"（[ch-1](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md#L132)-134 → `1.md#L60`-61）
-- 牙董问责、牛兽人自尽、扔垃圾箱（[ch-3](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md#L140)-157 → `1.md#L250`-258）——**几乎逐字**
+- 开头虎守卫 / 狗守卫处决（[ch-1](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md#L14)-38 → `1.md#L3`-15）
+- 办公室堆尸全景 / 精液水洼 / "诸位安息"（[ch-1](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md#L132)-134 → `1.md#L60`-61）
+- 牙董问责、牛兽人自尽、扔垃圾箱（[ch-3](../../../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md#L140)-157 → `1.md#L250`-258）——**几乎逐字**
 - 但牙董段末尾**多了一句原作没有的话**："听说……还有从袭击里没有死透的？带我去看看吧。"（`1.md#L259`）——这句是承上启下的枢纽。
 
 ### 五、我更喜欢哪个版本？

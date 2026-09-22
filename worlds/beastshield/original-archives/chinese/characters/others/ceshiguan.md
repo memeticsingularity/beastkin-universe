@@ -16,8 +16,8 @@
 | **身份** | 兽盾组织人力资源部**提拔科**的测试官，负责红石药剂提拔测试的注射、观察与记录 |
 | **隶属** | 兽盾组织 → 人力资源部 → 提拔科 |
 | **状态** | **存活**（本章内）——射精测试全程在场，章末仍在安排后续批次 |
-| **首次登场** | [vol-3-ch-01](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md)（正文第33行“四张长椅并排摆在测试官面前”） |
-| **最后登场** | [vol-3-ch-01](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md) |
+| **首次登场** | [vol-3-ch-01](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-001-promotion-test.md)（正文第33行“四张长椅并排摆在测试官面前”） |
+| **最后登场** | [vol-3-ch-01](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-001-promotion-test.md) |
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 四、登场原文
 
-### [Chapter 1 晋升测试](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md)
+### [Chapter 1 晋升测试](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-001-promotion-test.md)
 
 > 科室门内，四张长椅并排摆在测试官面前，四只兽人按要求坐在了椅子上，他们刚一坐上，椅子上的自动锁就自动启动将他们牢牢固定在椅子上。
 
@@ -117,5 +117,5 @@
 
 ---
 
-*档案来源：主线第三卷《白之都》[第一章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md)*
+*档案来源：主线第三卷《白之都》[第一章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-001-promotion-test.md)*
 *创建日期：2026-09-17*

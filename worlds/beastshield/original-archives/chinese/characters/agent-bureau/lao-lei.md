@@ -14,10 +14,10 @@
 | **别名** | 老雷（代号） |
 | **隶属** | 特工局 / Agent Bureau |
 | **师父** | 熊猫（第一卷） |
-| **状态** | **已死亡**——在浮岛最终决战中被血君王的邪火焚烧殆尽（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)） |
+| **状态** | **已死亡**——在浮岛最终决战中被血君王的邪火焚烧殆尽（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)） |
 | **首次登场（时间线）** | 短篇《毕业实习》（[bs-o-s-7](../../short-stories/bs-o-s-7-graduation-internship/chapters/bs-o-s-7-graduation-internship.md)） |
-| **首次登场（主线）** | 第一卷·第11章特工局会议（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)） |
-| **最后登场** | 第三卷·第21章（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)） |
+| **首次登场（主线）** | 第一卷·第11章特工局会议（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)） |
+| **最后登场** | 第三卷·第21章（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)） |
 
 ---
 
@@ -28,15 +28,15 @@
 **第二卷《魔影》**（`main/bs-o-cm-1-main-story-2/`）
 | 章节 | 文件 | 章节 | 文件 |
 |:----:|:-----|:----:|:-----|
-| ch-5 | [`厨房与致命午餐`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)（被提及） | ch-10 | [`十三层潜入`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md) |
-| ch-6 | [`老雷登场`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) | ch-11 | [`冥府牛头之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) |
-| ch-8 | [`炼药房之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)（被提及+登场） | ch-9 | [`走廊清理`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md) |
-| ch-12 | [`教学篇`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md)（被提及） | | |
+| ch-5 | [`厨房与致命午餐`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md)（被提及） | ch-10 | [`十三层潜入`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md) |
+| ch-6 | [`老雷登场`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md) | ch-11 | [`冥府牛头之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) |
+| ch-8 | [`炼药房之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)（被提及+登场） | ch-9 | [`走廊清理`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md) |
+| ch-12 | [`教学篇`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md)（被提及） | | |
 
 **第一卷《兽游世界》**（`main/bs-o-cm-1-main-story-1/`）
 | 章节 | 文件 |
 |:----:|:-----|
-| ch-11 | [`特工局会议`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)（以年轻红虎身份登场） |
+| ch-11 | [`特工局会议`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)（以年轻红虎身份登场） |
 
 **短篇**
 | 作品 | 文件 |
@@ -51,8 +51,8 @@
 **第三卷《白之都》**（`main/bs-o-cm-1-main-story-3/`）
 | 章节 | 文件 | 章节 | 文件 |
 |:----:|:-----|:----:|:-----|
-| ch-12 | [`沙漠伏击`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md)（被提及） | ch-16 | [`血君王复活`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md) |
-| ch-15 | [`最终之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md) | ch-21 | [`神曲对决`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) |
+| ch-12 | [`沙漠伏击`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-012-desert-ambush.md)（被提及） | ch-16 | [`血君王复活`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md) |
+| ch-15 | [`最终之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md) | ch-21 | [`神曲对决`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md) |
 
 ---
 
@@ -64,7 +64,7 @@
 
 ### 2.2 标志性装备
 
-- **焚阳破城炮（神武）**：右手佩戴的黑铁臂铠。在浮岛决战时首次展示——“右手戴着一副黑铁臂铠，配合着自己身上散发出的强烈灼气，使他看起来威武不凡”（[vol-3-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)）
+- **焚阳破城炮（神武）**：右手佩戴的黑铁臂铠。在浮岛决战时首次展示——“右手戴着一副黑铁臂铠，配合着自己身上散发出的强烈灼气，使他看起来威武不凡”（[vol-3-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md)）
 
 ---
 
@@ -72,18 +72,18 @@
 
 ### 3.1 核心性格
 
-- **年轻时的理想主义**：初入特工局时嫉恶如仇，黑白分明——“能在兽盾里当过官，一定不是什么好东西！”（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)）。与多年后成熟务实、与魔影插科打诨的形象形成鲜明反差
-- **暴力直接**：与魔影精巧的处决风格完全相反，崇尚简单粗暴——一拳解决。魔影评价：“糟蹋肥美的肉体”（[vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)）
-- **严重洁癖**：每次厮杀后必定清理现场，将尸体摆放整齐，擦拭精液。自称“只是想在一个良好的工作环境下工作”（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)）
-- **嘴硬心软**：嘴上嫌弃魔影“杀个人磨磨唧唧”（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)），但二人配合默契，在危机关头互相信任
-- **好战不屈**：面对强者（如阿宝部长）时兴奋不已，“我想找的就是你，上次打得不过瘾，这次让我们打个痛快，不死不休”（[vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)）
-- **重情重义**：在曲先生挺身迎战血君王时，老雷“语气里带着一丝恐惧，脸上第一次浮现惊慌的表情”（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)）
+- **年轻时的理想主义**：初入特工局时嫉恶如仇，黑白分明——“能在兽盾里当过官，一定不是什么好东西！”（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)）。与多年后成熟务实、与魔影插科打诨的形象形成鲜明反差
+- **暴力直接**：与魔影精巧的处决风格完全相反，崇尚简单粗暴——一拳解决。魔影评价：“糟蹋肥美的肉体”（[vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md)）
+- **严重洁癖**：每次厮杀后必定清理现场，将尸体摆放整齐，擦拭精液。自称“只是想在一个良好的工作环境下工作”（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)）
+- **嘴硬心软**：嘴上嫌弃魔影“杀个人磨磨唧唧”（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)），但二人配合默契，在危机关头互相信任
+- **好战不屈**：面对强者（如阿宝部长）时兴奋不已，“我想找的就是你，上次打得不过瘾，这次让我们打个痛快，不死不休”（[vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)）
+- **重情重义**：在曲先生挺身迎战血君王时，老雷“语气里带着一丝恐惧，脸上第一次浮现惊慌的表情”（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)）
 
 ### 3.2 行为模式
 
-- **处决偏好**：以拳击/掌击注入灼流暗劲为主，追求效率而非仪式感。偶尔尝试模仿魔影的手法但效果极差（“力道控制不住，下手不知轻重”[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)）
+- **处决偏好**：以拳击/掌击注入灼流暗劲为主，追求效率而非仪式感。偶尔尝试模仿魔影的手法但效果极差（“力道控制不住，下手不知轻重”[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)）
 - **战后仪式**：必须打扫现场、整理尸体、擦拭精液。随身携带手帕
-- **“蓝药”机制**：开启十层灼流暗劲（焚体缠身）后需要以肛交方式泄火，否则欲火焚身而死（[vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)）
+- **“蓝药”机制**：开启十层灼流暗劲（焚体缠身）后需要以肛交方式泄火，否则欲火焚身而死（[vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)）
 
 ---
 
@@ -143,7 +143,7 @@
 
 ---
 
-### [Chapter 11 特工局](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)
+### [Chapter 11 特工局](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)
 
 本章开头部分该角色未出场。
 
@@ -263,13 +263,13 @@
 
 ---
 
-### [Chapter 5 厨房与致命午餐](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)
+### [Chapter 5 厨房与致命午餐](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md)
 
 本章老雷本人**未到场**：全章为魔影在一至十层的潜入猎杀（POV 为魔影），老雷不在任何场景中，仅在本章末尾总部来电中被点名（ch-5 正文 L67「现在老雷应该已经到一层了，他将会和你一起完成任务」），紧接的 L69 魔影以「那个暴力男」指代他。按「登场原文」口径（角色在场景中出场／被点名）无可引用段落，故不设 blockquote。
 
 ---
 
-### [Chapter 6 老雷登场](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)
+### [Chapter 6 老雷登场](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)
 
 > 大楼一层的走廊里，一小队身穿绿色制服的低层守卫兽人在一个蓝白制服兽人的带领下有序的走了进来，他们就是从其他分部叫来的支援。走廊的尽头，一个身材魁梧年过三旬的神秘人正盘腿坐在地上闭目养神，见守卫们进来后，缓缓站了起来。
 >
@@ -375,7 +375,7 @@
 
 ---
 
-### [Chapter 8 炼药房之战](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)
+### [Chapter 8 炼药房之战](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)
 
 > “啧，看来遇到克星了，最讨厌对付练金钟罩的硬茬了，这种人就应该留给老雷那种混蛋对付。。。”
 
@@ -387,7 +387,7 @@
 
 ---
 
-### [Chapter 9 走廊清理](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)
+### [Chapter 9 走廊清理](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)
 
 > “喂？。。喂？。。奇怪，其他小队的人怎么突然都联系不上了，是不是对讲机出了故障。”一只身材壮硕的牛兽人守卫将对讲机插回腰间，跟着其他六名队友来到了一楼楼梯口的走廊，只见一名从未见过的兽人正在认认真真的拖地，见到他们的到来，露出一副懊恼的表情。
 >
@@ -543,7 +543,7 @@
 
 ---
 
-### [Chapter 10 十三层潜入](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)
+### [Chapter 10 十三层潜入](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md)
 
 > 刑房内一身黑制服的牛组长和一名手下正在审讯魔影，可是无论他怎么用刑，魔影只是一脸蔑视的看着他，什么也不说。这时，刑房门被打开，牛跟班推着老雷走了进来。
 >
@@ -639,7 +639,7 @@
 
 ---
 
-### [Chapter 11 冥府牛头之战](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)
+### [Chapter 11 冥府牛头之战](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)
 
 > 警铃一响，本层所有守卫陆陆续续从入口处涌了进来，看到牛组长的惨状，几十只牛兽人愤愤不平将两人围在中间，摩拳擦掌誓要将两人碎尸万段，牛跟班则趁乱钻入人群后方。
 >
@@ -721,13 +721,13 @@
 
 ---
 
-### [Chapter 12 教学篇](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md)
+### [Chapter 12 教学篇](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md)
 
 本章老雷本人**未到场**：全章为特工本部小教室内的处决教学（POV 为小豪与老师），老雷不在任何场景中，仅在开篇叙述中被点名（ch-12 正文 L9「在魔影和老雷撤离后，上级便派军队清理了这栋大楼」）。按「登场原文」口径无可引用段落，故不设 blockquote。
 
 ---
 
-### [Chapter 3 仓库复仇](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md)
+### [Chapter 3 仓库复仇](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-003-warehouse-vengeance.md)
 
 > “你说什么！老熊的道馆被灭了？”一只身材魁梧、年过三旬的红毛壮虎惊愕的站起身吼道。
 >
@@ -925,7 +925,7 @@
 
 ---
 
-### [Chapter 6 十二神武之谜](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md)
+### [Chapter 6 十二神武之谜](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md)
 
 > 特工局总司令办公室，老雷被门口站岗的两位身着军装的兽人士兵搜身后，走进去大喇喇的坐在椅子上翘起了二郎腿。
 >
@@ -1265,19 +1265,19 @@
 
 ---
 
-### [Chapter 12 沙漠伏击](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md)
+### [Chapter 12 沙漠伏击](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-012-desert-ambush.md)
 
 本章该角色未直接出场（原文中仅以旧事形式被提及：老雷曾试着拉过夔牛弓），故无登场原文段落。
 
 ---
 
-### [Chapter 14 鼠族神武](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)
+### [Chapter 14 鼠族神武](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)
 
 经穷举检索（老雷／雷神寰／雷炎寰），本章正文未出现该角色，故无登场原文段落。
 
 ---
 
-### [Chapter 15 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)
+### [Chapter 15 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md)
 
 本章开头部分该角色未出场。
 
@@ -1289,7 +1289,7 @@
 
 ---
 
-### [Chapter 16 血王复活](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)
+### [Chapter 16 血王复活](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)
 
 本章开头部分该角色未出场。
 
@@ -1345,7 +1345,7 @@
 
 ---
 
-### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)
+### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)
 
 本章开头部分该角色未出场。
 
@@ -1407,7 +1407,7 @@
 
 ---
 
-### [Chapter 1 别墅夜袭](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)
+### [Chapter 1 别墅夜袭](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-001-villa-night-raid.md)
 
 本章开头部分该角色未出场。
 
@@ -1683,7 +1683,7 @@
 
 ---
 
-### [Chapter 2 情报部门](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)
+### [Chapter 2 情报部门](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md)
 
 本章开头部分该角色未出场。
 
@@ -2079,7 +2079,7 @@
 
 ---
 
-### [Chapter 3 颜部长的清算与追击](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
+### [Chapter 3 颜部长的清算与追击](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md)
 
 本章开头部分该角色未出场。
 
@@ -2143,7 +2143,7 @@
 
 ---
 
-### [Chapter 4 暗室三座浪青平](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)
+### [Chapter 4 暗室三座浪青平](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md)
 
 本章开头部分该角色未出场。
 
@@ -2323,19 +2323,19 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **灼流暗劲** | 击中目标时将一股灼热暗劲传导至前列腺，使其中拳后立刻勃起射精，精尽而亡 | [vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) |
-| **焚体缠身（十层灼流暗劲）** | 将内功激发到极致，浑身变得血红甚至冒出火星，战力与抗性成倍增加。之后必须“泄火”，否则自焚而亡 | [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) |
-| **外练金身** | 麻醉枪子弹射中“全都被弹开”（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)），电击棍也无法击晕 | [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) |
+| **灼流暗劲** | 击中目标时将一股灼热暗劲传导至前列腺，使其中拳后立刻勃起射精，精尽而亡 | [vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md) |
+| **焚体缠身（十层灼流暗劲）** | 将内功激发到极致，浑身变得血红甚至冒出火星，战力与抗性成倍增加。之后必须“泄火”，否则自焚而亡 | [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) |
+| **外练金身** | 麻醉枪子弹射中“全都被弹开”（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)），电击棍也无法击晕 | [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) |
 
 ### 5.2 神武：焚阳破城炮
 
-右手佩戴的黑铁臂铠型神武，在浮岛决战中首次亮相。能够大幅增强老雷的破坏力（[vol-3-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)）。
+右手佩戴的黑铁臂铠型神武，在浮岛决战中首次亮相。能够大幅增强老雷的破坏力（[vol-3-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md)）。
 
 ### 5.3 弱项
 
-- **不擅长精巧手法**：尝试模仿魔影的处决方式“力道控制不住”，对手被折磨到“奶子都被捏到血肿，鸡巴都硬到出血”也未射精（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)）
+- **不擅长精巧手法**：尝试模仿魔影的处决方式“力道控制不住”，对手被折磨到“奶子都被捏到血肿，鸡巴都硬到出血”也未射精（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)）
 - **爆发后脆弱**：焚体缠身后有严重后遗症，必须立即泄火
-- **弓力有限**：曾试拉神武夔牛弓，“使出全力也只能拉开四分之一”（[vol-3-ch-12](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md)）
+- **弓力有限**：曾试拉神武夔牛弓，“使出全力也只能拉开四分之一”（[vol-3-ch-12](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-012-desert-ambush.md)）
 
 ---
 
@@ -2353,7 +2353,7 @@
 - 战后洁癖发作：用黄虎尸体清洁肉棒上的残精
 - **满分毕业**
 
-**年轻红虎——熊猫之徒**（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)）
+**年轻红虎——熊猫之徒**（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)）
 
 在特工局秘密基地的会议室中，以“年轻的红虎兽人”身份首次在主线登场：
 
@@ -2363,24 +2363,24 @@
 - 羡慕神武：看到总司令给玩家戴上青雉缚阳锁时感叹“简直是暴殄天物啊！”
 - 性格对比：此时的年轻红虎热血冲动、黑白分明，与多年后（Vol.2）成熟老练、与魔影配合无间的老雷形成鲜明反差
 
-### 6.1 大楼潜入任务（[vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md) ~ [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)）
+### 6.1 大楼潜入任务（[vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md) ~ [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)）
 
 **背景**：魔影独自潜入兽盾大楼清剿守卫，被头目识破后总部派老雷支援。
 
-**镇守一楼**（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)）：
+**镇守一楼**（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)）：
 - 盘腿坐在一楼走廊尽头闭目养神，等待增援守卫
 - 秒杀多波增援小队：一拳击中即令目标射精而死
 - 战后将尸体搬运至厕所摆放整齐，擦拭精液，打扫走廊
-- 处决动作极快——“十几秒的时间”解决一只壮硕蓝虎兽人（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)）
+- 处决动作极快——“十几秒的时间”解决一只壮硕蓝虎兽人（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)）
 
-**走廊清理**（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)）：
+**走廊清理**（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)）：
 - 刚拖完地又来一批增援——“我才刚拖完地，怎么又来一批”
 - 处决虎守卫（捏碎卵蛋挤精，用玻璃瓶收集，灌回虎守卫嘴里）
 - 快速击杀白虎+野猪+犀牛+狮子+豹+狗守卫
 - 俘虏牛兽人守卫，让其清点尸体（共31具）并打扫走廊
 - 为救魔影，带牛跟班前往十三层
 
-**十三层潜入——营救魔影**（[vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)）：
+**十三层潜入——营救魔影**（[vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md)）：
 - 故意被牛跟班“押送”至刑房，与魔影里应外合
 - 与魔影同时发难——“演技真烂！”
 - 处决犀牛守卫（残虐手法，捏乳至血肿）
@@ -2388,31 +2388,31 @@
 - 处决水牛守卫（一拳击腹射精，未死透）
 - 让牛跟班换装并“送一程”水牛（口交处决）
 
-**冥府牛头之战**（[vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)）：
+**冥府牛头之战**（[vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)）：
 - 单挑全层30+牛守卫，开启十层灼流暗劲（焚体缠身）
 - 浴血奋战，踩在几十具牛兽人尸体顶端成为唯一的胜者
 - 战后被魔影提供“蓝药”（牛跟班肛交泄火）
 - 与嗜精兽头目对峙，对方吸收全场精液后逃走
 - 任务失败，与魔影撤回特工局
 
-### 6.2 翠绿遗迹被提及（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)）
+### 6.2 翠绿遗迹被提及（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)）
 
 魔影在独自执行鼠神武任务时被提及——魔影嫌弃老雷不在时须独自开车（老雷平时负责驾驶）。
 
-### 6.3 浮岛最终决战（[vol-3-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md) ~ [vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)）
+### 6.3 浮岛最终决战（[vol-3-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md) ~ [vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)）
 
-**到达浮岛**（[vol-3-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)）：
+**到达浮岛**（[vol-3-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md)）：
 - 与总司令、勤川、曲先生一同乘战斗机抵达
 - 右手佩戴焚阳破城炮，浑身散发灼气
 - 曲先生叮嘱“不要莽撞”
 
-**血君王复活之战**（[vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)）：
+**血君王复活之战**（[vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)）：
 - 从蓝制服灰熊手中救下白虎特工——单手掐颈提起300多斤灰熊
 - 一拧碎喉，灰熊站着射精而死
 - 与水牛嗜精兽对决——一拳击腹（对方承受一击未立刻死）
 - 与**阿宝部长**单挑——热血沸腾，“不死不休”，双方互有攻防
 
-**最终决战之后**（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)）：
+**最终决战之后**（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)）：
 - 大战后精疲力尽，坐在地上大口喘气，连站起来的力气都没有
 - 曲先生吹奏春潮代谢曲助其恢复
 - 血君王降临，老雷瞬间炸毛，护在曲先生身前
@@ -2423,7 +2423,7 @@
 
 ## 七、杀戮履历
 
-### [vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) 一楼镇守（9人）
+### [vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md) 一楼镇守（9人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:------|
@@ -2437,7 +2437,7 @@
 | 8 | 黑豹兽人守卫 | 豹 | 掐颈窒息→暗劲射精 | 用手帕包龟头防精液飞溅 |
 | 9 | 熊兽人守卫 | 熊 | 拧断脖子→暗劲射精 | 最听话的一个，精液全射入小便池 |
 
-### [vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md) 走廊清理（13人）
+### [vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md) 走廊清理（13人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:------|
@@ -2452,7 +2452,7 @@
 
 > *注：ch-9开头老雷处决的“31人”为累计总数（包含ch-6击杀数）。此处仅列出ch-9中新击杀的目标。*
 
-### [vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md) 十三层潜入（6人）
+### [vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md) 十三层潜入（6人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:------|
@@ -2463,14 +2463,14 @@
 | 22 | 门口牛守卫③ | 牛 | 勒颈制服 | 被牛跟班处理（未详细描写） |
 | 23 | 门口牛守卫④ | 牛 | 勒颈制服 | 同上 |
 
-### [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) 牛族群战（30+人）
+### [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) 牛族群战（30+人）
 
 | 目标 | 数量 | 方式 | 备注 |
 |:-----|:----:|:------|:------|
 | 牛守卫群 | 30+ | 十层灼流暗劲·焚体缠身一对多群战 | 全层牛守卫围歼，老雷踩在几十具尸体顶端成为唯一胜者 |
 | 牛跟班（“蓝药”） | 1 | 肛交泄火致死 | 魔影提供作为泄火工具，注入灼热精液后牛跟班浑身发烫射精而死 |
 
-### [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md) 浮岛战场（2人）
+### [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md) 浮岛战场（2人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:------|
@@ -2510,17 +2510,17 @@
 ### 熊猫 / Panda（师父）
 
 - 特工局资深成员，年过中旬的熊猫兽人，老雷的师父
-- 老雷对师父口无遮拦：称其“你这老不死的少装，你折磨我的时候怎么没见你疲软？”（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)）
+- 老雷对师父口无遮拦：称其“你这老不死的少装，你折磨我的时候怎么没见你疲软？”（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)）
 - 虽是师徒关系但相处随意，熊猫对他的无礼并不在乎
 - 老雷的灼流暗劲与战斗风格很大可能传承自熊猫
 
 ### 魔影 / Shadow Demon（[搭档](mo-ying.md)）
 
 - 长期搭档，风格截然相反但互补
-- 魔影嫌弃老雷“糟蹋肥美的肉体”（[vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)）
-- 老雷嫌魔影“杀个人磨磨唧唧”（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)）
-- 配合默契：[vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)中老雷故意被俘与魔影里应外合，同时发难
-- 老雷重伤时，魔影提供“蓝药”帮他泄火（[vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)）
+- 魔影嫌弃老雷“糟蹋肥美的肉体”（[vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md)）
+- 老雷嫌魔影“杀个人磨磨唧唧”（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)）
+- 配合默契：[vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md)中老雷故意被俘与魔影里应外合，同时发难
+- 老雷重伤时，魔影提供“蓝药”帮他泄火（[vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)）
 
 ### 小雷 / Xiaolei（儿子）
 
@@ -2530,7 +2530,7 @@
 ### 曲先生 / Mr. Qu
 
 - 特工局战友，神武天籁持有者
-- 曲先生吹奏春潮代谢曲为老雷疗伤（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)）
+- 曲先生吹奏春潮代谢曲为老雷疗伤（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)）
 - 老雷在血君王面前本能地护在曲先生身前
 - 曲先生战死后，老雷紧随其后被烧死
 
@@ -2542,12 +2542,12 @@
 ### 阿宝部长 / A Bao
 
 - 兽盾部长级高手，熊猫兽人
-- 老雷两次与阿宝交手：第一次“没打过瘾”，第二次在浮岛“不死不休”（[vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)）
+- 老雷两次与阿宝交手：第一次“没打过瘾”，第二次在浮岛“不死不休”（[vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)）
 
 ### 墩常 / Dunchang
 
 - 神武夔牛弓持有者，水牛村人
-- 老雷曾试拉夔牛弓，“使出全力也只能拉开四分之一”（[vol-3-ch-12](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md)）
+- 老雷曾试拉夔牛弓，“使出全力也只能拉开四分之一”（[vol-3-ch-12](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-012-desert-ambush.md)）
 
 ---
 
@@ -2556,15 +2556,15 @@
 | 对手 | 结果 | 出处 | 备注 |
 |:-----|:----:|:----|:------|
 | 兽盾仓库6守卫 | ✅ 胜 | [bs-o-s-7](../../short-stories/bs-o-s-7-graduation-internship/chapters/bs-o-s-7-graduation-internship.md) | 毕业实习，单人清场 |
-| 牛守卫（一楼） | ✅ 胜 | [vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) | 一拳秒杀 |
-| 熊领队（一楼） | ✅ 胜 | [vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) | 三拳击毙 |
-| 犀牛守卫 | ✅ 胜 | [vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md) | 残虐处决 |
-| 牛守卫群（30+） | ✅ 胜 | [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) | 开启焚体缠身，一对多群战 |
-| 嗜精兽头目 | ⚠️ 未分胜负 | [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) | 对方吸精后撤退 |
-| 灰熊嗜精兽 | ✅ 胜 | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md) | 单手掐颈拧碎喉骨 |
-| 水牛嗜精兽 | ✅ 胜 | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md) | 一拳击腹灼流暗劲 |
-| **阿宝部长** | ⚠️ 未分胜负 | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md) | 双方热血沸腾，被曲先生笛声打断 |
-| **血君王** | ❌ 败（死亡） | [vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) | 精疲力尽状态下被邪火烧死 |
+| 牛守卫（一楼） | ✅ 胜 | [vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md) | 一拳秒杀 |
+| 熊领队（一楼） | ✅ 胜 | [vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md) | 三拳击毙 |
+| 犀牛守卫 | ✅ 胜 | [vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md) | 残虐处决 |
+| 牛守卫群（30+） | ✅ 胜 | [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) | 开启焚体缠身，一对多群战 |
+| 嗜精兽头目 | ⚠️ 未分胜负 | [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) | 对方吸精后撤退 |
+| 灰熊嗜精兽 | ✅ 胜 | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md) | 单手掐颈拧碎喉骨 |
+| 水牛嗜精兽 | ✅ 胜 | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md) | 一拳击腹灼流暗劲 |
+| **阿宝部长** | ⚠️ 未分胜负 | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md) | 双方热血沸腾，被曲先生笛声打断 |
+| **血君王** | ❌ 败（死亡） | [vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md) | 精疲力尽状态下被邪火烧死 |
 
 **胜负记录：8胜 · 1败 · 2未分胜负**
 
@@ -2573,14 +2573,14 @@
 ## 十、主要事迹总结
 
 1. **毕业实习满分毕业**——雷炎寰单人攻破兽盾仓库，击杀6名守卫，首次展示灼流暗劲（[bs-o-s-7](../../short-stories/bs-o-s-7-graduation-internship/chapters/bs-o-s-7-graduation-internship.md)）
-2. **特工局新秀**——作为熊猫之徒参与处决玩家会议，热血冲动、嫉恶如仇（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)）
-3. **奉命支援魔影**——镇守一楼，单人击退多波增援小队（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)）
-2. **走廊清理**——累计击杀31人，将尸体整齐摆放在厕所（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)）
-3. **故意被俘营救魔影**——里应外合，反杀刑房守卫（[vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)）
-4. **冥府牛头之战**——开启焚体缠身，一人单挑全层30+牛守卫（[vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)）
-5. **获得神武焚阳破城炮**——参加浮岛决战（[vol-3-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)）
-6. **浮岛大战嗜精兽**——单手击杀灰熊，拳毙水牛，与阿宝部长激战（[vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)）
-7. **浮岛终战**——精疲力尽仍护在曲先生身前，最终被血君王邪火烧死（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)）
+2. **特工局新秀**——作为熊猫之徒参与处决玩家会议，热血冲动、嫉恶如仇（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)）
+3. **奉命支援魔影**——镇守一楼，单人击退多波增援小队（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)）
+2. **走廊清理**——累计击杀31人，将尸体整齐摆放在厕所（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)）
+3. **故意被俘营救魔影**——里应外合，反杀刑房守卫（[vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md)）
+4. **冥府牛头之战**——开启焚体缠身，一人单挑全层30+牛守卫（[vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)）
+5. **获得神武焚阳破城炮**——参加浮岛决战（[vol-3-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md)）
+6. **浮岛大战嗜精兽**——单手击杀灰熊，拳毙水牛，与阿宝部长激战（[vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)）
+7. **浮岛终战**——精疲力尽仍护在曲先生身前，最终被血君王邪火烧死（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)）
 8. **别墅守护（支线）**——深夜兽盾兵潜入欲绑走小雷，老雷逐一射杀，并顺着司机线索端掉兽盾情报部门（[《老雷突袭情报局》](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/README.md)）
 
 ---
@@ -2589,33 +2589,33 @@
 
 > “各位叔叔好，我今天来这是为了完成毕业实习作业的，那么，就劳烦各位叔叔今天都在这里喷一发哈。”——毕业实习登场台词（[bs-o-s-7](../../short-stories/bs-o-s-7-graduation-internship/chapters/bs-o-s-7-graduation-internship.md)）
 
-> “你这老不死的少装，你折磨我的时候怎么没见你疲软？”——对师父熊猫（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)）
+> “你这老不死的少装，你折磨我的时候怎么没见你疲软？”——对师父熊猫（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)）
 
-> “能在兽盾里当过官，一定不是什么好东西！”——投票处决玩家（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)）
+> “能在兽盾里当过官，一定不是什么好东西！”——投票处决玩家（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)）
 
-> “简直是暴殄天物啊！”——看到青雉缚阳锁被交给玩家（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)）
+> “简直是暴殄天物啊！”——看到青雉缚阳锁被交给玩家（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)）
 
-> “记得在阎王面前报我老雷的名号，至少能让你们死得不那么冤。”（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)）
+> “记得在阎王面前报我老雷的名号，至少能让你们死得不那么冤。”（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)）
 
-> “揍人一时爽，善后火葬场呀。”——打扫完走廊后的感叹（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)）
+> “揍人一时爽，善后火葬场呀。”——打扫完走廊后的感叹（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)）
 
-> “你们一会死的时候不要喷得到处都是哈。”——对增援守卫的劝告（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)）
+> “你们一会死的时候不要喷得到处都是哈。”——对增援守卫的劝告（[vol-2-ch-6](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)）
 
-> “我才刚拖完地，怎么又来一批，你们到底还有多少人啊。”——看到又一批增援（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)）
+> “我才刚拖完地，怎么又来一批，你们到底还有多少人啊。”——看到又一批增援（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)）
 
-> “今天我就教教你怎样保持环境卫生。”——捏碎虎守卫卵蛋前（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)）
+> “今天我就教教你怎样保持环境卫生。”——捏碎虎守卫卵蛋前（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)）
 
-> “记住了，下辈子别再这么嚣张了哈。”——将精液灌回虎守卫嘴里后（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)）
+> “记住了，下辈子别再这么嚣张了哈。”——将精液灌回虎守卫嘴里后（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)）
 
-> “演技真烂！”——与魔影同时发难（[vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)）
+> “演技真烂！”——与魔影同时发难（[vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md)）
 
-> “闭嘴吧杂鱼。”——单手掐颈提起灰熊（[vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)）
+> “闭嘴吧杂鱼。”——单手掐颈提起灰熊（[vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)）
 
-> “我想找的就是你，上次打得不过瘾，这次让我们打个痛快，不死不休！”——对阿宝部长宣战（[vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)）
+> “我想找的就是你，上次打得不过瘾，这次让我们打个痛快，不死不休！”——对阿宝部长宣战（[vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)）
 
-> “你想干什么？你快回来！”——曲先生迎战血君王前，老雷语气中的恐惧（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)）
+> “你想干什么？你快回来！”——曲先生迎战血君王前，老雷语气中的恐惧（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)）
 
-> “惩罚……惩罚喷烟花！”——哄小雷时胡诌（[《老雷突袭情报局》](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)）
+> “惩罚……惩罚喷烟花！”——哄小雷时胡诌（[《老雷突袭情报局》](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-001-villa-night-raid.md)）
 
 ---
 

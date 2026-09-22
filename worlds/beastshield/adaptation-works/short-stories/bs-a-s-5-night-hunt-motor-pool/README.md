@@ -94,7 +94,7 @@ Mission complete. The lights are still on.
 
 | 章节 / Chapter | 标题 / Title | 链接 / Link |
 |:--|:--|:--|
-| 全篇 / Full | 车场夜狩 / Night Hunt at the Motor Pool | [bs-a-s-5-night-hunt-motor-pool.md](bs-a-s-5-night-hunt-motor-pool.md) |
+| 全篇 / Full | 车场夜狩 / Night Hunt at the Motor Pool | [bs-a-s-5-night-hunt-motor-pool.md](chapters/bs-a-s-5-night-hunt-motor-pool.md) |
 
 ---
 

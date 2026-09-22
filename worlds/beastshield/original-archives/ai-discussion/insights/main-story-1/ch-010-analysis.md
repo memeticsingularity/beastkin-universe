@@ -1,7 +1,7 @@
 # Chapter 10 首次对决 - 分析
 
 >
-对应文件：[ch-10-first-encounter-boss.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md)
+对应文件：[ch-10-first-encounter-boss.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md)
 > 分析日期：2026-03-19
 
 ---

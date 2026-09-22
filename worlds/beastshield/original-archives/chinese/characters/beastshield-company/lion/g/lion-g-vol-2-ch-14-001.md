@@ -12,13 +12,13 @@
 | **等级/制服** | G级 · 军绿短袖+军绿短裤+白袜+运动鞋 |
 | **身份** | 蟒蛇岛主营守卫 |
 | **状态** | **已死亡**——吸食春药烟后被魔影抓住脚踝拖回，玩弄不到三分钟精液乱喷而死 |
-| **登场** | [vol-2-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md) |
+| **登场** | [vol-2-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-14：蟒蛇岛回忆·下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md)
+### [vol-2-ch-14：蟒蛇岛回忆·下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md)
 
 > “还愣着干什么，开始干活呀，你不是一直想复仇吗，那只老虎交给你了。”魔影催了催站在墙角的白熊，伸手抓住一只正在向门口匍匐爬行的狮子守卫的脚踝，将他从门沿拖了回来，绝望的狮子兽人双爪在地上抓出十道划痕后，被魔影翻过了身，在被玩弄了不到三分钟后，就精液乱喷着凄惨死去。
 

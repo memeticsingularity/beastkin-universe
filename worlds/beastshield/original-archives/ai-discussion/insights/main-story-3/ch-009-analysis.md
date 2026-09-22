@@ -1,7 +1,7 @@
 # Chapter 09《龙武神》- 分析
 
 >
-对应文件：[ch-09-divine-bow-hunter.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md)
+对应文件：[ch-09-divine-bow-hunter.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-009-divine-bow-hunter.md)
 > 分析日期：2026-03-19
 
 ---

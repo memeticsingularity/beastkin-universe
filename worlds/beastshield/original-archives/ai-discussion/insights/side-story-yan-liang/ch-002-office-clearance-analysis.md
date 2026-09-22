@@ -1,7 +1,7 @@
 # Chapter 2 清理办公室 - 分析
 
 >
-对应文件：[ch-02-office-clearance.md](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md)
+对应文件：[ch-02-office-clearance.md](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-002-office-clearance.md)
 > 分析日期：2026-03-19
 
 ---

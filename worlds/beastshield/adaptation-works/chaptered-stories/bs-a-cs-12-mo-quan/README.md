@@ -108,8 +108,8 @@
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 洞穴醒来（原作） | [阅读](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md) |
-| Ch.2 | 山间遭遇（原作） | [阅读](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) |
+| Ch.1 | 洞穴醒来（原作） | [阅读](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/chapters/ch-001-cave-awakening.md) |
+| Ch.2 | 山间遭遇（原作） | [阅读](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/chapters/ch-002-mountain-encounter.md) |
 | Ch.3 | 山腰伏击 | [阅读](chapters/volume-1/ch-003-hillside-ambush.md) |
 | Ch.4 | 月下河滩 | [阅读](chapters/volume-1/ch-004-riverside-moonlight.md) |
 | Ch.5 | 山脚客栈 | [阅读](chapters/volume-1/ch-005-mountain-inn.md) |
@@ -163,8 +163,8 @@
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | Cave Awakening (Original) | [Read](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-001-cave-awakening.md) |
-| Ch.2 | Mountain Encounter (Original) | [Read](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) |
+| Ch.1 | Cave Awakening (Original) | [Read](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/chapters/ch-001-cave-awakening.md) |
+| Ch.2 | Mountain Encounter (Original) | [Read](../../../original-archives/chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/chapters/ch-002-mountain-encounter.md) |
 | Ch.3 | Hillside Ambush | [Read](chapters/volume-1/ch-003-hillside-ambush.md) |
 | Ch.4 | Riverside Moonlight | [Read](chapters/volume-1/ch-004-riverside-moonlight.md) |
 | Ch.5 | The Lean Leopard's Trial | [Read](chapters/volume-1/ch-005-mountain-inn.md) |

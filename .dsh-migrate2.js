@@ -46,13 +46,31 @@ if (cmd === 'plan-numbering') {
     }
   }
 } else if (cmd === 'plan-roottext') {
+  // 只搬「真正的正文」：名为 ch-*/bs-[oa]-s-*、等于作品编码、或 H1 为 # Story/# Chapter
+  for (const d of allDirs()) {
+    if (!isWorkRoot(d)) continue;
+    const code = (fs.readFileSync(path.join(d, 'metadata.yaml'), 'utf8').match(/^\s*code\s*:\s*"([^"]+)"/m) || [])[1] || path.basename(d);
+    for (const e of fs.readdirSync(d, { withFileTypes: true })) {
+      if (!e.isFile() || !e.name.endsWith('.md')) continue;
+      if (['README.md', 'AGENTS.md'].includes(e.name) || /^metadata/.test(e.name)) continue;
+      const isStoryName = /^(ch-|bs-[oa]-s-)/i.test(e.name) || e.name === code + '.md';
+      let h1 = '';
+      try { h1 = fs.readFileSync(path.join(d, e.name), 'utf8').replace(/^\uFEFF/, '').split(/\r?\n/).find(l => /^#\s/.test(l)) || ''; } catch { }
+      if (!isStoryName && !/^#\s*(Story|Chapter)\b/.test(h1)) continue;
+      const from = path.join(d, e.name), to = path.join(d, 'chapters', e.name);
+      if (fs.existsSync(to)) continue;
+      plan.push({ from: path.relative(ROOT, from), to: path.relative(ROOT, to) });
+    }
+  }
+} else if (cmd === 'plan-metaroot') {
+  // 作品根的过程类文档 -> .process/plans/
   for (const d of allDirs()) {
     if (!isWorkRoot(d)) continue;
     for (const e of fs.readdirSync(d, { withFileTypes: true })) {
       if (!e.isFile() || !e.name.endsWith('.md')) continue;
-      if (['README.md', 'AGENTS.md'].includes(e.name) || /^metadata/.test(e.name)) continue;
-      const from = path.join(d, e.name), to = path.join(d, 'chapters', e.name);
-      if (fs.existsSync(to)) { console.log('跳过(目标已存在) ' + path.relative(ROOT, to)); continue; }
+      if (!/^(GUIDE|CHANGELOG|CURRENT_STATUS|STATUS|TODO|NOTES|plan|README-v|commission)/i.test(e.name)) continue;
+      const from = path.join(d, e.name), to = path.join(d, '.process', 'plans', e.name);
+      if (fs.existsSync(to)) continue;
       plan.push({ from: path.relative(ROOT, from), to: path.relative(ROOT, to) });
     }
   }

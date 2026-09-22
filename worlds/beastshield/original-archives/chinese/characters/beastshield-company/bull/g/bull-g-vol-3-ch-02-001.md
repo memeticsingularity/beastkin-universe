@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤+白袜+运动靴 |
 | **身份** | 兽盾组织守卫，虎队长部下 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-002-dojo-massacre.md) |
-| **最后登场** | [vol-3-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-002-dojo-massacre.md) |
+| **首次登场** | [vol-3-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-002-dojo-massacre.md) |
+| **最后登场** | [vol-3-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-002-dojo-massacre.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 四、登场原文
 
-### [武馆屠杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-002-dojo-massacre.md)
+### [武馆屠杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-002-dojo-massacre.md)
 
 > 在武馆里打坐养神的熊师傅眉头紧皱，心里的烦闷感不减反增，此时一个身影突然从窗户飞入，伸爪抓向他的后背，他“咦”了一声，抓住对方手腕往下一压，将对方反手摁在了地上。
 

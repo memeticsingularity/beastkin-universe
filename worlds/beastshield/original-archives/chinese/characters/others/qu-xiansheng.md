@@ -13,11 +13,11 @@
 | **别名** | 曲先生 / 「小曲」/ 「曲特工」 |
 | **身份** | 特工局成员；十二神武之一「天籁·四季神曲」的传承者 |
 | **状态** | **已死亡**——第三卷·第21章被血君王的一发邪火焚烧殆尽 |
-| **首次登场** | [第三卷·第3章 仓库复仇](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md) |
-| **最后登场** | [第三卷·第21章 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) |
+| **首次登场** | [第三卷·第3章 仓库复仇](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-003-warehouse-vengeance.md) |
+| **最后登场** | [第三卷·第21章 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md) |
 
 > ⚠️ **首次登场订正（2026 审计）**：既有索引记「第三卷·第21章」，但正文最早登场的是
-> [第三卷·第3章 仓库复仇](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md) L29 ——他在特工局的车厢里插话问「是那种穿黑制服的守卫吗」，
+> [第三卷·第3章 仓库复仇](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-003-warehouse-vengeance.md) L29 ——他在特工局的车厢里插话问「是那种穿黑制服的守卫吗」，
 > 并在同章 L143 起以笛声救下老雷、L157 起正面牵制熊部长。
 
 ---
@@ -44,7 +44,7 @@
 
 ## 四、登场原文
 
-### [Chapter 3 仓库复仇](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md)
+### [Chapter 3 仓库复仇](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-003-warehouse-vengeance.md)
 
 本章开头部分该角色未出场。
 
@@ -130,7 +130,7 @@
 
 ---
 
-### [Chapter 16 血王复活](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)
+### [Chapter 16 血王复活](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)
 
 > “这些嗜精兽交给我处理，你专心对付这头矮熊。”曲先生从老雷身后翩然而出，横笛而奏，若世外隐士，与这嘈杂的战场格格不入。
 >
@@ -146,7 +146,7 @@
 
 ---
 
-### [Chapter 17 神乐对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-017-godly-music-duel.md)
+### [Chapter 17 神乐对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-017-godly-music-duel.md)
 
 本章开头部分该角色未出场。
 
@@ -178,7 +178,7 @@
 
 ---
 
-### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)
+### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)
 
 本章开头部分该角色未出场。
 
@@ -274,7 +274,7 @@
 
 ## 七、结局
 
-第三卷·第3章以笛声救下被熊部长击碎手臂的老雷，并令在场绿制服兽人尽数喷精而亡。此后随特工局转战浮岛：第16章牵制嗜精兽群，第17章于追捕中以笛声周旋。第三卷·第21章主动向占据龙神肉体的血君王请战，奏完全曲仍未伤及其分毫，坦然认输后**被一发邪火焚烧殆尽**（[`ch-21`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) L79–L81）。
+第三卷·第3章以笛声救下被熊部长击碎手臂的老雷，并令在场绿制服兽人尽数喷精而亡。此后随特工局转战浮岛：第16章牵制嗜精兽群，第17章于追捕中以笛声周旋。第三卷·第21章主动向占据龙神肉体的血君王请战，奏完全曲仍未伤及其分毫，坦然认输后**被一发邪火焚烧殆尽**（[`ch-21`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md) L79–L81）。
 
 ---
 

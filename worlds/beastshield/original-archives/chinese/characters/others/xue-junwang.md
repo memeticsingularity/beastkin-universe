@@ -12,8 +12,8 @@
 | **等级/制服** | 无——非兽盾公司编制 |
 | **身份** | 五百年前嗜精兽一族的最高领袖；复活后占据龙武神（青龙）的肉体 |
 | **状态** | **已借龙神肉体复活**——第三卷·第21章烧杀特工局全员后「从浮岛边缘跳下，踏浪远去」 |
-| **首次登场（正文实体）** | [第三卷·第19章 真相大白](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md) |
-| **最后登场** | [第三卷·第21章 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) |
+| **首次登场（正文实体）** | [第三卷·第19章 真相大白](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-019-origin-revelation.md) |
+| **最后登场** | [第三卷·第21章 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md) |
 
 > ⚠️ **首次登场订正（2026 审计）**：既有索引记「第三卷·第16章」。但第三卷·第16章虽名为「血王复活」，
 > **正文本体并未出现**——经逐行核对，`ch-16` 正文（L1–L122）中「血君王」三字**零命中**，唯一提及在
@@ -42,7 +42,7 @@
 
 ## 四、登场原文
 
-### [Chapter 19 真相大白](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md)
+### [Chapter 19 真相大白](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-019-origin-revelation.md)
 
 本章开头部分该角色未出场（其来历由牙董口述，本体于本章后段正式登场）。
 
@@ -74,7 +74,7 @@
 
 ---
 
-### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)
+### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)
 
 本章开头部分该角色未出场。
 
@@ -163,7 +163,7 @@
 
 ## 七、结局
 
-五百年前蛮山一战后以邪咒将全族灵魂封入血液。第三卷·第19章由牙董以自身血精石为代价复活，借龙武神之躯现世，随即烧杀辉董（[`ch-19`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-019-origin-revelation.md)）。第21章在浮岛与特工局决战，以邪火连烧曲先生、老雷、勤川、总司令与魔影，「连同特工局的所有成员，将所有人都烧成了焦尸」，随后**从浮岛边缘跳下，踏浪远去**（[`ch-21`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) L81–L83）——作为全作最后仍未收束的存在退场。
+五百年前蛮山一战后以邪咒将全族灵魂封入血液。第三卷·第19章由牙董以自身血精石为代价复活，借龙武神之躯现世，随即烧杀辉董（[`ch-19`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-019-origin-revelation.md)）。第21章在浮岛与特工局决战，以邪火连烧曲先生、老雷、勤川、总司令与魔影，「连同特工局的所有成员，将所有人都烧成了焦尸」，随后**从浮岛边缘跳下，踏浪远去**（[`ch-21`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md) L81–L83）——作为全作最后仍未收束的存在退场。
 
 ---
 

@@ -12,8 +12,8 @@
 | **等级/制服** | E级武斗兵 · 黑色紧身制服 |
 | **身份** | 农田一旁的武斗兵（见牛杂兵被狼兽人刺杀后怒喝、挥拳） |
 | **状态** | **已死亡**——被浪青平身形一晃、唐刀没入腹部，一拳未挥出，捂着裆部开始喷精，抽搐着射了几发空炮后屈辱地倒在了牛杂兵的背上，死得和杂兵没有区别 |
-| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
-| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
+| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
+| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)
+### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md)
 
 > “什么人，敢杀兽盾的人！”一旁的武斗兵熊兽人见状，怒喝一声，一拳砸来。
 >
@@ -56,5 +56,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)*
+*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md)*
 *创建日期：2026-09-01*

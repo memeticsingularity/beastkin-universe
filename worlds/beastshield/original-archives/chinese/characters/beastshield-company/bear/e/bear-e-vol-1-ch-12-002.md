@@ -13,14 +13,14 @@
 | **编号** | 未知 |
 | **身份** | 武斗兵营·大门站岗守卫 |
 | **状态** | **已死亡**——被银针封穴后撸射处决，尸体被固定站岗 |
-| **首次登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md) |
-| **最后登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md) |
+| **首次登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md) |
+| **最后登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md)
+### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md)
 
 > 我发动影袭，直接瞬移到右边熊守卫的身后，然后将一根银针扎入了他的脖颈，被扎的熊守卫身子一颤，然后保持着站岗的姿势一动不动了。
 >

@@ -12,14 +12,14 @@
 | **等级/制服** | G级 · 军绿色紧身短袖短裤，白色长筒袜 |
 | **身份** | 兽盾大楼一层增援守卫 |
 | **状态** | **已死亡**——被老雷拧颈并同时灼流暗劲致射精而死 |
-| **首次登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) |
-| **最后登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) |
+| **首次登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md) |
+| **最后登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-06：老雷登场](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)
+### [vol-2-ch-06：老雷登场](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)
 
 > 最后一个同行的熊兽人守卫看到这些已经吓到失去战意，坐在地上双腿颤抖开始漏尿，老雷面无表情的瞪了他一眼，然后抱起虎兽人和黑豹兽人的尸体，冷漠的说了句:
 >

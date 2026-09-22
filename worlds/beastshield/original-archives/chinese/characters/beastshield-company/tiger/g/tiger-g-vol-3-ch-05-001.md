@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织入侵小队成员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) |
-| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) |
+| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-005-undercover-hunt.md) |
+| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-005-undercover-hunt.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 三、登场原文
 
-### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md)
+### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-005-undercover-hunt.md)
 
 > 刚下几阶楼梯，金毛便在拐角处和一只绿制服白虎兽人撞了个正着，白虎愣了一下，准备从腰间掏出手枪，但还是慢了一步，只听“砰”的一声响，金毛手中的枪口冒着白烟，一颗红弹射进了白虎胸膛，只听白虎闷哼一声，肉壮的身体栽倒顺着楼梯滚了下去，接着身体撞在二楼墙上，一只鞋子滚落时甩出，掉在一旁露出白虎的白袜肉脚，由于只中一枪，他没有立刻高潮，而是用手死命掐着已经勃起的肉棒根部强行忍耐，试图阻止射精，即使心里清楚这是徒劳，但求生的本能让他心存侥幸，可惜奇迹并没有发生，只见白虎眉头越皱越紧，白袜肉脚在地上乱蹬乱踢，绿色的大包越鼓越大，终究还是违背主人的意愿，开始上下抽动，从中心晕开一摸潮湿，然后渗出惨白的浓浆，白虎知道自己已经回天无力，绝望的松开了双手，不自觉的扬起头张开嘴想要发出高潮的呻吟声，但是却被赶到的金毛捂住了嘴，将他兽生最后的呐喊硬生生堵在了喉咙里。
 

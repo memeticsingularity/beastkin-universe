@@ -79,10 +79,10 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 
 ## 章节列表 / Chapter List
 
-- [第一章: 别墅夜袭 / Chapter 1: Villa Night Raid](ch-001-villa-night-raid.md)
-- [第二章: 情报部门 / Chapter 2: Intelligence Department](ch-002-intelligence-sweep.md)
-- [第三章: 颜部长的清算与追击 / Chapter 3: Minister Yan's Reckoning and Pursuit](ch-003-minister-yan-reckoning.md)
-- [第四章: 暗室三座浪青平 / Chapter 4: Qingping of the Dark Chamber](ch-004-dark-chamber-qingping.md)
+- [第一章: 别墅夜袭 / Chapter 1: Villa Night Raid](chapters/ch-001-villa-night-raid.md)
+- [第二章: 情报部门 / Chapter 2: Intelligence Department](chapters/ch-002-intelligence-sweep.md)
+- [第三章: 颜部长的清算与追击 / Chapter 3: Minister Yan's Reckoning and Pursuit](chapters/ch-003-minister-yan-reckoning.md)
+- [第四章: 暗室三座浪青平 / Chapter 4: Qingping of the Dark Chamber](chapters/ch-004-dark-chamber-qingping.md)
 
 ---
 

@@ -12,14 +12,14 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤，白袜 |
 | **身份** | 十一层熊族领地·炼药房沿途守卫 |
 | **状态** | **已死亡**——被魔影撸杀，尸体被组长发现 |
-| **首次登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) |
-| **最后登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) |
+| **首次登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md) |
+| **最后登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-08：炼药房之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)
+### [vol-2-ch-08：炼药房之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)
 
 > 十一层的组长办公室里，穿着黑制服黑长袜的熊兽人组长正坐在办公桌边批阅文件，他身材前凸后翘，魁梧有型，比其他熊兽人体重更重，但赘肉更少，肌肉也更大块。此时一只蓝白制服的熊兽人守卫走了进来向他报告，说在楼道发现了楼层守卫的尸体一事，组长听完皱了皱眉，略一思索，带着几人向这一层的炼药房走去。
 >

@@ -14,8 +14,8 @@
 | **编号** | 未知 |
 | **身份** | 卡车司机 |
 | **状态** | **已死亡**——车祸后被主角肛交处决 |
-| **首次登场** | [vol-1-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-003-head-to-downtown.md) |
-| **最后登场** | [vol-1-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-003-head-to-downtown.md) |
+| **首次登场** | [vol-1-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-003-head-to-downtown.md) |
+| **最后登场** | [vol-1-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-003-head-to-downtown.md) |
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-03：前往市区](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-003-head-to-downtown.md)
+### [vol-1-ch-03：前往市区](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-003-head-to-downtown.md)
 
 > 货车上没有货物，车窗没关，一双穿着泛黄**白袜**的粗壮**肉脚**搭在窗沿，散发着淡淡的汗臭，这双臭脚的主人——一只**绿制服牛兽人**正斜躺在**驾驶座**上打着盹，鼾声震耳欲聋。
 >
@@ -183,8 +183,8 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **驾驶技能** | 唯一技能，会开卡车 | [vol-1-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-003-head-to-downtown.md) |
-| **随从招募指引** | 向玩家介绍随从系统，可申请成为随从 | [vol-1-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-003-head-to-downtown.md) |
+| **驾驶技能** | 唯一技能，会开卡车 | [vol-1-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-003-head-to-downtown.md) |
+| **随从招募指引** | 向玩家介绍随从系统，可申请成为随从 | [vol-1-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-003-head-to-downtown.md) |
 
 ---
 

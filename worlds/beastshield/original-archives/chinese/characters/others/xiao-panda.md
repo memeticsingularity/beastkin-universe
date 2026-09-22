@@ -12,8 +12,8 @@
 | **等级/制服** | 无——非兽盾公司编制（店内便装） |
 | **身份** | 武器店店主；同时承担赏金（悬赏任务）的接发与结算 |
 | **状态** | **存活** |
-| **首次登场** | [第一卷·第4章 商店购物](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-004-store-shopping.md) |
-| **最后登场** | [第一卷·第5章 首次换装](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-005-first-costume-change.md) |
+| **首次登场** | [第一卷·第4章 商店购物](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-004-store-shopping.md) |
+| **最后登场** | [第一卷·第5章 首次换装](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-005-first-costume-change.md) |
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 四、登场原文
 
-### [Chapter 4 商店购物](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-004-store-shopping.md)
+### [Chapter 4 商店购物](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-004-store-shopping.md)
 
 本章开头部分该角色未出场。
 
@@ -217,7 +217,7 @@
 
 ---
 
-### [Chapter 5 首次换装](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-005-first-costume-change.md)
+### [Chapter 5 首次换装](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-005-first-costume-change.md)
 
 > 我带着两只**白袜**走进武器店准备换取**赏金**，谁知小熊猫一见到我立刻缩到一旁。
 >
@@ -246,7 +246,7 @@
 
 ## 七、结局
 
-第一卷·第4章在武器店中遭野猪兽人抢劫，被玩家（当时站在抢劫者一方）牵涉其中，事后双方以**赏金折算**方式两清——「一只绿制服杂兵 100 撸币，一共两百撸币，和钢丝环的售价刚好抵消」。第5章玩家再次上门换取赏金，他「一见到我立刻缩到一旁」并继续讨好（[`ch-5`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-005-first-costume-change.md) L52–L58）。**存活**，此后主线未再登场。
+第一卷·第4章在武器店中遭野猪兽人抢劫，被玩家（当时站在抢劫者一方）牵涉其中，事后双方以**赏金折算**方式两清——「一只绿制服杂兵 100 撸币，一共两百撸币，和钢丝环的售价刚好抵消」。第5章玩家再次上门换取赏金，他「一见到我立刻缩到一旁」并继续讨好（[`ch-5`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-005-first-costume-change.md) L52–L58）。**存活**，此后主线未再登场。
 
 ---
 

@@ -116,7 +116,7 @@ The kid doesn't reach for it.
 
 | 标题 / Title | 链接 / Link |
 |:--|:--|
-| 擦肩 / Passing By | [bs-a-s-7-02-passing-by.md](bs-a-s-7-02-passing-by.md) |
+| 擦肩 / Passing By | [bs-a-s-7-02-passing-by.md](chapters/bs-a-s-7-02-passing-by.md) |
 
 ---
 

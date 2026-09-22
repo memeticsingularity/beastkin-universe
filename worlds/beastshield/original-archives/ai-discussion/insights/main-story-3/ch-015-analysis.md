@@ -1,7 +1,7 @@
 # Chapter 15《浮岛大战（下）》正文分析
 
 >
-对应文件：[ch-15-final-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)
+对应文件：[ch-15-final-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md)
 > 分析日期：2026-03-19
 
 ---

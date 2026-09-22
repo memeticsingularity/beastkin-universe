@@ -1,7 +1,7 @@
 # Chapter 20《薛鼎归一》 - 分析
 
 >
-对应文件：[ch-20-identity-merge.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-020-identity-merge.md)
+对应文件：[ch-20-identity-merge.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-020-identity-merge.md)
 > 分析日期：2026-03-19
 
 ---

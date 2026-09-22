@@ -12,13 +12,13 @@
 | **等级/制服** | G级·野外巡逻套装 · 墨绿紧身短袖+迷彩长裤+军靴 |
 | **身份** | 蟒蛇岛基地站岗广场守卫 |
 | **状态** | **已死亡**——被魔影从后方接近拖至角落捂嘴撸杀 |
-| **登场** | [vol-2-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md) |
+| **登场** | [vol-2-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-13：蟒蛇岛回忆·上](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md)
+### [vol-2-ch-13：蟒蛇岛回忆·上](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md)
 
 > 驾轻就熟的魔影行动更加大胆，在一个多人站岗的广场，他直接从后方接近一个正在站岗的狼守卫，趁着其他人视线错开的瞬间，一把将其制服拖行到角落里开始处决，捂住他的嘴让其在沉默中喷射完所有的精液后，才将其软倒的尸体小心翼翼的轻放在地上，以免惊动到其他守卫。然后魔影依葫芦画瓢依次解决其他守卫，在他神乎其技的潜行技巧下，站岗的兽人们一个个都在没有察觉到对手的情况下，就被逐个撸杀交出了宝贵的精液，尸体被魔影藏在了基地的各个角落。
 

@@ -1,7 +1,7 @@
 # Chapter 14《鼠族神武》正文分析
 
 >
-对应文件：[ch-14-mouse-divine-weapon.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)
+对应文件：[ch-14-mouse-divine-weapon.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)
 > 分析日期：2026-03-19
 
 ---

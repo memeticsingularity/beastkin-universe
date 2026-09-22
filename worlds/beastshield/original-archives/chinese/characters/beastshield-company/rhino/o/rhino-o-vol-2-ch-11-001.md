@@ -12,13 +12,13 @@
 | **等级/制服** | O级 · 蓝色制服+白袜 |
 | **身份** | 十三层守卫（围攻老雷的蓝制服守卫之一） |
 | **状态** | **已死亡**——被老雷踢飞后爬起来欲再战，被魔影从背后勒住脖子撸杀 |
-| **登场** | [vol-2-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) |
+| **登场** | [vol-2-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-11：冥府牛头之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)
+### [vol-2-ch-11：冥府牛头之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)
 
 > ——（被老雷踢飞）——
 >

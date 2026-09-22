@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色紧身制服（测试时被撑爆） |
 | **身份** | 兽盾组织底层员工→岚董部下 |
 | **状态** | 存活（叛离兽盾组织） |
-| **首次登场** | [vol-3-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md) |
-| **最后登场** | [vol-3-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md) |
+| **首次登场** | [vol-3-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-004-psychic-defense.md) |
+| **最后登场** | [vol-3-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-004-psychic-defense.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 四、登场原文
 
-### [念力防御](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md)
+### [念力防御](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-004-psychic-defense.md)
 
 #### 宿舍日常
 

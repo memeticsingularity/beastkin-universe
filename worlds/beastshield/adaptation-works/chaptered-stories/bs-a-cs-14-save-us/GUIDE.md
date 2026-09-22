@@ -89,7 +89,7 @@ bs-a-cs-14-save-us/
 首次参与创作，建议按以下顺序阅读：
 
 1. 本项目 `README.md` — 故事核心设定与哲学
-2. [原作第一章](../../../original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-001-game-entry.md) — 感受原文风味和叙事节奏
+2. [原作第一章](../../../original-archives/chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-001-game-entry.md) — 感受原文风味和叙事节奏
 3. [风格检查清单](../../../../../author/001-lanse/style-analysis/lanse-style-checklist.md) — 熟悉硬性规则
 4. 本项目 `chapters/volume-1/ch-01-tutorial.md` — 了解当前已写到的内容和写法基准
 5. `settings/README.md` — 查阅角色、关卡、场景设定

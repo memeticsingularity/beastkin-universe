@@ -12,14 +12,14 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤 |
 | **身份** | 兽盾大楼高层守卫 |
 | **状态** | **已死亡**——被魔影撸杀 |
-| **首次登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) |
-| **最后登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) |
+| **首次登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md) |
+| **最后登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-04：虎卫组之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md)
+### [vol-2-ch-04：虎卫组之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md)
 
 > “唔。。不。。。啊！。。啊！。。”一阵粗犷的呻吟声过后，喷完毕生精液的一只棕熊兽人守卫缓缓从魔影怀里滑落，魔影舔了舔手上精液，正打算处理尸体，忽然一阵鼓掌声从身后传来，虎组长和他的三个手下悄无声息的出现在了房间内，最后进来的黄虎兽人顺带锁好了房门。
 

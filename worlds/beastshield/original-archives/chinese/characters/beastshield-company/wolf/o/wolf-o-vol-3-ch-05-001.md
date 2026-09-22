@@ -12,8 +12,8 @@
 | **等级/制服** | O级·蓝色制服+白袜 |
 | **身份** | 兽盾组织入侵小队组长 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) |
-| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) |
+| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-005-undercover-hunt.md) |
+| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-005-undercover-hunt.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md)
+### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-005-undercover-hunt.md)
 
 #### 初次现身
 

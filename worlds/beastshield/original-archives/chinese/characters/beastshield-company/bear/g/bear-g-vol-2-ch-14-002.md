@@ -12,7 +12,7 @@
 | **等级/制服** | G级 · 军绿短袖+军绿短裤+白袜+运动鞋 |
 | **身份** | 蟒蛇岛主营守卫 |
 | **状态** | **已死亡**——吸食春药烟后被魔影用食指扣住龟头系带按压肚皮，五秒射精八发毙命 |
-| **登场** | [vol-2-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md) |
+| **登场** | [vol-2-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-14：蟒蛇岛回忆·下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md)
+### [vol-2-ch-14：蟒蛇岛回忆·下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md)
 
 > “老大，上面的人什么时候来拿走这个鬼东西啊。”一只绿制服的棕熊兽人问道。
 >

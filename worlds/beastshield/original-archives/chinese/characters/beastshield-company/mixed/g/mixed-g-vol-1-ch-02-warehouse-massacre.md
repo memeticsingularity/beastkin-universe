@@ -36,7 +36,7 @@
 
 ## 四、登场原文
 
-### [Chapter 2 仓库逃脱](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-002-escape-warehouse.md)
+### [Chapter 2 仓库逃脱](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-002-escape-warehouse.md)
 
 > 还没走几步就听到一只大嗓门**兽人**的粗犷训话声，我贴着墙角偷偷窥视，只见几只穿着**绿制服**的**兽人**正围在一只穿着**蓝色制服**的**虎兽人**旁边，**虎兽人**似乎在分配工作，没过一会，便各自散了开去，其中一只**德牧狗兽人**朝着我这边走来。
 
@@ -64,5 +64,5 @@
 
 ---
 
-*档案来源：主线第一卷《兽游世界》[第二章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-002-escape-warehouse.md)*
+*档案来源：主线第一卷《兽游世界》[第二章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-002-escape-warehouse.md)*
 *创建日期：2026-09-17 · ⭐集体档案——个体无法区分，仅以群体形式提及*

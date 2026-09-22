@@ -9,7 +9,7 @@
 
 | 文件 | 日期 | 兽种 | 对应章节 | 原文件名 |
 |------|------|------|----------|----------|
-| [20260529-tiger.png](20260529-tiger.png) | 2026-05-29 | 棕虎兽人（G级） | [Ch.2 山间遭遇](../../../chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) | `20260529 棕虎_已加水印_202609161042.png` |
+| [20260529-tiger.png](20260529-tiger.png) | 2026-05-29 | 棕虎兽人（G级） | [Ch.2 山间遭遇](../../../chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/chapters/ch-002-mountain-encounter.md) | `20260529 棕虎_已加水印_202609161042.png` |
 
 ---
 
@@ -19,7 +19,7 @@
 
 [![20260529-tiger](./20260529-tiger.png)](./20260529-tiger.png)
 
-**对应章节**：[Ch.2 山间遭遇](../../../chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) · 插图位于第 80 行之后
+**对应章节**：[Ch.2 山间遭遇](../../../chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/chapters/ch-002-mountain-encounter.md) · 插图位于第 80 行之后
 
 **观察到的细节：**
 
@@ -34,7 +34,7 @@
 **对应原文：**
 
 > **黑狗**松开了捂着他嘴的手，改成揉捏他的**乳头**，让**虎兽人**身体仰得更加厉害。
-> —— [ch-2-mountain-encounter.md](../../../chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/ch-002-mountain-encounter.md) 第 80 行
+> —— [ch-2-mountain-encounter.md](../../../chinese/chaptered-stories/side/bs-o-cs-2-mo-quan/chapters/ch-002-mountain-encounter.md) 第 80 行
 
 **与原文的出入（画师再创作，非设定冲突）：**
 

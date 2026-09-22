@@ -12,8 +12,8 @@
 | **等级/制服** | 部长级·黑色紧身制服+黑袜 |
 | **身份** | 薛鼎复制体一号，看守人事部禁地复制室 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-08](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
-| **最后登场** | [vol-3-ch-08](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
+| **首次登场** | [vol-3-ch-08](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md) |
+| **最后登场** | [vol-3-ch-08](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md) |
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 四、登场原文
 
-### [龙神岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
+### [龙神岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md)
 
 #### 初现
 

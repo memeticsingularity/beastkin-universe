@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤 |
 | **身份** | 兽盾组织仓储部员工 |
 | **状态** | 已死亡（全员覆灭） |
-| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md) |
-| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md) |
+| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-003-warehouse-vengeance.md) |
+| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-003-warehouse-vengeance.md) |
 
 ---
 
 ## 四、登场原文
 
-### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md)
+### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-003-warehouse-vengeance.md)
 
 > 熊部长听到呼救才发现，身边的部下一个个都捂着耳朵满地打滚，下体早已高高勃起，将紧身裤撑起一个大包，熊部长这才反应过来，笛声有鬼。
 >

@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾俘虏（原为杂兵） |
 | **状态** | **已死亡**——被银针封穴后撸射而死 |
-| **首次登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md) |
-| **最后登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md) |
+| **首次登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md) |
+| **最后登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md) |
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)
+### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)
 
 > 这只兽盾杂兵是一只黄皮牛兽人，他的体格比常人大了一圈，肌肉贲起饱满，胸口和脸上布满伤疤，头上的牛角断了一只，表情凶狠，看起来十分好战。
 >

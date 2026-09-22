@@ -127,7 +127,7 @@ The Doberman says nothing and leaves.
 
 | 标题 / Title | 链接 / Link |
 |:--|:--|
-| 学舌 / Mimicry | [bs-a-s-7-03-mimicry.md](bs-a-s-7-03-mimicry.md) |
+| 学舌 / Mimicry | [bs-a-s-7-03-mimicry.md](chapters/bs-a-s-7-03-mimicry.md) |
 
 ---
 

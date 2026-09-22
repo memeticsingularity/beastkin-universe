@@ -13,8 +13,8 @@
 | **编号** | 无（正文未给出编号） |
 | **身份** | 兽盾大楼一楼走廊增援小队成员 |
 | **状态** | **已死亡**——被老雷抓住手腕掀翻在地，随后被同伙犀牛守卫压在身上，与之一同被老雷一拳震死 |
-| **首次登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md) |
-| **最后登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)（尸体被牛兽人跟班扛进厕所尸堆） |
+| **首次登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md) |
+| **最后登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)（尸体被牛兽人跟班扛进厕所尸堆） |
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 四、登场原文
 
-### [Chapter 9 走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)
+### [Chapter 9 走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)
 
 > “混蛋！你干了什么！”离他们最近的一个白虎兽人守卫抽出电击棒冲了上来，但是还没挥出就被老雷一拳砸中腹部，然后僵在了原地，下体肉眼可见的勃了起来，眼看就要喷射，老雷见状准备掏出瓶子，但另外两个守卫也赶了上来，让老雷不得不腾出手应付。
 >
@@ -68,5 +68,5 @@
 
 ---
 
-*档案来源：主线第二卷《魔影》[第9章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)*
+*档案来源：主线第二卷《魔影》[第9章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)*
 *创建日期：2026-09-17*

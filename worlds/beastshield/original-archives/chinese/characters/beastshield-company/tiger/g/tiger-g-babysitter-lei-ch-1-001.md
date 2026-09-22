@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿制服+白袜 |
 | **身份** | 负责开车送高级兵来绑架小雷的司机 |
 | **状态** | **已死亡** |
-| **首次登场** | [s-3-ch1-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md) |
-| **最后登场** | [s-3-ch1-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md) |
+| **首次登场** | [s-3-ch1-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-001-villa-night-raid.md) |
+| **最后登场** | [s-3-ch1-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-001-villa-night-raid.md) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 三、登场原文
 
-### [别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)
+### [别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-001-villa-night-raid.md)
 
 > 两分钟后，老雷押着一只虎兽人走了进来，这只虎兽人穿着军绿制服和白袜，并不是高级兵，他只是负责开车送那些高级兵来的司机，见他们迟迟没有结束，于是进门察看情况，立刻就被老雷活捉。
 >
@@ -81,6 +81,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第一章：别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)*
+*档案来源：老雷突袭情报局 [第一章：别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-001-villa-night-raid.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

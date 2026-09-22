@@ -12,7 +12,7 @@
 | **等级/制服** | G级 · 军绿紧身制服+白袜+黑色战靴 |
 | **身份** | 被俘虏的教学样本 |
 | **状态** | **已死亡**——被特工学校学生小豪揉搓龟头射精毙命 |
-| **登场** | [vol-2-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md) |
+| **登场** | [vol-2-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-12：教学篇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md)
+### [vol-2-ch-12：教学篇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md)
 
 > 魔影所处的特工本部里，有一间小教室，一位退休后担任教师的特工正在给一群年幼的小孩授课，这些小孩都是组织重点培育的新一代特工，或者称之为杀手也并无不可。在讲台上，一只穿着整套绿色紧身制服的肥壮野猪兽人，正以双脚离地、四肢被铐的姿势固定在墙上，一脸惊疑的看着四周，嘴由于被胶布封住无法说话。
 >

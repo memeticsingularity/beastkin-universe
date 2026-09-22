@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织车夫，运输儡部长的黑棺 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md) |
-| **最后登场** | [vol-3-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md) |
+| **首次登场** | [vol-3-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-012-desert-ambush.md) |
+| **最后登场** | [vol-3-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-012-desert-ambush.md) |
 
 ---
 
 ## 四、登场原文
 
-### [沙漠伏击](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md)
+### [沙漠伏击](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-012-desert-ambush.md)
 
 > “咳……咳咔”，中箭的鬣狗并未立刻死去，由于气管被戳破，血液流入进入气管，窒息地他捂着脖颈发出痛苦的咳嗽声，被呛到不停咳出鲜血，引起后面车夫的警觉，拉第三辆马车的虎兽人看到鬣狗一边挣扎一边站着射精的惨状后，吓得立刻跳下马车往回跑，打算向儡部长报告，还没跑两步就感到后颈一痛，一根铁箭稳稳地扎在了他的脑干上，虎兽人浑身一个踉跄，匍匐跪倒，趴在地上浑身不停扭动抽搐，穿着白袜的粗腿在沙地上靠着膝跳反射乱蹬，踹出一道道沟壑，勃起的肉棒靠着身体乱动在沙地里蹭出一个小沙坑，在挣扎了数秒后，虎兽人浑身一挺，双腿绷直，闷哼着将毕生的精液慷慨的灌进了沙坑里，一滴不留。
 

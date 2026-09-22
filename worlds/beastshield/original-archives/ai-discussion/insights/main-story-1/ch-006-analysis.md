@@ -1,7 +1,7 @@
 # Chapter 6 潜入敌营 - 分析
 
 >
-对应文件：[ch-6-break-into-enemy-camp.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md)
+对应文件：[ch-6-break-into-enemy-camp.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-006-break-into-enemy-camp.md)
 > 分析日期：2026-03-19
 
 ---

@@ -1,7 +1,7 @@
 # Chapter 11 冥府牛头之战 - 分析
 
 >
-对应文件：[ch-11-hell-bull-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)
+对应文件：[ch-11-hell-bull-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)
 > 分析日期：2026-03-19
 
 ---

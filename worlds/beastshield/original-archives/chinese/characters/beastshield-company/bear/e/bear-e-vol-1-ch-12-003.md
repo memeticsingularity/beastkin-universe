@@ -13,14 +13,14 @@
 | **编号** | 未知 |
 | **身份** | 武斗兵营·士兵（刚换班） |
 | **状态** | **已死亡**——被熊馆长膝撞后拧断脖子 |
-| **首次登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md) |
-| **最后登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md) |
+| **首次登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md) |
+| **最后登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md)
+### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md)
 
 > 兵营内，刚换班结束站岗的一只熊兽人拖着疲惫的身躯来到盥洗室，突然脖子被勒感到一阵窒息，但训练有素的他立刻矮身挣脱束缚，并转身打算回击，可还没出手，腹部就感到一阵剧痛，自己的胃部被连续撞了三下！
 >

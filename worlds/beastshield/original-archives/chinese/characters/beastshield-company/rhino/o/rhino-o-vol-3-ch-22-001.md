@@ -12,8 +12,8 @@
 | **等级/制服** | O级·蓝色制服（嗜精兽·血精石强化） |
 | **身份** | 密室守卫（看守薛鼎本体） |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-22](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-022-rampage-end.md) |
-| **最后登场** | [vol-3-ch-22](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-022-rampage-end.md) |
+| **首次登场** | [vol-3-ch-22](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-022-rampage-end.md) |
+| **最后登场** | [vol-3-ch-22](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-022-rampage-end.md) |
 
 ---
 
@@ -73,4 +73,4 @@
 
 ---
 
-*档案来源：第三卷·白之都 [ch-22](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-022-rampage-end.md)*
+*档案来源：第三卷·白之都 [ch-22](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-022-rampage-end.md)*

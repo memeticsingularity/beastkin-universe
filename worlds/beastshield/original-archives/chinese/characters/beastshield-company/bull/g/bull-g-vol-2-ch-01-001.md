@@ -12,8 +12,8 @@
 | **等级/制服** | G级 · 军绿短袖短裤，白色长筒袜，运动鞋 |
 | **身份** | 兽盾大楼守卫（换岗） |
 | **状态** | **已死亡**——被塞入自己袜子窒息而死 |
-| **首次登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md) |
-| **最后登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md) |
+| **首次登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md) |
+| **最后登场** | [vol-2-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-01：更衣室狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)
+### [vol-2-ch-01：更衣室狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md)
 
 > 接下来进来的是一只体格粗壮的牛兽人，他比前面两只兽人体型要壮一圈。他一进来就把武器扔到地上，一屁股坐在休息凳上开始脱鞋子，“他奶奶的这烂工作工资又低还这么累，腿都站软了。”牛兽人一边嘀咕一边脱下了一只鞋，瞬间房间里散发出一股淡淡的酸臭味。他还没来得及脱袜子只觉脖子上一痛，突然感觉浑身无力，然后仰面躺在了休息凳上无法动弹了，意识却保持着清醒状态。
 >

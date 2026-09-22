@@ -12,13 +12,13 @@
 | **等级/制服** | G级 · 军绿短袖+军绿短裤+白袜+运动鞋 |
 | **身份** | 一楼走廊增援小队成员 |
 | **状态** | **已死亡**——腹部被老雷一拳击中，站着喷完精液后软倒 |
-| **登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md) |
+| **登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-09：走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)
+### [vol-2-ch-09：走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)
 
 > “混蛋！你干了什么！”离他们最近的一个白虎兽人守卫抽出电击棒冲了上来，但是还没挥出就被老雷一拳砸中腹部，然后僵在了原地，下体肉眼可见的勃了起来，眼看就要喷射，老雷见状准备掏出瓶子，但另外两个守卫也赶了上来，让老雷不得不腾出手应付。
 >

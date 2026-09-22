@@ -13,14 +13,14 @@
 | **编号** | 未知 |
 | **身份** | 武斗兵营·流墟鱼缸值班守卫 |
 | **状态** | **已死亡**——被主角抹喉 |
-| **首次登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md) |
-| **最后登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md) |
+| **首次登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md) |
+| **最后登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md)
+### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md)
 
 > 在我们解决了大概十几只黑制服熊兽人后，我们来到了一间放着玻璃鱼缸的房间，鱼缸里装满着黑色的粘液正来回蠕动，旁边值班的两只熊兽人士兵看到我们的出现立刻警觉地抽出了武器。
 >

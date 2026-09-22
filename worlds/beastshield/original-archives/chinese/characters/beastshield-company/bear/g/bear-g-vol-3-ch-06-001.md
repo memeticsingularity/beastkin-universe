@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜（有破洞） |
 | **身份** | 兽盾组织搜查队员，随薛鼎部长前往五竹峰 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md) |
-| **最后登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md) |
+| **首次登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md) |
+| **最后登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 三、登场原文
 
-### [神兵机密](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md)
+### [神兵机密](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md)
 
 > “就是！拿着这点破工资，还要跟着出差跋山涉水，真他妈血亏！”另一只棕熊兽人也跟着附和道，边说边弯下腰，将被树枝挂歪的白袜扯直，发现上面破了个洞后，又碎碎念的咒骂了一番。
 

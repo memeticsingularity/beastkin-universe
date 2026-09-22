@@ -1,7 +1,7 @@
 # Chapter 11 特工局 - 分析
 
 >
-对应文件：[ch-11-agent-bureau.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)
+对应文件：[ch-11-agent-bureau.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)
 > 分析日期：2026-03-19
 
 ---

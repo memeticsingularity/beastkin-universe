@@ -1,7 +1,7 @@
 # Chapter 3 露台狩猎 - 分析
 
 >
-对应文件：[ch-03-terrace-hunt.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md)
+对应文件：[ch-03-terrace-hunt.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-003-terrace-hunt.md)
 > 分析日期：2026-03-19
 
 ---

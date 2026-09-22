@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色制服+白袜 |
 | **身份** | 民房内被老雷挟持的绿制服熊杂兵 |
 | **状态** | **已死亡**——被老雷当人盾推向浪青平，长刀捅穿腹部，射精后被碾压补刀 |
-| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
-| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
+| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
+| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)
+### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md)
 
 > 老雷手中还挟持着一只绿制服熊杂兵，熊杂兵的胸口已被打了好几个枪孔，血流不止，看样子是被老雷拿来当做人肉盾牌的，在老雷的灼流暗劲和枪伤的折磨下，他的肉棒早已顶出裤裆硬得不成样子，离射精只差临门一脚了。
 >
@@ -99,5 +99,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)*
+*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md)*
 *创建日期：2026-09-01*

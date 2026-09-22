@@ -93,7 +93,7 @@
 
 | 标题 / Title | 链接 / Link |
 |:--|:--|
-| 还手 / Retaliation | [bs-a-s-7-04-retaliation.md](bs-a-s-7-04-retaliation.md) |
+| 还手 / Retaliation | [bs-a-s-7-04-retaliation.md](chapters/bs-a-s-7-04-retaliation.md) |
 
 ---
 

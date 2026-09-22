@@ -12,7 +12,7 @@
 | **等级/制服** | E级 · 黑色紧身制服，黑袜，军靴 |
 | **身份** | 兽盾武斗兵·牛兽人兵营 |
 | **状态** | **已死亡**——被银在夜袭中无声暗杀 |
-| **登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md) |
+| **登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md) |
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md)
+### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md)
 
 > “嗯，我在牛兽种兵营迅速转了一圈，几乎没有引起什么骚动就查看结束了，当然，明天可能就会有几只再也无法动弹的牛兽人士兵被发现。”银冷冷的道。
 

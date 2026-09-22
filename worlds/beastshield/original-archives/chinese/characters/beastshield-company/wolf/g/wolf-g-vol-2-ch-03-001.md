@@ -12,8 +12,8 @@
 | **等级/制服** | G级 · 军绿短袖短裤，白色长筒袜 |
 | **身份** | 兽盾大楼货物搬运守卫 |
 | **状态** | **已死亡**——在电梯中被魔影处决 |
-| **首次登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md) |
-| **最后登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md) |
+| **首次登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-003-terrace-hunt.md) |
+| **最后登场** | [vol-2-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-003-terrace-hunt.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-03：露台狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md)
+### [vol-2-ch-03：露台狩猎](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-003-terrace-hunt.md)
 
 > 叮～的一声，电梯门打开了，里面有一只胖壮的狼兽人也在乘电梯，旁边一堆纸箱，应该是从负一楼卸货准备搬上楼层，魔影笑了笑，打了个招呼走了进去，胖狼兽人也礼貌性的回了个憨厚的笑容，然后电梯关上了门，载着他们一同上升。
 >

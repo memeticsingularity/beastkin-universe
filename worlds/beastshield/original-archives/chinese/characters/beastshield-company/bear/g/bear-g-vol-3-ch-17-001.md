@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿制服 |
 | **身份** | 直升机驾驶员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md) |
-| **最后登场** | [vol-3-ch-17](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-017-godly-music-duel.md) |
+| **首次登场** | [vol-3-ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md) |
+| **最后登场** | [vol-3-ch-17](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-017-godly-music-duel.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 四、登场原文
 
-### [鼠神武](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)
+### [鼠神武](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)
 
 > “这就是神武吗，我还是第一次见呢。”一只带着面具的狗兽人看着棕熊兽人手中的一把匕首道。
 
@@ -106,4 +106,4 @@
 
 ---
 
-*档案来源：第三卷·白之都 [ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md) [ch-17](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-017-godly-music-duel.md)*
+*档案来源：第三卷·白之都 [ch-14](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md) [ch-17](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-017-godly-music-duel.md)*

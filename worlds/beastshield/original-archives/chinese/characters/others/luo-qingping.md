@@ -15,8 +15,8 @@
 | **别名** | 暗室三座——浪青平 |
 | **隶属** | 暗室（杀手组织） |
 | **状态** | **存活（重伤）**——为夺取兽盾情报局资料与老雷对峙，交易未成，老雷跳窗逃脱；随后被颜部长率众合围、以犀牛杂兵为诱饵引爆闪光弹重创（左肩肩胛骨粉碎性骨折、左手流血），带伤刺杀追兵后力竭跌坐，最终与老雷在牛棚杂物间照面、关门商议对策 |
-| **首次登场** | 《老雷突袭情报局》第四章（[ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)） |
-| **跨作品登场** | 《兽盾新纪元》[ch-15 绿洲镇相遇](../../../../../beastshield-reforged/original-archives/chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-015-encounter-at-oasis-town.md)（同一角色，亦有唐刀/慵懒形象） |
+| **首次登场** | 《老雷突袭情报局》第四章（[ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md)） |
+| **跨作品登场** | 《兽盾新纪元》[ch-15 绿洲镇相遇](../../../../../beastshield-reforged/original-archives/chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/chapters/ch-015-encounter-at-oasis-town.md)（同一角色，亦有唐刀/慵懒形象） |
 
 ---
 
@@ -24,8 +24,8 @@
 
 | 章节 | 文件 |
 |:----:|:-----|
-| 老雷篇 Ch.4 | [`暗室三座浪青平`](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
-| 兽盾新纪元 Ch.15 | [`绿洲镇相遇`](../../../../../beastshield-reforged/original-archives/chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/ch-015-encounter-at-oasis-town.md)（唐刀狼兽人救牛崽[配图](../../../../../beastshield-reforged/original-archives/images/main-story/ch-15-sword.png)） |
+| 老雷篇 Ch.4 | [`暗室三座浪青平`](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
+| 兽盾新纪元 Ch.15 | [`绿洲镇相遇`](../../../../../beastshield-reforged/original-archives/chinese/chaptered-stories/main/bsr-o-cm-1-main-story-1/chapters/ch-015-encounter-at-oasis-town.md)（唐刀狼兽人救牛崽[配图](../../../../../beastshield-reforged/original-archives/images/main-story/ch-15-sword.png)） |
 
 ---
 
@@ -54,11 +54,11 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **唐刀刺杀** | 腰间唐刀瞬凝，没入腹部；拔刀前目标被剑气攫住五脏六腑浑身僵住 | [ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
-| **剑气·灵肉牵扯** | 拔刀瞬间灵魂似被扯动，肉棒随之勃起，刀尖离体时高潮直冲颅顶，走射数步而亡 | [ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
-| **极速连斩** | “哧”“哧”两刀，刀已回鞘，两名武斗兵待其走身后方相继跪倒，背后各有贯穿刀痕 | [ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
-| **刀法特征·只刺不斩** | 以刀练剑，将刺击练到极致；颜部长评“近你两米内的敌人都逃不过被刺穿的下场” | [ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
-| **带伤反击** | 肩胛骨粉碎、左手流血力竭之际，仍能一击刺穿搜索的绿制服虎杂兵 | [ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
+| **唐刀刺杀** | 腰间唐刀瞬凝，没入腹部；拔刀前目标被剑气攫住五脏六腑浑身僵住 | [ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
+| **剑气·灵肉牵扯** | 拔刀瞬间灵魂似被扯动，肉棒随之勃起，刀尖离体时高潮直冲颅顶，走射数步而亡 | [ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
+| **极速连斩** | “哧”“哧”两刀，刀已回鞘，两名武斗兵待其走身后方相继跪倒，背后各有贯穿刀痕 | [ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
+| **刀法特征·只刺不斩** | 以刀练剑，将刺击练到极致；颜部长评“近你两米内的敌人都逃不过被刺穿的下场” | [ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
+| **带伤反击** | 肩胛骨粉碎、左手流血力竭之际，仍能一击刺穿搜索的绿制服虎杂兵 | [ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
 
 ### 5.2 战斗风格
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 六、完整时间线（[ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)）
+## 六、完整时间线（[ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md)）
 
 - **农田偶遇**：叼麦草哼小调，问兽盾兵“敢问你们是在找特工局的雷神寰吗”，从牛杂兵表情确认答案后，唐刀没入其腹
 - **拔刀走射**：刀尖离体瞬间牛杂兵高潮冲颅，走射十几步倒地；挥拳的武斗兵熊兽人被他身形一晃、回身一刀，落得和蠢牛一样下场，报出“暗室三座——浪青平”
@@ -85,7 +85,7 @@
 
 ---
 
-## 七、杀戮履历（[ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)）
+## 七、杀戮履历（[ch-4](../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md)）
 
 | 序号 | 目标 | 物种 | 制服 | 死因 | 备注 |
 |:----:|:-----|:----:|:----:|:------|:------|

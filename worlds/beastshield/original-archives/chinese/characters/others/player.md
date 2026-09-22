@@ -12,15 +12,15 @@
 | **等级/制服** | 无——第一卷以**军绿色制服**（兽盾 G 级杂兵制服）冒名顶替，后期不再穿 |
 | **身份** | 现实中的 VR 游戏玩家 → 游戏内顶替兽盾员工身份 → 被血精石改造为**嗜精兽** → 特工局成员（观测期） |
 | **状态** | **存活**（主线第一卷末仍活动；第二、三卷主线未再登场，见下） |
-| **首次登场** | [第一卷·第1章 游戏入门](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-001-game-entry.md) |
-| **最后登场** | [第一卷·第13章 解锁封印](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-013-unlocking.md) |
+| **首次登场** | [第一卷·第1章 游戏入门](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-001-game-entry.md) |
+| **最后登场** | [第一卷·第13章 解锁封印](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-013-unlocking.md) |
 
 > ### ⚠️ 收录范围订正（2026 审计）
 > 任务要求收录「第一卷 ch-1、第二卷 ch-1、第三卷 ch-1 与第三卷 ch-22」四章完整登场原文。**经逐行核对，
 > 后三章该角色均未在正文中登场**：
-> - **第二卷·第1章**（[`ch-1-locker-room-hunt.md`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)）：正文 L1–L106 为**魔影**视角的潜入猎杀，全文（含评述）「玩家」「主角」零命中。
-> - **第三卷·第1章**（[`ch-1-promotion-test.md`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md)）：正文 L1–L92 为兽盾**提拔科**排队场景，全文「玩家」「主角」零命中。
-> - **第三卷·第22章**（[`ch-22-rampage-end.md`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-022-rampage-end.md)）：正文 L1–L72 为**薛鼎**吸收本体、为小昆复仇，全文「玩家」「主角」零命中。
+> - **第二卷·第1章**（[`ch-1-locker-room-hunt.md`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md)）：正文 L1–L106 为**魔影**视角的潜入猎杀，全文（含评述）「玩家」「主角」零命中。
+> - **第三卷·第1章**（[`ch-1-promotion-test.md`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-001-promotion-test.md)）：正文 L1–L92 为兽盾**提拔科**排队场景，全文「玩家」「主角」零命中。
+> - **第三卷·第22章**（[`ch-22-rampage-end.md`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-022-rampage-end.md)）：正文 L1–L72 为**薛鼎**吸收本体、为小昆复仇，全文「玩家」「主角」零命中。
 > - 全书 50 章中「玩家／主角」二字仅在**第一卷** ch-1、ch-3、ch-6、ch-9、ch-10 的**旁白**里出现；第一人称叙述
 >   （「我……」开头的段落）亦**只出现在第一卷 ch-1 ～ ch-13**。
 > 因此本档案按 §1.3「采重点章收录」收录**第一卷·第1章（引入）**与**第一卷·第13章（主线最后一次登场）**
@@ -49,7 +49,7 @@
 
 ## 四、登场原文
 
-### [Chapter 1 游戏入门](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-001-game-entry.md)
+### [Chapter 1 游戏入门](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-001-game-entry.md)
 
 本章为该角色的引入章，正文全章收录。
 
@@ -165,7 +165,7 @@
 
 ---
 
-### [Chapter 13 解锁封印](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-013-unlocking.md)
+### [Chapter 13 解锁封印](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-013-unlocking.md)
 
 本章为该角色在主线中的最后一次登场章，正文全章收录。
 
@@ -205,19 +205,19 @@
 
 ---
 
-### [Chapter 1 更衣室狩猎](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)
+### [Chapter 1 更衣室狩猎](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md)
 
 本章该角色未出场（正文为魔影视角的潜入猎杀，全文「玩家／主角」零命中），故无登场原文段落。
 
 ---
 
-### [Chapter 1 晋升测试](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md)
+### [Chapter 1 晋升测试](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-001-promotion-test.md)
 
 本章该角色未出场（正文为兽盾提拔科排队场景，全文「玩家／主角」零命中），故无登场原文段落。
 
 ---
 
-### [Chapter 22 破城炮终章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-022-rampage-end.md)
+### [Chapter 22 破城炮终章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-022-rampage-end.md)
 
 本章该角色未出场（正文为薛鼎吸收本体并向小昆复仇，全文「玩家／主角」零命中），故无登场原文段落。
 

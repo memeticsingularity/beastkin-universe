@@ -99,7 +99,7 @@ Two of them, one table apart, eating. Neither says a word.
 
 | 标题 / Title | 链接 / Link |
 |:--|:--|
-| 隔间 / The Stall | [bs-a-s-7-01-stall-door.md](bs-a-s-7-01-stall-door.md) |
+| 隔间 / The Stall | [bs-a-s-7-01-stall-door.md](chapters/bs-a-s-7-01-stall-door.md) |
 
 ---
 

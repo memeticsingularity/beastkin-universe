@@ -12,8 +12,8 @@
 | **等级/制服** | 无——非兽盾公司编制（平民） |
 | **身份** | 薛鼎的伴侣，居于白之都边缘的破旧民房 |
 | **状态** | **已死亡**——第三卷·第6章夜中被嗜精瘾发作的薛鼎吸食精液；其死成为薛鼎（复制体）复仇的全部动机 |
-| **首次登场** | [第三卷·第6章 十二神武之谜](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md) |
-| **最后登场** | [第三卷·第6章 十二神武之谜](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md) |
+| **首次登场** | [第三卷·第6章 十二神武之谜](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md) |
+| **最后登场** | [第三卷·第6章 十二神武之谜](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md) |
 
 > **名字说明**：本章正文 L69 中薛鼎当面唤其「**小昆**」。第22章 L53 原版薛鼎遗言「小昆的仇……就交给你来报吧」再次点名。
 > 第20章 L95–L97 回溯此事，称其为「那个让他魂牵梦绕了五年的存在」。
@@ -38,7 +38,7 @@
 
 ## 四、登场原文
 
-### [Chapter 6 十二神武之谜](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md)
+### [Chapter 6 十二神武之谜](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md)
 
 本章开头部分该角色未出场。
 
@@ -87,7 +87,7 @@
 
 ## 七、结局
 
-第三卷·第6章深夜在民房中被嗜精瘾发作、失去理智的薛鼎含住肉棒吸食精液；薛鼎事后「露出满足的笑容，缓缓的进入了梦乡」，而小昆**再未醒来**（[`ch-6`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md) L75–L83）。此事直接触发薛鼎与牙董决斗、分裂出复制体，并在第20–22章成为复制体存在的唯一意义。
+第三卷·第6章深夜在民房中被嗜精瘾发作、失去理智的薛鼎含住肉棒吸食精液；薛鼎事后「露出满足的笑容，缓缓的进入了梦乡」，而小昆**再未醒来**（[`ch-6`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md) L75–L83）。此事直接触发薛鼎与牙董决斗、分裂出复制体，并在第20–22章成为复制体存在的唯一意义。
 
 ---
 

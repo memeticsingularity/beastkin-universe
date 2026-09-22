@@ -98,7 +98,7 @@
 
 | 标题 / Title | 链接 / Link |
 |:--|:--|
-| 撸币 / The Bounty | [bs-a-s-7-05-bounty.md](bs-a-s-7-05-bounty.md) |
+| 撸币 / The Bounty | [bs-a-s-7-05-bounty.md](chapters/bs-a-s-7-05-bounty.md) |
 
 ---
 

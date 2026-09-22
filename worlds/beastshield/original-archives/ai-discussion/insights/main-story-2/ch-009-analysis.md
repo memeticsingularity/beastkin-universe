@@ -1,7 +1,7 @@
 # Chapter 9 走廊清理 - 分析
 
 >
-对应文件：[ch-09-corridor-cleanup.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)
+对应文件：[ch-09-corridor-cleanup.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)
 > 分析日期：2026-03-19
 
 ---

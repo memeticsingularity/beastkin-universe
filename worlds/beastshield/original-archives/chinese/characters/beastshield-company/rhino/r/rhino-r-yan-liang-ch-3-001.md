@@ -12,8 +12,8 @@
 | **等级/制服** | R级枪械兵 · 白色紧身制服+白袜+运动鞋 |
 | **身份** | 兽盾军官（战功累累，约四十岁） |
 | **状态** | **已死亡**——会议中被银狼银针封穴后靠强大意志憋住最后几股精液，被炎发现后以温柔手法运功抚摸送终 |
-| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
-| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
+| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md) |
+| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md) |
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
+### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md)
 
 > “呃。。。啊。。。咳。。。”突然旁边一只趴着的**白制服犀牛兽人**动了一下，发出一阵喘息声，**炎**立刻走过去将他身体翻到椅背上查看了一番。
 >
@@ -79,4 +79,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)*
+*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md)*

@@ -8,9 +8,9 @@
 
 ## 原文索引
 
-- [第三卷第10章《故友重逢》](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-010-old-friend-reunion.md)
-- [第三卷第4章《心灵防御》（大奔首次出场）](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md)
-- [第三卷第8章《龙神岛》（大奔上一次出场）](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
+- [第三卷第10章《故友重逢》](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-010-old-friend-reunion.md)
+- [第三卷第4章《心灵防御》（大奔首次出场）](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-004-psychic-defense.md)
+- [第三卷第8章《龙神岛》（大奔上一次出场）](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md)
 
 ---
 

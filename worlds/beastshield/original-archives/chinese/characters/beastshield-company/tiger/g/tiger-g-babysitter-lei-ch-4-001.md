@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 绿制服 |
 | **身份** | 与一名黑制服熊兽武斗兵编为两人一组、搜索牛棚的兽盾杂兵，被同组熊兽兵称作“队长” |
 | **状态** | **已死亡**——在牛棚杂物间门口被浪青平捅穿腹部，肚上露出刀尖，精液一股接一股从裤裆渗出后软倒 |
-| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
-| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
+| **首次登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
+| **最后登场** | [s-3-ch4-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)
+### [s-3-ch4-1：暗室三座浪青平（第四章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md)
 
 > ——（颜部长率部下追出民房，兽盾兵们分成两人一队搜寻老雷和浪青平的踪迹——）——
 >
@@ -67,5 +67,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)*
+*档案来源：老雷突袭情报局 [第四章：暗室三座浪青平](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md)*
 *创建日期：2026-09-16*

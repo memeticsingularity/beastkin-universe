@@ -1,7 +1,7 @@
 # Chapter 07《神武传人》- 分析
 
 >
-对应文件：[ch-07-police-station-invasion.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md)
+对应文件：[ch-07-police-station-invasion.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md)
 > 分析日期：2026-03-19
 
 ---

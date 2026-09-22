@@ -14,8 +14,8 @@
 | **装备** | **手枪**（正文原文“掏出手枪”） |
 | **身份** | 特工局特工 · 浮岛最终决战的参战成员 |
 | **状态** | **已死亡**——偷袭血君王未果，被黑红邪火焚成一具赤裸的焦尸 |
-| **首次登场** | [vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) |
-| **最后登场** | [vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) |
+| **首次登场** | [vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md) |
+| **最后登场** | [vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md) |
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 四、登场原文
 
-### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)
+### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)
 
 > 血君王身后一名牛兽人特工掏出手枪，朝着他后脑勺开了一枪，打算偷袭取胜，不料子弹被一股血红色的气罩给弹了开去。
 
@@ -63,5 +63,5 @@
 
 ---
 
-*档案来源：主线第三卷《白之都》[第21章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)*
+*档案来源：主线第三卷《白之都》[第21章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)*
 *创建日期：2026-09-17*

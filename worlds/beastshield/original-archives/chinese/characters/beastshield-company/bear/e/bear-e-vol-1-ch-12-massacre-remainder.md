@@ -12,7 +12,7 @@
 | **等级/制服** | E级 · 黑色紧身制服，黑袜，军靴 |
 | **身份** | 兽盾武斗兵·熊兽人兵营 |
 | **状态** | **已死亡**——被主角与熊馆长在夜袭中屠戮 |
-| **登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md) |
+| **登场** | [vol-1-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md) |
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-012-night-raid-fight-camp.md)
+### [vol-1-ch-12：夜袭兵营](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-012-night-raid-fight-camp.md)
 
 > “老老实实让我撸射就不会死得这么难受了。”熊馆长抱怨了一句，把熊兽人的尸体扛在了肩上，扔进了一旁的厕所隔间里，现在里面已经躺着三具士兵的尸体了，他们拥挤地堆叠在一起，穿着黑袜的小腿伸出门外，让厕所门无法关上。
 >

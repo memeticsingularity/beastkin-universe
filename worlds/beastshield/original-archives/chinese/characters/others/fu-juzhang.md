@@ -13,8 +13,8 @@
 | **别名** | 牛局长（正文中勤川等人如此称呼） |
 | **身份** | 白之都警局局长 |
 | **状态** | **已死亡**——第三卷·第7章被流墟杀害 |
-| **首次登场** | [第三卷·第7章 警局入侵](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
-| **最后登场** | [第三卷·第7章 警局入侵](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
+| **首次登场** | [第三卷·第7章 警局入侵](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md) |
+| **最后登场** | [第三卷·第7章 警局入侵](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md) |
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 四、登场原文
 
-### [Chapter 7 警局入侵](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md)
+### [Chapter 7 警局入侵](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md)
 
 本章开头部分该角色未出场。
 
@@ -146,7 +146,7 @@
 
 ## 七、结局
 
-第三卷·第7章深夜在警局加班时遭流墟入侵，当晚被杀害。勤川赶到后颤抖着为他验尸、合眼（[`ch-7`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) L91–L97）。此后勤川以「牛局长的精债」为由一路追杀流墟，并在第三卷·第18章将其处决。
+第三卷·第7章深夜在警局加班时遭流墟入侵，当晚被杀害。勤川赶到后颤抖着为他验尸、合眼（[`ch-7`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md) L91–L97）。此后勤川以「牛局长的精债」为由一路追杀流墟，并在第三卷·第18章将其处决。
 
 ---
 

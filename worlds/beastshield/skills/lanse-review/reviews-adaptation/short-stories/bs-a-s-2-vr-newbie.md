@@ -2,7 +2,7 @@
 
 > **审阅时间**：2026-07-17
 > **审阅框架**：lanse 审阅眼 v1.2
-> **原故事**：[bs-a-s-2-vr-newbie.md](../../../../adaptation-works/short-stories/bs-a-s-2-vr-newbie/bs-a-s-2-vr-newbie.md)
+> **原故事**：[bs-a-s-2-vr-newbie.md](../../../../adaptation-works/short-stories/bs-a-s-2-vr-newbie/chapters/bs-a-s-2-vr-newbie.md)
 > **叙事模式**：第三人称有限视角 + VR游戏叙事（模式A变体）
 
 ---

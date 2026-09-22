@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 仓库守卫 |
 | **状态** | **已死亡**——被主角掐脖子摁在仓库大门上撸射而死 |
-| **首次登场** | [vol-1-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-002-escape-warehouse.md) |
-| **最后登场** | [vol-1-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-002-escape-warehouse.md) |
+| **首次登场** | [vol-1-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-002-escape-warehouse.md) |
+| **最后登场** | [vol-1-ch-02](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-002-escape-warehouse.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-02：仓库逃脱](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-002-escape-warehouse.md)
+### [vol-1-ch-02：仓库逃脱](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-002-escape-warehouse.md)
 
 > “呃！。。呃！。。。啊！。。。哈。。。”最后一只**绿制服牛兽人**被我掐住**脖子**摁在了被锁死的**仓库**大门上**撸射**，**射**完所有**精液**后，**牛兽人**双手一垂，脑袋歪在一边停止了呼吸。
 >

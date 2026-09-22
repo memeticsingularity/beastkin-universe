@@ -12,14 +12,14 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤 |
 | **身份** | 十一层熊族领地巡逻守卫 |
 | **状态** | **已死亡**——被魔影制服拷问后撸射而死 |
-| **首次登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md) |
-| **最后登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md) |
+| **首次登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md) |
+| **最后登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-07：熊族领地渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md)
+### [vol-2-ch-07：熊族领地渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md)
 
 > 没走几步，魔影就在拐角处遇到一只巡逻的熊守卫，魔影轻车熟路的勒住他的喉咙将他制服拖到角落，揉着他的蛋蛋拷问出这一层的布局，然后就干净利落的将他撸射。可怜的熊兽人，明明一身粗壮的肌肉，在魔影的偷袭下，完全没有用武之地，最后落得一个在魔影怀里哼哼唧唧着屈辱射精而死的下场。待其射完最后一发不再抽搐后，魔影将他的尸体拖到垃圾堆旁用垃圾袋将其掩盖，然后按照他的供词来到了这一层的员工临时宿舍。
 

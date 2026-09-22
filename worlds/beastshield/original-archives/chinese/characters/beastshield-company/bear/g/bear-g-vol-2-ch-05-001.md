@@ -12,8 +12,8 @@
 | **等级/制服** | G级（厨房后勤）· 仅围裙+白袜+运动鞋 |
 | **身份** | 兽盾大楼顶楼厨房厨师长 |
 | **状态** | **已死亡**——被魔影后入灌精而死 |
-| **首次登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md) |
-| **最后登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md) |
+| **首次登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md) |
+| **最后登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-05：厨房与致命午餐](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)
+### [vol-2-ch-05：厨房与致命午餐](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md)
 
 > 魔影没走几步，就来到了一个看上去像是厨房的地方，正好感觉肚子也饿了，就偷偷溜了进去。里面只有一只肥壮的白熊兽人正在料理，他全身赤裸，只有脚上穿着白袜和运动鞋，一条围裙裹住前下半身，圆滚滚的屁股露在外面，随着他手上的动作上下摇摆。只见他捏好几个寿司后并排摆好，然后拿出一瓶白色粘液，浇在了寿司上面，这道菜便大功告成。
 >

@@ -1,7 +1,7 @@
 # Chapter 13 解锁封印 - 分析
 
 >
-对应文件：[ch-13-unlocking.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-013-unlocking.md)
+对应文件：[ch-13-unlocking.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-013-unlocking.md)
 > 分析日期：2026-03-19
 
 ---

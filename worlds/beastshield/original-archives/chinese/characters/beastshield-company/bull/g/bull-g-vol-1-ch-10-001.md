@@ -13,14 +13,14 @@
 | **编号** | 未知 |
 | **身份** | 训练房守卫 |
 | **状态** | **已死亡**——后背中三刀而死 |
-| **首次登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
-| **最后登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
+| **首次登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md) |
+| **最后登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-1-ch-10：首次对决](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md)
+### [vol-1-ch-10：首次对决](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md)
 
 > 我刚选好**武器**，旁边一只急于立功的**牛兽人**就攻了过来，我一个闪身轻松躲开他的攻击，然后在他**背**上砍了一刀。
 >

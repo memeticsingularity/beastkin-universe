@@ -12,8 +12,8 @@
 | **等级/制服** | 光照会护卫·**角斗士装备**（赤裸上身 + 少量铠甲片 + 短布围裙；与兽盾白制服护卫不同） |
 | **身份** | 辉董的贴身护卫兼最得力的手下 |
 | **状态** | **已死亡**——第三卷·第11章中银的银针后喷精而死 |
-| **首次登场** | [第三卷·第11章 光照会潜入](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md) |
-| **最后登场** | [第三卷·第11章 光照会潜入](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md) |
+| **首次登场** | [第三卷·第11章 光照会潜入](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-011-light-cult-infiltration.md) |
+| **最后登场** | [第三卷·第11章 光照会潜入](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-011-light-cult-infiltration.md) |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 四、登场原文
 
-### [Chapter 11 光照会潜入](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md)
+### [Chapter 11 光照会潜入](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-011-light-cult-infiltration.md)
 
 本章开头部分该角色未出场。
 
@@ -165,7 +165,7 @@
 
 ## 七、结局
 
-第三卷·第11章在教主圣堂护卫辉董，银现身行刺时提锤迎战。银看准他收招极慢的破绽，在其胸腹扎入四针并迅速脱身；他中针后「突然感到浑身一股燥热，身上中针的七处像是触电一般疯狂刺激着他的神经，让他一瞬间便达到了高潮」，撕开围裙后**一股接一股的精液从缝里喷出，当场毙命**（[`ch-11`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md) L61–L65）。其尸体此后仍被银踢到半空挡下辉董的光之矛，并在章末与其他尸体一同横在大堂中央。
+第三卷·第11章在教主圣堂护卫辉董，银现身行刺时提锤迎战。银看准他收招极慢的破绽，在其胸腹扎入四针并迅速脱身；他中针后「突然感到浑身一股燥热，身上中针的七处像是触电一般疯狂刺激着他的神经，让他一瞬间便达到了高潮」，撕开围裙后**一股接一股的精液从缝里喷出，当场毙命**（[`ch-11`](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-011-light-cult-infiltration.md) L61–L65）。其尸体此后仍被银踢到半空挡下辉董的光之矛，并在章末与其他尸体一同横在大堂中央。
 
 ---
 

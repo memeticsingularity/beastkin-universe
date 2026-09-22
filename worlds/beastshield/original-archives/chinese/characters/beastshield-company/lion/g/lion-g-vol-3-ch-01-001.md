@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色短袖+军绿色短裤 |
 | **身份** | 兽盾组织底层守卫，参加提拔测试 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md) |
-| **最后登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md) |
+| **首次登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-001-promotion-test.md) |
+| **最后登场** | [vol-3-ch-01](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-001-promotion-test.md) |
 
 ---
 
 ## 二、登场原文
 
-### [提拔测试](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-001-promotion-test.md)
+### [提拔测试](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-001-promotion-test.md)
 
 > 第二只狮子兽人身体疯狂挣扎着吼道:“我放弃！我不测了！快放开我。”
 >

@@ -12,8 +12,8 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤 |
 | **身份** | 十一层熊族领地员工宿舍·新兵守卫 |
 | **状态** | **已死亡**——魔影噩梦中被捏紧鸡巴摇晃而死 |
-| **首次登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md) |
-| **最后登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md) |
+| **首次登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md) |
+| **最后登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-07：熊族领地渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md)
+### [vol-2-ch-07：熊族领地渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md)
 
 > 在将一只趴着睡觉的熊兽人的鸡巴从胯下抽出，并毫不留情的撸射后，魔影揉了把尸体的翘臀，来到了最后一张还有微弱鼾声的床边，这上面躺着一只还很年轻的熊兽人，看样子是刚进来工作不久。魔影已经困到不行，于是毫不顾忌的直接脱鞋上床，躺在了他的身边，闭上眼握住他的鸡巴一边撸动一边入睡，年轻的熊兽人守卫很敏感，没一会就被弄醒，看到眼前的景象顿时吓了一跳，但由于下体受制浑身无力，只能大声呼救。
 >

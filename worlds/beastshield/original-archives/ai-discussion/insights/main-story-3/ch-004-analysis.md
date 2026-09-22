@@ -1,7 +1,7 @@
 # Chapter 04《复仇之战》- 分析
 
 >
-对应文件：[ch-04-psychic-defense.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md)
+对应文件：[ch-04-psychic-defense.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-004-psychic-defense.md)
 > 分析日期：2026-03-19
 
 ---

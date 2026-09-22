@@ -13,8 +13,8 @@
 | **编号** | NO.564（左脚袜底） |
 | **身份** | 兽盾杂兵，收保护费 |
 | **状态** | **已死亡**——被主角割喉处决 |
-| **首次登场** | [vol-1-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-004-store-shopping.md) |
-| **最后登场** | [vol-1-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-004-store-shopping.md) |
+| **首次登场** | [vol-1-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-004-store-shopping.md) |
+| **最后登场** | [vol-1-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-004-store-shopping.md) |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-04：商店购物](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-004-store-shopping.md)
+### [vol-1-ch-04：商店购物](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-004-store-shopping.md)
 
 > 就在这尴尬之际，突然店门被人一脚**踹开**，走进来两只身材高大的**兽盾员工**，两只都是**野猪兽人**，相貌十分相似，看他们一身**绿色制服**，就知道是**兽盾**底层的那种**杂兵**。
 >

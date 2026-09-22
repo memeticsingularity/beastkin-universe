@@ -13,14 +13,14 @@
 | **编号** | 未知 |
 | **身份** | 兽盾大楼一楼大厅守卫 |
 | **状态** | **已死亡**——逃跑时被飞刀扎中后脑勺 |
-| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) |
-| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) |
+| **首次登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-009-challenge-headquarters.md) |
+| **最后登场** | [vol-1-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-009-challenge-headquarters.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md)
+### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-009-challenge-headquarters.md)
 
 > 站着的兽人已所剩无几，在我解决掉一只胖壮的野猪兽人后，一只蓝虎兽人丢下武器，转身向楼梯口逃去，我不慌不忙从腰间抽出一把飞刀用力掷出，不偏不倚地扎在了蓝虎兽人的后脑勺上，虎兽人在继续跑了两三步后，便像喝醉酒的醉汉一般踉跄了几步，然后身子一歪，扑通一声栽倒在地上。
 >

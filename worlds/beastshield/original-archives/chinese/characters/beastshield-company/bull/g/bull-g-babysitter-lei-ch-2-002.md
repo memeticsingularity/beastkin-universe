@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿制服+白袜 |
 | **身份** | 情报基地巡逻士兵 |
 | **状态** | **已死亡**——巡逻到草地边被老雷拖进草丛射精而死 |
-| **首次登场** | [s-3-ch2-002](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
-| **最后登场** | [s-3-ch2-002](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md) |
+| **首次登场** | [s-3-ch2-002](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md) |
+| **最后登场** | [s-3-ch2-002](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 三、登场原文
 
-### [老雷突袭情报局·第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)
+### [老雷突袭情报局·第二章：情报部门](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md)
 
 > ——（老雷穿过黑暗中，朝部门深处进发，顺手解决掉了几个倒霉的巡逻士兵）——
 >
@@ -46,6 +46,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第二章](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-002-intelligence-sweep.md)*
+*档案来源：老雷突袭情报局 [第二章](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-002-intelligence-sweep.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

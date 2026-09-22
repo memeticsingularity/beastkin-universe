@@ -1,7 +1,7 @@
 # Chapter 2 仓库逃脱 - 分析
 
 >
-对应文件：[ch-2-escape-warehouse.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-002-escape-warehouse.md)
+对应文件：[ch-2-escape-warehouse.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-002-escape-warehouse.md)
 > 分析日期：2026-03-19
 
 ---

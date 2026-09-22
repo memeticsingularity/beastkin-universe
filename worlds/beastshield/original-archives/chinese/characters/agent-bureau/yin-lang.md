@@ -12,10 +12,10 @@
 | **等级/制服** | 无——非兽盾公司编制，特工局不设制服等级 |
 | **身份** | 特工局成员（刺客/暗杀系）；在炎魉篇 ch-2、ch-3 中以「神秘竞争者」的身份先行清剿基地 |
 | **状态** | **存活**（炎魉篇 ch-3 结束时）——任务达成后「身影一闪」离去 |
-| **首次登场** | [炎魉篇 ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)（负一层**关押室**，正文 L83） |
-| **最后登场** | [炎魉篇 ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)（正文 L93：「**银狼**走后没多久…**警铃**大响」） |
-| **首次登场（主线）** | [vol-3-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md)（正文 L31：脱去绿紧身衣后「外貌瞬间变为了一只**银白色的狼兽人**，他就是特工局的首席特工之一——**银**」） |
-| **最后登场（主线）** | [vol-3-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md)（正文 L137：「说完，**银**永远地闭上了双眼」） |
+| **首次登场** | [炎魉篇 ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md)（负一层**关押室**，正文 L83） |
+| **最后登场** | [炎魉篇 ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md)（正文 L93：「**银狼**走后没多久…**警铃**大响」） |
+| **首次登场（主线）** | [vol-3-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-011-light-cult-infiltration.md)（正文 L31：脱去绿紧身衣后「外貌瞬间变为了一只**银白色的狼兽人**，他就是特工局的首席特工之一——**银**」） |
+| **最后登场（主线）** | [vol-3-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-011-light-cult-infiltration.md)（正文 L137：「说完，**银**永远地闭上了双眼」） |
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 四、登场原文
 
-### [炎魉篇·第三章：基地深处的激战](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
+### [炎魉篇·第三章：基地深处的激战](../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md)
 
 > **负一层**的最深处是一间**关押室**，**炎**屏住呼吸，跨过门口的俩具**黑制服守卫**尸体走了进去，只见一只**银灰色的狼兽人**正在抓着一只**白制服兽盾守卫**的**肉棒**，胁迫着他操作一台**仪器**，没过一会，一旁的**关押室**便被打开，里面走出来一只**熊猫兽人**。
 >
@@ -55,7 +55,7 @@
 
 *（以上为该角色在本章正文中自首次出现（L83）到最后一次提及（L93）区间内的**全部**自然段，无删节跳段，故未使用 `> ——（过渡描述）——` 过渡标注。其中 L89 是**熊猫**对他的当面回答，属同一段对话，一并引用。）*
 
-### [光照会渗透](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md)
+### [光照会渗透](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-011-light-cult-infiltration.md)
 
 > “没想到你们居然想打龙神的主意，真是不自量力，各位就不用劳驾了，今天我就把你们通通解决掉以除后患！”语毕，只见薛鼎带来的一名手下一只手搭在薛鼎的肩上，手里捏着一根银针的末端，那人慢慢脱下绿色紧身衣，外貌瞬间变为了一只银白色的狼兽人，他就是特工局的首席特工之一——银。旁边另一个绿制服的熊兽人目瞪口呆地看着这一切，似乎完全没明白发生了什么。
 >
@@ -161,9 +161,9 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **银针封穴术**（推定，说明见下） | 以细小**银针**刺入穴道，令目标无法动弹，只能眼睁睁看着自己被撸射而死；中针者死后肌肉仍保持中针时的僵硬站立状态，拔出银针才会瘫倒 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) 正文 L30–L36、L48 |
-| **近身制敌** | 单手抓住**白制服兽盾守卫**的**肉棒**，胁迫其操作一台**仪器**开启牢门 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) 正文 L83 |
-| **极速身法** | 「身影一闪，便消失了踪影」，炎魉完全来不及反应 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) 正文 L91 |
+| **银针封穴术**（推定，说明见下） | 以细小**银针**刺入穴道，令目标无法动弹，只能眼睁睁看着自己被撸射而死；中针者死后肌肉仍保持中针时的僵硬站立状态，拔出银针才会瘫倒 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md) 正文 L30–L36、L48 |
+| **近身制敌** | 单手抓住**白制服兽盾守卫**的**肉棒**，胁迫其操作一台**仪器**开启牢门 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md) 正文 L83 |
+| **极速身法** | 「身影一闪，便消失了踪影」，炎魉完全来不及反应 | [ch-3](../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md) 正文 L91 |
 
 > ⚠️ **待核实**：本章正文**没有**直接描写银狼出手施针的画面——「**银针封穴术**」是**炎**看到尸体后作出的推断（正文 L32），施术者在正文中始终以「凶手」或尸体上的**针孔**指代。把该功法记在银狼名下，依据是[本篇目录](../../chaptered-stories/side/bs-o-cs-1-yan-liang/README.md)第 75 行的既有整理与本章「故事评述」区块的归纳，**本次未取得正文级确证**。
 
@@ -199,9 +199,9 @@
 
 炎魉篇 ch-3 中，银狼胁迫**白制服守卫**操作**仪器**打开关押室、救出**熊猫**，随后「身影一闪」离去，未与炎魉发生任何接触；他走后没多久基地**警铃**大响（正文 L93）。**在本章结束时存活**。
 
-主线中的最终结局：第三卷第11章，银易容潜入光照会圣堂行刺辉董失败——被辉董的「无垢」强光灼瞎双眼，又被不可防御的**光之矛**刺穿灵魂，拔矛之际他强行给自己施针续命一个时辰，破窗逃回特工局总部，向总司令交代完所有情报后死去（正文 L107–L137，[vol-3-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md)）；与 [agent-bureau/README.md](README.md)「待建档」表记的「已死亡（被辉董光之矛刺穿灵魂）」一致。
+主线中的最终结局：第三卷第11章，银易容潜入光照会圣堂行刺辉董失败——被辉董的「无垢」强光灼瞎双眼，又被不可防御的**光之矛**刺穿灵魂，拔矛之际他强行给自己施针续命一个时辰，破窗逃回特工局总部，向总司令交代完所有情报后死去（正文 L107–L137，[vol-3-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-011-light-cult-infiltration.md)）；与 [agent-bureau/README.md](README.md)「待建档」表记的「已死亡（被辉董光之矛刺穿灵魂）」一致。
 
 ---
 
-*档案来源：炎魉篇 [第三章](../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)*  
+*档案来源：炎魉篇 [第三章](../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md)*  
 *创建日期：2026-09-16*

@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织入侵小队成员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) |
-| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) |
+| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-005-undercover-hunt.md) |
+| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-005-undercover-hunt.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 三、登场原文
 
-### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md)
+### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-005-undercover-hunt.md)
 
 > “奇怪，那两个家伙上楼后怎么就没了动静。”一只穿着绿制服的灰熊兽人持枪小心翼翼的也上了三楼，看到书房里满是精液的墙壁和牛兽人的尸体后，他立马警惕了起来，接着看到对面卧室里的床上躺着一个身影，被被子包裹住看不到面孔，于是他蹑手蹑脚的慢慢靠近，将手枪对准了床单，“砰”“砰”“砰”连开三枪，见毫无反应，于是用枪口挑开被子，狗兽人一张死不瞑目的表情便映入眼帘。
 

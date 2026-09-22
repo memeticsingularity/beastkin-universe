@@ -12,7 +12,7 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤，白色长筒袜带蓝色公司徽章 |
 | **身份** | 兽盾大楼十层高层守卫群体 |
 | **状态** | **全员覆灭**——被魔影屠戮殆尽 |
-| **登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md) |
+| **登场** | [vol-2-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md) |
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-05：厨房与致命午餐](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)
+### [vol-2-ch-05：厨房与致命午餐](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md)
 
 > 在十楼一间宽敞房间里，横七竖八躺满了兽人尸体，他们全都是这栋楼的高层守卫，个个身材魁梧身手不凡，但此时却以各种屈辱的姿势堆积在这里，一动不动，身上穿着蓝白高层紧身制服和带有蓝色公司徽章的白袜，将他们身材勾勒得凹凸有致，十分诱人，但空气中弥漫着的浓烈精腥味，已经宣告他们的身材只能止步于此，即将慢慢腐烂。他们身上的制服原本都是可以穿出去对外炫耀的资本，现在却如同讽刺的外壳包裹在他们身上，强调着他们的无能。
 >

@@ -12,8 +12,8 @@
 | **等级/制服** | R级枪械兵 · 白色紧身制服 |
 | **身份** | 关押室操作员 |
 | **状态** | **已死亡**——被银狼胁迫操作仪器打开牢门后，被银狼撸射同时拧断脖子 |
-| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
-| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) |
+| **首次登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md) |
+| **最后登场** | [炎魉篇 ch-3](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)
+### [炎魉篇·第三章：基地深处的激战](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md)
 
 > **负一层**的最深处是一间**关押室**，**炎**屏住呼吸，跨过门口的俩具**黑制服守卫**尸体走了进去，只见一只**银灰色的狼兽人**正在抓着一只**白制服兽盾守卫**的**肉棒**，胁迫着他操作一台**仪器**，没过一会，一旁的**关押室**便被打开，里面走出来一只**熊猫兽人**。
 >
@@ -47,4 +47,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md)*
+*档案来源：炎魉篇 [第三章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md)*

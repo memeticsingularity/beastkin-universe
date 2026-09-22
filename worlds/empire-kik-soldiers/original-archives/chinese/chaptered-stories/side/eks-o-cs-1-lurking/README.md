@@ -113,32 +113,32 @@ The work weaves together tactical infiltration, chip hacking, sexual weakness ex
 
 | 章节 | 中文标题推测 | 英文标识 | 文件 |
 |:--:|:--|:--|:--|
-| 01 | 哨卡屠杀 | Outpost Massacre | [ch-1-outpost-massacre.md](ch-001-outpost-massacre.md) |
-| 02 | 安全屋归来 | Safehouse Return | [ch-2-safehouse-return.md](ch-002-safehouse-return.md) |
-| 03 | 首次捕获 | First Capture | [ch-3-first-capture.md](ch-003-first-capture.md) |
-| 04 | 芯片提取 | Chip Extraction | [ch-4-chip-extraction.md](ch-004-chip-extraction.md) |
-| 05 | 城市回忆 | City Recall | [ch-5-city-recall.md](ch-005-city-recall.md) |
-| 06 | 刺客降临 | Assassin Landing | [ch-6-assassin-landing.md](ch-006-assassin-landing.md) |
-| 07 | 温泉谍影 | Hot Spring Spy | [ch-7-hot-spring-spy.md](ch-007-hot-spring-spy.md) |
-| 08 | 队长回忆 | Captain Memory | [ch-8-captain-memory.md](ch-008-captain-memory.md) |
-| 09 | 城市渗透 | City Infiltration | [ch-9-city-infiltration.md](ch-009-city-infiltration.md) |
-| 10 | 绿袜区潜入 | Green Sock Zone | [ch-10-green-sock-zone.md](ch-010-green-sock-zone.md) |
-| 11 | 日落与奴隶 | Sunset Slave | [ch-11-sunset-slave.md](ch-011-sunset-slave.md) |
-| 12 | 惩戒与警告 | Discipline Warning | [ch-12-discipline-warning.md](ch-012-discipline-warning.md) |
-| 13 | 矿物秘密 | Mineral Secret | [ch-13-mineral-secret.md](ch-013-mineral-secret.md) |
-| 14 | 白袜指挥官 | White Sock Commander | [ch-14-white-sock-commander.md](ch-014-white-sock-commander.md) |
-| 15 | 黑虎降临 | Black Tiger Arrival | [ch-15-black-tiger-arrival.md](ch-015-black-tiger-arrival.md) |
-| 16 | 处决秀 | Execution Show | [ch-16-execution-show.md](ch-016-execution-show.md) |
-| 17 | 洞穴训练 | Cave Training | [ch-17-cave-training.md](ch-017-cave-training.md) |
-| 18 | 伏击战 | Ambush Battle | [ch-18-ambush-battle.md](ch-018-ambush-battle.md) |
-| 19 | 转移与突袭 | Relocation Raid | [ch-19-relocation-raid.md](ch-019-relocation-raid.md) |
-| 20 | 秘密设施 | Secret Facility | [ch-20-secret-facility.md](ch-020-secret-facility.md) |
-| 21 | 虎兽人招募 | Tiger Recruit | [ch-21-tiger-recruit.md](ch-021-tiger-recruit.md) |
-| 22 | 懒惰惩罚 | Lazy Punishment | [ch-22-lazy-punishment.md](ch-022-lazy-punishment.md) |
-| 23 | 指挥官 feast | Commander Feast | [ch-23-commander-feast.md](ch-023-commander-feast.md) |
-| 24 | 树上审讯 | Tree Interrogation | [ch-24-tree-interrogation.md](ch-024-tree-interrogation.md) |
-| 25 | 收编俘虏 | Recruit Captives | [ch-25-recruit-captives.md](ch-025-recruit-captives.md) |
-| 26 | 洞穴总部 | Cave Headquarters | [ch-26-cave-headquarters.md](ch-026-cave-headquarters.md) |
+| 01 | 哨卡屠杀 | Outpost Massacre | [ch-1-outpost-massacre.md](chapters/ch-001-outpost-massacre.md) |
+| 02 | 安全屋归来 | Safehouse Return | [ch-2-safehouse-return.md](chapters/ch-002-safehouse-return.md) |
+| 03 | 首次捕获 | First Capture | [ch-3-first-capture.md](chapters/ch-003-first-capture.md) |
+| 04 | 芯片提取 | Chip Extraction | [ch-4-chip-extraction.md](chapters/ch-004-chip-extraction.md) |
+| 05 | 城市回忆 | City Recall | [ch-5-city-recall.md](chapters/ch-005-city-recall.md) |
+| 06 | 刺客降临 | Assassin Landing | [ch-6-assassin-landing.md](chapters/ch-006-assassin-landing.md) |
+| 07 | 温泉谍影 | Hot Spring Spy | [ch-7-hot-spring-spy.md](chapters/ch-007-hot-spring-spy.md) |
+| 08 | 队长回忆 | Captain Memory | [ch-8-captain-memory.md](chapters/ch-008-captain-memory.md) |
+| 09 | 城市渗透 | City Infiltration | [ch-9-city-infiltration.md](chapters/ch-009-city-infiltration.md) |
+| 10 | 绿袜区潜入 | Green Sock Zone | [ch-10-green-sock-zone.md](chapters/ch-010-green-sock-zone.md) |
+| 11 | 日落与奴隶 | Sunset Slave | [ch-11-sunset-slave.md](chapters/ch-011-sunset-slave.md) |
+| 12 | 惩戒与警告 | Discipline Warning | [ch-12-discipline-warning.md](chapters/ch-012-discipline-warning.md) |
+| 13 | 矿物秘密 | Mineral Secret | [ch-13-mineral-secret.md](chapters/ch-013-mineral-secret.md) |
+| 14 | 白袜指挥官 | White Sock Commander | [ch-14-white-sock-commander.md](chapters/ch-014-white-sock-commander.md) |
+| 15 | 黑虎降临 | Black Tiger Arrival | [ch-15-black-tiger-arrival.md](chapters/ch-015-black-tiger-arrival.md) |
+| 16 | 处决秀 | Execution Show | [ch-16-execution-show.md](chapters/ch-016-execution-show.md) |
+| 17 | 洞穴训练 | Cave Training | [ch-17-cave-training.md](chapters/ch-017-cave-training.md) |
+| 18 | 伏击战 | Ambush Battle | [ch-18-ambush-battle.md](chapters/ch-018-ambush-battle.md) |
+| 19 | 转移与突袭 | Relocation Raid | [ch-19-relocation-raid.md](chapters/ch-019-relocation-raid.md) |
+| 20 | 秘密设施 | Secret Facility | [ch-20-secret-facility.md](chapters/ch-020-secret-facility.md) |
+| 21 | 虎兽人招募 | Tiger Recruit | [ch-21-tiger-recruit.md](chapters/ch-021-tiger-recruit.md) |
+| 22 | 懒惰惩罚 | Lazy Punishment | [ch-22-lazy-punishment.md](chapters/ch-022-lazy-punishment.md) |
+| 23 | 指挥官 feast | Commander Feast | [ch-23-commander-feast.md](chapters/ch-023-commander-feast.md) |
+| 24 | 树上审讯 | Tree Interrogation | [ch-24-tree-interrogation.md](chapters/ch-024-tree-interrogation.md) |
+| 25 | 收编俘虏 | Recruit Captives | [ch-25-recruit-captives.md](chapters/ch-025-recruit-captives.md) |
+| 26 | 洞穴总部 | Cave Headquarters | [ch-26-cave-headquarters.md](chapters/ch-026-cave-headquarters.md) |
 
 ---
 

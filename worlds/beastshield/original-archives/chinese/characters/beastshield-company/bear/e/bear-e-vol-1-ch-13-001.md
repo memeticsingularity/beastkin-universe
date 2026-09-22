@@ -14,8 +14,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾武斗兵 |
 | **状态** | **已死亡**——被银针封穴后撸射处决 |
-| **首次登场** | [vol-1-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-013-unlocking.md) |
-| **最后登场** | [vol-1-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-013-unlocking.md) |
+| **首次登场** | [vol-1-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-013-unlocking.md) |
+| **最后登场** | [vol-1-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-013-unlocking.md) |
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-13：解锁封印](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-013-unlocking.md)
+### [vol-1-ch-13：解锁封印](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-013-unlocking.md)
 
 > ”你…你到底是谁…为什么这么强？…唔…”被我用**银针封穴**的一只**灰熊兽人**保持着出拳的姿势僵立在一旁，在他的四周躺满了和他一样穿着**兽盾黑色制服**的粗壮**兽人**，只不过那些都已经是**尸体**，他已经是最后一个**活口**了。
 >

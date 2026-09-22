@@ -125,7 +125,7 @@ Brown Bear, White Rabbit, Boar, Wolf
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 第一场游戏（全一话·九场景） | [阅读](bs-a-s-2-vr-newbie.md) |
+| Ch.1 | 第一场游戏（全一话·九场景） | [阅读](chapters/bs-a-s-2-vr-newbie.md) |
 
 ---
 
@@ -133,7 +133,7 @@ Brown Bear, White Rabbit, Boar, Wolf
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | The First Game (One-shot, 9 Scenes) | [Read](bs-a-s-2-vr-newbie.md) |
+| Ch.1 | The First Game (One-shot, 9 Scenes) | [Read](chapters/bs-a-s-2-vr-newbie.md) |
 
 ---
 

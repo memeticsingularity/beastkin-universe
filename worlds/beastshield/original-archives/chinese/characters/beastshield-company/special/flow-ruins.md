@@ -13,8 +13,8 @@
 | **编号** | 无（特殊身份） |
 | **身份** | 兽盾组织采购部部长 · 牙董直属嗜精兽部长 |
 | **状态** | **已死亡**——在浮岛后山树林的耐力战中被勤川以一线天丝线织成的密网勒出真身（一条鲶鱼），被捏成肉沫爆裂而死 |
-| **首次登场** | [vol-3-ch-07](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
-| **最后登场** | [vol-3-ch-18](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-018-flame-cannon-finale.md) |
+| **首次登场** | [vol-3-ch-07](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md) |
+| **最后登场** | [vol-3-ch-18](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-018-flame-cannon-finale.md) |
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## 四、登场原文
 
-### [警局入侵](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md)
+### [警局入侵](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md)
 
 > “哈罗，壮牛，晚上好～”一个低沉的声音从牛局长身后响起。
 >
@@ -95,7 +95,7 @@
 
 > 根据牛局长的死状以及自己这几个月来私底下调查出的兽盾组织情报，勤川很轻松就推理出杀人凶手是兽盾组织采购部的部长——流墟，可是知道又有什么用，即使立案上报给领导，案件也会被强行压下来，最后不了了之。
 
-### [龙神之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md)
+### [龙神之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-013-dragon-god-battle.md)
 
 > “飞了这么久，感觉好饿啊，这里有这么多员工，我吃一两只应该没什么问题吧。”随着一阵黏糊糊的声音响起，流墟部长从直升机里走了出来，他依旧全身赤裸一丝不挂，长长的鲨鱼尾巴拖地行走，光滑油亮的黑色皮肤使得他那健美一般挺拔的身材显得格外有型。
 >
@@ -123,7 +123,7 @@
 
 > 见战斗一触即发，谨慎的流墟立刻化为液态遁在一旁伺机而动。阿宝部长则兴致勃勃地跑到最前列，兴奋得摩拳擦掌准备大干一场，他对金钱奖励没有丝毫兴趣，他只期待着与强者对决。
 
-### [血王复活](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)
+### [血王复活](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)
 
 > “阿宝，流墟，你们带领其他人去拦住特工局，龙神交给我们三个对付。”牙董下令。 “是！”阿宝立正敬了个军礼。
 >
@@ -151,7 +151,7 @@
 >
 > “果然和情报里的一样，没有那么好杀，看来得从长计议了。”勤川收回白线，甩掉了上面残留的胶液，向后一跃与流墟拉开距离。
 
-### [火焰炮终章](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-018-flame-cannon-finale.md)
+### [火焰炮终章](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-018-flame-cannon-finale.md)
 
 > 战场的另一边，勤川被流墟逼到狼狈逃窜，他的攻击对流墟毫无作用，只有挨打的份。
 >
@@ -203,13 +203,13 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **胶液化** | 身体可化为黑色胶液，无视拳脚刀枪；被子弹打中后弹坑蠕动几下便自动愈合，射入体内的子弹还能从手心溢出落地 | [ch-7](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
-| **吞噬吸收** | 包裹敌人后将其衣物、军靴乃至军靴里的白袜一点点溶解干净，并从对方的挣扎挤压中榨出精液吸收；被吃干抹净的尸体会从胶液侧面排出 | [ch-16](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md) |
-| **黏膜侵蚀** | 胶液钻入猎物后穴、贴在前列腺上螺旋蠕动，连根带蛋包裹其下体摩擦蠕动，逼其缴械 | [ch-7](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
-| **窒息绞杀** | 胶液从眼耳口鼻流入堵住所有孔洞，向内螺旋紧缩施压，令猎物窒息而死 | [ch-7](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
-| **多头重生** | 头部被细线勒爆化成一滩黑水后，尚未落地便能在腹部位置重新凝聚出一只新的鲨鱼脑袋 | [ch-16](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md) |
-| **渗透移动** | 可化为液态从通风口溜走，也可渗入土地潜行、再从脚下泥地中涌出笼罩猎物 | [ch-7](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) / [ch-18](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-018-flame-cannon-finale.md) |
-| **真身（核心）** | 胶液体内藏着一个拳头大小的椭圆核心，本体鲶鱼即藏于其中；核心一旦被网住勒紧，整具胶液之躯便会缩成一团并爆裂，露出奄奄一息的鲶鱼 | [ch-18](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-018-flame-cannon-finale.md) |
+| **胶液化** | 身体可化为黑色胶液，无视拳脚刀枪；被子弹打中后弹坑蠕动几下便自动愈合，射入体内的子弹还能从手心溢出落地 | [ch-7](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md) |
+| **吞噬吸收** | 包裹敌人后将其衣物、军靴乃至军靴里的白袜一点点溶解干净，并从对方的挣扎挤压中榨出精液吸收；被吃干抹净的尸体会从胶液侧面排出 | [ch-16](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md) |
+| **黏膜侵蚀** | 胶液钻入猎物后穴、贴在前列腺上螺旋蠕动，连根带蛋包裹其下体摩擦蠕动，逼其缴械 | [ch-7](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md) |
+| **窒息绞杀** | 胶液从眼耳口鼻流入堵住所有孔洞，向内螺旋紧缩施压，令猎物窒息而死 | [ch-7](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md) |
+| **多头重生** | 头部被细线勒爆化成一滩黑水后，尚未落地便能在腹部位置重新凝聚出一只新的鲨鱼脑袋 | [ch-16](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md) |
+| **渗透移动** | 可化为液态从通风口溜走，也可渗入土地潜行、再从脚下泥地中涌出笼罩猎物 | [ch-7](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md) / [ch-18](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-018-flame-cannon-finale.md) |
+| **真身（核心）** | 胶液体内藏着一个拳头大小的椭圆核心，本体鲶鱼即藏于其中；核心一旦被网住勒紧，整具胶液之躯便会缩成一团并爆裂，露出奄奄一息的鲶鱼 | [ch-18](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-018-flame-cannon-finale.md) |
 
 ---
 
@@ -231,5 +231,5 @@
 
 ---
 
-*档案来源：第三卷·白之都 [ch-7 警局入侵](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md)、[ch-13 龙神之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-013-dragon-god-battle.md)、[ch-16 血王复活](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)、[ch-18 火焰炮终章](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-018-flame-cannon-finale.md)*
+*档案来源：第三卷·白之都 [ch-7 警局入侵](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md)、[ch-13 龙神之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-013-dragon-god-battle.md)、[ch-16 血王复活](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)、[ch-18 火焰炮终章](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-018-flame-cannon-finale.md)*
 *创建日期：2026-06-11 · 2026-09-17 合并重复档案并补全 ch-7 ~ ch-18 全部登场原文*

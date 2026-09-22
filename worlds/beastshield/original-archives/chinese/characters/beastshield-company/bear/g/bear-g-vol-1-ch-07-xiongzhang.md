@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿紧身短袖+短裤→O级·蓝色制服 |
 | **身份** | 主角（银）直属部下 |
 | **状态** | **已死亡**——晋升熊组长后于vol-2-ch-08被魔影破金钟罩射精而死 |
-| **首次登场** | [vol-1-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-007-training-subordinates.md) |
-| **最后登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) |
+| **首次登场** | [vol-1-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-007-training-subordinates.md) |
+| **最后登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md) |
 | **后续身份** | [熊组长→十一层守护者](../../../../chaptered-stories/characters/player-subordinates/xiong-zhang.md)（详见player-subordinates档案） |
 
 ---
@@ -38,7 +38,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-07：训练部下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-007-training-subordinates.md)
+### [vol-1-ch-07：训练部下](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-007-training-subordinates.md)
 
 > 左边是一只**棕熊兽人**，他虽然肚子上有些肥肉，但四肢粗壮，眼神认真，透出一股子憨劲。
 >
@@ -170,7 +170,7 @@
 
 ---
 
-### [vol-1-ch-08：转职挑战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-008-class-change-quest.md)
+### [vol-1-ch-08：转职挑战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-008-class-change-quest.md)
 
 > 我走进办公室，问熊掌和牛杂：“兽盾的高级兵种有哪些？”
 >
@@ -182,7 +182,7 @@
 
 ---
 
-### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md)
+### [vol-1-ch-09：总部突袭](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-009-challenge-headquarters.md)
 
 > 四楼就是兽盾的大食堂了，此时还不是饭点，大堂里只零零散散的坐着几只杂兵，而且，我发现牛杂和熊掌居然也坐在这里吃饭！
 >
@@ -264,7 +264,7 @@
 
 ---
 
-### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)
+### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)
 
 > 我没有去领黑制服，而是直接回到了办公室，牛杂和熊掌穿着蓝色制服迎了上来。
 >
@@ -300,4 +300,4 @@
 
 ---
 
-*档案来源：第一卷 [第七章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-007-training-subordinates.md) ~ [第十一章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)*
+*档案来源：第一卷 [第七章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-007-training-subordinates.md) ~ [第十一章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)*

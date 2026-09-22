@@ -12,8 +12,8 @@
 | **等级/制服** | 无——非兽盾公司编制（矿工帽 + 工装服 + 胶靴） |
 | **身份** | 矿工；酒店事件中的目击证人 |
 | **状态** | **存活**（正文最后一处为被虎队长拎走；后续未交代） |
-| **首次登场** | [第一卷·第6章 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) |
-| **最后登场** | [第一卷·第6章 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) |
+| **首次登场** | [第一卷·第6章 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-006-break-into-enemy-camp.md) |
+| **最后登场** | [第一卷·第6章 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-006-break-into-enemy-camp.md) |
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 四、登场原文
 
-### [Chapter 6 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md)
+### [Chapter 6 潜入敌营](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-006-break-into-enemy-camp.md)
 
 本章开头部分该角色未出场。
 
@@ -109,7 +109,7 @@
 
 ## 七、结局
 
-第一卷·第6章在酒店房间内接受牛警长讯问，牛警长被虎队长击杀后，他「瑟瑟发抖」地被虎队长拎走；虎队长临走前丢下一句「明天上午去兽盾人事部领一套蓝（制服）」（[`ch-6`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-006-break-into-enemy-camp.md) L204）。**正文此后未再交代其下落**。
+第一卷·第6章在酒店房间内接受牛警长讯问，牛警长被虎队长击杀后，他「瑟瑟发抖」地被虎队长拎走；虎队长临走前丢下一句「明天上午去兽盾人事部领一套蓝（制服）」（[`ch-6`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-006-break-into-enemy-camp.md) L204）。**正文此后未再交代其下落**。
 
 ---
 

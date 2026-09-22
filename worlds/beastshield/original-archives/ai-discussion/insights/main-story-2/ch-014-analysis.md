@@ -1,7 +1,7 @@
 # Chapter 14 蟒蛇岛回忆·下 - 分析
 
 >
-对应文件：[ch-14-python-island-transformation.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md)
+对应文件：[ch-14-python-island-transformation.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md)
 > 分析日期：2026-03-19
 
 ---

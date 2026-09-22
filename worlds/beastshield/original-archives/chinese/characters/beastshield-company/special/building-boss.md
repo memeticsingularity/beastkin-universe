@@ -12,8 +12,8 @@
 | **等级/制服** | 头目级 · 大楼总负责人 |
 | **身份** | 兽盾公司大楼最高负责人，本次行动目标 |
 | **状态** | **存活**——吸食所有精液后增强力量，放弃大楼后凭空消失；后在蟒蛇岛与儡先生合作，被魔影刺杀未遂 |
-| **首次登场** | [vol-2-ch-11](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) |
-| **后续登场** | [vol-2-ch-15](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) |
+| **首次登场** | [vol-2-ch-11](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) |
+| **后续登场** | [vol-2-ch-15](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-11：冥府牛头之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)
+### [vol-2-ch-11：冥府牛头之战](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)
 
 > ——（本章开头部分该角色未出场：警铃响起，守卫涌入并围住魔影与老雷，叙事尚未写到总头目）——
 
@@ -85,7 +85,7 @@
 
 ---
 
-### [vol-2-ch-15：重返蟒蛇岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)
+### [vol-2-ch-15：重返蟒蛇岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)
 
 > ——（本章开头部分该角色未出场：魔影带小豪重返蟒蛇岛，一路猎杀巡逻守卫并拷问白虎守卫，尚未抵达基地中心广场）——
 

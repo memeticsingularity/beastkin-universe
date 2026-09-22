@@ -13,10 +13,10 @@
 | **种族** | 银白色狼兽人 |
 | **别名** | 魔影（代号） |
 | **隶属** | 特工局 / Agent Bureau |
-| **状态** | **已死亡**——在浮岛最终决战中被血君王的邪火焚烧殆尽（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)） |
-| **首次登场（命名）** | 第二卷·第1章（[vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)） |
-| **首次登场（主线）** | 第一卷·第11章特工局会议（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)） |
-| **最后登场** | 第三卷·第21章（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)） |
+| **状态** | **已死亡**——在浮岛最终决战中被血君王的邪火焚烧殆尽（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)） |
+| **首次登场（命名）** | 第二卷·第1章（[vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md)） |
+| **首次登场（主线）** | 第一卷·第11章特工局会议（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)） |
+| **最后登场** | 第三卷·第21章（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)） |
 
 ---
 
@@ -27,26 +27,26 @@
 **第二卷《魔影》**（`main/bs-o-cm-1-main-story-2/`）
 | 章节 | 文件 | 章节 | 文件 |
 |:----:|:-----|:----:|:-----|
-| ch-1 | [`更衣室狩猎`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md) | ch-9 | [`走廊清理`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md) |
-| ch-2 | [`走廊巡逻`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md) | ch-10 | [`十三层潜入`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md) |
-| ch-3 | [`露台狩猎`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md) | ch-11 | [`冥府牛头之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) |
-| ch-4 | [`虎卫组之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) | ch-12 | [`教学篇`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md) |
-| ch-5 | [`厨房与致命午餐`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md) | ch-13 | [`蟒蛇岛回忆·上`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md) |
-| ch-6 | [`老雷登场`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) | ch-14 | [`蟒蛇岛回忆·下`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md) |
-| ch-7 | [`熊族领地渗透`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md) | ch-15 | [`重返蟒蛇岛`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) |
-| ch-8 | [`炼药房之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) | | |
+| ch-1 | [`更衣室狩猎`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md) | ch-9 | [`走廊清理`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md) |
+| ch-2 | [`走廊巡逻`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-002-corridor-patrol.md) | ch-10 | [`十三层潜入`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md) |
+| ch-3 | [`露台狩猎`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-003-terrace-hunt.md) | ch-11 | [`冥府牛头之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) |
+| ch-4 | [`虎卫组之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md) | ch-12 | [`教学篇`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md) |
+| ch-5 | [`厨房与致命午餐`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md) | ch-13 | [`蟒蛇岛回忆·上`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md) |
+| ch-6 | [`老雷登场`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md) | ch-14 | [`蟒蛇岛回忆·下`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md) |
+| ch-7 | [`熊族领地渗透`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md) | ch-15 | [`重返蟒蛇岛`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md) |
+| ch-8 | [`炼药房之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md) | | |
 
 **第一卷《兽游世界》**（`main/bs-o-cm-1-main-story-1/`）
 | 章节 | 文件 |
 |:----:|:-----|
-| ch-11 | [`特工局会议`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)（以银白青年狼兽人登场） |
+| ch-11 | [`特工局会议`](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)（以银白青年狼兽人登场） |
 
 **第三卷《白之都》**（`main/bs-o-cm-1-main-story-3/`）
 | 章节 | 文件 | 章节 | 文件 |
 |:----:|:-----|:----:|:-----|
-| ch-14 | [`鼠族神武`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md) | ch-18 | [`黄泉缩地`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-018-flame-cannon-finale.md) |
-| ch-15 | [`最终之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md) | ch-21 | [`神曲对决`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) |
-| ch-17 | [`蚀魔之锥`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-017-godly-music-duel.md) | | |
+| ch-14 | [`鼠族神武`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md) | ch-18 | [`黄泉缩地`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-018-flame-cannon-finale.md) |
+| ch-15 | [`最终之战`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md) | ch-21 | [`神曲对决`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md) |
+| ch-17 | [`蚀魔之锥`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-017-godly-music-duel.md) | | |
 
 ---
 
@@ -68,20 +68,20 @@
 ### 3.1 核心性格
 
 - **嗜杀成性却讲究仪式感**：享受处决过程本身，将其视为艺术。对待猎物既有温柔（亲吻尸体、道歉、帮合眼）也有恶意玩弄（打赌三分钟射精、盲盒游戏）
-- **对熊兽人有特殊偏爱**：多次表达对熊兽人的好感，尤其在 [vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) 中对熊组长说出“你是我喜欢的类型”；[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md) 中反思“都这么多年了，果然还是受那家伙的影响”（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)）
-- **厌恶暴力粗鲁**：嫌弃老雷的战斗风格会“糟蹋肥美的肉体”（[vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)），对老雷的暴力手法颇有微词
-- **对猎物怀有矛盾的同理心**：初入行时会对目标产生怜悯（[vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md)），后来发展出“让对手最后一次爽到不留遗憾”的个人信条
+- **对熊兽人有特殊偏爱**：多次表达对熊兽人的好感，尤其在 [vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md) 中对熊组长说出“你是我喜欢的类型”；[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md) 中反思“都这么多年了，果然还是受那家伙的影响”（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)）
+- **厌恶暴力粗鲁**：嫌弃老雷的战斗风格会“糟蹋肥美的肉体”（[vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md)），对老雷的暴力手法颇有微词
+- **对猎物怀有矛盾的同理心**：初入行时会对目标产生怜悯（[vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md)），后来发展出“让对手最后一次爽到不留遗憾”的个人信条
 
 ### 3.2 行为模式
 
 - **处决偏好**：以手淫揉搓为主，享受亲手操控猎物生死的过程；后期发展出捏乳头、毒血注入、口交等多样化手法
-- **战后仪式**：习惯性亲吻尸体、帮合眼、摆放尸体姿势、拍照留念（“虎卫组四小猫”[vol-2-ch-4](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md)）
+- **战后仪式**：习惯性亲吻尸体、帮合眼、摆放尸体姿势、拍照留念（“虎卫组四小猫”[vol-2-ch-4](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md)）
 - **对尸体的态度**：将尸体视为艺术品/战利品，会认真摆放姿势，甚至与之对话
 
 ### 3.3 噩梦与心结
 
-魔影一直受同一个噩梦困扰（[vol-2-ch-7](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md)，[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)结尾），暗示其过去有重大心理创伤。在处决熊组长后感叹：
-> “如果当初是分配到他的下面当下属，我应该就不会变成现在这个样子，也不会有那个噩梦了吧。”（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)）
+魔影一直受同一个噩梦困扰（[vol-2-ch-7](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md)，[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)结尾），暗示其过去有重大心理创伤。在处决熊组长后感叹：
+> “如果当初是分配到他的下面当下属，我应该就不会变成现在这个样子，也不会有那个噩梦了吧。”（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)）
 
 ---
 
@@ -99,7 +99,7 @@
 
 ## 四、登场原文
 
-### [Chapter 11 特工局](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)
+### [Chapter 11 特工局](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)
 
 > ——（本章开头部分该角色未出场）——
 
@@ -159,7 +159,7 @@
 
 ---
 
-### [Chapter 1 更衣室狩猎](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)
+### [Chapter 1 更衣室狩猎](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md)
 
 > 在兽盾组织的一栋大楼里，魔影正在执行他的潜入任务，他躲在一楼的更衣室，等待着第一只猎物的到来。
 >
@@ -253,7 +253,7 @@
 
 ---
 
-### [Chapter 2 走廊巡逻](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md)
+### [Chapter 2 走廊巡逻](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-002-corridor-patrol.md)
 
 > 开始下一步计划，魔影选了具和自己身材差不多的尸体，换上了他的工作服，在脱尸体白袜前还调皮的挠了挠他的脚心，试图得到对方的一些反应，可是回应他的只有尸体一脸麻木的表情和没有对焦的眼神，魔影叹了口气，换好衣服后在尸体软掉的鸡巴上揉捏了一下，抱起尸体藏进大脏衣篓里，最后看了一眼满屋的尸体，不舍的离开了更衣室。
 >
@@ -313,7 +313,7 @@
 
 ---
 
-### [Chapter 3 露台狩猎](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md)
+### [Chapter 3 露台狩猎](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-003-terrace-hunt.md)
 
 > 底层的守卫已经满足不了魔影的猎杀欲了，于是他来到了电梯，按下了通往10层的按键。
 >
@@ -351,7 +351,7 @@
 
 ---
 
-### [Chapter 4 虎卫组之战](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md)
+### [Chapter 4 虎卫组之战](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md)
 
 > 魔影继续他的潜入行动，经过一个房间时他听到里面有人在交谈的声音，仔细听了下大概有三个人，这可不好对付。正盘算着该怎么办，手无意间摸到腰带上一个圆球状物体，拿起来一看，才发现是之前狗兽人制服上佩戴的一颗催眠弹，于是魔影二话不说打开房门把催眠弹往里面一扔然后紧紧关上，不一会就传来里面的惊讶声和咒骂声以及翻箱倒柜的踹门声，然后就一切都安静了下来。
 >
@@ -417,7 +417,7 @@
 
 ---
 
-### [Chapter 5 厨房与致命午餐](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)
+### [Chapter 5 厨房与致命午餐](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md)
 
 > 魔影没走几步，就来到了一个看上去像是厨房的地方，正好感觉肚子也饿了，就偷偷溜了进去。里面只有一只肥壮的白熊兽人正在料理，他全身赤裸，只有脚上穿着白袜和运动鞋，一条围裙裹住前下半身，圆滚滚的屁股露在外面，随着他手上的动作上下摇摆。只见他捏好几个寿司后并排摆好，然后拿出一瓶白色粘液，浇在了寿司上面，这道菜便大功告成。
 >
@@ -463,7 +463,7 @@
 
 ---
 
-### [Chapter 6 老雷登场](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)
+### [Chapter 6 老雷登场](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)
 
 > ——（本章开头部分该角色未出场）——
 >
@@ -473,7 +473,7 @@
 
 ---
 
-### [Chapter 7 熊族领地渗透](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md)
+### [Chapter 7 熊族领地渗透](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md)
 
 > 解决完十层所有守卫的魔影发现电梯已经无法使用，看来应该是强制停机了，于是只好走楼梯上十一层。
 >
@@ -591,7 +591,7 @@
 
 ---
 
-### [Chapter 8 炼药房之战](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)
+### [Chapter 8 炼药房之战](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)
 
 > ——（本章开头部分该角色未出场）——
 >
@@ -731,7 +731,7 @@
 
 ---
 
-### [Chapter 9 走廊清理](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)
+### [Chapter 9 走廊清理](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)
 
 > ——（本章开头部分该角色未出场）——
 >
@@ -767,7 +767,7 @@
 
 ---
 
-### [Chapter 10 十三层潜入](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)
+### [Chapter 10 十三层潜入](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md)
 
 > 刑房内一身黑制服的牛组长和一名手下正在审讯魔影，可是无论他怎么用刑，魔影只是一脸蔑视的看着他，什么也不说。这时，刑房门被打开，牛跟班推着老雷走了进来。
 >
@@ -861,7 +861,7 @@
 
 ---
 
-### [Chapter 11 冥府牛头之战](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)
+### [Chapter 11 冥府牛头之战](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)
 
 > 警铃一响，本层所有守卫陆陆续续从入口处涌了进来，看到牛组长的惨状，几十只牛兽人愤愤不平将两人围在中间，摩拳擦掌誓要将两人碎尸万段，牛跟班则趁乱钻入人群后方。
 >
@@ -941,7 +941,7 @@
 
 ---
 
-### [Chapter 12 教学篇](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md)
+### [Chapter 12 教学篇](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md)
 
 > 在魔影和老雷撤离后，上级便派军队清理了这栋大楼，将楼里幸存的守卫一网打尽，没有了头目和组长的带领，守卫们如同一盘散沙，没反抗多久就失去斗志缴械投降，尽数成为军队的俘虏。在这个弱肉强食、命不值钱的时代，被活捉的下场可能还不如战死沙场。
 >
@@ -951,7 +951,7 @@
 
 ---
 
-### [Chapter 13 蟒蛇岛回忆·上](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md)
+### [Chapter 13 蟒蛇岛回忆·上](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md)
 
 > 休假了一个星期的魔影终于接到了下一个任务，这是一个情报收集任务，据兽盾组织里安插的内应透露，嗜精兽昨天出发前往蟒蛇岛，需要对那地形最熟悉的魔影潜入打探。
 >
@@ -1063,7 +1063,7 @@
 
 ---
 
-### [Chapter 14 蟒蛇岛回忆·下](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md)
+### [Chapter 14 蟒蛇岛回忆·下](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md)
 
 > ——（本章开头部分该角色未出场）——
 >
@@ -1159,7 +1159,7 @@
 
 ---
 
-### [Chapter 15 重返蟒蛇岛](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)
+### [Chapter 15 重返蟒蛇岛](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)
 
 > 三年后，魔影再次来到了蟒蛇岛，之前在这里吃瘪的经验让他对此地念念不忘，和三年前一样，他首先来到了第一次狩猎目标的土坑处，这里的景色除了植被变得更加茂密，树木长得更高外，没有什么变化。
 >
@@ -1249,7 +1249,7 @@
 
 ---
 
-### [Chapter 14 鼠族神武](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)
+### [Chapter 14 鼠族神武](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)
 
 > ——（本章开头部分该角色未出场）——
 
@@ -1359,7 +1359,7 @@
 
 ---
 
-### [Chapter 15 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)
+### [Chapter 15 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md)
 
 > ——（本章开头部分该角色未出场）——
 
@@ -1369,7 +1369,7 @@
 
 ---
 
-### [Chapter 17 神乐对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-017-godly-music-duel.md)
+### [Chapter 17 神乐对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-017-godly-music-duel.md)
 
 > ——（本章开头部分该角色未出场）——
 
@@ -1419,7 +1419,7 @@
 
 ---
 
-### [Chapter 18 火焰炮终章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-018-flame-cannon-finale.md)
+### [Chapter 18 火焰炮终章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-018-flame-cannon-finale.md)
 
 > 司令的怒喝响彻云霄，魔影被这声斥责震慑当场，他从来没有见过司令如此盛怒，一时之间竟像个做错事的孩子一样，呆在原地不知所措，被他握住牛鞭的那只嗜精兽也只能尴尬地和他一起愣在当场。
 >
@@ -1435,7 +1435,7 @@
 
 ---
 
-### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)
+### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)
 
 > ——（本章开头部分该角色未出场）——
 
@@ -1459,42 +1459,42 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **潜行** | 顶级潜入技巧，能在兽人毫无察觉的情况下接近并制服目标 | [vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)~3 |
-| **毒牙** | 咬中目标可注入麻痹毒素，使目标浑身无力但意识清醒 | [vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md) |
-| **毒血** | 血液具有麻痹+催情双重效果（红水晶变异所得） | [vol-2-ch-4](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) |
+| **潜行** | 顶级潜入技巧，能在兽人毫无察觉的情况下接近并制服目标 | [vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md)~3 |
+| **毒牙** | 咬中目标可注入麻痹毒素，使目标浑身无力但意识清醒 | [vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md) |
+| **毒血** | 血液具有麻痹+催情双重效果（红水晶变异所得） | [vol-2-ch-4](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md) |
 
 ### 5.2 特殊能力：毒血（红水晶变异所得）
 
-五年前在蟒蛇岛触碰红水晶后获得的能力（[vol-2-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md)）：
+五年前在蟒蛇岛触碰红水晶后获得的能力（[vol-2-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md)）：
 
 - **血液自身具有麻痹+催情双重效果**，中者全身僵硬动弹不得，同时下体勃起，最终射精毙命
 - 可以通过咬伤或刺伤注入目标体内
 - 使用毒血时，自身也会受到情欲影响
 
-> “我的血液拥有麻痹和催情的功能，中了我血毒的人都会像这样全身僵硬的死去。”（[vol-2-ch-4](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md)）
+> “我的血液拥有麻痹和催情的功能，中了我血毒的人都会像这样全身僵硬的死去。”（[vol-2-ch-4](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md)）
 
 ### 5.3 春药抗性
 
 由于自身已成为毒物载体体质，对普通春药/毒雾免疫：
-- 炼药房的春药蒸汽对他“毫无作用”（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)）
-- 翠绿遗迹的毒雾对他“丝毫不起作用”（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)）
+- 炼药房的春药蒸汽对他“毫无作用”（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)）
+- 翠绿遗迹的毒雾对他“丝毫不起作用”（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)）
 
 ### 5.4 弱项
 
-- **面对绝对防御型对手乏力**：坦言“最讨厌对付练金钟罩的硬茬了”（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)）
-- **对血君王的气场产生本能恐惧**：在浮岛最终战时被血君王气场压制，“平时执行潜入任务时能给他极大帮助的求生本能，此时却在帮倒忙，让他临阵怯场”（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)）
+- **面对绝对防御型对手乏力**：坦言“最讨厌对付练金钟罩的硬茬了”（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)）
+- **对血君王的气场产生本能恐惧**：在浮岛最终战时被血君王气场压制，“平时执行潜入任务时能给他极大帮助的求生本能，此时却在帮倒忙，让他临阵怯场”（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)）
 
 
 ---
 
 ## 六、完整时间线
 
-### 6.1 五年前：蟒蛇岛初任务（[vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md) ~ [vol-2-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md)）
+### 6.1 五年前：蟒蛇岛初任务（[vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md) ~ [vol-2-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md)）
 
 **背景**：刚从特工学院毕业，以当届满分成绩毕业。被指派前往蟒蛇岛，任务是潜入新建立的兽盾基地打探情报，条件允许则摧毁基地。
 
 **首次杀人**：
-1. 用潜行技巧制服虎兽人巡逻守卫→犹豫不决→最终将其撸射杀死。杀人后发现自己下体勃起，导师曾言“天生的杀手会将杀人当做兴趣并因此而兴奋”（[vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md)）
+1. 用潜行技巧制服虎兽人巡逻守卫→犹豫不决→最终将其撸射杀死。杀人后发现自己下体勃起，导师曾言“天生的杀手会将杀人当做兴趣并因此而兴奋”（[vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md)）
 
 **潜入基地**：
 2. 用麻醉枪放倒哨塔狗兽人守卫→爬上塔顶将其撸射→缴获狙击枪和红色春药弹
@@ -1502,23 +1502,23 @@
 4. 先后潜入基地处决多名守卫（熊、狼、牛等）
 
 **性格转变节点**——对牛兽人守卫的拷问：
-> 魔影产生了前所未有的满足感，“明明对方比自己粗壮魁梧一圈，却被自己肆意玩弄于股掌之间，这种成就感简直让他着迷。”（[vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md)）
+> 魔影产生了前所未有的满足感，“明明对方比自己粗壮魁梧一圈，却被自己肆意玩弄于股掌之间，这种成就感简直让他着迷。”（[vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md)）
 
-**关键事件——触碰红水晶**（[vol-2-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md)）：
+**关键事件——触碰红水晶**（[vol-2-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md)）：
 - 攻破主营后发现铁箱中的红色水晶
 - 触碰瞬间红色浊流钻入体内→意识模糊→双眼血红
 - 白熊同伴开枪射击（红色春药弹）→药效发作加速变异
 - 在失控状态下将白熊奸杀（后穴插入+跳蛋震动，白熊不到一分钟喷精而死）
 - 魔影射精后晕倒，醒来后获得毒血和毒牙能力
 
-### 5.1.5 特工局会议——首次在主线登场（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)）
+### 5.1.5 特工局会议——首次在主线登场（[vol-1-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)）
 
 在特工局秘密基地的会议室中，以“浑身雪白毛发的青年狼兽人”之姿首次在主线登场：
 - 悄然无声地出现在玩家背后——以在场众人（含玩家）都未察觉其气息的方式，展现顶级潜行技巧
 - 在总司令提议处决玩家时投反对票：“我不同意，就这么杀掉也太无趣了吧”——体现其嗜杀但享受过程的本性
 - 此时魔影已是特工局成员，与银、熊猫、红虎（年轻老雷）、熊馆长等人同席
 
-### 6.2 三年后：重返蟒蛇岛带新人（[vol-2-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)）
+### 6.2 三年后：重返蟒蛇岛带新人（[vol-2-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)）
 
 **搭档**：带领新人小豪执行任务
 **行动**：
@@ -1529,19 +1529,19 @@
 - **暗杀嗜精兽头目失败**——因小豪吞咽口水暴露位置，用熊守卫挡刀后魔影带小豪逃离
 - 逃出后听到巨响，看到红光冲天，预感“世界将要发生一场巨大的变革”
 
-### 6.3 大楼潜入任务（当前时间线，[vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md) ~ [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)）
+### 6.3 大楼潜入任务（当前时间线，[vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md) ~ [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)）
 
 **任务**：潜入兽盾某大楼，猎杀全部守卫并刺杀头目
 
 **详细行动记录**（见第七节：杀戮履历）
 
 **关键事件**：
-- [vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)：被头目识破行动，总部派老雷支援
-- [vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)：故意被俘→在刑房反制“冥府牛头”牛组长→用各种酷刑长时间折磨
-- [vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)~11：牛跟班按响警铃→与老雷并肩作战对抗牛群→嗜精兽头目现身→吸食全场精液后逃走→任务失败撤返
-- [vol-2-ch-12](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md)（间接）：教学课后，小豪在更衣室偷尝野猪精液，嘴角露出“幸福的微笑”
+- [vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md)：被头目识破行动，总部派老雷支援
+- [vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)：故意被俘→在刑房反制“冥府牛头”牛组长→用各种酷刑长时间折磨
+- [vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md)~11：牛跟班按响警铃→与老雷并肩作战对抗牛群→嗜精兽头目现身→吸食全场精液后逃走→任务失败撤返
+- [vol-2-ch-12](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md)（间接）：教学课后，小豪在更衣室偷尝野猪精液，嘴角露出“幸福的微笑”
 
-### 6.4 翠绿遗迹寻找鼠神武（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)）
+### 6.4 翠绿遗迹寻找鼠神武（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)）
 
 **任务**：独自前往翠绿遗迹寻找鼠神武·蚀魔锥
 **过程**：
@@ -1551,21 +1551,21 @@
 4. 选棕熊兽人当司机前往浮岛
 
 **关键内心独白**——在飞机上看着棕熊背影：
-> “是什么时候开始的呢……我是什么时候开始偏爱熊兽人的呢……都这么多年了，果然还是受那家伙的影响吧，唉……”（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)）
+> “是什么时候开始的呢……我是什么时候开始偏爱熊兽人的呢……都这么多年了，果然还是受那家伙的影响吧，唉……”（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)）
 
-### 6.5 浮岛最终决战（[vol-3-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md) ~ [vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)）
+### 6.5 浮岛最终决战（[vol-3-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md) ~ [vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)）
 
-**到达浮岛**（[vol-3-ch-17](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-017-godly-music-duel.md)）：
+**到达浮岛**（[vol-3-ch-17](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-017-godly-music-duel.md)）：
 - 直升机着陆，为救棕熊司机将其口交至射精而死
 - 救下被红牛嗜精兽偷袭的曲先生
 - 向司令展示找到的鼠神武·蚀魔锥
 
-**蚀魔锥被夺**（[vol-3-ch-18](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-018-flame-cannon-finale.md)）：
+**蚀魔锥被夺**（[vol-3-ch-18](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-018-flame-cannon-finale.md)）：
 - 牙董突然出现抢夺匕首
 - 牛兽人被牙董穿腹而死
 - 蚀魔锥击破五行封禁→天牢封印被破→龙神被牙董偷袭
 
-**与血君王对峙**（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)）：
+**与血君王对峙**（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)）：
 - 大战告一段落后，血君王出现
 - 魔影被其气场完全压制，“怯场”
 - 曲先生挺身而出吹奏秋霞染世调，失败后被血君王邪火烧死
@@ -1576,7 +1576,7 @@
 
 ## 七、杀戮履历（按时间线完整记录）
 
-### [vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md) 更衣室狩猎（16人）
+### [vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md) 更衣室狩猎（16人）
 
 | 序号 | 目标 | 物种 | 制服 | 处决方式 | 备注 |
 |:----:|:----|:----:|:----:|:---------|:-----|
@@ -1597,7 +1597,7 @@
 | 15 | 更衣室守卫 | 未指明 | 绿制服 | 各种手法 | 堆在更衣室角落 |
 | 16 | 更衣室守卫 | 未指明 | 绿制服 | 各种手法 | 堆在更衣室角落 |
 
-### [vol-2-ch-2](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md) 走廊巡逻（5人）
+### [vol-2-ch-2](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-002-corridor-patrol.md) 走廊巡逻（5人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:-----|
@@ -1607,7 +1607,7 @@
 | 20 | 豹兽人守卫② | 豹 | 勒颈撸射后踩裆 | 被麻醉枪击中；二人先后处决 |
 | 21 | 黑豹守卫 | 豹 | 踩裆致死 | — |
 
-### [vol-2-ch-3](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md) 露台狩猎（7人）
+### [vol-2-ch-3](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-003-terrace-hunt.md) 露台狩猎（7人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:-----|
@@ -1618,7 +1618,7 @@
 | 26 | 虎兽人 | 虎 | 捅前列腺高潮 | 尸体拖墙角 |
 | 27 | 狗兽人 | 犬科 | 夺制服后处决 | 被扒光，魔影夺其蓝白制服 |
 
-### [vol-2-ch-4](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) 虎卫组之战（7人）
+### [vol-2-ch-4](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md) 虎卫组之战（7人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:-----|
@@ -1630,7 +1630,7 @@
 | 33 | 黄虎守卫 | 虎 | 毒血匕首掷中手臂 | 全身僵硬站着射精而死 |
 | 34 | **虎组长** | 虎（黑制服） | 制服后撸射 | 被魔影摆成“虎卫组四小猫”并拍照 |
 
-### [vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md) 厨房与午餐（11人）
+### [vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md) 厨房与午餐（11人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:-----|
@@ -1648,7 +1648,7 @@
 
 > *注：原文描述房间内横七竖八躺满了兽人尸体，除灰熊+虎+4牛+垃圾桶兽人外，可能还有更多未精确列出的高层守卫。*
 
-### [vol-2-ch-7](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md) 熊族领地渗透（9人）
+### [vol-2-ch-7](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md) 熊族领地渗透（9人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:-----|
@@ -1662,7 +1662,7 @@
 | 53 | 趴睡熊 | 熊 | 从胯下抽出鸡巴撸射 | 魔影揉了把尸体的翘臀 |
 | 54 | 年轻熊兽人 | 熊 | 噩梦中被捏紧撸射 | 被魔影噩梦吓到，成为“抱枕”；魔影帮合眼盖被 |
 
-### [vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) 炼药房之战（21人）
+### [vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md) 炼药房之战（21人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:------|
@@ -1682,7 +1682,7 @@
 | 68 | 最后一只门口熊守卫 | 熊 | 春药过量自行射精 | 魔影帮他撸了几下，断气瘫倒 |
 | 69 | **熊组长** | 熊（黑制服） | **舔足底刺激罩门**撸射 | 练金钟罩，罩门在足底；魔影亲吻帮穿好鞋袜 |
 
-### [vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)~11 十三层牛族领地（30+人）
+### [vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md)~11 十三层牛族领地（30+人）
 
 | 章节 | 目标 | 数量 | 方式 | 备注 |
 |:----:|:-----|:----:|:----|:-----|
@@ -1690,9 +1690,9 @@
 | ch-10 | 犀牛守卫 | 1 | 老雷处决 | 被一个照面打死 |
 | ch-11 | 牛守卫群 | 30+ | 老雷一对多群战 | 全层牛守卫围歼 |
 
-> *牛跟班（背叛的牛兽人）最后被老雷用作“蓝药”肛交致死（[vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)）。*
+> *牛跟班（背叛的牛兽人）最后被老雷用作“蓝药”肛交致死（[vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)）。*
 
-### [vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md)~14 蟒蛇岛初任务（21人）
+### [vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md)~14 蟒蛇岛初任务（21人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:------|
@@ -1718,7 +1718,7 @@
 | 89 | 虎队长（蓝制服） | 虎 | 白熊塞袜入后穴复仇处决 | 被白熊用同伴袜子塞肛至射精 |
 | 90 | 白熊“肥猪仔” | 熊（白熊） | 红水晶失控→奸杀 | 跳蛋震动+疯狂抽插，不到一分钟喷精 |
 
-### [vol-2-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) 重返蟒蛇岛（6人）
+### [vol-2-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md) 重返蟒蛇岛（6人）
 
 | 序号 | 目标 | 物种 | 处决方式 | 备注 |
 |:----:|:-----|:----:|:---------|:------|
@@ -1729,7 +1729,7 @@
 | 95 | 白虎兽人 | 虎（白虎） | 小豪处决+口交吞精（教学） | 小豪第一课 |
 | 96 | 蓝制服熊守卫（挡刀） | 熊（蓝制服） | 毒血误刺（被头目推挡） | 暗杀嗜精兽失败，熊守卫被推来挡刀 |
 
-### [vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md) 翠绿遗迹（7人）
+### [vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md) 翠绿遗迹（7人）
 
 | 目标 | 物种 | 方式 | 备注 |
 |:-----|:----:|:------|:------|
@@ -1741,9 +1741,9 @@
 | 牛兽人搜寻员 | 牛 | 摘面具→毒雾射精 | 被遗弃在遗迹 |
 | 狮兽人搜寻员 | 狮 | 摘面具→毒雾射精 | 被遗弃在遗迹 |
 
-> *棕熊兽人司机在浮岛降落时因毒气吸入即将射精，被魔影口交至死（约20发），脸上“挂着满足的笑容死去”（[vol-3-ch-17](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-017-godly-music-duel.md)）。*
+> *棕熊兽人司机在浮岛降落时因毒气吸入即将射精，被魔影口交至死（约20发），脸上“挂着满足的笑容死去”（[vol-3-ch-17](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-017-godly-music-duel.md)）。*
 
-### [vol-3-ch-17](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-017-godly-music-duel.md)~18 浮岛
+### [vol-3-ch-17](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-017-godly-music-duel.md)~18 浮岛
 
 | 目标 | 数量 | 方式 | 备注 |
 |:-----|:----:|:------|:------|
@@ -1779,30 +1779,30 @@
 
 ### 老雷 / Lao Lei
 - 特工局搭档，性格暴力直接，与魔影的风格截然相反
-- 魔影嫌弃老雷“糟蹋肥美的肉体”（[vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)）
-- 老雷也嫌魔影“杀个人磨磨唧唧”（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)）
+- 魔影嫌弃老雷“糟蹋肥美的肉体”（[vol-2-ch-5](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md)）
+- 老雷也嫌魔影“杀个人磨磨唧唧”（[vol-2-ch-9](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)）
 - 但二人配合默契，实力互补
 
 ### 小豪 / Xiao Hao
 - 新人特工，魔影带的实习生
-- 在魔影面前处决首个敌人（[vol-2-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)）
+- 在魔影面前处决首个敌人（[vol-2-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)）
 - 性格发展出与年龄不符的嗜血和性欲
 - 浮岛决战时被留在特工局，因此逃过一劫
 
 ### 熊组长 / Bear Captain（炼药房）
 - 练金钟罩的熊兽人，魔影在炼药房的对决对象
 - 魔影对他产生了特殊情感：
-  > “我突然发现，你好像是我喜欢的类型耶”（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)）
+  > “我突然发现，你好像是我喜欢的类型耶”（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)）
 - 对熊组长的死亡方式（舔足底到高潮射精）格外温柔，亲吻并整理好其着装
-- 此后**对所有熊兽人产生偏爱**（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)机舱独白）
+- 此后**对所有熊兽人产生偏爱**（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)机舱独白）
 
 ### 总司令
 - 特工局领导者
-- 魔影对他敬畏有加（被训斥“蚀魔锥带来这里做什么”时“像个做错事的孩子”[vol-3-ch-18](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-018-flame-cannon-finale.md)）
+- 魔影对他敬畏有加（被训斥“蚀魔锥带来这里做什么”时“像个做错事的孩子”[vol-3-ch-18](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-018-flame-cannon-finale.md)）
 
 ### 曲先生
 - 同属特工局，神武天籁持有者
-- 在浮岛被血君王烧死（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)）
+- 在浮岛被血君王烧死（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)）
 
 ---
 
@@ -1810,14 +1810,14 @@
 
 | 对手 | 结果 | 出处 | 备注 |
 |:-----|:----:|:----|:------|
-| 杂兵守卫群 | ✅ 胜 | [vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)~3 | 单方面屠杀 |
-| 虎组长（虎卫组） | ✅ 胜 | [vol-2-ch-4](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) | 故意被匕首射中注入毒血 |
-| 熊组长（金钟罩） | ✅ 胜 | [vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) | 炼药房智取 |
-| 牛组长（冥府牛头） | ✅ 胜 | [vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md) | 不死体质但被自动飞机杯耗死 |
-| 嗜精兽头目 | ❌ 败 | [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) | 暗杀失败，对方吸食全场精液后逃走 |
-| 嗜精兽头目（第二次） | ❌ 败 | [vol-2-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) | 带小豪暗杀失败 |
-| 牙董 | ⚠️ 被夺物 | [vol-3-ch-18](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-018-flame-cannon-finale.md) | 蚀魔锥被夺，牛兽人被牙董穿腹 |
-| 血君王 | ❌ 败（死亡） | [vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) | 全场被气魄压制，被邪火烧死 |
+| 杂兵守卫群 | ✅ 胜 | [vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md)~3 | 单方面屠杀 |
+| 虎组长（虎卫组） | ✅ 胜 | [vol-2-ch-4](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md) | 故意被匕首射中注入毒血 |
+| 熊组长（金钟罩） | ✅ 胜 | [vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md) | 炼药房智取 |
+| 牛组长（冥府牛头） | ✅ 胜 | [vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md) | 不死体质但被自动飞机杯耗死 |
+| 嗜精兽头目 | ❌ 败 | [vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) | 暗杀失败，对方吸食全场精液后逃走 |
+| 嗜精兽头目（第二次） | ❌ 败 | [vol-2-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md) | 带小豪暗杀失败 |
+| 牙董 | ⚠️ 被夺物 | [vol-3-ch-18](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-018-flame-cannon-finale.md) | 蚀魔锥被夺，牛兽人被牙董穿腹 |
+| 血君王 | ❌ 败（死亡） | [vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md) | 全场被气魄压制，被邪火烧死 |
 
 **胜负记录：5胜 · 3败 · 1平（夺物）**
 
@@ -1825,38 +1825,38 @@
 
 ## 十、主要事迹总结
 
-1. **特工学院满分毕业**（五年前，[vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md)）
-2. **蟒蛇岛初任务**——第一次杀人，性格转折点（[vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md)）
-3. **触碰红水晶**——获得毒血毒牙能力，失控奸杀同伴（[vol-2-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md)）
-4. **单人攻破兽盾大楼**——更衣室16人起手，逐层清剿（[vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)~5）
-5. **击败虎卫组**——毒血实战首秀（[vol-2-ch-4](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md)）
-6. **血洗熊族领地**——与熊组长对决，产生情感共鸣（[vol-2-ch-7](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md)~8）
-7. **故意被俘反杀牛组长**——实验各种酷刑，牛组长射19发而死（[vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)）
-8. **大楼任务失败**——嗜精兽头目逃脱（[vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)）
-9. **重返蟒蛇岛带新人**——暗杀嗜精兽失败，目睹法阵仪式（[vol-2-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)）
-10. **翠绿遗迹寻找鼠神武·蚀魔锥**——“开盲盒”游戏，证实熊族偏爱（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)）
-11. **浮岛送锥**——蚀魔锥被牙董夺走，破五行封禁（[vol-3-ch-17](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-017-godly-music-duel.md)~18）
-12. **浮岛终战**——被血君王气场压制，与全体特工局成员一同被邪火烧死（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)）
+1. **特工学院满分毕业**（五年前，[vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md)）
+2. **蟒蛇岛初任务**——第一次杀人，性格转折点（[vol-2-ch-13](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md)）
+3. **触碰红水晶**——获得毒血毒牙能力，失控奸杀同伴（[vol-2-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md)）
+4. **单人攻破兽盾大楼**——更衣室16人起手，逐层清剿（[vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md)~5）
+5. **击败虎卫组**——毒血实战首秀（[vol-2-ch-4](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md)）
+6. **血洗熊族领地**——与熊组长对决，产生情感共鸣（[vol-2-ch-7](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md)~8）
+7. **故意被俘反杀牛组长**——实验各种酷刑，牛组长射19发而死（[vol-2-ch-10](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md)）
+8. **大楼任务失败**——嗜精兽头目逃脱（[vol-2-ch-11](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)）
+9. **重返蟒蛇岛带新人**——暗杀嗜精兽失败，目睹法阵仪式（[vol-2-ch-15](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)）
+10. **翠绿遗迹寻找鼠神武·蚀魔锥**——“开盲盒”游戏，证实熊族偏爱（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)）
+11. **浮岛送锥**——蚀魔锥被牙董夺走，破五行封禁（[vol-3-ch-17](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-017-godly-music-duel.md)~18）
+12. **浮岛终战**——被血君王气场压制，与全体特工局成员一同被邪火烧死（[vol-3-ch-21](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)）
 
 ---
 
 ## 十一、原文引用
 
-> “该怎样玩弄第一只猎物好呢～”（[vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)）
+> “该怎样玩弄第一只猎物好呢～”（[vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md)）
 
-> “对不起对不起，本来还想让你好好爽一爽的，好久没弄有些手生，下次注意。”——对狗兽人尸体的道歉（[vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)）
+> “对不起对不起，本来还想让你好好爽一爽的，好久没弄有些手生，下次注意。”——对狗兽人尸体的道歉（[vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md)）
 
-> “不守规则的坏孩子就应该接受惩罚哦～”——对熊守卫（[vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)）
+> “不守规则的坏孩子就应该接受惩罚哦～”——对熊守卫（[vol-2-ch-1](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md)）
 
-> “我突然发现，你好像是我喜欢的类型耶”——对熊组长（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)）
+> “我突然发现，你好像是我喜欢的类型耶”——对熊组长（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)）
 
-> “如果当初是分配到他的下面当下属，我应该就不会变成现在这个样子，也不会有那个噩梦了吧。”——处决熊组长后的感叹（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)）
+> “如果当初是分配到他的下面当下属，我应该就不会变成现在这个样子，也不会有那个噩梦了吧。”——处决熊组长后的感叹（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)）
 
-> “你是我喜欢的类型耶”——对熊组长表白（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)）
+> “你是我喜欢的类型耶”——对熊组长表白（[vol-2-ch-8](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)）
 
-> “是什么时候开始的呢……我是什么时候开始偏爱熊兽人的呢……都这么多年了，果然还是受那家伙的影响吧，唉……”——看着棕熊司机背影（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)）
+> “是什么时候开始的呢……我是什么时候开始偏爱熊兽人的呢……都这么多年了，果然还是受那家伙的影响吧，唉……”——看着棕熊司机背影（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)）
 
-> “你们几个就好好享受这次度假之旅吧，再见～”——丢下三个中毒兽人（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-014-mouse-divine-weapon.md)）
+> “你们几个就好好享受这次度假之旅吧，再见～”——丢下三个中毒兽人（[vol-3-ch-14](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-014-mouse-divine-weapon.md)）
 
 ---
 

@@ -1,7 +1,7 @@
 # Chapter 22《破城炮终章》 - 分析
 
 >
-对应文件：[ch-22-rampage-end.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-022-rampage-end.md)
+对应文件：[ch-22-rampage-end.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-022-rampage-end.md)
 > 分析日期：2026-03-19
 
 ---

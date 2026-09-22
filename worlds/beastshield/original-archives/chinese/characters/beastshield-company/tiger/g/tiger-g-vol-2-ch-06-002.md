@@ -12,8 +12,8 @@
 | **等级/制服** | G级 · 军绿色紧身短袖短裤，白色长筒袜，运动鞋 |
 | **身份** | 兽盾大楼一层增援守卫 |
 | **状态** | **已死亡**——被老雷掐颈提起灌精而死 |
-| **首次登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) |
-| **最后登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) |
+| **首次登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md) |
+| **最后登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-06：老雷登场](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)
+### [vol-2-ch-06：老雷登场](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)
 
 > 刚坐下没多久，一只三人小队就闯了进来，“我才刚打扫完呢，唉～”老雷叹了口气站起身，对他们吼道:
 >

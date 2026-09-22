@@ -1,7 +1,7 @@
 # Chapter 7 训练部下 - 分析
 
 >
-对应文件：[ch-7-training-subordinates.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-007-training-subordinates.md)
+对应文件：[ch-7-training-subordinates.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-007-training-subordinates.md)
 > 分析日期：2026-03-19
 
 ---

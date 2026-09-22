@@ -9,9 +9,9 @@
 
 | 文件 | 日期 | 兽种 / 等级 | 对应章节 | 原文件名 |
 |------|------|-------------|----------|----------|
-| [20260630-dog.png](20260630-dog.png) | 2026-06-30 | 狗兽人（E级 · 黑制服武斗部） | [Ch.2 办公室清剿](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md) | `20260630 炎魉 狗_已加水印_202609161042.png` |
-| [20260706-tiger.png](20260706-tiger.png) | 2026-07-06 | 虎兽人（R级 · 白制服枪械兵） | [Ch.2 办公室清剿](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md) | `20260706 炎魉 虎_已加水印_202609161042.png` |
-| [20260901-rhino.png](20260901-rhino.png) | 2026-09-01 | 犀牛兽人（R级 · 白制服老兵） | [Ch.3 深层对峙](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) | `20260901 炎魉 犀牛_已加水印_202609161042.png` |
+| [20260630-dog.png](20260630-dog.png) | 2026-06-30 | 狗兽人（E级 · 黑制服武斗部） | [Ch.2 办公室清剿](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-002-office-clearance.md) | `20260630 炎魉 狗_已加水印_202609161042.png` |
+| [20260706-tiger.png](20260706-tiger.png) | 2026-07-06 | 虎兽人（R级 · 白制服枪械兵） | [Ch.2 办公室清剿](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-002-office-clearance.md) | `20260706 炎魉 虎_已加水印_202609161042.png` |
+| [20260901-rhino.png](20260901-rhino.png) | 2026-09-01 | 犀牛兽人（R级 · 白制服老兵） | [Ch.3 深层对峙](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md) | `20260901 炎魉 犀牛_已加水印_202609161042.png` |
 
 ---
 
@@ -21,7 +21,7 @@
 
 [![20260630-dog](./20260630-dog.png)](./20260630-dog.png)
 
-**对应章节**：[Ch.2 办公室清剿](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md) · 插图位于第 116 行之后
+**对应章节**：[Ch.2 办公室清剿](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-002-office-clearance.md) · 插图位于第 116 行之后
 
 **观察到的细节：**
 
@@ -34,7 +34,7 @@
 **对应原文：**
 
 > 于是**炎**、**魉**二人找到了一间放清洁用品的**杂物间**，在**杂物间**门口，一只**黑制服**的**狗兽人**正在抽烟。
-> —— [ch-2-office-clearance.md](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md) 第 116 行
+> —— [ch-2-office-clearance.md](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-002-office-clearance.md) 第 116 行
 
 **与原文的出入（画师再创作）：**
 
@@ -49,7 +49,7 @@
 
 [![20260706-tiger](./20260706-tiger.png)](./20260706-tiger.png)
 
-**对应章节**：[Ch.2 办公室清剿](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md) · 插图位于第 76 行之后
+**对应章节**：[Ch.2 办公室清剿](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-002-office-clearance.md) · 插图位于第 76 行之后
 
 **观察到的细节：**
 
@@ -61,7 +61,7 @@
 **对应原文：**
 
 > “呕啊！。。。”**枪械兵种**被近身后根本讨不到一点便宜，捂着肚子还没蹲下，就被**炎**抓住后颈毛往后压，腰部被顶在了单膝跪地的**炎**的大腿上，整个身体反弓了起来，下体高高翘起，似乎在等着人来处决。
-> —— [ch-2-office-clearance.md](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-002-office-clearance.md) 第 76 行
+> —— [ch-2-office-clearance.md](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-002-office-clearance.md) 第 76 行
 
 **委约依据**：本作目录下的 [`commission.md`](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/commission.md) 就是这张图的委约要素清单，其 11 条要点逐字抄自本章第 70／72／76／78／80／86／88／92／96／100 行（白色紧身衣裤、长筒白袜与运动鞋、腰间配枪、抓后颈毛往后压、握卵蛋运功、浸湿变半透明、脱鞋翘脚底、白袜塞嘴、口水、乳头透出、捏奶头握肉棒发功）。**即：commission.md ↔ 本图，一一对应。**
 
@@ -78,7 +78,7 @@
 
 [![20260901-rhino](./20260901-rhino.png)](./20260901-rhino.png)
 
-**对应章节**：[Ch.3 深层对峙](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) · 插图位于第 65 行之后
+**对应章节**：[Ch.3 深层对峙](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md) · 插图位于第 65 行之后
 
 **观察到的细节：**
 
@@ -93,7 +93,7 @@
 > “您就好好安息吧。”眼前这位尽职的**犀牛兽人**让**炎**产生了一丝敬佩，他打算让**犀牛**死得舒服一点，于是他把**椅子**拉出一些，然后捧起**犀牛兽人**两条穿着**白袜**的粗壮双腿，架在了**会议桌**上，拉开他早已被浸湿到半透明的**白色紧身裤**，露出他那仍旧坚挺的**牛鞭**……
 >
 > “嗯啊！。。。哈啊。。。”**犀牛守卫**终于忍受不住，再一次破了精关，搭在桌上的双腿脚尖绷到笔直，随着他的一声粗喘，剩余的**牛精**从**马眼**一口气喷出，虽然余量不多，但都连成一线喷到了他的脸上胸上，让他体验到了人生的第二次高潮。
-> —— [ch-3-deep-confrontation.md](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/ch-003-deep-confrontation.md) 第 59 行、第 65 行
+> —— [ch-3-deep-confrontation.md](../../../chinese/chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-003-deep-confrontation.md) 第 59 行、第 65 行
 
 **与原文的出入（画师再创作）：**
 

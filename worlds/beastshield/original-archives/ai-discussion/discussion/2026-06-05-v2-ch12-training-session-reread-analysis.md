@@ -8,7 +8,7 @@
 
 ## 原文索引
 
-- [第二卷第12章《训练课》](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md)
+- [第二卷第12章《训练课》](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md)
 
 ---
 

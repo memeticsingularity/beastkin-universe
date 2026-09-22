@@ -9,9 +9,9 @@
 
 | 文件 | 日期 | 兽种 / 等级 | 对应章节 | 状态 |
 |------|------|-------------|----------|------|
-| [20260618-dog.png](20260618-dog.png) | 2026-06-18 | 狗兽人（G级 · 军绿制服） | [Ch.8 龙神浮岛](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) | 已定位 |
-| [20260717-wolf.png](20260717-wolf.png) | 2026-07-17 | 狼兽人（O级 · 蓝色制服） | [Ch.4 念力防御](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md) | 已定位 |
-| [20260801-boar.png](20260801-boar.png) | 2026-08-01 | 野猪兽人（G级 · 军绿制服） | [Ch.7 警局入侵](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) | 已定位 |
+| [20260618-dog.png](20260618-dog.png) | 2026-06-18 | 狗兽人（G级 · 军绿制服） | [Ch.8 龙神浮岛](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md) | 已定位 |
+| [20260717-wolf.png](20260717-wolf.png) | 2026-07-17 | 狼兽人（O级 · 蓝色制服） | [Ch.4 念力防御](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-004-psychic-defense.md) | 已定位 |
+| [20260801-boar.png](20260801-boar.png) | 2026-08-01 | 野猪兽人（G级 · 军绿制服） | [Ch.7 警局入侵](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md) | 已定位 |
 
 > 📌 `20260725-lion.png`（原文件名「白之都 狮」）经作者确认属于**第二卷《魔影》**，已移至 [`../bs-o-cm-1-main-story-2/`](../bs-o-cm-1-main-story-2/20260725-lion.png)，本目录不再收录。
 
@@ -23,7 +23,7 @@
 
 [![20260618-dog](./20260618-dog.png)](./20260618-dog.png)
 
-**对应章节**：[Ch.8 龙神浮岛](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) · 插图位于第 161 行之后
+**对应章节**：[Ch.8 龙神浮岛](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md) · 插图位于第 161 行之后
 
 **观察到的细节：**
 
@@ -36,7 +36,7 @@
 **对应原文：**
 
 > 接着，勤川走向最后一只被钉在墙上的狗兽人，这只兽人虽然四肢粗壮，但腿却比其他兽人短得多，被铁箭钉在墙上双脚离地，显得十分滑稽。
-> —— [ch-8-dragon-god-island.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) 第 161 行
+> —— [ch-8-dragon-god-island.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md) 第 161 行
 
 同场景铺垫（第 61 行）：「就被铁箭穿胸带起，倒飞了出去，死死钉在了饮品店的墙上」。角色档案：[`dog-g-vol-3-ch-08-001.md`](../../../chinese/characters/beastshield-company/dog/g/dog-g-vol-3-ch-08-001.md)（G级 · 军绿色制服 + 白袜）。
 
@@ -54,7 +54,7 @@
 
 [![20260717-wolf](./20260717-wolf.png)](./20260717-wolf.png)
 
-**对应章节**：[Ch.4 念力防御](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md) · 插图位于第 245 行之后
+**对应章节**：[Ch.4 念力防御](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-004-psychic-defense.md) · 插图位于第 245 行之后
 
 **对应角色档案**：[`wolf-o-vol-3-ch-04-001.md`](../../../chinese/characters/beastshield-company/wolf/o/wolf-o-vol-3-ch-04-001.md)
 
@@ -70,7 +70,7 @@
 **对应原文：**
 
 > 解决掉熊兽人后，狼兽人便恢复呆滞的表情跪立在熊兽人身旁，左手捏着自己乳头，右手抽出肉棒来回撸动，撸了将近两分钟后身体一抖，发出一声闷哼开始射精，精液全部洒在了熊兽人死不瞑目的脸上和被紧身衣勒出褶皱的胸肌上，射完所有精液后，身体往前一倒，趴在了熊兽人胸膛上，也渐渐停止了呼吸。
-> —— [ch-4-psychic-defense.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md) 第 245 行
+> —— [ch-4-psychic-defense.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-004-psychic-defense.md) 第 245 行
 
 前置节拍（同章第 239–243 行）：狼兽人因知道太多被**儡部长**用黑雾控制、四肢垂下一脸呆滞，扑倒熊兽人吮吸其肉棒至死——正是画中「呆滞表情 + 身旁熊兽人尸体」的来处。
 
@@ -97,7 +97,7 @@
 
 [![20260801-boar](./20260801-boar.png)](./20260801-boar.png)
 
-**对应章节**：[Ch.7 警局入侵](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) · 插图位于第 161 行之后
+**对应章节**：[Ch.7 警局入侵](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md) · 插图位于第 161 行之后
 
 **观察到的细节：**
 
@@ -113,7 +113,7 @@
 > 犀牛兽人在靠近虎兽人还有三步距离的时候，看到了靠在阳台窗边正在抽烟的勤川……刹那间房内银丝密布，无数根细线由于机关被触发朝着两个兽人卷了过来，一瞬间将犀牛和野猪的躯干肢体紧紧勒住，两只兽人的身体被绷直的细线抬到了半空，野猪甚至头朝下翻了过来。
 >
 > “鉴于他的态度良好，所以我打算从轻发落，给予人道处决。”勤川说着，走到双腿朝上张开的野猪兽人身边，将他的紧身裤往上掀到脚踝，然后左臂抱住野猪柱子般的白袜右腿将他摇晃的身体固定，右手则握住了野猪勃起的粗圆肉棒，撸下包皮开始抚摸套弄起龟头。
-> —— [ch-7-police-station-invasion.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) 第 143 行、第 161 行
+> —— [ch-7-police-station-invasion.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md) 第 143 行、第 161 行
 
 角色档案：[`boar-g-vol-3-ch-07-001.md`](../../../chinese/characters/beastshield-company/boar/g/boar-g-vol-3-ch-07-001.md)（G级 · 军绿色紧身制服 + 白袜 · 灰毛野猪 · 被一线天倒吊揉龟头射精）。第 157 行「将他们粗壮的肌肉勒得**鲜血四溅**」对应画中的血痕。
 

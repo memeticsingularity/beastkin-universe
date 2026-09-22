@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色紧身制服+白袜 |
 | **身份** | 兽盾组织搜查队员，随薛鼎部长前往五竹峰 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md) |
-| **最后登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md) |
+| **首次登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md) |
+| **最后登场** | [vol-3-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [神兵机密](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md)
+### [神兵机密](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md)
 
 > 继续跟踪了约摸十分钟后，老雷逮着个机会将走在队伍末的一只身躯庞大的牛兽人捕获，废了好大力气才将他拖行至隐蔽处。
 

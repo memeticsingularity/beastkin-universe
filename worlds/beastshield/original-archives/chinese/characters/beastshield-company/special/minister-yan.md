@@ -14,7 +14,7 @@
 | **别名** | 颜部长（姓颜） |
 | **隶属** | 兽盾公司 / Beastshield Company（情报部门） |
 | **状态** | **存活**——窝点被老雷端掉后迁怒值守兵，以手指功法处决三人立威，下令围剿；民房合围战中以犀牛杂兵为诱饵引爆闪光弹，重创“暗室三座”浪青平，随后领部追击 |
-| **首次登场** | 支线《老雷突袭情报局》第三章（[ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)） |
+| **首次登场** | 支线《老雷突袭情报局》第三章（[ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md)） |
 
 ---
 
@@ -22,8 +22,8 @@
 
 | 章节 | 文件 |
 |:----:|:-----|
-| Ch.3 | [`颜部长的清算`](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
-| Ch.4 | [`暗室三座浪青平`](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
+| Ch.3 | [`颜部长的清算`](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) |
+| Ch.4 | [`暗室三座浪青平`](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
 
 ---
 
@@ -62,7 +62,7 @@
 
 ## 五、登场原文
 
-### [Chapter 3 颜部长的清算与追击](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
+### [Chapter 3 颜部长的清算与追击](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md)
 
 本章开头部分该角色未出场。
 
@@ -160,7 +160,7 @@
 
 ---
 
-### [Chapter 4 暗室三座浪青平](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)
+### [Chapter 4 暗室三座浪青平](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md)
 
 本章开头部分该角色未出场。
 
@@ -266,11 +266,11 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **拇指掐压处决** | 拇指深深掐进肉棒下部与蛋蛋连接处，强制目标当场射精 | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
-| **指功·后穴内旋** | 中指插入后穴一转，目标蛋蛋胀大却迟迟不射，最终一次性爆射全空 | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
-| **一次性射空** | 特殊指法下目标将全部精液一次性射尽（区别于常规逐股射精） | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
-| **揉胸把玩处决** | 撩起上衣揉捏肌肉饱满的巨胸，捏肿乳头、脱靴把玩黑袜口，令目标流精到底、精液顺腿流一地而死 | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
-| **闪光弹诱饵战术** | 以“升职”诱骗部下（犀牛杂兵）上前当“刀鞘”送死，事先将闪光弹挂在对方后腰；待其被刺杀倒地、敌人收刀松懈的瞬间按下开关 | [ch-4](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
+| **拇指掐压处决** | 拇指深深掐进肉棒下部与蛋蛋连接处，强制目标当场射精 | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) |
+| **指功·后穴内旋** | 中指插入后穴一转，目标蛋蛋胀大却迟迟不射，最终一次性爆射全空 | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) |
+| **一次性射空** | 特殊指法下目标将全部精液一次性射尽（区别于常规逐股射精） | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) |
+| **揉胸把玩处决** | 撩起上衣揉捏肌肉饱满的巨胸，捏肿乳头、脱靴把玩黑袜口，令目标流精到底、精液顺腿流一地而死 | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) |
+| **闪光弹诱饵战术** | 以“升职”诱骗部下（犀牛杂兵）上前当“刀鞘”送死，事先将闪光弹挂在对方后腰；待其被刺杀倒地、敌人收刀松懈的瞬间按下开关 | [ch-4](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
 
 ### 6.2 战斗风格
 
@@ -283,13 +283,13 @@
 
 | 装备 | 说明 | 出处 |
 |------|------|------|
-| **闪光弹** | 随身携带，可挂于部下背后，按下开关即引爆强光；近距离者（浪青平）瞬间致盲重伤 | [ch-4](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) |
+| **闪光弹** | 随身携带，可挂于部下背后，按下开关即引爆强光；近距离者（浪青平）瞬间致盲重伤 | [ch-4](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) |
 
 ---
 
 ## 七、完整时间线
 
-### Ch.3 颜部长的清算（[ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)）
+### Ch.3 颜部长的清算（[ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md)）
 
 - 外出办事归来，发现情报中心被老雷抄底，坐在尸堆上查看监控确认凶手
 - 三名当夜值守兵（黑制服熊 + 两名绿制服牛/虎）前来请罪
@@ -300,7 +300,7 @@
 - 随后亲率手下赶往车祸现场，检视六具尸体——凭狙击枪鞋印与弹孔逆推狙击手被老雷踩背折磨的惨状，蹲身拍其虎脸道“多亏了你，给我们争取到了不少追捕时间”，随后头也不回离开，任由曝尸荒野
 - 搜捕中察觉玉米地有异，下令一把火烧了玉米地；灰烬里只翻出六具烧焦的兽盾兵尸体，什么也没找到，他扔下一句“废物！”便带着剩余部队继续搜捕
 
-### Ch.4 民房合围（[ch-4](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md)）
+### Ch.4 民房合围（[ch-4](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md)）
 
 - 率十几名兽盾兵闯入民房，把刚刺杀两名黑制服虎武斗兵、正被围困的浪青平团团围住
 - 鼓掌点破浪青平的刀法底细：“以刀练剑，只刺不斩……近你两米内的敌人都逃不过被刺穿的下场”
@@ -314,7 +314,7 @@
 
 ## 八、杀戮履历
 
-### [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) 情报中心（3人）
+### [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) 情报中心（3人）
 
 | 序号 | 目标 | 物种 | 制服 | 死因 | 备注 |
 |:----:|:-----|:----:|:----:|:------|:------|
@@ -322,7 +322,7 @@
 | 2 | 绿制服虎兽人 | 虎 | 军绿 | 中指后穴内旋→一次性爆射全空 | 只射一发即射尽全部精液，迎面倒下 |
 | 3 | 黑制服熊武斗兵 | 熊 | 黑（E级） | 揉胸捏乳→流精而死 | 求饶“再给我一次机会”被拒，被揉捏巨胸、捏肿乳头、把玩黑袜，流精到底后被当“垃圾”处理 |
 
-### [ch-4](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) 民房合围（借刀 1 人 · 直接击杀 0）
+### [ch-4](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) 民房合围（借刀 1 人 · 直接击杀 0）
 
 | 序号 | 目标 | 物种 | 制服 | 死因 | 备注 |
 |:----:|:-----|:----:|:----:|:------|:------|
@@ -373,10 +373,10 @@
 
 | 对手 | 结果 | 出处 | 备注 |
 |:-----|:----:|:----|:------|
-| 绿制服牛兽人 | ✅ 胜（击杀） | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) | 拇指掐压处决 |
-| 绿制服虎兽人 | ✅ 胜（击杀） | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) | 指功·后穴内旋 |
-| 黑制服熊武斗兵 | ✅ 胜（击杀） | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) | 揉胸捏乳处决 |
-| “暗室三座”浪青平 | ⭕ 战术胜（重创，未擒获） | [ch-4](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-004-dark-chamber-qingping.md) | 以犀牛杂兵为饵+背后闪光弹；浪青平带伤遁走 |
+| 绿制服牛兽人 | ✅ 胜（击杀） | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) | 拇指掐压处决 |
+| 绿制服虎兽人 | ✅ 胜（击杀） | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) | 指功·后穴内旋 |
+| 黑制服熊武斗兵 | ✅ 胜（击杀） | [ch-3](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) | 揉胸捏乳处决 |
+| “暗室三座”浪青平 | ⭕ 战术胜（重创，未擒获） | [ch-4](../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-004-dark-chamber-qingping.md) | 以犀牛杂兵为饵+背后闪光弹；浪青平带伤遁走 |
 
 **胜负记录：3胜 · 1战术胜 · 0败**
 

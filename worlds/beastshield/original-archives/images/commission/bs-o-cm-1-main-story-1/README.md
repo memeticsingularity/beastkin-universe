@@ -9,8 +9,8 @@
 
 | 文件 | 日期 | 兽种 / 等级 | 对应章节 | 原文件名 |
 |------|------|-------------|----------|----------|
-| [20260817-leopard.png](20260817-leopard.png) | 2026-08-17 | 豹兽人（G级 · 军绿制服） | [Ch.9 总部突袭](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) | `20260817 兽游世界 豹_已加水印_202609161042.png` |
-| [20260916-bear.png](20260916-bear.png) | 2026-09-16 | 熊兽人（E级 · 黑制服武斗兵） | [Ch.13 解锁封印](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-013-unlocking.md) | `20260916 兽游世界 熊_已加水印_202609161042.png` |
+| [20260817-leopard.png](20260817-leopard.png) | 2026-08-17 | 豹兽人（G级 · 军绿制服） | [Ch.9 总部突袭](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-009-challenge-headquarters.md) | `20260817 兽游世界 豹_已加水印_202609161042.png` |
+| [20260916-bear.png](20260916-bear.png) | 2026-09-16 | 熊兽人（E级 · 黑制服武斗兵） | [Ch.13 解锁封印](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-013-unlocking.md) | `20260916 兽游世界 熊_已加水印_202609161042.png` |
 
 ---
 
@@ -20,7 +20,7 @@
 
 [![20260817-leopard](./20260817-leopard.png)](./20260817-leopard.png)
 
-**对应章节**：[Ch.9 总部突袭](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) · 插图位于第 132 行之后
+**对应章节**：[Ch.9 总部突袭](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-009-challenge-headquarters.md) · 插图位于第 132 行之后
 
 **观察到的细节：**
 
@@ -33,7 +33,7 @@
 **对应原文：**
 
 > 二楼是物资储备区，门口正坐着两只绿制服守卫在打扑克，见到我到来，其中一只黑豹守卫起身走过来。
-> —— [ch-9-challenge-headquarters.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md) 第 132 行
+> —— [ch-9-challenge-headquarters.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-009-challenge-headquarters.md) 第 132 行
 
 **与原文的出入（画师再创作）：**
 
@@ -48,7 +48,7 @@
 
 [![20260916-bear](./20260916-bear.png)](./20260916-bear.png)
 
-**对应章节**：[Ch.13 解锁封印](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-013-unlocking.md) · 插图位于第 12 行之后
+**对应章节**：[Ch.13 解锁封印](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-013-unlocking.md) · 插图位于第 12 行之后
 
 **观察到的细节：**
 
@@ -62,7 +62,7 @@
 **对应原文：**
 
 > ”你…你到底是谁…为什么这么强？…唔…”被我用**银针封穴**的一只**灰熊兽人**保持着出拳的姿势僵立在一旁，在他的四周躺满了和他一样穿着**兽盾黑色制服**的粗壮**兽人**，只不过那些都已经是**尸体**，他已经是最后一个**活口**了。
-> —— [ch-13-unlocking.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-013-unlocking.md) 第 11–12 行
+> —— [ch-13-unlocking.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-013-unlocking.md) 第 11–12 行
 
 **与原文的出入（画师再创作）：**
 

@@ -34,7 +34,7 @@
 
 ## 四、登场原文
 
-### [Chapter 15 重返蟒蛇岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)
+### [Chapter 15 重返蟒蛇岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)
 
 > 基地中心广场，所有兽盾组织的成员都聚集在这，嗜精兽带着几个粗壮的蓝制服守卫站在广场边缘，广场中心一个身材矮小瘦弱，全身被黑色长袍包裹住完全看不到脸的兽人，正杵着一根枯木杖，佝偻着背，用身边一个瓶子里的白色粘液当染料，在地上画着奇怪的法阵，没过一会，瓶子里的染料就见底了，但法阵还缺一角没有完成。
 >
@@ -63,5 +63,5 @@
 
 ---
 
-*档案来源：主线第二卷《魔影》[第15章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)*
+*档案来源：主线第二卷《魔影》[第15章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)*
 *创建日期：2026-09-17 · ⭐集体档案——个体无法区分，仅以群体形式提及*

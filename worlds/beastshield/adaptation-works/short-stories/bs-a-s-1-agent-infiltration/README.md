@@ -123,7 +123,7 @@ Red Tiger, Boar, Brown Bear, Dog, Wolf
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| Ch.1 | 潜入者之焰（全一话·九场景） | [阅读](bs-a-s-1-agent-infiltration.md) |
+| Ch.1 | 潜入者之焰（全一话·九场景） | [阅读](chapters/bs-a-s-1-agent-infiltration.md) |
 
 ---
 
@@ -131,7 +131,7 @@ Red Tiger, Boar, Brown Bear, Dog, Wolf
 
 | Chapter | Title | Link |
 |---------|-------|------|
-| Ch.1 | The Infiltrator's Flame (One-shot, 9 Scenes) | [Read](bs-a-s-1-agent-infiltration.md) |
+| Ch.1 | The Infiltrator's Flame (One-shot, 9 Scenes) | [Read](chapters/bs-a-s-1-agent-infiltration.md) |
 
 ---
 

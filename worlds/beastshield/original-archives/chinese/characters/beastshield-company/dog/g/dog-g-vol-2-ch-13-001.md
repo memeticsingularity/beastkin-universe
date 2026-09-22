@@ -12,7 +12,7 @@
 | **等级/制服** | G级·野外巡逻套装 · 鸭舌军帽+墨绿紧身短袖+迷彩长裤+军靴 |
 | **身份** | 蟒蛇岛哨塔站岗哨兵 |
 | **状态** | **已死亡**——被麻醉后撸至临界点用拇指蹭冠状沟射杀 |
-| **登场** | [vol-2-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md) |
+| **登场** | [vol-2-ch-13](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-13：蟒蛇岛回忆·上](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md)
+### [vol-2-ch-13：蟒蛇岛回忆·上](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md)
 
 > 来到基地外围，首先要解决掉哨塔上站岗的守卫，魔影掏出麻醉枪瞄准好，只听“哧”的一声，哨塔上的守卫摸了摸自己的脖子，满脸疑惑，接着身体一歪，靠着塔柱软倒下去。魔影很清楚，这种麻醉枪的药效只有短短几分钟，是专门用来制服敌人用的，他还需要上去亲自解决掉哨兵。
 >

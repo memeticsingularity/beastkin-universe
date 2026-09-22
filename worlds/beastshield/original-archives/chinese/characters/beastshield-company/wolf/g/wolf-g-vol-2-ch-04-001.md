@@ -12,14 +12,14 @@
 | **等级/制服** | G级 · 军绿短袖短裤 |
 | **身份** | 兽盾大楼底层守卫 |
 | **状态** | **已死亡**——被虎组长抓住蛋蛋捏碎挤出精液而死 |
-| **首次登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) |
-| **最后登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md) |
+| **首次登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md) |
+| **最后登场** | [vol-2-ch-04](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-04：虎卫组之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md)
+### [vol-2-ch-04：虎卫组之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md)
 
 > 这时，一只穿军绿色制服的底层普通守卫狼兽人慌慌张张的跑进来，对虎兽人说道:“不。。。不好了。。虎组长，底层的兄弟们都被人干掉了！”
 >

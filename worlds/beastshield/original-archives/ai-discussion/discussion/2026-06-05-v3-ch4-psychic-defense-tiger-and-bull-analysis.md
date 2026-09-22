@@ -8,7 +8,7 @@
 
 ## 原文索引
 
-- [第三卷第4章《心灵防御》](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md)
+- [第三卷第4章《心灵防御》](../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-004-psychic-defense.md)
 
 ---
 

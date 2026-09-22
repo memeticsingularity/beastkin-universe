@@ -12,8 +12,8 @@
 | **等级/制服** | G级 · 军绿短袖+军绿短裤+白袜+运动鞋 → 换装蓝色制服 |
 | **身份** | 一楼走廊增援小队成员 → 老雷跟班 |
 | **状态** | **已死亡**——ch-11警铃事件后装死被识破，被老雷当成“蓝药”后入灌精，死于灼流暗劲焚体 |
-| **首次登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md) |
-| **最后登场** | [vol-2-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) |
+| **首次登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md) |
+| **最后登场** | [vol-2-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-09：走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)
+### [vol-2-ch-09：走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)
 
 > “喂？。。喂？。。奇怪，其他小队的人怎么突然都联系不上了，是不是对讲机出了故障。”一只身材壮硕的牛兽人守卫将对讲机插回腰间，跟着其他六名队友来到了一楼楼梯口的走廊，只见一名从未见过的兽人正在认认真真的拖地，见到他们的到来，露出一副懊恼的表情。
 >
@@ -154,7 +154,7 @@
 >
 > 之后牛跟班将水牛下体舔砥干净后，轻轻的合上他的双眼，完成换装工作后，将他的尸体抱起，放在墙边坐好，用自己换下的衣服盖住他高高竖起的隐私，然后不舍的和老雷离去。
 
-### [vol-2-ch-10：十三层潜入](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)
+### [vol-2-ch-10：十三层潜入](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md)
 
 > ——（按响警铃）——
 
@@ -162,7 +162,7 @@
 >
 > “什么冥府牛头，体格再大又有什么用，还不是成了一摊没用的死肉。”说完拿出相机准备拍照，突然警铃大作，魔影和老雷疑惑的看向操控台，只见牛跟班的手紧紧的按在警铃按钮上。
 
-### [vol-2-ch-11：冥府牛头之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)
+### [vol-2-ch-11：冥府牛头之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)
 
 > ——（趁乱钻入人群）——
 

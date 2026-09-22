@@ -1,7 +1,7 @@
 # Chapter 17《流墟之死》正文分析
 
 >
-对应文件：[ch-17-godly-music-duel.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-017-godly-music-duel.md)
+对应文件：[ch-17-godly-music-duel.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-017-godly-music-duel.md)
 > 分析日期：2026-03-19
 
 ---

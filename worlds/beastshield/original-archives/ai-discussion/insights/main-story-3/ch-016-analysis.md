@@ -1,7 +1,7 @@
 # Chapter 16《蚀魔锥之祸》正文分析
 
 >
-对应文件：[ch-16-blood-king-resurrection.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)
+对应文件：[ch-16-blood-king-resurrection.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)
 > 分析日期：2026-03-19
 
 ---

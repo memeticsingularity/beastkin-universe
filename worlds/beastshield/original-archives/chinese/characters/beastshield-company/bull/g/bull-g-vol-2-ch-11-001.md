@@ -12,13 +12,13 @@
 | **等级/制服** | G级 · 军绿短袖+军绿短裤+白袜+运动鞋 |
 | **身份** | 十三层守卫（与蓝制服守卫一同围攻老雷） |
 | **状态** | **已死亡**——贪功冲前被老雷一拳揍飞，射精毙命后被魔影拖作靠背 |
-| **登场** | [vol-2-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) |
+| **登场** | [vol-2-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-11：冥府牛头之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)
+### [vol-2-ch-11：冥府牛头之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)
 
 > ——（被一拳揍飞）——
 >

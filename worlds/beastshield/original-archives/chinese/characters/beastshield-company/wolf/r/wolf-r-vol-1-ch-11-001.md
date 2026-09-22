@@ -13,8 +13,8 @@
 | **编号** | 未知 |
 | **身份** | 兽盾远程枪械兵·狙击手 |
 | **状态** | **已死亡**——被主角撸射处决 |
-| **首次登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md) |
-| **最后登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md) |
+| **首次登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md) |
+| **最后登场** | [vol-1-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md) |
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-011-agent-bureau.md)
+### [vol-1-ch-11：特工局](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-011-agent-bureau.md)
 
 > 看到了对方位置就好办了，我一个影袭闪到狙击手的后背，这个狙击手是一只蓝皮狼兽人，他穿着卡其色军靴，靴口露出一截白袜，白色的紧身裤紧紧贴着他圆滚滚的翘臀，上身穿着印有兽盾标志的军绿色背心，腰上挎着弹药架，一架单边眼镜连着耳麦挎在他的侧脸，手上端着狙击枪还在瞄准着我刚刚站立的位置，看样子这个应该就是兽盾的远程兵种了。
 >

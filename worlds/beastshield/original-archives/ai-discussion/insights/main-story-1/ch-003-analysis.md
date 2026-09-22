@@ -1,7 +1,7 @@
 # Chapter 3 前往市区 - 分析
 
 >
-对应文件：[ch-3-head-to-downtown.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-003-head-to-downtown.md)
+对应文件：[ch-3-head-to-downtown.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-003-head-to-downtown.md)
 > 分析日期：2026-03-19
 
 ---

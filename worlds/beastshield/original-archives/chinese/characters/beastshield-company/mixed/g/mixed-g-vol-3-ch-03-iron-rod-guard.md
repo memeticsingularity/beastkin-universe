@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色紧身短裤 |
 | **身份** | 兽盾组织仓储部员工 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md) |
-| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md) |
+| **首次登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-003-warehouse-vengeance.md) |
+| **最后登场** | [vol-3-ch-03](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-003-warehouse-vengeance.md) |
 
 ---
 
 ## 二、登场原文
 
-### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-003-warehouse-vengeance.md)
+### [仓库复仇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-003-warehouse-vengeance.md)
 
 > 没有人回答他，只有一根挥铁棍向他挥来，老雷抓住铁棍，将铁棍的主人拽了过来然后一拳砸在了对方的肚子上，那只兽人“呜哇”的一声吐出了刚吃的午餐，紧接着下体勃起，将绿色的紧身裤撑起一坨大包，身体杵在原地不住抖动，然后大包开始有规律的抽动，将精液喷在了紧身裤上，呕吐完的兽人看着自己的下体，满脸写着不信。
 

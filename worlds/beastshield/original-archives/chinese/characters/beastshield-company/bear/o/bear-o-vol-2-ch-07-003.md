@@ -12,14 +12,14 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤，白袜 |
 | **身份** | 十一层熊族领地员工宿舍·换班休息守卫 |
 | **状态** | **已死亡**——睡梦中被魔影撸射而死 |
-| **首次登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md) |
-| **最后登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md) |
+| **首次登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md) |
+| **最后登场** | [vol-2-ch-07](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-07：熊族领地渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md)
+### [vol-2-ch-07：熊族领地渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md)
 
 > 首先来到一只侧身躺着的熊兽人旁边，魔影将他身体轻轻翻正，看来对方睡得非常死，柱子一样粗壮的四肢随着身体的翻动，如同花瓣一样软绵绵的展开，整个兽人成大字型躺在床上，下体鼓起的大包就和花芯一般，诱人且毫无防备的展露在魔影面前。
 >

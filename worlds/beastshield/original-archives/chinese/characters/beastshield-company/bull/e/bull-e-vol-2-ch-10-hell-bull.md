@@ -12,8 +12,8 @@
 | **等级/制服** | E级武斗兵 · 黑色紧身制服+黑袜 |
 | **身份** | 十三层刑房审讯组长，号称“冥府牛头”（原为[玩家下属牛蒋顿/牛杂](../g/bull-g-vol-1-ch-07-niuza.md)） |
 | **状态** | **已死亡**——被魔影用各种刑具反复玩弄，射精19次后全身瘫软力竭而死 |
-| **首次登场** | [vol-2-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md) |
-| **最后登场** | [vol-2-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md) |
+| **首次登场** | [vol-2-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md) |
+| **最后登场** | [vol-2-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-10：十三层潜入](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)
+### [vol-2-ch-10：十三层潜入](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md)
 
 > ——（刑房审讯）——
 >

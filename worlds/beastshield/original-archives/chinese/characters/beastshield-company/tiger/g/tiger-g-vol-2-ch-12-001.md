@@ -12,13 +12,13 @@
 | **等级/制服** | G级 · 军绿紧身制服+白袜 |
 | **身份** | 被俘虏的教学样本 |
 | **状态** | **已死亡**（推测）——作为特工学校教学样本被押上教室，面朝墙铐好供学生练习 |
-| **登场** | [vol-2-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md) |
+| **登场** | [vol-2-ch-12](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-12：教学篇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md)
+### [vol-2-ch-12：教学篇](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md)
 
 > 老师对这个结果很满意，他欣慰的让小豪先去清洗身体换身衣服，然后拿出对讲机说了几句，不一会就进来两个穿着军装的工作人员将野猪兽人的尸体从墙上放下来拖了出去，扔到了垃圾桶里，然后将另一个穿同样绿色紧身制服和白袜的虎兽人押了上来，按照老师的要求以面朝墙壁屁股朝学生的姿势铐好固定住。
 >

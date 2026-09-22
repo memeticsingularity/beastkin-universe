@@ -103,7 +103,7 @@
 
 | 标题 / Title | 链接 / Link |
 |:--|:--|
-| 人情 / A Favor | [bs-a-s-7-06-favor.md](bs-a-s-7-06-favor.md) |
+| 人情 / A Favor | [bs-a-s-7-06-favor.md](chapters/bs-a-s-7-06-favor.md) |
 
 ---
 

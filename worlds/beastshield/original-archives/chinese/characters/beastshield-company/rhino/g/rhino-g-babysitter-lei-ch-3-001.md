@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色制服（原文未明示制服色，按杂兵归G级） |
 | **身份** | 第二个进玉米地的搜捕杂兵 |
 | **状态** | **已死亡**——被老雷一拳打中腹部闷哼一声，疑惑中把精液浪费在裤裆里；庞大身体被老雷托住缓慢放倒，侧头趴地，牛眼圆瞪泥地而死 |
-| **首次登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
-| **最后登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
+| **首次登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) |
+| **最后登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch3-1：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
+### [s-3-ch3-1：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md)
 
 > ——（老雷干掉玉米地里的虎兽人后，朝下一个目标前进）——
 >
@@ -49,5 +49,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)*
+*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md)*
 *创建日期：2026-09-01*

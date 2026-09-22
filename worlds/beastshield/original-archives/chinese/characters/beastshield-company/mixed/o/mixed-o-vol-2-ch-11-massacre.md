@@ -12,13 +12,13 @@
 | **等级/制服** | O级 · 以蓝制服为主，含少量军绿制服 |
 | **身份** | 十三层牛兽族守卫 |
 | **状态** | **已死亡**——被开启十层灼流暗劲的老雷全部屠尽 |
-| **登场** | [vol-2-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md) |
+| **登场** | [vol-2-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-11：冥府牛头之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)
+### [vol-2-ch-11：冥府牛头之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)
 
 > 警铃一响，本层所有守卫陆陆续续从入口处涌了进来，看到牛组长的惨状，几十只牛兽人愤愤不平将两人围在中间，摩拳擦掌誓要将两人碎尸万段，牛跟班则趁乱钻入人群后方。
 >

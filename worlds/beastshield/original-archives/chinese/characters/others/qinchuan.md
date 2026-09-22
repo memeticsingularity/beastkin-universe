@@ -12,8 +12,8 @@
 | **等级/制服** | 无——非兽盾公司编制（墨蓝警服 + 皮质长筒警靴） |
 | **身份** | 白之都警局副局长（第三卷·第7章）→ 警局局长（第三卷·第15章起明写「现任警局局长」） |
 | **状态** | **已死亡**——第三卷·第21章被血君王的邪火焚烧 |
-| **首次登场** | [第三卷·第7章 警局入侵](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md) |
-| **最后登场** | [第三卷·第21章 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) |
+| **首次登场** | [第三卷·第7章 警局入侵](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md) |
+| **最后登场** | [第三卷·第21章 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md) |
 
 > ⚠️ **人物区分**：本档案为**警局的猎犬兽人勤川**；特工局的**总司令／勤司令**是另一人（黑背狗兽人，见
 > [`../agent-bureau/qin-siling.md`](../agent-bureau/qin-siling.md)）。两人相貌神似但身份、立场不同。
@@ -40,7 +40,7 @@
 
 ## 四、登场原文
 
-### [Chapter 7 警局入侵](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-007-police-station-invasion.md)
+### [Chapter 7 警局入侵](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-007-police-station-invasion.md)
 
 本章开头部分该角色未出场。
 
@@ -214,7 +214,7 @@
 
 ---
 
-### [Chapter 8 龙神浮岛](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
+### [Chapter 8 龙神浮岛](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md)
 
 本章开头部分该角色未出场。
 
@@ -316,13 +316,13 @@
 
 ---
 
-### [Chapter 15 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)
+### [Chapter 15 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md)
 
 > “你怎么知道那东西可以穿透五行封禁的？”机舱内走出一名和司令相貌神似的德牧兽人，他手上带着一副白手套，上面印的猴子图案栩栩如生，此人正是神武一线天的主人，现任警局局长勤川。
 
 ---
 
-### [Chapter 16 血王复活](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)
+### [Chapter 16 血王复活](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)
 
 > “终于找到你了，流墟，牛局长的精债今天也该算一算了！”线的另一头连在勤川的白手套上。
 >
@@ -336,7 +336,7 @@
 
 ---
 
-### [Chapter 18 火焰炮终章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-018-flame-cannon-finale.md)
+### [Chapter 18 火焰炮终章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-018-flame-cannon-finale.md)
 
 本章开头部分该角色未出场。
 
@@ -388,7 +388,7 @@
 
 ---
 
-### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md)
+### [Chapter 21 神曲对决](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md)
 
 > 特工们都聚集了过来，在经历过刚刚那场战斗后，大家都已精疲力尽。老雷不用说，此时站着都很艰难。勤川浑身布满网状血痕，皮开肉绽，不忍直视。总司令早时被辉董刺伤灵魂，毁去所有修为，与废人无异。
 >
@@ -464,7 +464,7 @@
 
 ## 七、结局
 
-第三卷·第7章在警局内冷静处理被流墟屠杀的同僚遗体；第8章以「污染环境」等罪名处决被钉在墙上的兽盾残党。第15章以警局局长身份现身，点明「一线天」可穿透五行封禁。第16章与流墟交战，第18章将其捏成肉沫处决——「没有下次了，死刑，立即执行」。第21章在浮岛战场上浑身血痕，随特工局众人在血君王的邪火中被焚烧（[`ch-21`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-021-divine-battle.md) L33、L81）。
+第三卷·第7章在警局内冷静处理被流墟屠杀的同僚遗体；第8章以「污染环境」等罪名处决被钉在墙上的兽盾残党。第15章以警局局长身份现身，点明「一线天」可穿透五行封禁。第16章与流墟交战，第18章将其捏成肉沫处决——「没有下次了，死刑，立即执行」。第21章在浮岛战场上浑身血痕，随特工局众人在血君王的邪火中被焚烧（[`ch-21`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-021-divine-battle.md) L33、L81）。
 
 ---
 

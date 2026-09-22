@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织薛鼎复制室的工作人员（负责洗脑新生薛鼎） |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
-| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
+| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md) |
+| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md) |
 
 ---
 
 ## 二、登场原文
 
-### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
+### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md)
 
 > 这时，房间的门被从外面打开，一只绿制服狗兽人拿着一套折叠好的黑制服走了进来，小豪立刻关闭手电躲进黑暗处，趁其不备将狗兽人制服，经过一番逼问后，狗兽人吐露出了所有情报，小豪终于搞清楚了来龙去脉。
 > 

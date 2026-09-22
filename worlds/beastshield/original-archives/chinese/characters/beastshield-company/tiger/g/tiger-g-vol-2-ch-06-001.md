@@ -12,14 +12,14 @@
 | **等级/制服** | G级 · 军绿色紧身短袖短裤，白色长筒袜 |
 | **身份** | 兽盾大楼一层增援守卫 |
 | **状态** | **已死亡**——被老雷抓住脚踝拽倒后踩腹而死 |
-| **首次登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) |
-| **最后登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md) |
+| **首次登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md) |
+| **最后登场** | [vol-2-ch-06](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-06：老雷登场](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)
+### [vol-2-ch-06：老雷登场](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)
 
 > 最先冲上来的是野猪兽人，老雷侧身闪过他挥出的电击棍，抓住他的头下压，然后膝盖狠狠的撞在了野猪的腹部，“呜哇。。。呕。。”和之前的牛兽人一样，被重击的野猪兽人立刻呕吐，然后下体开始勃起，没过两秒就开始喷射精液，只见他痛苦的捂着肚子，向前继续踉跄了几步后，噗通一声栽倒在地上，抽搐几下便再也不动了，沿途滴落的精液让后来者清楚的明白，他已经再也站不起来了。之后冲上来两个兽人也难逃厄运，和老雷近身不过一个照面，就都被一拳打到射精，一个靠着惯性摔倒在野猪兽人尸体的背上，一个背靠墙角捂着正在射精的下体，不甘心的慢慢滑落。最后冲上来的虎兽人心生胆怯，上身不敢靠近，于是抬起肉壮白袜粗腿一脚踹去，想将老雷先踢倒后再用电击棍电击。但是老雷不闪不躲，直接抓住他的小腿脚踝，将他整个人拽了过来，虎兽人失去平衡摔倒在地，老雷看着地上的他露出嘲讽的一笑，然后抬起了右脚对准他的腹部，虎兽人意识到什么，惊恐得大叫:
 >

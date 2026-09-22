@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色短袖+短裤 |
 | **身份** | 新兵训练基地新兵 |
 | **状态** | **已死亡**——被炎运功25秒后射精，刚射就被甩开扔在地上，魉帮他撸完最后几下 |
-| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
-| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md) |
+| **首次登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md) |
+| **最后登场** | [炎魉篇 ch-1](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 三、登场原文
 
-### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)
+### [炎魉篇·第一章：潜入基地](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md)
 
 > 接下来进来的是一只**蓝毛虎守卫**，身材同样粗壮异常，但再粗壮的肌肉在**肉棒**被握住的瞬间都变得毫无作用，果然他的下场和前面几只**兽人**一样，没坚持多久便在**炎**的怀里哀嚎着射精，**炎**似乎有些厌倦了，**蓝虎**才刚开始射精就被**炎**甩开扔在了**魉**的身旁。
 >
@@ -52,4 +52,4 @@
 
 ---
 
-*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/ch-001-infiltration.md)*
+*档案来源：炎魉篇 [第一章](../../../../chaptered-stories/side/bs-o-cs-1-yan-liang/chapters/ch-001-infiltration.md)*

@@ -12,8 +12,8 @@
 | **等级/制服** | 无——特工局编制；**卧底期间穿兽盾绿制服**（低阶员工） |
 | **身份** | 特工局新人（受训于魔影）；卧底兽盾组织低阶员工宿舍 |
 | **状态** | **存活**——第三卷·第15章仍在特工局休息室待命 |
-| **首次登场** | [第二卷·第12章 教学篇](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md) |
-| **最后登场** | [第三卷·第15章 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md) |
+| **首次登场** | [第二卷·第12章 教学篇](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md) |
+| **最后登场** | [第三卷·第15章 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md) |
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## 四、登场原文
 
-### [Chapter 12 教学篇](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md)
+### [Chapter 12 教学篇](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md)
 
 本章开头部分该角色未出场。
 
@@ -128,7 +128,7 @@
 
 ---
 
-### [Chapter 15 重返蟒蛇岛](../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)
+### [Chapter 15 重返蟒蛇岛](../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)
 
 > 魔影看了眼这个年轻的兽人，头痛不已，没想到这次行动还要带个拖油瓶，说是什么带新人实习，我刚毕业那会怎么没人带我？现在小孩子真是被贯得越来越娇气了。不过抱怨归抱怨，魔影还是对年轻人招了招手，道:“小豪，过来，开始行动了。”说完转身向兽盾组织基地走去，小豪也屁颠屁颠的紧跟着魔影，一言不发。
 >
@@ -170,7 +170,7 @@
 
 ---
 
-### [Chapter 4 心灵防御](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-004-psychic-defense.md)
+### [Chapter 4 心灵防御](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-004-psychic-defense.md)
 
 本章开头部分该角色即以卧底身份（野猪兽人）出场。
 
@@ -348,7 +348,7 @@
 
 ---
 
-### [Chapter 8 龙神浮岛](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
+### [Chapter 8 龙神浮岛](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md)
 
 本章开头部分该角色未出场（自监控室一段起独占大段 POV）。
 
@@ -712,7 +712,7 @@
 
 ---
 
-### [Chapter 15 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md)
+### [Chapter 15 最终之战](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md)
 
 > 此刻，所有的特工局的战斗人员都已到位，除了有额外任务的魔影，以及在特工局休息室的小豪。
 >
@@ -760,7 +760,7 @@
 
 ## 七、结局
 
-第二卷·第12章以受训新人身份登场；第15章随魔影出勤。第三卷·第4章在兽盾宿舍反杀长期勒索他的黑牛与橙虎，随后在提拔科识破儡部长的测试陷阱、试图带大奔逃走未果。第8章潜入监控室获取情报，被薛鼎追至湖畔；**岚董逼问出他的特工局身份后，在大奔的舍命求情下将他放走，但责令他立刻离开兽盾组织、再也不许踏足兽盾**，卧底任务就此结束（[`ch-8`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) L571）。第15章在浮岛最终之战时留在特工局休息室待命，与同伴讨论借钱吃饭（[`ch-15`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-015-final-battle.md) L91–L107）。**此后未再登场，按存活记录。**
+第二卷·第12章以受训新人身份登场；第15章随魔影出勤。第三卷·第4章在兽盾宿舍反杀长期勒索他的黑牛与橙虎，随后在提拔科识破儡部长的测试陷阱、试图带大奔逃走未果。第8章潜入监控室获取情报，被薛鼎追至湖畔；**岚董逼问出他的特工局身份后，在大奔的舍命求情下将他放走，但责令他立刻离开兽盾组织、再也不许踏足兽盾**，卧底任务就此结束（[`ch-8`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md) L571）。第15章在浮岛最终之战时留在特工局休息室待命，与同伴讨论借钱吃饭（[`ch-15`](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-015-final-battle.md) L91–L107）。**此后未再登场，按存活记录。**
 
 ---
 

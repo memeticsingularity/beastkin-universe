@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服 |
 | **身份** | 兽盾组织寻龙小分队成员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md) |
-| **最后登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md) |
+| **首次登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-009-divine-bow-hunter.md) |
+| **最后登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-009-divine-bow-hunter.md) |
 
 ---
 
 ## 四、登场原文
 
-### [神弓猎人](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md)
+### [神弓猎人](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-009-divine-bow-hunter.md)
 
 > 只是一刻功夫，薛鼎一行人几乎全军覆没，就只剩下薛鼎自己和一只被吓傻缩在墙角瑟瑟发抖的熊兽人。
 

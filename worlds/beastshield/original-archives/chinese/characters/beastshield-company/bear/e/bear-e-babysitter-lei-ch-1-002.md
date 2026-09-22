@@ -12,8 +12,8 @@
 | **等级/制服** | E级武斗兵 · 黑色紧身制服 |
 | **身份** | 潜入小雷房间意图抱走小雷的兽盾武装士兵（潜入者） |
 | **状态** | **已死亡** |
-| **首次登场** | [s-3-ch1-2](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md) |
-| **最后登场** | [s-3-ch1-2](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md) |
+| **首次登场** | [s-3-ch1-2](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-001-villa-night-raid.md) |
+| **最后登场** | [s-3-ch1-2](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-001-villa-night-raid.md) |
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## 三、登场原文
 
-### [别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)
+### [别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-001-villa-night-raid.md)
 
 > 小雷房间的门被缓缓推开，另一只棕熊兽盾兵偷偷摸进来，看到睡在床上的小雷，嘴角上扬露出邪恶的笑容。
 >
@@ -152,6 +152,6 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第一章：别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-001-villa-night-raid.md)*
+*档案来源：老雷突袭情报局 [第一章：别墅夜袭](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-001-villa-night-raid.md)*
 *创建日期：2026-08-20*
 *文本同步：2026-09-16（随作者更新稿同步引用）*

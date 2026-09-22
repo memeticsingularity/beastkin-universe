@@ -1,7 +1,7 @@
 # Chapter 9 总部突袭 - 分析
 
 >
-对应文件：[ch-9-challenge-headquarters.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/ch-009-challenge-headquarters.md)
+对应文件：[ch-9-challenge-headquarters.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-009-challenge-headquarters.md)
 > 分析日期：2026-03-19
 
 ---

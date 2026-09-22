@@ -322,21 +322,21 @@
 
 | 章节    | 标题      | 文件路径                                                                                                                                        | 核心特点                     |
 |-------|---------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| CH-01 | 更衣室狩猎   | [ch-01-locker-room-hunt.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-001-locker-room-hunt.md)                           | 毒牙控制、窒息塞袜、乳头挑战、尸体堆叠      |
-| CH-02 | 走廊巡逻    | [ch-02-corridor-patrol.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-002-corridor-patrol.md)                             | 口交吞咽、勒喉射精、麻药踩射、走廊游击      |
-| CH-03 | 露台狩猎    | [ch-03-terrace-hunt.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-003-terrace-hunt.md)                                   | 电梯暗杀、高空精液喷射、前列腺捅射、抛尸坠楼   |
-| CH-04 | 虎卫组之战   | [ch-04-tiger-guard-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md)                       | 催眠弹处决、黑袜虎组长、血毒匕首、尸体展品    |
-| CH-05 | 厨房与致命午餐 | [ch-05-kitchen-lethal-lunch.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-005-kitchen-and-lunch.md)                   | 精液寿司、20股射精、食精play、尸体艺术   |
-| CH-06 | 老雷登场    | [ch-06-lei-debut.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-006-lei-lei-arrival.md)                                         | 灼流暗劲、三拳连击、洁癖强迫症、温柔处决     |
-| CH-07 | 熊族领地渗透  | [ch-07-bear-territory-infiltration.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-007-bear-territory-infiltration.md)     | 三分钟赌约、倒计时射精、噩梦误杀、宿舍屠杀    |
-| CH-08 | 炼药房之战   | [ch-08-potion-lab-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)                         | 春药池溺毙、尸体艺术、罩门足底、星空夜景     |
-| CH-09 | 走廊清理    | [ch-09-corridor-cleanup.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)                           | 蛋蛋挤爆、自精灌喉、跟班牛兽人、蓝牛爆蛋     |
-| CH-10 | 十三层潜入   | [ch-10-floor-13-infiltration.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-010-thirteenth-floor-infiltration.md)               | 不死体质、烙铁play、针扎乳头、自动榨精20发 |
-| CH-11 | 冥府牛头之战  | [ch-11-hell-bull-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-011-hell-bull-battle.md)                         | 焚体缠身、尸体软椅、嗜精兽头目、岩浆精液     |
-| CH-12 | 教学篇     | [ch-12-training-session.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-012-training-session.md)                         | 特工教学、塞袜封嘴、怜悯禁忌、小豪成长      |
-| CH-13 | 蟒蛇岛回忆·上 | [ch-13-python-island-flashback.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-013-python-island-flashback.md)           | 春药弹狙击、踩射play、枪口插喉、新手成长   |
-| CH-14 | 蟒蛇岛回忆·下 | [ch-14-python-island-transformation.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-014-python-island-transformation.md) | 春药香烟、白熊复仇、红色水晶、暴走强暴      |
-| CH-15 | 重返蟒蛇岛   | [ch-15-return-to-python-island.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)           | 重返旧地、巫术控制、血精矿、世界变革       |
+| CH-01 | 更衣室狩猎   | [ch-01-locker-room-hunt.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-001-locker-room-hunt.md)                           | 毒牙控制、窒息塞袜、乳头挑战、尸体堆叠      |
+| CH-02 | 走廊巡逻    | [ch-02-corridor-patrol.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-002-corridor-patrol.md)                             | 口交吞咽、勒喉射精、麻药踩射、走廊游击      |
+| CH-03 | 露台狩猎    | [ch-03-terrace-hunt.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-003-terrace-hunt.md)                                   | 电梯暗杀、高空精液喷射、前列腺捅射、抛尸坠楼   |
+| CH-04 | 虎卫组之战   | [ch-04-tiger-guard-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md)                       | 催眠弹处决、黑袜虎组长、血毒匕首、尸体展品    |
+| CH-05 | 厨房与致命午餐 | [ch-05-kitchen-lethal-lunch.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-005-kitchen-and-lunch.md)                   | 精液寿司、20股射精、食精play、尸体艺术   |
+| CH-06 | 老雷登场    | [ch-06-lei-debut.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-006-lei-lei-arrival.md)                                         | 灼流暗劲、三拳连击、洁癖强迫症、温柔处决     |
+| CH-07 | 熊族领地渗透  | [ch-07-bear-territory-infiltration.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-007-bear-territory-infiltration.md)     | 三分钟赌约、倒计时射精、噩梦误杀、宿舍屠杀    |
+| CH-08 | 炼药房之战   | [ch-08-potion-lab-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)                         | 春药池溺毙、尸体艺术、罩门足底、星空夜景     |
+| CH-09 | 走廊清理    | [ch-09-corridor-cleanup.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)                           | 蛋蛋挤爆、自精灌喉、跟班牛兽人、蓝牛爆蛋     |
+| CH-10 | 十三层潜入   | [ch-10-floor-13-infiltration.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-010-thirteenth-floor-infiltration.md)               | 不死体质、烙铁play、针扎乳头、自动榨精20发 |
+| CH-11 | 冥府牛头之战  | [ch-11-hell-bull-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-011-hell-bull-battle.md)                         | 焚体缠身、尸体软椅、嗜精兽头目、岩浆精液     |
+| CH-12 | 教学篇     | [ch-12-training-session.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-012-training-session.md)                         | 特工教学、塞袜封嘴、怜悯禁忌、小豪成长      |
+| CH-13 | 蟒蛇岛回忆·上 | [ch-13-python-island-flashback.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-013-python-island-flashback.md)           | 春药弹狙击、踩射play、枪口插喉、新手成长   |
+| CH-14 | 蟒蛇岛回忆·下 | [ch-14-python-island-transformation.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-014-python-island-transformation.md) | 春药香烟、白熊复仇、红色水晶、暴走强暴      |
+| CH-15 | 重返蟒蛇岛   | [ch-15-return-to-python-island.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)           | 重返旧地、巫术控制、血精矿、世界变革       |
 
 ---
 

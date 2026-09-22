@@ -39,7 +39,7 @@
 
 ## 四、登场原文
 
-### [Chapter 10 首次对决](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md)
+### [Chapter 10 首次对决](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md)
 
 > “咱就不装了，来吧。”**虎队长**打了个响指，房间一旁的大门打开，里面走出来十几只**绿制服守卫**，个个拿着**兵器**将我围了起来，”你应该不用我告诉你**兽盾**分胜负的方式吧，自己去选一样**兵器**。”
 
@@ -67,5 +67,5 @@
 
 ---
 
-*档案来源：主线第一卷《兽游世界》[第十章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md)*
+*档案来源：主线第一卷《兽游世界》[第十章](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md)*
 *创建日期：2026-09-17 · ⭐集体档案——个体无法区分，仅以群体形式提及*

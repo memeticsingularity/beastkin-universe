@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织士兵，薛鼎的随行手下 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md) |
-| **最后登场** | [vol-3-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md) |
+| **首次登场** | [vol-3-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-011-light-cult-infiltration.md) |
+| **最后登场** | [vol-3-ch-11](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-011-light-cult-infiltration.md) |
 
 ---
 
 ## 四、登场原文
 
-### [光照会渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-011-light-cult-infiltration.md)
+### [光照会渗透](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-011-light-cult-infiltration.md)
 
 > “没想到你们居然想打龙神的主意，真是不自量力，各位就不用劳驾了，今天我就把你们通通解决掉以除后患！”语毕，只见薛鼎带来的一名手下一只手搭在薛鼎的肩上，手里捏着一根银针的末端，那人慢慢脱下绿色紧身衣，外貌瞬间变为了一只银白色的狼兽人，他就是特工局的首席特工之一——银。旁边另一个绿制服的熊兽人目瞪口呆地看着这一切，似乎完全没明白发生了什么。
 >

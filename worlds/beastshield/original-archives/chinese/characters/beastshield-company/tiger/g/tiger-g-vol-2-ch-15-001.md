@@ -12,8 +12,8 @@
 | **等级/制服** | G级·野外巡逻套装（墨绿紧身短袖+迷彩长裤+军靴） |
 | **身份** | 蟒蛇岛基地外围巡逻守卫 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) |
-| **最后登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) |
+| **首次登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md) |
+| **最后登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [重返蟒蛇岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)
+### [重返蟒蛇岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)
 
 > 所有巡逻的守卫被一个个解决后，魔影才从草丛里钻了出来走到小豪身边，将肩上扛着的一个被毒牙麻痹的白虎兽人守卫扔在地上。
 >

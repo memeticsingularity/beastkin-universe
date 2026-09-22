@@ -1,7 +1,7 @@
 # Chapter 4 虎卫组之战 - 分析
 
 >
-对应文件：[ch-04-tiger-guard-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/ch-004-tiger-guard-battle.md)
+对应文件：[ch-04-tiger-guard-battle.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-004-tiger-guard-battle.md)
 > 分析日期：2026-03-19
 
 ---

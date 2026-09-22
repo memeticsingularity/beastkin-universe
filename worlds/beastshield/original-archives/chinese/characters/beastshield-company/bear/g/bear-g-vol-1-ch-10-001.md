@@ -13,14 +13,14 @@
 | **编号** | 未知 |
 | **身份** | 训练房守卫 |
 | **状态** | **已死亡**——逃跑时被虎队长拧断脖子 |
-| **首次登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
-| **最后登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
+| **首次登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md) |
+| **最后登场** | [vol-1-ch-10](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-1-ch-10：首次对决](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md)
+### [vol-1-ch-10：首次对决](../../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md)
 
 > 另一只**熊守卫**见**犀牛**的下场，吓得丢下**武器**朝门外逃去，但还没跑到门口，就被**虎队长**掐住**脖子**提了起来。
 >

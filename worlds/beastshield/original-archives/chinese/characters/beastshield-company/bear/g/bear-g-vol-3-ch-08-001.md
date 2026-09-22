@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服+白袜+运动鞋 |
 | **身份** | 兽盾组织巡逻队员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
-| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
+| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md) |
+| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md) |
 
 ---
 
 ## 四、登场原文
 
-### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
+### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md)
 
 > 另外两只绿制服兽人也扑了上来，墩常知道自己再不认真对待，输的可能是自己，于是从背后抽出了巨弓，并搭上了三只铁箭，只听“嘎吱嘎吱”的紧绷声，弓弦只拉开一半不到，牛兽人便松开了手让铁箭射了出去。
 

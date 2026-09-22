@@ -12,13 +12,13 @@
 | **等级/制服** | O级 · 蓝白图案紧身短袖短裤，白袜，运动鞋 |
 | **身份** | 十一层熊族领地·沿途各处守卫 |
 | **状态** | **已死亡**——被魔影以各种方式虐杀 |
-| **登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md) |
+| **登场** | [vol-2-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md) |
 
 ---
 
 ## 四、登场原文
 
-### [vol-2-ch-08：炼药房之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-008-alchemy-room-battle.md)
+### [vol-2-ch-08：炼药房之战](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-008-alchemy-room-battle.md)
 
 > 在前往炼药房的路上，熊组长陆陆续续发现了许多被干掉的守卫:
 >

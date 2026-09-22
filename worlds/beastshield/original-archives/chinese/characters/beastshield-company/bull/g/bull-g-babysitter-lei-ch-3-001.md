@@ -12,8 +12,8 @@
 | **等级/制服** | G级杂兵 · 军绿色制服 |
 | **身份** | 情报中心值守（绿制服兽盾兵） |
 | **状态** | **已死亡**——被颜部长拇指掐进生殖器连接处，站在军姿射完全部精液而死 |
-| **首次登场** | [s-3-ch3-2](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
-| **最后登场** | [s-3-ch3-2](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
+| **首次登场** | [s-3-ch3-2](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) |
+| **最后登场** | [s-3-ch3-2](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch3-2：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
+### [s-3-ch3-2：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md)
 
 > ——（颜部长处决完虎兽人后，绕到另一名绿制服牛兽人身旁）——
 >
@@ -68,5 +68,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)*
+*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md)*
 *创建日期：2026-08-20*

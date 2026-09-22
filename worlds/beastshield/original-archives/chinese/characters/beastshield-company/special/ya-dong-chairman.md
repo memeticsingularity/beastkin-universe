@@ -13,8 +13,8 @@
 | **编号** | 无 |
 | **身份** | 兽盾公司董事长 |
 | **状态** | **存活** |
-| **首次登场** | [vol-1-ch-10](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
-| **最后登场** | [vol-1-ch-10](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
+| **首次登场** | [vol-1-ch-10](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md) |
+| **最后登场** | [vol-1-ch-10](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md) |
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## 四、登场原文
 
-### [vol-1-ch-10：首次对决](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md)
+### [vol-1-ch-10：首次对决](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md)
 
 > 正当我还在看技能时，身后响起了一阵鼓掌声，我心里一惊，居然有人能在我毫不知情的情况下靠近我的背后。
 >
@@ -112,7 +112,7 @@
 
 ---
 
-### [vol-3-ch-6：十二神武之谜](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-006-divine-weapons-secret.md)
+### [vol-3-ch-6：十二神武之谜](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-006-divine-weapons-secret.md)
 
 > 此时嗜精兽也在部长办公室，正和儡爵交谈工作方面的内容，见薛鼎闯入，儡爵摇了摇头抱怨道:
 
@@ -148,7 +148,7 @@
 
 ---
 
-### [vol-3-ch-8：龙神浮岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
+### [vol-3-ch-8：龙神浮岛](../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md)
 
 > 监控里，一只年迈的牛兽人正被大字型绑在刑架上，双眼无神，嘴里冒着黑气不知死活，而在一旁，儡爵正在和牙董正在交谈。
 
@@ -178,8 +178,8 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **瞬移** | 能以肉眼无法捕捉的速度移动 | [vol-1-ch-10](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
-| **血精石** | 可将血精石植入他人体内，使其渴求精液 | [vol-1-ch-10](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/ch-010-first-encounter-boss.md) |
+| **瞬移** | 能以肉眼无法捕捉的速度移动 | [vol-1-ch-10](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md) |
+| **血精石** | 可将血精石植入他人体内，使其渴求精液 | [vol-1-ch-10](../../../chaptered-stories/main/bs-o-cm-1-main-story-1/chapters/ch-010-first-encounter-boss.md) |
 
 ---
 

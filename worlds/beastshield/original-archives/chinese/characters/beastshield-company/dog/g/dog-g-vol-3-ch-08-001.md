@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织巡逻队员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
-| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md) |
+| **首次登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md) |
+| **最后登场** | [vol-3-ch-08](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md) |
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 四、登场原文
 
-### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-008-dragon-god-island.md)
+### [龙神岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-008-dragon-god-island.md)
 
 > “上四杯你们这最贵的饮料。”为首的一只蓝制服熊兽人嚷嚷了一句后，随意找了个位置坐下，把鞋一脱，将一只宽厚的肉脚搭在了餐桌上歇息喘气，时不时还搓动一下脚趾活动活动筋骨，其他几个绿制服兽人也有样学样，将白袜肉腿搭在了餐桌上，让早已站麻了的脚底得到放松，只有一只绿制服狗兽人由于腿太短搭不上桌子，只能乖乖的放在地上歇息。
 

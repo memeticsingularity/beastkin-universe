@@ -12,14 +12,14 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织寻龙小分队成员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md) |
-| **最后登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md) |
+| **首次登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-009-divine-bow-hunter.md) |
+| **最后登场** | [vol-3-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-009-divine-bow-hunter.md) |
 
 ---
 
 ## 四、登场原文
 
-### [神弓猎人](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-009-divine-bow-hunter.md)
+### [神弓猎人](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-009-divine-bow-hunter.md)
 
 > 只见牛兽人身后的石墙上并无他物，只有一滴水正沿着石墙缓缓流下，划出一条带血的水痕。一旁的一只野猪兽人和一只虎兽人也反应过来，靠近石墙准备仔细翻找痕迹。
 

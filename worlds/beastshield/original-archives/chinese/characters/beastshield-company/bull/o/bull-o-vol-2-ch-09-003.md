@@ -12,7 +12,7 @@
 | **等级/制服** | O级 · 蓝色紧身裤+白袜 |
 | **身份** | 十三层通道巡逻守卫 |
 | **状态** | **已死亡**——先被老雷一拳击中腹部射出第一发精液，后被牛跟班吮吸三分钟射尽残精而死 |
-| **登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md) |
+| **登场** | [vol-2-ch-09](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [vol-2-ch-09：走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-009-corridor-cleanup.md)
+### [vol-2-ch-09：走廊清理](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-009-corridor-cleanup.md)
 
 > 老雷继续以被押送的姿势让牛跟班领着他往刑房走去，在一个通道里遇到一只体格粗壮满脸虬髯脸上还有一道刀疤的水牛兽人，水牛狐疑的拦下他们问道:
 >

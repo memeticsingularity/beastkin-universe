@@ -12,8 +12,8 @@
 | **等级/制服** | E级武斗兵 · 黑色紧身制服 |
 | **身份** | 第三个进玉米地的兽盾武斗兵 |
 | **状态** | **已死亡**——被老雷抓住黑袜脚踝绊倒，骑背反抠脑袋拧转180度，“咔嚓”脆响，一大股熊精从胯下流出作为破坏作物的“赔偿” |
-| **首次登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
-| **最后登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md) |
+| **首次登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) |
+| **最后登场** | [s-3-ch3-1](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 三、登场原文
 
-### [s-3-ch3-1：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)
+### [s-3-ch3-1：颜部长的清算（第三章）](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md)
 
 > ——（老雷干掉玉米地里的犀牛杂兵后，一名体格异常粗壮的熊兽人武斗兵第三个走进玉米地）——
 >
@@ -60,5 +60,5 @@
 
 ---
 
-*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/ch-003-minister-yan-reckoning.md)*
+*档案来源：老雷突袭情报局 [第三章：颜部长的清算](../../../../chaptered-stories/side/bs-o-cs-3-babysitter-lei/chapters/ch-003-minister-yan-reckoning.md)*
 *创建日期：2026-09-01*

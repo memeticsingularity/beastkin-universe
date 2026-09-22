@@ -13,8 +13,8 @@
 | **等级/制服** | 无制服等级（特工局编制）· 着**军靴**；靴内的**白袜**在正文中被点名（“军靴直至军靴里面的白袜都被胶液一点点溶解干净”） |
 | **身份** | 特工局特工 · 浮岛决战的参战成员 |
 | **状态** | **已死亡**——被流墟的黑色胶液全身包裹，窒息挣扎中被挤压至喷精，随后被吃干抹净 |
-| **首次登场** | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md) |
-| **最后登场** | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)（尸体被勤川看到） |
+| **首次登场** | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md) |
+| **最后登场** | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)（尸体被勤川看到） |
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## 四、登场原文
 
-### [Chapter 16 血王复活](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)
+### [Chapter 16 血王复活](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)
 
 > “杂毛狗，有种别躲！”一只魁梧的绿制服虎兽人正挥舞着铁锤砸向一只棕色的狼兽人特工，周边躺着好几只身材粗壮的绿制服兽人，个个咽喉被割破，下体流着精液惨死。老虎兽人看到同事的惨状，害怕自己也被割喉，在锤击的时候另一只手一直捂着喉咙防备。
 
@@ -74,7 +74,7 @@
 
 | 能力 | 描述 | 出处 |
 |------|------|------|
-| **匕首短刀近战** | 以匕首直接从背后捅进对手后穴并“直没入刀柄”，是特工局“擅长割喉处决敌人”的套路之一 | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md) |
+| **匕首短刀近战** | 以匕首直接从背后捅进对手后穴并“直没入刀柄”，是特工局“擅长割喉处决敌人”的套路之一 | [vol-3-ch-16](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md) |
 | **极快的闪避身法** | 在虎兽人眼中“像蜗牛一样慢”的锤击被他轻松全部躲开，并能瞬间绕回对手正面 | 同上 |
 | **徒手捏爆卵蛋** | 握住虎兽人送上门的卵蛋“用力一捏”，即将其数十年积蓄的精液瞬间挤出 | 同上 |
 
@@ -96,5 +96,5 @@
 
 ---
 
-*档案来源：主线第三卷《白之都》[第16章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-016-blood-king-resurrection.md)*
+*档案来源：主线第三卷《白之都》[第16章](../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-016-blood-king-resurrection.md)*
 *创建日期：2026-09-17*

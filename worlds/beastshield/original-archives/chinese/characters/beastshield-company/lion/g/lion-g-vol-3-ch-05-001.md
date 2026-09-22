@@ -12,8 +12,8 @@
 | **等级/制服** | G级·军绿色制服+白袜 |
 | **身份** | 兽盾组织入侵小队成员 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) |
-| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md) |
+| **首次登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-005-undercover-hunt.md) |
+| **最后登场** | [vol-3-ch-05](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-005-undercover-hunt.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/ch-005-undercover-hunt.md)
+### [卧底猎杀](../../../../chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-005-undercover-hunt.md)
 
 > “咦？组长你怎么出来了，是已经解决掉目标了吗？。。。诶？组长你干嘛！。。。呃！啊！。。。哈啊！。。。组长。。。为什么。。。呃。。。”等声音平息后，狼兽人走了进来，将肩上扛着的一具健壮的狮子兽人尸体扔在了餐桌上，只见狮子兽人侧身躺在桌上，两条粗壮的白袜肉腿叠着一起，下体裤子被撕开，勃起的肉棒还在一挺一挺的吐着余精，狮子死不瞑目的脸上还保留着死前的疑惑与震惊。
 

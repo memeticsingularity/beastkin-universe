@@ -12,8 +12,8 @@
 | **等级/制服** | O级 · 蓝色紧身制服 |
 | **身份** | 蟒蛇岛基地守卫 |
 | **状态** | 已死亡 |
-| **首次登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) |
-| **最后登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md) |
+| **首次登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md) |
+| **最后登场** | [vol-2-ch-15](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 四、登场原文
 
-### [重返蟒蛇岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/ch-015-return-to-python-island.md)
+### [重返蟒蛇岛](../../../../chaptered-stories/main/bs-o-cm-1-main-story-2/chapters/ch-015-return-to-python-island.md)
 
 > 基地中心广场，所有兽盾组织的成员都聚集在这，嗜精兽带着几个粗壮的蓝制服守卫站在广场边缘，广场中心一个身材矮小瘦弱，全身被黑色长袍包裹住完全看不到脸的兽人，正杵着一根枯木杖，佝偻着背，用身边一个瓶子里的白色粘液当染料，在地上画着奇怪的法阵，没过一会，瓶子里的染料就见底了，但法阵还缺一角没有完成。
 >

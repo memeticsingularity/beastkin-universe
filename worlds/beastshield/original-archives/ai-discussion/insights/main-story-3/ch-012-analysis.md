@@ -1,7 +1,7 @@
 # Chapter 12《浮岛大战（上）》- 分析
 
 >
-对应文件：[ch-12-desert-ambush.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/ch-012-desert-ambush.md)
+对应文件：[ch-12-desert-ambush.md](../../../chinese/chaptered-stories/main/bs-o-cm-1-main-story-3/chapters/ch-012-desert-ambush.md)
 > 分析日期：2026-03-19
 
 ---
