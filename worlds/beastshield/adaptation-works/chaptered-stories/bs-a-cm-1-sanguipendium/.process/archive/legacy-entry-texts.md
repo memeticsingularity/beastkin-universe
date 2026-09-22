@@ -1,10 +1,19 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# 淘汰赛「登场感慨」文案（历史数据迁移） / Legacy Entry Texts
 
-import re
+> **来源**：`scripts/update_entries.py`、`scripts/update_bear_hound.py`（2026 v3.0 重构时被迁入 `scripts/`，其后逐步失效）。
+> **状态**：这两份文案**未落库**——原脚本写入的 `08-sanguipendium/advanced-32.html` 是已废弃的旧编码路径；
+> 现行的 `advanced-32.html` / `advanced-32-m.html` 已归档在本目录，其中**不含**这些文案。
+> **处置**（2026-09-22）：从 `scripts/` 移除这两个脚本（一个是写向失效路径的一次性脚本，一个是空壳），
+> 文案原样提取归档于此，避免内容丢失；如需重新注入 HTML，请以本文件为数据源重写一次性脚本（勿恢复旧路径）。
 
-# 定义所有入场感慨数据
-entries_data = {
+---
+
+## 一、来自 update_entries.py（牛之阵营等）
+
+> 脚本原本写入 08-sanguipendium/advanced-32.html（旧编码目录，已不存在）。
+
+```python
+{
     # 牛之阵营
     '牛徐强': {
         'r16entry': '从三十二人堆里爬出来，我这条老命算是又续上了一截。五万二的债，已经还掉一小半，药铺老板终于肯让我赊账给爹抓药了。三十七岁，骨头不如年轻人硬，但我有必须站下去的理由——爹还在炕上等着我拿钱回去。十六强？这才刚开始。',
@@ -104,37 +113,29 @@ entries_data = {
         'finalEntry': '决赛通道的光芒刺眼，虎黄明抬起头，空洞的眼神中闪过一丝光芒。三十八年的生命，十七年的E级生涯，在这一刻凝聚。深褐色旧款三角裤被汗水浸透，橙色皮毛在光芒中依然暗淡。他想起十七年前的自己，想起那个满怀希望的年轻士兵。现在，他要证明最后一件事：即使从未被看见，也可以走到最后。他迈步走向那片光芒，沉默如过去十七年。'
     }
 }
+```
 
-# 读取HTML文件
-with open('worlds/beastshield/adaptation-works/chaptered-stories/08-sanguipendium/advanced-32.html', 'r', encoding='utf-8') as f:
-    html = f.read()
+## 二、来自 update_bear_hound.py（熊与犬阵营）
 
-# 为每个角色添加新字段
-count = 0
-for name, entries in entries_data.items():
-    # 查找角色的 entry 字段
-    pattern = rf"('{re.escape(name)}': {{\s*)entry: '([^']+)',"
-    match = re.search(pattern, html)
-    if match:
-        print(f"找到角色: {name}")
+> 该脚本为未完成空壳（无任何写文件逻辑），文案从未落库。
 
-        # 构建要插入的新字段
-        new_fields = f"""entry: '{match.group(2)}',
-                    r16entry: '{entries['r16entry']}',
-                    r8entry: '{entries['r8entry']}',
-                    r4entry: '{entries['r4entry']}',
-                    finalEntry: '{entries['finalEntry']}',"""
+```python
+{
+    '熊周平': {
+        'r16entry': '从32强杀出来的那一刻，我第一个念头是：弟弟的药钱有着落了。一万债务像座山压了我整整一年，如今第一场胜仗换来了五百撸币，钱庄的匕首暂时不会出现在我床头了。',
+        'r8entry': '站在八强的入口，我摸了摸胸口的编号E-145。十二年了，这个编号跟着我出生入死，今天它终于有了重量。',
+        'r4entry': '四万奖金已经到手，债务清零。我本该满足了，但站在四强的擂台前，我发现自己停不下来了。',
+        'finalEntry': '决赛。我从没想过能走到这里。昨晚梦见父亲，他说："平儿，够了，回来吧。"但我回不去了。'
+    },
+    '熊吴刚': {
+        'r16entry': '第一场赢了，但我没有喜悦。对手的惨叫让我想起他——我的伴侣，那个我亲手处决的冤魂。',
+        'r8entry': '八强。又活过一轮，又欠下一笔血债。昨晚梦见他了，他还是那样看着我，不说话。',
+        'r4entry': '我没想到自己能走到四强。每一次倒下又站起来，我都以为是自己求死的意志不够坚决。',
+        'finalEntry': '决赛。这是我最后的舞台。不是作为E-112，而是作为一个杀错伴侣的罪人。'
+    }
+}
+```
 
-        # 替换
-        html = html.replace(match.group(0), match.group(1) + new_fields)
-        count += 1
-    else:
-        print(f"未找到角色: {name}")
+---
 
-print(f"\n更新了 {count} 个角色")
-
-# 写回文件
-with open('worlds/beastshield/adaptation-works/chaptered-stories/08-sanguipendium/advanced-32.html', 'w', encoding='utf-8') as f:
-    f.write(html)
-
-print("更新完成")
+*迁移时间：2026-09-22*
