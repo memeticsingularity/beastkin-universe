@@ -155,7 +155,7 @@
 | **第四幕：收网** | Ch.38 | 013地下暗渠 | 蛇柳青+蝠夜声 | 地下 |
 | | Ch.39 | 022地下隧道 | 獾土坚（独行） | 地下 |
 
-> 详细情节推进框架见 [`notes/plans/2026-05-23-volume-2-plot-progression.md`](notes/plans/2026-05-23-volume-2-plot-progression.md)
+> 详细情节推进框架见 [`notes/plans/2026-05-23-volume-2-plot-progression.md`](.process/plans/2026-05-23-volume-2-plot-progression.md)
 
 ---
 
@@ -201,10 +201,10 @@
 
 - [查看变更日志](.process/CHANGELOG.md)
 - 查看 AI 讨论索引（索引尚未建立）
-- [项目协作指南](GUIDE.md)
-- [笔风指南](notes/guides/style-guide.md)
-- [世界观适配指南](notes/guides/worldview-adaptation.md)
-- [故事设定档案](notes/setting/story-setting.md)
+- [项目协作指南](.process/plans/GUIDE.md)
+- [笔风指南](.process/plans/guides/style-guide.md)
+- [世界观适配指南](.process/plans/guides/worldview-adaptation.md)
+- [故事设定档案](.process/plans/setting/story-setting.md)
 
 ---
 
@@ -212,10 +212,10 @@
 
 - [View Changelog](.process/CHANGELOG.md)
 - View AI Discussion Index (index not yet created)
-- [Project Collaboration Guide](GUIDE.md)
-- [Style Guide](notes/guides/style-guide.md)
-- [Worldview Adaptation Guide](notes/guides/worldview-adaptation.md)
-- [Story Setting Archive](notes/setting/story-setting.md)
+- [Project Collaboration Guide](.process/plans/GUIDE.md)
+- [Style Guide](.process/plans/guides/style-guide.md)
+- [Worldview Adaptation Guide](.process/plans/guides/worldview-adaptation.md)
+- [Story Setting Archive](.process/plans/setting/story-setting.md)
 
 ---
 

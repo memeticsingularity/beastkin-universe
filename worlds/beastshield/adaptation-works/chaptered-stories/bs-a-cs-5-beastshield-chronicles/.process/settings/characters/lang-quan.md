@@ -88,9 +88,9 @@
 ### 详细背景
 
 -
-完整背景故事见 [猎巡与云午背景故事](../../author-chat/storyline/2025-12-25-chronicles-backstory-leopard-and-wolf.md)
+完整背景故事见 [猎巡与云午背景故事](../../author-chat/2025-12-25-chronicles-backstory-leopard-and-wolf.md)
 -
-IF线（不死线）设定见 [猎巡与云午IF线](../../author-chat/storyline/2025-12-25-chronicles-if-line-redemption.md)
+IF线（不死线）设定见 [猎巡与云午IF线](../../author-chat/2025-12-25-chronicles-if-line-redemption.md)
 
 ---
 
@@ -98,5 +98,5 @@ IF线（不死线）设定见 [猎巡与云午IF线](../../author-chat/storyline
 
 - [第三章：血染之塔](../../../chapters/chinese/ch-003-tower-of-bloodbath.md)
 - [迎新会第三部分：墨武发现](../../author-chat/chapters/2026-01-10-welcome-party-3.md)
-- [猎巡与云午背景故事](../../author-chat/storyline/2025-12-25-chronicles-backstory-leopard-and-wolf.md)
-- [猎巡与云午IF线](../../author-chat/storyline/2025-12-25-chronicles-if-line-redemption.md)
+- [猎巡与云午背景故事](../../author-chat/2025-12-25-chronicles-backstory-leopard-and-wolf.md)
+- [猎巡与云午IF线](../../author-chat/2025-12-25-chronicles-if-line-redemption.md)

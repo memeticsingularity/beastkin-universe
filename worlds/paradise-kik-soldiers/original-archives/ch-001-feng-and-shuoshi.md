@@ -909,7 +909,7 @@ B-11407点点头。他看向窗外，看向那片阳光下的草地，看向远�
 
 ---
 
-`**[上一章](ch-034-snow-leopard-execution.md) | [返回目录](../README.md) | [下一章](ch-035-forest-interrogation.md) | [返回世界观首页](../../../README.md) | [返回项目主页](../../../../../../../README.md)**`
+`**[上一章](ch-034-snow-leopard-execution.md) | [返回目录](../README.md) | [下一章](ch-035-forest-interrogation.md) | [返回世界观首页](../../../README.md) | [返回项目主页](README.md)**`
 
 ---
 

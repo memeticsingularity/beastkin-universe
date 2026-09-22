@@ -44,7 +44,7 @@
    │
   1F ─── 大厅（虎照阳、牛赤炎、牛水远、熊山平等G级守卫）
    │
-  B1 ─── 地下格斗场（详见 [_underground-arena.md](_underground-arena.md)）
+  B1 ─── 地下格斗场（详见 [_underground-arena.md](../l-07-underground-arena/_underground-arena.md)）
 ```
 
 ## 三、安保体系

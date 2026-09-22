@@ -108,9 +108,9 @@ A low-key martial arts master, Old Lei, raises his eight-year-old white tiger so
 
 ## AI 讨论 / AI Discussions
 
-- [2026-08-12 阅读印象](ai-discuss/2026-08-12-reading-impressions.md) — Ch.1-2 初次阅读感受：暴力与日常的荒诞并置、灼流暗劲变体、父子叙事情感张力
-- [2026-08-20 角色共情讨论](ai-discuss/2026-08-20-character-sympathy.md) — Ch.1-3 角色共情、道德分层、警报机制与安保建制分析（Q1-Q13）
-- [2026-09-16 原作文本收录记录](ai-discuss/2026-09-16-original-text-intake.md) — 收录《兽盾情报局》第一卷原稿的逐章差异、连带档案同步、疑似笔误与遗留事项清单
+- [2026-08-12 阅读印象](.process/ai-discussion/2026-08-12-reading-impressions.md) — Ch.1-2 初次阅读感受：暴力与日常的荒诞并置、灼流暗劲变体、父子叙事情感张力
+- [2026-08-20 角色共情讨论](.process/ai-discussion/2026-08-20-character-sympathy.md) — Ch.1-3 角色共情、道德分层、警报机制与安保建制分析（Q1-Q13）
+- [2026-09-16 原作文本收录记录](.process/ai-discussion/2026-09-16-original-text-intake.md) — 收录《兽盾情报局》第一卷原稿的逐章差异、连带档案同步、疑似笔误与遗留事项清单
 
 ## 续写与改编 / Adaptation
 

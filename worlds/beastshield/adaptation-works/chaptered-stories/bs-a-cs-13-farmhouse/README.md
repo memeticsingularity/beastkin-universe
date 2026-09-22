@@ -27,7 +27,7 @@
 | 内容 | 路径 |
 |------|------|
 | **角色档案** | [`.process/settings/characters/`](.process/settings/characters/README.md) |
-| **故事设定** | [`notes/setting/story-setting.md`](notes/setting/story-setting.md) |
+| **故事设定** | [`notes/setting/story-setting.md`](.process/plans/setting/story-setting.md) |
 | **作者完整原文** | [`original-text/beastshield-farmhouse-complete.txt`](original-text/beastshield-farmhouse-complete.txt) |
 | **创作讨论** | [`.process/discuss/`](.process/discuss/) |
 | **创作计划** | [`.process/plans/`](.process/plans/) |
@@ -166,7 +166,7 @@ Bull `Bull` · Black Bear `Black Bear` · Wild Boar `Wild Boar` · Tiger `Tiger`
 
 ## 五、创作留痕 / Creation Trail
 
-- [故事设定档案](notes/setting/story-setting.md)
+- [故事设定档案](.process/plans/setting/story-setting.md)
 - [角色档案总览](.process/settings/characters/README.md)
 - [作者完整原文（第四卷更新中）](original-text/beastshield-farmhouse-complete.txt)
 

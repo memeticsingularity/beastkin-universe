@@ -179,7 +179,7 @@ Bear `Bear` · Boar `Boar` · Bull `Bull` · Dog `Dog` · Tiger `Tiger` · Wolf 
 
 参与创作前，请先查阅以下文档：
 
-- [项目协作指南](GUIDE.md) — 目录结构、笔风规范、风格参考、文件存放规则
+- [项目协作指南](.process/plans/GUIDE.md) — 目录结构、笔风规范、风格参考、文件存放规则
 - [写作风格检查清单](../../../../../author/001-lanse/style-analysis/lanse-style-checklist.md) — lanse 风味的硬性规则与自检清单
 - [设定档案总入口](.process/settings/README.md) — 角色、关卡、场景、系统设定
 

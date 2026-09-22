@@ -1,462 +1,112 @@
 [
   {
-    "from": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-1-agent-infiltration\\bs-a-s-1-agent-infiltration-2.md",
-    "to": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-1-agent-infiltration\\chapters\\bs-a-s-1-agent-infiltration-2.md"
+    "from": "worlds\\beastman-prototype\\original-archives\\chaptered-stories\\bo-c-1-yellow-slope-stronghold\\notes",
+    "to": "worlds\\beastman-prototype\\original-archives\\chaptered-stories\\bo-c-1-yellow-slope-stronghold\\.process\\plans\\notes",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-1-agent-infiltration\\bs-a-s-1-agent-infiltration.md",
-    "to": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-1-agent-infiltration\\chapters\\bs-a-s-1-agent-infiltration.md"
+    "from": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cm-1-sanguipendium\\settings\\history",
+    "to": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cm-1-sanguipendium\\.process\\history\\history",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-2-vr-newbie\\bs-a-s-2-vr-newbie.md",
-    "to": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-2-vr-newbie\\chapters\\bs-a-s-2-vr-newbie.md"
+    "from": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cm-2-moying\\v2-scrapped",
+    "to": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cm-2-moying\\.process\\history\\v2-scrapped",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-4-babysitter-lei\\bs-a-s-4-babysitter-lei.md",
-    "to": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-4-babysitter-lei\\chapters\\bs-a-s-4-babysitter-lei.md"
+    "from": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-12-mo-quan\\notes",
+    "to": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-12-mo-quan\\.process\\plans\\notes",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-5-night-hunt-motor-pool\\bs-a-s-5-night-hunt-motor-pool.md",
-    "to": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-5-night-hunt-motor-pool\\chapters\\bs-a-s-5-night-hunt-motor-pool.md"
+    "from": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-12-mo-quan\\notes\\plans",
+    "to": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-12-mo-quan\\.process\\plans\\plans",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-7-stall-door\\01-stall-door\\bs-a-s-7-01-stall-door.md",
-    "to": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-7-stall-door\\01-stall-door\\chapters\\bs-a-s-7-01-stall-door.md"
+    "from": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-13-farmhouse\\notes",
+    "to": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-13-farmhouse\\.process\\plans\\notes",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-7-stall-door\\02-passing-by\\bs-a-s-7-02-passing-by.md",
-    "to": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-7-stall-door\\02-passing-by\\chapters\\bs-a-s-7-02-passing-by.md"
+    "from": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-13-farmhouse\\notes\\plans",
+    "to": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-13-farmhouse\\.process\\plans\\plans",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-7-stall-door\\03-mimicry\\bs-a-s-7-03-mimicry.md",
-    "to": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-7-stall-door\\03-mimicry\\chapters\\bs-a-s-7-03-mimicry.md"
+    "from": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-14-save-us\\notes",
+    "to": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-14-save-us\\.process\\plans\\notes",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-7-stall-door\\04-retaliation\\bs-a-s-7-04-retaliation.md",
-    "to": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-7-stall-door\\04-retaliation\\chapters\\bs-a-s-7-04-retaliation.md"
+    "from": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-14-save-us\\notes\\plans",
+    "to": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-14-save-us\\.process\\plans\\plans",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-7-stall-door\\05-bounty\\bs-a-s-7-05-bounty.md",
-    "to": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-7-stall-door\\05-bounty\\chapters\\bs-a-s-7-05-bounty.md"
+    "from": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-17-moying\\notes",
+    "to": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-17-moying\\.process\\plans\\notes",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-7-stall-door\\06-favor\\bs-a-s-7-06-favor.md",
-    "to": "worlds\\beastshield\\adaptation-works\\short-stories\\bs-a-s-7-stall-door\\06-favor\\chapters\\bs-a-s-7-06-favor.md"
+    "from": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-4-yanliang\\notes",
+    "to": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-4-yanliang\\.process\\plans\\notes",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-001-game-entry.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-001-game-entry.md"
+    "from": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-4-yanliang\\v2-scrapped",
+    "to": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-4-yanliang\\.process\\history\\v2-scrapped",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-002-escape-warehouse.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-002-escape-warehouse.md"
+    "from": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-8-auction-show\\chapters\\en",
+    "to": "worlds\\beastshield\\adaptation-works\\chaptered-stories\\bs-a-cs-8-auction-show\\english\\chapters",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-003-head-to-downtown.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-003-head-to-downtown.md"
+    "from": "worlds\\beastshield\\adaptation-works\\short-stories\\series-5-original-echoes\\ai-discussion",
+    "to": "worlds\\beastshield\\adaptation-works\\short-stories\\series-5-original-echoes\\.process\\ai-discussion\\ai-discussion",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-004-store-shopping.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-004-store-shopping.md"
+    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-3-babysitter-lei\\ai-discuss",
+    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-3-babysitter-lei\\.process\\ai-discussion\\ai-discuss",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-005-first-costume-change.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-005-first-costume-change.md"
+    "from": "worlds\\beastshield-online\\adaptation-works\\chaptered-stories\\bso-a-cs-1-sequel\\discussions",
+    "to": "worlds\\beastshield-online\\adaptation-works\\chaptered-stories\\bso-a-cs-1-sequel\\.process\\ai-discussion\\discussions",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-006-break-into-enemy-camp.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-006-break-into-enemy-camp.md"
+    "from": "worlds\\beastshield-online\\adaptation-works\\chaptered-stories\\bso-a-cs-1-sequel\\notes",
+    "to": "worlds\\beastshield-online\\adaptation-works\\chaptered-stories\\bso-a-cs-1-sequel\\.process\\plans\\notes",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-007-training-subordinates.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-007-training-subordinates.md"
+    "from": "worlds\\beastshield-online\\adaptation-works\\chaptered-stories\\bso-a-cs-1-sequel\\side-stories\\ss-03-niu-xianfeng-prelude\\notes",
+    "to": "worlds\\beastshield-online\\adaptation-works\\chaptered-stories\\bso-a-cs-1-sequel\\.process\\plans\\notes",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-008-class-change-quest.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-008-class-change-quest.md"
+    "from": "worlds\\empire-kik-soldiers\\adaptation-works\\chaptered-stories\\eks-o-cm-003-black-sock-cycle\\notes",
+    "to": "worlds\\empire-kik-soldiers\\adaptation-works\\chaptered-stories\\eks-o-cm-003-black-sock-cycle\\.process\\plans\\notes",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-009-challenge-headquarters.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-009-challenge-headquarters.md"
+    "from": "worlds\\random\\original-archives\\short-stories\\rd-s-1-black-panther-factory-clearing\\notes",
+    "to": "worlds\\random\\original-archives\\short-stories\\rd-s-1-black-panther-factory-clearing\\.process\\plans\\notes",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-010-first-encounter-boss.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-010-first-encounter-boss.md"
+    "from": "worlds\\random\\original-archives\\short-stories\\rd-s-2-cow-company\\en",
+    "to": "worlds\\random\\original-archives\\short-stories\\rd-s-2-cow-company\\english\\chapters",
+    "dir": true
   },
   {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-011-agent-bureau.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-011-agent-bureau.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-012-night-raid-fight-camp.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-012-night-raid-fight-camp.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\ch-013-unlocking.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-1\\chapters\\ch-013-unlocking.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-001-locker-room-hunt.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-001-locker-room-hunt.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-002-corridor-patrol.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-002-corridor-patrol.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-003-terrace-hunt.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-003-terrace-hunt.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-004-tiger-guard-battle.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-004-tiger-guard-battle.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-005-kitchen-and-lunch.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-005-kitchen-and-lunch.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-006-lei-lei-arrival.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-006-lei-lei-arrival.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-007-bear-territory-infiltration.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-007-bear-territory-infiltration.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-008-alchemy-room-battle.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-008-alchemy-room-battle.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-009-corridor-cleanup.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-009-corridor-cleanup.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-010-thirteenth-floor-infiltration.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-010-thirteenth-floor-infiltration.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-011-hell-bull-battle.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-011-hell-bull-battle.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-012-training-session.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-012-training-session.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-013-python-island-flashback.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-013-python-island-flashback.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-014-python-island-transformation.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-014-python-island-transformation.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\ch-015-return-to-python-island.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-2\\chapters\\ch-015-return-to-python-island.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-001-promotion-test.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-001-promotion-test.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-002-dojo-massacre.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-002-dojo-massacre.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-003-warehouse-vengeance.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-003-warehouse-vengeance.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-004-psychic-defense.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-004-psychic-defense.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-005-undercover-hunt.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-005-undercover-hunt.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-006-divine-weapons-secret.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-006-divine-weapons-secret.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-007-police-station-invasion.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-007-police-station-invasion.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-008-dragon-god-island.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-008-dragon-god-island.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-009-divine-bow-hunter.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-009-divine-bow-hunter.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-010-old-friend-reunion.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-010-old-friend-reunion.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-011-light-cult-infiltration.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-011-light-cult-infiltration.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-012-desert-ambush.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-012-desert-ambush.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-013-dragon-god-battle.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-013-dragon-god-battle.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-014-mouse-divine-weapon.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-014-mouse-divine-weapon.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-015-final-battle.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-015-final-battle.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-016-blood-king-resurrection.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-016-blood-king-resurrection.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-017-godly-music-duel.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-017-godly-music-duel.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-018-flame-cannon-finale.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-018-flame-cannon-finale.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-019-origin-revelation.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-019-origin-revelation.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-020-identity-merge.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-020-identity-merge.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-021-divine-battle.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-021-divine-battle.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\ch-022-rampage-end.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\main\\bs-o-cm-1-main-story-3\\chapters\\ch-022-rampage-end.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-1-yan-liang\\ch-001-infiltration.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-1-yan-liang\\chapters\\ch-001-infiltration.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-1-yan-liang\\ch-002-office-clearance.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-1-yan-liang\\chapters\\ch-002-office-clearance.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-1-yan-liang\\ch-003-deep-confrontation.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-1-yan-liang\\chapters\\ch-003-deep-confrontation.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-2-mo-quan\\ch-001-cave-awakening.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-2-mo-quan\\chapters\\ch-001-cave-awakening.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-2-mo-quan\\ch-002-mountain-encounter.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-2-mo-quan\\chapters\\ch-002-mountain-encounter.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-3-babysitter-lei\\ch-001-villa-night-raid.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-3-babysitter-lei\\chapters\\ch-001-villa-night-raid.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-3-babysitter-lei\\ch-002-intelligence-sweep.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-3-babysitter-lei\\chapters\\ch-002-intelligence-sweep.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-3-babysitter-lei\\ch-003-minister-yan-reckoning.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-3-babysitter-lei\\chapters\\ch-003-minister-yan-reckoning.md"
-  },
-  {
-    "from": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-3-babysitter-lei\\ch-004-dark-chamber-qingping.md",
-    "to": "worlds\\beastshield\\original-archives\\chinese\\chaptered-stories\\side\\bs-o-cs-3-babysitter-lei\\chapters\\ch-004-dark-chamber-qingping.md"
-  },
-  {
-    "from": "worlds\\beastshield-paradise\\original-archives\\chinese\\chaptered-stories\\side\\bsp-o-cs-1-g-277-green-bull-azhuang\\ch-001-last-watch.md",
-    "to": "worlds\\beastshield-paradise\\original-archives\\chinese\\chaptered-stories\\side\\bsp-o-cs-1-g-277-green-bull-azhuang\\chapters\\ch-001-last-watch.md"
-  },
-  {
-    "from": "worlds\\beastshield-paradise\\original-archives\\chinese\\chaptered-stories\\side\\bsp-o-cs-1-g-277-green-bull-azhuang\\ch-002-stranger-in-folded-time.md",
-    "to": "worlds\\beastshield-paradise\\original-archives\\chinese\\chaptered-stories\\side\\bsp-o-cs-1-g-277-green-bull-azhuang\\chapters\\ch-002-stranger-in-folded-time.md"
-  },
-  {
-    "from": "worlds\\beastshield-paradise\\original-archives\\chinese\\chaptered-stories\\side\\bsp-o-cs-1-g-277-green-bull-azhuang\\ch-003-hot-water-and-soap.md",
-    "to": "worlds\\beastshield-paradise\\original-archives\\chinese\\chaptered-stories\\side\\bsp-o-cs-1-g-277-green-bull-azhuang\\chapters\\ch-003-hot-water-and-soap.md"
-  },
-  {
-    "from": "worlds\\beastshield-paradise\\original-archives\\chinese\\chaptered-stories\\side\\bsp-o-cs-1-g-277-green-bull-azhuang\\ch-004-morning-light-new-beginning.md",
-    "to": "worlds\\beastshield-paradise\\original-archives\\chinese\\chaptered-stories\\side\\bsp-o-cs-1-g-277-green-bull-azhuang\\chapters\\ch-004-morning-light-new-beginning.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-001-a-bloody-beginning.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-001-a-bloody-beginning.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-002-the-iron-fist-of-discipline.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-002-the-iron-fist-of-discipline.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-003-brutal-training-ground.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-003-brutal-training-ground.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-004-uncontrolled-desire.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-004-uncontrolled-desire.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-005-birth-of-the-hunting-spear.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-005-birth-of-the-hunting-spear.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-006-the-darkrooms-revenge.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-006-the-darkrooms-revenge.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-007-assassins-gambit.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-007-assassins-gambit.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-008-indiscriminate-slaughter.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-008-indiscriminate-slaughter.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-009-secret-of-the-beast-god.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-009-secret-of-the-beast-god.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-010-an-unexpected-bond.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-010-an-unexpected-bond.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-011-a-perverse-friendship.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-011-a-perverse-friendship.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-012-night-raid.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-012-night-raid.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-013-the-barren-spine-plains.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-013-the-barren-spine-plains.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-014-the-sperm-devourers-feast.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-014-the-sperm-devourers-feast.md"
-  },
-  {
-    "from": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\ch-015-encounter-at-oasis-town.md",
-    "to": "worlds\\beastshield-reforged\\original-archives\\chinese\\chaptered-stories\\main\\bsr-o-cm-1-main-story-1\\chapters\\ch-015-encounter-at-oasis-town.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-001-outpost-massacre.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-001-outpost-massacre.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-002-safehouse-return.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-002-safehouse-return.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-003-first-capture.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-003-first-capture.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-004-chip-extraction.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-004-chip-extraction.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-005-city-recall.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-005-city-recall.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-006-assassin-landing.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-006-assassin-landing.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-007-hot-spring-spy.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-007-hot-spring-spy.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-008-captain-memory.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-008-captain-memory.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-009-city-infiltration.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-009-city-infiltration.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-010-green-sock-zone.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-010-green-sock-zone.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-011-sunset-slave.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-011-sunset-slave.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-012-discipline-warning.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-012-discipline-warning.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-013-mineral-secret.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-013-mineral-secret.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-014-white-sock-commander.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-014-white-sock-commander.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-015-black-tiger-arrival.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-015-black-tiger-arrival.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-016-execution-show.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-016-execution-show.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-017-cave-training.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-017-cave-training.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-018-ambush-battle.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-018-ambush-battle.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-019-relocation-raid.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-019-relocation-raid.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-020-secret-facility.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-020-secret-facility.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-021-tiger-recruit.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-021-tiger-recruit.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-022-lazy-punishment.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-022-lazy-punishment.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-023-commander-feast.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-023-commander-feast.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-024-tree-interrogation.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-024-tree-interrogation.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-025-recruit-captives.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-025-recruit-captives.md"
-  },
-  {
-    "from": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\ch-026-cave-headquarters.md",
-    "to": "worlds\\empire-kik-soldiers\\original-archives\\chinese\\chaptered-stories\\side\\eks-o-cs-1-lurking\\chapters\\ch-026-cave-headquarters.md"
+    "from": "worlds\\random\\original-archives\\short-stories\\rd-s-2-cow-company\\notes",
+    "to": "worlds\\random\\original-archives\\short-stories\\rd-s-2-cow-company\\.process\\plans\\notes",
+    "dir": true
   }
 ]
